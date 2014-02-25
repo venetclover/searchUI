@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20070518HP-BGBw6DDy8Ile-832-1537665586</checksum>
+<subtype>CONSULT</subtype>
+<type>HP</type>
+<chief_complaint>UNCONTROLLED DIABETES MELLITUS</chief_complaint>
+<admit_diagnosis>250.02</admit_diagnosis>
+<discharge_diagnosis>522.5,250.02,493.20,682.6,424.0,397.0,780.79,523.11,278.01,401.9,724.5,596.51,518.89,V12.59,V43.65,721.3,459.81,V58.67,V03.82,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+The patient is a **AGE[in 70s]-year-old white female admitted to the service of Dr. 
+**NAME[VVV] and **NAME[ZZZ] with overall fatigue.  She has multiple medical 
+problems, considering diabetes type 2, as well as asthma, post stroke 2001.  
+She has also had a knee replacement.  At this time complains of pain to the 
+lower right anterior area where I was able to elicit some fluid coming from 
+the mobile, periodontally-involved lower right incisor.  
+
+If you want this done while she is in this hospital stay, just clear her to 
+have it done under local with intravenous conscious sedation, as well as 
+antibiotic coverage post-knee replacement.  If this is okay with you, then 
+just contact my office  **PHONE.  We can make the arrangements to have 
+it done up in the OR.  
+
+
+______________________________
+**NAME[WWW XXX], D.M.D
+
+HS Job # 801906 / 42092 / 30090
+# **ID-NUM
+D: **DATE[May 18 2007] 13:05
+T: **DATE[May 19 2007] 11:37
+
+
+
+
+</report_text>
+</report>

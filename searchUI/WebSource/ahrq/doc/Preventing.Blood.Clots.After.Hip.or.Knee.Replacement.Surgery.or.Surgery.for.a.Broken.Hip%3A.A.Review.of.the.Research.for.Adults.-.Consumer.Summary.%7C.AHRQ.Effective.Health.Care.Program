@@ -1,0 +1,1086 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Preventing Blood Clots After Hip or Knee Replacement Surgery or Surgery for a Broken Hip: A Review of the Research for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;button=1&amp;productid=1144" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fpageaction%3Ddisplayproduct%26button%3D1%26productid%3D1144">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=186">
+					Venous Thromboembolism Prophylaxis in Orthopedic Surgery 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=992">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Mar. 13, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=496">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Aug. 6, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1124">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Jun. 12, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1575">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jul. 3, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1636">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 14, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1145">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Aug. 30, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1372">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Jan. 7, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=999">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Mar. 13, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.annals.org/content/early/2012/03/09/0003-4819-156-10-201205150-00423.abstract">
+									
+									Sobieraj DM, Lee S, Coleman CI, et al. Prolonged versus standard duration venous thromboprophylaxis in major orthopedic surgery: a systematic review. Ann Intern Med 2012 Mar 12 [Epub ahead of print]. PMID: 22412039. 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Related Links</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=316&cmepage=cme_info">
+									
+									CME Activity: Venous Thromboembolism Prophylaxis in Orthopedic Surgery 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12-EHC020-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1144"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1144"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1144"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1144&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1144&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1144&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1144"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1144&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1144&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1144&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=23985AB2-A672-5927-8FB9F3437CB8FB7A" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1144&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1144&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1144" title="Preventing Blood Clots After Hip or Knee Replacement Surgery or Surgery for a Broken Hip: A Review of the Research for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1144.gif" alt="Preventing Blood Clots After Hip or Knee Replacement Surgery or Surgery for a Broken Hip: A Review of the Research for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Preventing Blood Clots After Hip or Knee Replacement Surgery or Surgery for a Broken Hip: A Review of the Research for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1144&amp;button=1&quot; title=&quot;Preventing Blood Clots After Hip or Knee Replacement Surgery or Surgery for a Broken Hip: A Review of the Research for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1144.gif&quot; border=&quot;0&quot; alt=&quot;Preventing Blood Clots After Hip or Knee Replacement Surgery or Surgery for a Broken Hip: A Review of the Research for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Aug. 30, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Preventing Blood Clots After Hip or Knee Replacement Surgery or Surgery for a Broken Hip: A Review of the Research for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/186/1144/vte_ortho_surg_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							775 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/186/1144/PREVENTING BLOOD CLOTS.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.8 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1372" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#6315">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#6316">Understanding Blood Clots That Form After Surgery</a></li>
+					
+						<li><a href="#6317">Understanding Your Options</a></li>
+					
+						<li><a href="#6318">Talking With Your Doctor</a></li>
+					
+						<li><a href="#6319">Source</a></li>
+					
+			</ul>
+		
+			<a name="6315"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<ul>
+	<li>You are considering or planning to have a total hip or knee replacement surgery or surgery for a broken hip.</li>
+	<li>You are an adult (this information is from research on adults).</li>
+</ul>
+<h4>What does this summary cover?</h4>
+<p>This summary covers what research says about the possible benefits and side effects of treatments to help prevent a blood clot after hip or knee surgery. Treatment options include medicines that thin your blood and devices that increase blood flow in your legs (leg or foot coverings that inflate and deflate or elastic stockings). This summary can help you discuss these options with your doctor.</p>
+<h4>Where does this information come from?</h4>
+<p>The information comes from a report that reviewed 179 studies published between January 1980 and May 2011. The report was funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency. For a copy of the full report, go to <a href="http://www.effectivehealthcare.ahrq.gov/thrombo.cfm">www.effectivehealthcare.ahrq.gov/thrombo.cfm</a>.</p> 
+			<a name="6316"></a>
+			
+
+			
+				<h3>Understanding Blood Clots That Form After Surgery</h3>
+				<h4>What are blood clots?</h4>
+<p>When a blood vessel is injured, the cells of your blood bond together to form a blood clot. The blood clot helps you stop bleeding. Blood clots are made of a combination of blood cells, platelets (small sticky cells that speed up the clot-making process), and fibrin (protein that forms a thread-like mesh to trap cells). Doctors call this kind of blood clot a &ldquo;thrombus.&rdquo;</p>
+<p>Blood clots are good when they help seal a cut to stop bleeding. But sometimes, a blood clot can form when it is not needed. This type of blood clot can cause health problems or even death.</p>
+<p><img alt="Image of a blood clot, or &quot;thrombus&quot;" src="/ehc/assets/Image/vteconsimage1.png" style="width:424px; height:308px;" /></p>
+<h5>What blood clots are most dangerous?</h5>
+<ul>
+	<li>A blood clot that forms in a major vein deep inside your body is called a &ldquo;deep vein thrombus&rdquo; (THROM-bus), or DVT. Most DVTs occur in the blood vessels of the lower legs or thighs (see picture below).</li>
+	<li>A blood clot in your lungs is called a &ldquo;pulmonary embolus&rdquo; (PUL-mun-air-ee EM-buh-luss), or PE. A PE can be serious and can lead to death.</li>
+</ul>
+<p><img alt="Image of deep vein thrombus (DVT) and pulmonary embolus (PE)" src="/ehc/assets/Image/vteconsimage2.png" style="width:474px; height:460px;" /></p>
+<h5>What is the risk of getting a blood clot after hip or knee surgery?</h5>
+<p>DVT is the most common kind of blood clot people have after surgery for a total hip replacement, total knee replacement, or a broken hip. Most people who have one of these major surgeries are less active for several days or weeks after the surgery. This can cause blood flow to slow down, which increases the risk for a blood clot. People with a DVT may not have any symptoms and may not know they have one.</p>
+<p>As many as 4 people out of 10 who do not receive medicine to prevent blood clots develop a DVT within 1 or 2 weeks of having major hip or knee surgery.</p>
+<p><img alt="Image illustrating that as many as 4 people out of 10 who do not receive medicine to prevent blood clots develop a DVT within 1 or 2 weeks of having major hip or knee surgery." src="/ehc/assets/Image/vtecons4outof10.png" style="width:372px; height:40px;" /></p>
+<p>Taking medicine or using a device to prevent blood clots may lower the risk of developing a DVT after hip or knee surgery to 1 or 2 people out of 10.</p>
+<p><img alt="Image illustrating that taking medicine or using a device to prevent blood clots may lower the risk of developing a DVT after hip or knee surgery to 1 or 2 people out of 10." src="/ehc/assets/Image/vtecons1_5outof10.png" style="width:371px; height:38px;" /></p>
+<div class="report_highlight_box medium_box">Research found that people with congestive heart failure (a condition in which the heart is not able to pump enough blood through the body) were at a greater risk for having a blood clot after major hip or knee surgery.</div>
+<h5>Why prevent blood clots after hip or knee surgery?</h5>
+<ul>
+	<li>Blood clots in deep or large veins (DVTs) can limit blood flow in your legs and cause pain and swelling.</li>
+	<li>Blood clots in the lungs (PEs) can cause pain or make breathing difficult. They can occasionally lead to heart problems or death.</li>
+	<li>DVTs can slow the recovery from your surgery.</li>
+	<li>DVTs can lead to leg swelling even after you have recovered from surgery.</li>
+</ul> 
+			<a name="6317"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<p>Although DVTs and PEs can be treated, and many go away without treatment, your doctor or surgeon may suggest devices or medicine to help prevent these blood clots. These treatments are usually given soon after surgery.</p>
+<table class="styleOne">
+	<caption>Medical Devices To Prevent DVTs and PEs</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Device</th>
+			<th scope="col">Description and Information</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><img alt="compression stockings" src="/ehc/assets/Image/vteconscompressionstockings.png" style="width:50px; height:91px;" /><br />
+				Compression stockings</td>
+			<td style="vertical-align:top;">Stockings made of strong elastic gently squeeze your calf and leg to increase blood flow. Stockings come in full-leg or calf lengths. Full-leg stockings may be difficult and uncomfortable to put on and take off.</td>
+		</tr>
+		<tr>
+			<td><img alt="Intermittent pneumatic (new-MAT-ik) compression devices" src="/ehc/assets/Image/vteconsIPCD.png" style="width:50px; height:89px;" /><br />
+				Intermittent pneumatic (new-MAT-ik) compression devices</td>
+			<td style="vertical-align:top;">Leg coverings inflate and deflate with an air pump to squeeze your legs throughout the day and night.</td>
+		</tr>
+		<tr>
+			<td><img alt="Venous foot pumps" src="/ehc/assets/Image/vteconsvenousfootpumps.png" style="width:50px; height:81px;" /><br />
+				Venous foot pumps</td>
+			<td style="vertical-align:top;">Foot covers inflate and deflate with an air pump to increase the blood flow in your legs.</td>
+		</tr>
+	</tbody>
+</table>
+<table class="styleOne">
+	<caption>Medicines To Prevent DVTs and PEs</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Type of Medicine</th>
+			<th scope="col">Generic Name (Brand Name)</th>
+			<th scope="col">How It Is Taken</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Oral antiplatelet agents</td>
+			<td>Aspirin</td>
+			<td>Pill or liquid</td>
+		</tr>
+		<tr>
+			<td>Low-molecular-weight heparin (LMWH)</td>
+			<td>
+				<ul>
+					<li>Dalteparin (Fragmin&reg;)</li>
+					<li>Enoxaparin (Lovenox&reg;)</li>
+					<li>Tinzaparin (Innohep&reg;)</li>
+				</ul>
+			</td>
+			<td>Shot</td>
+		</tr>
+		<tr>
+			<td>Unfractionated heparin (UFH)</td>
+			<td>Heparin sodium</td>
+			<td>Shot</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Factor Xa inhibitors</td>
+			<td>Fondaparinux (Arixtra&reg;)</td>
+			<td>Shot</td>
+		</tr>
+		<tr>
+			<td>Rivaroxaban (Xarelto&reg;)</td>
+			<td>Pill</td>
+		</tr>
+		<tr>
+			<td>Vitamin K antagonists</td>
+			<td>Warfarin (Coumadin&reg;, Jantoven&reg;)</td>
+			<td>Pill</td>
+		</tr>
+	</tbody>
+</table>
+<h4>What does the research say about these treatments?</h4>
+<h5>Benefits</h5>
+<ul>
+	<li>The main benefit of both medicines and devices is that they lower your chance of developing a blood clot (a DVT, PE, or any other kind of blood clot).</li>
+</ul>
+<h5>Side Effects</h5>
+<ul>
+	<li>The main side effect from medicines that prevent blood clots is a small increase in the chance of bleeding. These medicines work by making your blood thinner. Because your blood is thinner, it may not clot as easily when you bleed. Out of 100 people who take medicines to prevent blood clots, up to 8 have problems with bleeding. (For comparison, out of 100 people who do not take medicines to prevent blood clots, up to 5 have problems with bleeding.)</li>
+	<li>Problems with bleeding can occur in several ways:
+		<ul>
+			<li>The surgery wound can bleed, which can slow recovery and cause you to need another operation.</li>
+			<li>Injuries that happen while you are on the medicine can bleed more than usual.</li>
+			<li>Bleeding can happen inside the body and cause serious health problems.</li>
+		</ul>
+	</li>
+</ul>
+<table class="styleOne">
+	<caption>How the Benefits and Side Effects of Medical Devices and Medicines Compare</caption>
+	<thead>
+		<tr class="bottom">
+			<th>&nbsp;</th>
+			<th scope="col">Benefits</th>
+			<th scope="col">Side Effects</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="3">* Most studies were done with people who had hip replacement surgery or surgery for a broken hip.<br />
+				<br />
+				DVT = deep vein thrombus; LMWH = low-molecular-weight heparin; PE = pulmonary embolism; UFH = unfractionated heparin</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th class="section_title">All medicines to prevent blood clots</th>
+			<td>People who take medicines to prevent blood clots have a lower chance of having a DVT than those who do not take medicine.</td>
+			<td>People who take medicines to prevent blood clots have a higher chance of bleeding than those who do not take medicine.</td>
+		</tr>
+		<tr>
+			<th class="section_title" rowspan="3">Comparing specific medicines</th>
+			<td>LMWH lowers the chance of having blood clots more than UFH does.</td>
+			<td>People who take LMWH have a lower chance of bleeding than those who take UFH.</td>
+		</tr>
+		<tr>
+			<td>LMWH lowers the chance of having certain types of blood clots more than warfarin (Coumadin&reg;) does.</td>
+			<td>People who take warfarin (Coumadin&reg;) have a lower chance of bleeding than those who take LMWH.</td>
+		</tr>
+		<tr>
+			<td>Fondaparinux (Arixtra&reg;) lowers the chance of having certain types of blood clots more than LMWH does.</td>
+			<td>
+				<ul>
+					<li>People who take enoxaparin (Lovenox&reg;) have a lower chance of bleeding than those who take fondaparinux (Arixtra&reg;).</li>
+					<li>The chance for bleeding is about the same between rivaroxaban (Xarelto&reg;) and enoxaparin (Lovenox&reg;).</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title">Comparing medicines and medical devices</th>
+			<td>People taking medicines to prevent blood clots have a lower chance of getting a DVT than people using medical devices.</td>
+			<td>People taking medicines to prevent blood clots have a higher chance of bleeding than people using medical devices.</td>
+		</tr>
+		<tr>
+			<th class="section_title">Comparing specific medical devices</th>
+			<td>There is not enough research to know if any one of these devices reduces the chance of a blood clot any more than the others.</td>
+			<td>There is not enough research to know if there are any side effects from using any of these medical devices.</td>
+		</tr>
+		<tr>
+			<th class="section_title">Taking medicine for 28 days or longer</th>
+			<td>Taking medicine for 28 days or longer reduces the chance of having a DVT or PE more than taking medicine for 7 to 10 days.*</td>
+			<td>There is a higher chance of bleeding when the medicine is taken for 28 days or longer than when it is taken for 7 to 10 days.*</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Other information about preventing blood clots</h4>
+<ul>
+	<li>Some people who do not take medicine to prevent blood clots still have bleeding problems, although the risk for bleeding is lower.</li>
+	<li>Warfarin (Coumadin&reg;) takes at least several days to work.
+		<ul>
+			<li>Your blood will need to be checked daily until your doctor makes sure you have the right amount of medicine. Once your medicine has been adjusted, your blood may be checked every 1 to 4 weeks.</li>
+			<li>You may need to have someone come to your home to draw blood for this test or you may need to go to the doctor&rsquo;s office or a lab to have blood drawn for this test.</li>
+		</ul>
+	</li>
+	<li>The amount of vitamin K you get from pills or food should be the same all week long. You should not change the amount you take or eat while taking warfarin (Coumadin&reg;). Vitamin K is found in green, leafy vegetables like broccoli, kale, collard greens, and brussels sprouts.</li>
+	<li>The medicines that are taken as shots come in single-dose shots that you can give yourself.
+		<ul>
+			<li>A nurse or other health care professional will teach you how to give yourself these shots.</li>
+			<li>If you are unable or are uncomfortable giving yourself a shot, a health care professional can give you the shots in your home or at the doctor&rsquo;s office or clinic.</li>
+		</ul>
+	</li>
+	<li>Stockings, pneumatic compression devices, and foot pumps are most often used in the hospital. They may or may not be covered by your insurance.</li>
+</ul> 
+			<a name="6318"></a>
+			
+
+			
+				<h3>Talking With Your Doctor</h3>
+				<h4>Discussing how to prevent blood clots with your doctor</h4>
+<p>You and your doctor will need to discuss which medicines or devices might be best to prevent blood clots after hip or knee replacement surgery or surgery for a broken hip. Medicines can help prevent blood clots, but they can also slightly increase your risk for bleeding. For most people, the risk of getting a blood clot after surgery is higher than the risk of bleeding while taking the medicine. The treatment your doctor suggests may depend on several factors, including:</p>
+<ul>
+	<li>The options available at the hospital.</li>
+	<li>Your medical history and other medical conditions you have.</li>
+	<li>Your particular risks.</li>
+	<li>Your personal preferences, such as:
+		<ul>
+			<li>Your concerns about getting a DVT or PE.</li>
+			<li>Your concerns about bleeding.</li>
+			<li>Your preferences for taking medicine as a pill or a shot.</li>
+			<li>Your ability to take the medicine and how it fits into your lifestyle.</li>
+		</ul>
+	</li>
+</ul>
+<h4>What are the costs of medicines to prevent blood clots?</h4>
+<p>The cost to you for each medicine depends on your health insurance, the dose (amount) needed, and whether the medicine comes in a generic form.</p>
+<table class="styleOne">
+	<caption>Wholesale Prices of Medicines That Prevent Blood Clots</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Brand Name</th>
+			<th scope="col">Form Given</th>
+			<th scope="col">Typical Dose*</th>
+			<th scope="col">Price Per Day of Brand Name</th>
+			<th scope="col">Generic Name</th>
+			<th scope="col">Price Per Day of Generic Form</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="6">* Typical dose is an average. Your doctor may prescribe a different dose and may change the amount you take several times. Prices are the average wholesale prices from RED BOOK Online&reg;.<br />
+				&dagger; Shot doses have one of two different measurements: units or mg/ml (milligrams/milliliter).<br />
+				NA = not available</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th class="section_title" colspan="6">LMWH</th>
+		</tr>
+		<tr>
+			<td>Fragmin&reg;</td>
+			<td>Shot&dagger;</td>
+			<td>5,000 units once a day</td>
+			<td>$39</td>
+			<td>Dalteparin</td>
+			<td>N/A</td>
+		</tr>
+		<tr>
+			<td>Innohep&reg;</td>
+			<td>Shot&dagger;</td>
+			<td>20,000 units once a day</td>
+			<td>N/A</td>
+			<td>Tinzaparin</td>
+			<td>N/A</td>
+		</tr>
+		<tr>
+			<td>Lovenox&reg;</td>
+			<td>Shot&dagger;</td>
+			<td>30 mg/ml twice a day<br />
+				40 mg/ml once a day</td>
+			<td>$60<br />
+				$40</td>
+			<td>Enoxaparin</td>
+			<td>$48<br />
+				$32</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="6">UFH</th>
+		</tr>
+		<tr>
+			<td>This product has multiple names.</td>
+			<td>Shot&dagger;</td>
+			<td>5,000 units three times a day</td>
+			<td>N/A</td>
+			<td>Heparin</td>
+			<td>$16</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="6">Factor Xa Inhibitors</th>
+		</tr>
+		<tr>
+			<td>Arixtra&reg;</td>
+			<td>Shot&dagger;</td>
+			<td>2.5 mg once a day</td>
+			<td>$64</td>
+			<td>Fondaparinux</td>
+			<td>$11</td>
+		</tr>
+		<tr>
+			<td>Xarelto&reg;</td>
+			<td>Pill</td>
+			<td>10 mg once a day</td>
+			<td>$9</td>
+			<td>Rivaroxaban</td>
+			<td>N/A</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="6">Vitamin K Antagonists</th>
+		</tr>
+		<tr>
+			<td>Coumadin&reg;; Jantoven&reg;</td>
+			<td>Pill</td>
+			<td>2 mg once a day<br />
+				5 mg once a day<br />
+				10 mg once a day</td>
+			<td>$2; $1 for all doses</td>
+			<td>Warfarin</td>
+			<td>$1 for all doses of both brand names</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Ask your doctor</h4>
+<ul>
+	<li>Do I have a high risk for blood clots after my surgery?</li>
+	<li>Do you think taking medicine or using a device after my surgery will be good for me?</li>
+	<li>What methods do you use most often to prevent blood clots after hip or knee surgery?</li>
+	<li>How long should I take the medicine?</li>
+	<li>What symptoms of blood clotting should I look for?</li>
+	<li>Am I at a high risk for having bleeding problems?</li>
+	<li>What symptoms of bleeding should I look for?</li>
+	<li>If we choose a medicine, will I need to have my blood tested? How often? Will that happen in my home or will I have to go to your office or a lab?</li>
+	<li>Will any of these medicines interact with other medicines I take?</li>
+	<li>What will be my out-of-pocket cost for the medicine?</li>
+</ul> 
+			<a name="6319"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=992"><em>Venous Thromboembolism Prophylaxis in Orthopedic Surgery</em></a>, March 2012.</p>
+<p>The report was produced by the University of Connecticut/Hartford Hospital Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>For a copy of the report or for more information about AHRQ and the Effective Health Care Program, go to <a href="http://www.effectivehealthcare.ahrq.gov/thrombo.cfm">www.effectivehealthcare.ahrq.gov/thrombo.cfm</a>. Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Andrea Humphries, Ph. D, Amelia Williamson Smith, M.S., Kim Farina, Ph.D., Thomas Workman, Ph.D., Melvyn Harrington, Jr., M.D., and Michael Fordis, M.D. Illustrations were created by Douglas Alexander. People with hip and knee replacements reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

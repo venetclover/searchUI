@@ -1,0 +1,981 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Reducing the Risk of Breast Cancer With Medicine: A Guide for Women - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=389&amp;pageaction=displayproduct&amp;button=1" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fproductid%3D389%26pageaction%3Ddisplayproduct%26button%3D1">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=50">
+					Comparative Effectiveness of Medications To Reduce Risk of Primary Breast Cancer in Women 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Reports</h4>
+						
+				<ul>
+					
+						<li>
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=178">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Sept. 14, 2009 </span>
+						</li>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=180">
+										Appendixes 
+									</a>
+							<span style="font-size:7pt;"> Sept. 14, 2009 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=410">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Mar. 10, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1543">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jun. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=390">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Jan. 13, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=507">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Aug. 24, 2010 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=179">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 14, 2009 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>AHRQ's Healthcare 411 Audio/Video Features</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.healthcare411.ahrq.gov/radiocastseg.aspx?id=1144&type=seg">
+									
+									Reducing the Risk of Breast Cancer with Medicines 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Related Topics</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayproduct&productid=523">
+									
+									Future Research Needs: Reducing the Risk of Primary Breast Cancer 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 09(10)-EHC028-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d389%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d389%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d389%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d389%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d389%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d389%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d389%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d389%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d389%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d389%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2398401E-BCB2-826A-B0F18C1ADE9B8420" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=389&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=389&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=389" title="Reducing the Risk of Breast Cancer With Medicine: A Guide for Women"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/389.gif" alt="Reducing the Risk of Breast Cancer With Medicine: A Guide for Women" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Reducing the Risk of Breast Cancer With Medicine: A Guide for Women" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=389&amp;button=1&quot; title=&quot;Reducing the Risk of Breast Cancer With Medicine: A Guide for Women&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/389.gif&quot; border=&quot;0&quot; alt=&quot;Reducing the Risk of Breast Cancer With Medicine: A Guide for Women&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Jan. 13, 2010 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Reducing the Risk of Breast Cancer With Medicine: A Guide for Women</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/50/389/breast cancer medications consumer guide.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							641 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/50/389/BreastCancerPrevention_Consumer_ 01.07.10.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							12.8 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=507" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#1039">Introduction</a></li>
+					
+						<li><a href="#1040">Fast Facts</a></li>
+					
+						<li><a href="#1041">Risk of Breast Cancer</a></li>
+					
+						<li><a href="#1042">Learning About Breast Cancer</a></li>
+					
+						<li><a href="#1043">About the Medicines</a></li>
+					
+						<li><a href="#1044">Possible Benefits</a></li>
+					
+						<li><a href="#1045">Possible Problems</a></li>
+					
+						<li><a href="#1046">Thinking About the Decision</a></li>
+					
+						<li><a href="#1047">Questions for Your Doctor or Nurse</a></li>
+					
+						<li><a href="#1048">Table - Price</a></li>
+					
+						<li><a href="#1049">Source</a></li>
+					
+						<li><a href="#1050">For More Information</a></li>
+					
+			</ul>
+		
+			<a name="1039"></a>
+			
+
+			
+				<h3>Introduction</h3>
+				<h2>What Does This Guide Cover?</h2>
+<p>This guide can help you talk with your doctor or nurse about medicine to reduce the risk of breast cancer. It talks about two different medicines. It gives information about benefits, side effects, and cost.</p>
+<p>This guide is based on a government-funded review of research reports about using medicine to lower the risk of breast cancer.</p>
+<h2>What Is Not Covered in This Guide?</h2>
+<p>This guide does not cover other ways to lower your risk of breast cancer. It does not discuss having surgery to lower the risk of breast cancer. It also does not cover reducing the risk of breast cancer in men because these medicines have not been studied in men.</p>
+<p>This guide does not talk about screening for breast cancer. It also does not cover treatments for women who already have breast cancer. <br />
+</p> 
+			<a name="1040"></a>
+			
+
+			
+				<h3>Fast Facts</h3>
+				<ul>
+	<li>Most women will never get breast cancer.</li>
+	<li>A woman&rsquo;s risk of breast cancer increases with age.</li>
+	<li>Two different medicines can lower the risk of some kinds of breast cancer.</li>
+	<li>Both medicines have side effects and sometimes cause serious problems.<br />
+	</li>
+</ul> 
+			<a name="1041"></a>
+			
+
+			
+				<h3>Risk of Breast Cancer</h3>
+				<p>Most women will never get breast cancer. A woman&rsquo;s risk of breast cancer depends on her age and other risk factors. Most women who get breast cancer have no risk factors other than growing older. And many women who have risk factors other than age never get breast cancer.</p>
+<p>The chart below shows how many women (out of 100) will get breast cancer over the next 10 years. The risk of developing breast cancer increases with age. By finding your current age, you will see the risk of someone in your age group.</p>
+
+<table cellspacing="0">
+	<caption>Number of Women Who Get Breast Cancer Over 10 Years</caption>
+	<thead>
+		<tr>
+			<th scope="col">Age</th>
+			<th scope="col">Estimated risk</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="2">
+			Estimated risk for women in the United States. This information comes from Surveillance, Epidemiology and End Results (SEER) Cancer Statistics Review, 1975-2005, National Cancer Institute.
+			</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td>30 to 39</td>
+			<td>Less than 1 in 100</td>
+		</tr>
+		<tr>
+			<td>40 to 49</td>
+			<td>About 1 in 100</td>
+		</tr>
+		<tr>
+			<td>50 to 59</td>
+			<td>About 2 in 100</td>
+		</tr>
+		<tr>
+			<td>60 to 69</td>
+			<td>About 3 in 100</td>
+		</tr>
+		<tr>
+			<td>70 to 79</td>
+			<td>About 4 in 100</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Breast Cancer Risk Factors</h4>
+<ul>
+	<li>Age &ndash; Getting older raises the risk of breast cancer.</li>
+	<li>Family history &ndash; Having a mother, sister, or daughter who had breast cancer raises the risk.</li>
+	<li>Breast biopsy history &ndash; Having an abnormal finding on a past breast biopsy raises the risk of breast cancer.</li>
+	<li>Menstrual history &ndash; Having your first period at an early age (before age 12) raises the risk. Going through menopause late (after age 55) raises the risk.</li>
+	<li>Reproductive history &ndash; Having your first child later in life raises the risk of breast cancer. Never having children also raises the risk.</li>
+	<li>Menopause hormone therapy &ndash; Taking hormones for menopause (estrogen alone or estrogen plus progestin) raises the risk.</li>
+	<li>Obesity &ndash; Being obese (very overweight) raises the risk of breast cancer.</li>
+	<li>Alcohol use &ndash; Having more than one or two drinks a day raises the risk.</li>
+	<li>Other risk factors &ndash; It is rare, but some women are born with a gene that puts them at high risk for breast cancer. Having radiation treatment at a young age also raises the risk.</li>
+</ul> 
+			<a name="1042"></a>
+			
+
+			
+				<h3>Learning About Breast Cancer</h3>
+				<p>Breast cancer is a malignant (muh-LIG-nent) tumor that starts with cells in the breast. Malignant means that the cells are cancerous and may spread to other tissue in the breast. Sometimes the cancer cells spread outside the breast to other parts of the body. This means they metastasize (meh-TASS-ta-size).</p>
+<p>Ducts in the breast carry milk to the nipple. Most breast cancers start in the cells that make up the milk ducts. Some breast cancers start in the lobules (glands where breast milk is made). </p>
+<p><img src="/tasks/sites/ehc/assets/Image/breast_diagram.png" alt="" /></p>
+<p><em>A breast biopsy is the only way to tell if breast cells are abnormal or cancerous. For a breast biopsy, a doctor removes a small piece of breast tissue. The tissue is looked at under a microscope to check for changes. If the cells are abnormal or cancerous, a biopsy may tell if they are still in one place or if they have started to spread.</em><br />
+<br />
+<strong>Non-Invasive Breast Cancer</strong><br />
+A non-invasive breast cancer is a growth of abnormal cells found in the breast. The cells have not spread to other tissue in the breast or other parts of the body.</p>
+<ul>
+	<li>LCIS (lobular carcinoma in situ)&mdash;With LCIS, abnormal cells grow inside the lobules. &ldquo;In situ&rdquo; means &ldquo;in place.&rdquo; The abnormal cells have stayed in one place. LCIS rarely becomes invasive cancer. But women with LCIS are at higher risk for invasive breast cancer.</li>
+	<li>DCIS (ductal carcinoma in situ)&mdash;With DCIS, abnormal cells grow inside the milk ducts. It is called &ldquo;in situ&rdquo; because the abnormal cells have stayed in one place. DCIS is the most common non-invasive breast cancer. There is a chance that DCIS might become invasive cancer later on.</li>
+</ul>
+<p><strong>Invasive Breast Cancer</strong><br />
+With invasive breast cancer, the abnormal cells have spread beyond the place where they started. Invasive breast cancer can start in the milk ducts or the lobules. But &ldquo;invasive&rdquo; means that the cancerous cells have spread to other breast tissue. <br />
+</p> 
+			<a name="1043"></a>
+			
+
+			
+				<h3>About the Medicines</h3>
+				<p>Two different medicines can reduce the risk of breast cancer for women who have never had breast cancer before.</p>
+<ul>
+	<li>Raloxifene (ra-LOX-ih-feen). It is only approved for use after menopause.</li>
+	<li>Tamoxifen (ta-MOX-ih-fen). It is approved for use before and after menopause.</li>
+</ul>
+<p>To reduce the risk of breast cancer, tamoxifen or raloxifene must be taken once every day for up to 5 years.</p>
+<h2>How They Work</h2>
+<p>Estrogen is a natural hormone found in the body.  Some breast cancers use estrogen to grow. There is a place on some breast cancer cells, called a receptor, where estrogen can attach. This type of breast cancer is called estrogen-receptor positive cancer.</p>
+<p>Tamoxifen and raloxifene work by blocking estrogen. They attach to the receptor, so estrogen can&rsquo;t. Without estrogen, this type of breast cancer cell can&rsquo;t multiply and grow.<br />
+<br />
+Some breast cancers do not have estrogen receptors. This type of breast cancer is called estrogen-receptor negative cancer. It is not as common, but it is harder to treat. </p>
+<ul>
+	<li>Raloxifene and tamoxifen reduce the risk of breast cancers that have estrogen receptors.</li>
+	<li>They do not reduce the risk of breast cancers without estrogen receptors. <br />
+	</li>
+</ul> 
+			<a name="1044"></a>
+			
+
+			
+				<h3>Possible Benefits</h3>
+				<p>For women who have never had breast cancer, both tamoxifen and raloxifene reduce invasive breast cancer risk by about 50 percent. </p>
+<p><img src="/tasks/sites/ehc/assets/Image/breast_diagram2.png" alt="" /></p>
+<p>Raloxifene does not lower the risk of non-invasive breast cancers (LCIS and DCIS). Research can&rsquo;t tell us yet about tamoxifen and non-invasive breast cancers. </p> 
+			<a name="1045"></a>
+			
+
+			
+				<h3>Possible Problems</h3>
+				<p>Both tamoxifen and raloxifene have common side effects. They both can cause hot flashes. Tamoxifen can cause vaginal symptoms, like itching, dryness, or discharge. Raloxifene can cause leg cramps.</p>
+<p>Some women who have taken tamoxifen or raloxifene have had a stroke. Research studies have found that the number of strokes in women taking these medicines is about the same as in women not taking these medicines. Talk with your doctor or nurse about your risk for stroke.</p>
+<p>Other serious and life-threatening side effects can also happen. </p>
+<ul>
+	<li><strong>Blood clots in the lungs and legs</strong>. Tamoxifen and raloxifene raise the risk of blood clots. Blood clots happen more often with tamoxifen than raloxifene.</li>
+	<li><strong>Endometrial cancer (cancer of the uterus lining)</strong>. Tamoxifen raises the risk of endometrial cancer. Raloxifene does not.</li>
+</ul>
+<p>For every 100 women who take tamoxifen or raloxifene for 5 years, the medicine will cause a blood clot or endometrial cancer in about 1 woman.</p>
+<p><em>Taking raloxifene or tamoxifen reduces a woman&rsquo;s risk of some kinds of breast cancer. Some women who take these medicines will still get breast cancer.<br />
+<br />
+Taking the medicines does not reduce the risk of dying from breast cancer. It also does not mean a woman will live longer. It is not clear why this is the case. Maybe the medicines reduce the kinds of breast cancers that are easiest to treat.</em><br />
+</p> 
+			<a name="1046"></a>
+			
+
+			
+				<h3>Thinking About the Decision</h3>
+				<p>Most women will never get breast cancer. But some women are at higher risk than others. Talk with your doctor or nurse about your risk of breast cancer.</p>
+<p>Tamoxifen and raloxifene can lower the risk of getting some kinds of breast cancer. These medicines also can raise the risk of serious problems. Talk with your doctor or nurse about your risk for serious problems from these medicines.</p>
+<p>Think about these questions.</p>
+<p><em>Do I have a high or a low risk for breast cancer? Do I have a high or low risk for serious problems from the medicine? </em><br />
+The risk of side effects should not be higher than the benefit of the medicine.</p>
+<p><em>Can I stick with it? </em><br />
+These medicines need to be taken every day for up to 5 years. They often can cause hot flashes.</p>
+<p><em>Does the cost of the medicines affect my decision?</em><br />
+The cost of the medicines may be important to you. They need to be taken for a long time, and the cost can add up. Check to see if your insurance covers using these medicines to lower breast cancer risk. <br />
+</p> 
+			<a name="1047"></a>
+			
+
+			
+				<h3>Questions for Your Doctor or Nurse</h3>
+				<p>What is my risk for breast cancer? Is my risk higher or lower than other women my age?</p>
+<p>What if I don&rsquo;t want to start medicine at the age I am now? Can I decide to start later?</p>
+<p>Is my risk for blood clots higher than usual?</p>
+<p>Is one of these medicines a better choice for me? Why?</p>
+<p>What help is there for side effects, like hot flashes?</p>
+<p>Can I do anything else to lower my risk for breast cancer?<br />
+</p> 
+			<a name="1048"></a>
+			
+
+			
+				<h3>Table - Price</h3>
+				<table class="styleOne">
+	<caption>Price of Raloxifene and Tamoxifen</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" rowspan="2">Drug Name</th>
+			<th scope="col" rowspan="2">Brand Name</th>
+			<th scope="col" rowspan="2">Dose<sup>1</sup></th>
+			<th scope="col" rowspan="2">How Often, How Long</th>
+			<th scope="col" rowspan="2">How It Is Taken</th>
+			<th scope="col" class="align_center" colspan="2">Price Per Month<sup>2</sup></th>
+		</tr>
+		<tr>
+			<th scope="col" class="align_center">Generic</th>
+			<th scope="col" class="align_center">Brand</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="7"><sup>1</sup> Doses are for reducing the risk of breast cancer.<br />
+				<sup>2</sup> Average Wholesale Price from <em>Red Book</em>, 2009.<br />
+				<sup>3</sup> We do not know yet how long raloxifene should be taken for breast cancer prevention.<br />
+				NA = not available as generic.
+			</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td>Raloxifene</td>
+			<td>Evista&reg;</td>
+			<td>60 mg</td>
+			<td>Once a day<sup>3</sup></td>
+			<td class="align_center">Pill</td>
+			<td class="align_center">NA</td>
+			<td class="align_center">$115</td>
+		</tr>
+		<tr>
+			<td>Tamoxifen</td>
+			<td>Nolvadex&reg;</td>
+			<td>20 mg</td>
+			<td>Once a day for 5 years</td>
+			<td class="align_center">Pill</td>
+			<td class="align_center">$115</td>
+			<td class="align_center">$245</td>
+		</tr>
+	</tbody>
+</table> 
+			<a name="1049"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this guide comes from a detailed review of 123 research reports. The review is called <em>Comparative Effectiveness of Medications To Reduce the Risk of Primary Breast Cancer in Women</em> (2009) and was written by the Oregon Evidence-based Practice Center.</p>
+<p>The Agency for Healthcare Research and Quality (AHRQ) created the Eisenberg Center at Oregon Health &amp; Science University to make research helpful for consumers. This guide was written by Erin Davis, B.A., Martha Schechtel, R.N., Bruin Rugge, M.D., and David Hickam, M.D., of the Eisenberg Center. Women at high risk for breast cancer helped the Eisenberg Center develop this guide.<br />
+</p> 
+			<a name="1050"></a>
+			
+
+			
+				<h3>For More Information</h3>
+				<p>For a free print copy call:<br />
+The AHRQ Publications Clearinghouse, (800) 358-9295<br />
+Ask for AHRQ Publication Number 09(10)-EHC028-A</p>
+<p>For more information about breast cancer, visit the MedlinePlus Web site: <a href="http://www.nlm.nih.gov/medlineplus/breastcancer.html">www.nlm.nih.gov/medlineplus/breastcancer.html</a></p>
+<p>For more information about breast cancer prevention, visit the National Cancer Institute Web site: <a href="http://www.cancer.gov/cancertopics/pdq/prevention/breast/patient">www.cancer.gov/cancertopics/pdq/prevention/breast/patient</a><br />
+</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

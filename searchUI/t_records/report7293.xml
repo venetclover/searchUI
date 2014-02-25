@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20070811HP-RBxAT+GYNvV9-489-470818067</checksum>
+<subtype>ADMISSION</subtype>
+<type>HP</type>
+<chief_complaint>HYPEROSMALOR HYPERGLYCEMIA</chief_complaint>
+<admit_diagnosis>250.23</admit_diagnosis>
+<discharge_diagnosis>250.23,496,425.4,272.4,401.9,V45.81,729.82,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+**INSTITUTION
+History &amp; Physical
+Name: **NAME[AAA, BBB]
+Acct #: **ID-NUM
+MRN: **ID-NUM
+Admitted: **DATE[Aug 11 2007]
+Dict: **NAME[WWW, VVV]
+Attend: **NAME[WWW, VVV]
+This **AGE[in 50s]-year-old is being admitted for hyperosmolar state with hyperglycemia. 
+This patient was seen in the office today for a followup visit.  He reported 
+that blood sugars have all been over 400 and that today's blood sugar was 
+450.  He had recently seen Endocrinology who increased the Lantus from 60 
+units to 65 units and also began Humalog before each meal with a sliding 
+scale starting at 8 before breakfast and lunch and then 12 before dinner.  
+The patient, according the sliding scale, increased this to 20 units t.i.d. 
+before each meal and has noted no lowering of blood sugars.  The patient said 
+that he is rotating sides.  His last hemoglobin A1c was 15.
+The patient is also reporting that his hands are cramping up.  This happens a 
+couples of times a week.  It also occurs in his right leg and works his hands 
+to get this to go away.
+The patient also reports that he does have a upper respiratory infection for 
+the past few days.
+PAST MEDICAL HISTORY:  Significant for triple coronary artery bypass grafting 
+with cardiomyopathy secondary to ischemic heart disease and poor LV function. 
+His cardiologist is Dr. **NAME[UUU].  He also has a past history of smoking 
+and alcoholism.  He also has a history of hyperlipidemia and hypertension.
+SOCIAL HISTORY:  The patient is a smoker as above.  He is currently not 
+working.
+FAMILY HISTORY:  Noncontributory.
+REVIEW OF SYSTEMS:  As above.  All remaining systems negative.
+PHYSICAL EXAMINATION:  Blood pressure is 116/77.  Weight is 210.  Previous 
+weight was 203.  The skin is warm and dry.  Neck:  There is no jugular venous 
+distention.  The hepatojugular reflex is negative.  Lungs are clear to 
+percussion and auscultation.  Heart:  Tachycardia with no murmur or gallop.  
+Abdomen:  Soft and nontender.  Extremities:  Without edema.
+LABORATORY VALUES:  Per chart, the glucose is 908.  Serum sodium 125, 
+corrected is 137.  Bicarbonate is 17.
+ASSESSMENT:  
+1.  Hyperosmolar hyperglycemia, possible diabetic ketoacidosis.  This patient 
+will be admitted.  Insulin drip will be used at first, but it is important 
+that his baseline insulin be given as well.  This hospitalization will also 
+be used to explore why he has been so resistant.  One possibility of course 
+is that he is not taking his insulin, and this would become quickly evident 
+in the hospital.  Endocrinology should be consulted.  Dr. **NAME[TTT SSS] 
+should be consulted.
+2.  Cardiomyopathy:  This patient needs echocardiogram as this has not been 
+done in at least 1 year.  We need to consider ACE inhibitor.  His blood 
+pressure is on the low side, and his creatinine is elevated.
+3.  Cramping of the hands.  We should check magnesium and calcium and clear.  
+This might be related to the current metabolic abnormalities.
+4.  Chronic obstructive pulmonary disease.  The patient is using albuterol, 
+but we should probably start Combivent.
+5.  Chronic renal insufficiency:  Last creatinine was 1.3.  We will check 
+this again while in the hospital.
+______________________________
+**NAME[VVV M WWW], MD
+HS Job # 657786 / 38808 / 
+SHY # **ID-NUM
+D: **DATE[Aug 11 2007] 16:05
+T: **DATE[Aug 11 2007] 16:13
+
+**CARBON-COPY
+
+
+</report_text>
+</report>

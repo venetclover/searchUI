@@ -1,0 +1,960 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Methods for Delivering Insulin and Monitoring Blood Sugar: A Review of the Research for Children, Teens, and Adults With Diabetes - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;productid=1240&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26productid%3D1240%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=242">
+					Methods for Insulin Delivery and Glucose Monitoring: Comparative Effectiveness 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=749">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Jul. 10, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=689">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Jun. 2, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1476">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Apr. 19, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1628">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1241">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 4, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1382">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Jan. 24, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1179">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Jul. 10, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>Education Resources</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=322&cmepage=cme_info">
+									
+									CME Activity: Insulin Delivery and Glucose Monitoring Methods for Diabetes Mellitus: Comparative Effectiveness 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Publications</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://annals.org/article.aspx?articleid=1215793">
+									
+									Yeh H-C, Brown TT, Maruthur N, et al. Comparative effectiveness and safety of methods of insulin delivery and glucose monitoring for diabetes mellitus: a systematic review and meta-analysis. Ann Intern Med 2012 Jul 10. [Epub ahead of print.] 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Related Topic</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1416">
+									
+									Insulin Delivery and Glucose Monitoring Methods: Future Research Needs 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li>
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=2&source=current">View Topic Nomination</a>
+							</li>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=134&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12-EHC036-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1240%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1240%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1240%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1240%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1240%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1240%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1240%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1240%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1240%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1240%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=23985970-D7EE-BB16-467DDDE0BECE2E2C" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1240&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1240&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1240" title="Methods for Delivering Insulin and Monitoring Blood Sugar: A Review of the Research for Children, Teens, and Adults With Diabetes"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1240.gif" alt="Methods for Delivering Insulin and Monitoring Blood Sugar: A Review of the Research for Children, Teens, and Adults With Diabetes" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Methods for Delivering Insulin and Monitoring Blood Sugar: A Review of the Research for Children, Teens, and Adults With Diabetes" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1240&amp;button=1&quot; title=&quot;Methods for Delivering Insulin and Monitoring Blood Sugar: A Review of the Research for Children, Teens, and Adults With Diabetes&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1240.gif&quot; border=&quot;0&quot; alt=&quot;Methods for Delivering Insulin and Monitoring Blood Sugar: A Review of the Research for Children, Teens, and Adults With Diabetes&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Sept. 4, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Methods for Delivering Insulin and Monitoring Blood Sugar: A Review of the Research for Children, Teens, and Adults With Diabetes</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/242/1240/glu_mon_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							520 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/242/1240/BLOOD_SUGAR.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							8.1 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1382" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#6349">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#6350">Understanding Your Condition</a></li>
+					
+						<li><a href="#6351">Understanding Your Options</a></li>
+					
+						<li><a href="#6352">Making a Decision</a></li>
+					
+						<li><a href="#6353">Source</a></li>
+					
+			</ul>
+		
+			<a name="6349"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<ul>
+	<li>Your doctor* has told you that you have type 1 or type 2 diabetes and you have to take insulin to control your blood sugar.</li>
+	<li>You check your blood sugar level throughout the day to know how much insulin to take.</li>
+</ul>
+<div>* In this summary, the term &ldquo;doctor&rdquo; refers to the health care professionals who may take care of you, including your physician, endocrinologist, diabetes educator, nurse practitioner, or physician assistant.</div>
+<h4>No, if:</h4>
+<ul>
+	<li>Your doctor has told you that you have diabetes, but you do not need to take insulin.</li>
+	<li>Your doctor has told you that you have gestational diabetes. This type of diabetes appears in pregnant women who did not have diabetes before becoming pregnant.</li>
+</ul>
+<h4>What will this summary tell me?</h4>
+<p>This summary discusses what research says about different ways to measure blood sugar and take insulin. It describes what researchers know about how each option compares to the others to help you control your blood sugar level. This summary does not discuss other ways to treat diabetes such as taking pills, changes in diet, or exercising.</p>
+<p>This summary also does not discuss all the basic information about diabetes that you may want to know if you have just learned you have diabetes. For general information about diabetes, go to <a href="http://www.nlm.nih.gov/medlineplus/diabetes.html">www.nlm.nih.gov/medlineplus/diabetes.html</a>.</p>
+<h4>Where does the information in this summary come from?</h4>
+<p>The information in this summary comes from a report of 41 studies published through July 2011 that compared ways to check blood sugar and deliver insulin for people with diabetes. The report was funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency. You can read the entire report at <a href="http://www.effectivehealthcare.ahrq.gov/glucose.cfm">www.effectivehealthcare.ahrq.gov/glucose.cfm</a>.</p> 
+			<a name="6350"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is diabetes?</h4>
+<p>Diabetes (also called &ldquo;diabetes mellitus,&rdquo; pronounced DI-ah-BEE-teez MEL-eh-tuhs) is a condition in which your body has trouble managing the level of sugar (or glucose) in your blood. This causes your blood sugar to be too high.</p>
+<p>There are two main types of diabetes. The type you have is based on the reasons that you have high blood sugar.</p>
+<ul>
+	<li><strong>Type 1 diabetes</strong> means that your body makes very little or no insulin (a chemical that your body needs to use sugar). Doctors may also call this &ldquo;insulin-dependent&rdquo; diabetes. You must take insulin to control this type of diabetes.</li>
+	<li><strong>Type 2 diabetes</strong> means that your body cannot make enough insulin or that the cells in your body do not use insulin well. Doctors may also call this &ldquo;non&ndash;insulin-dependent&rdquo; or &ldquo;insulin-resistant&rdquo; diabetes. Some people with this type of diabetes may be able to control their blood sugar with diet, exercise, and medicine. Others may need to take insulin.</li>
+</ul>
+<h4>How common is diabetes?</h4>
+<p>Currently, 8 out of every 100 people in the United States (about 26 million people) have diabetes. That number is expected to increase to nearly 10 out of 100 people by 2050.</p>
+<p>Out of 100 people <strong>with diabetes</strong>:</p>
+<ul>
+	<li>5 to 10 people have type 1.</li>
+	<li>90 to 95 people have type 2.</li>
+</ul>
+<h4>Why is controlling my blood sugar important?</h4>
+<p>You can manage the effects of diabetes on your health by controlling your blood sugar. Controlling your blood sugar means making sure your blood sugar level does not get too high.</p>
+<p>Serious health problems caused by high blood sugar (a condition called &ldquo;hyperglycemia,&rdquo; pronounced hi-per-gli-SEE-me-ah) include:</p>
+<ul>
+	<li>Hardening of the arteries</li>
+	<li>Heart disease</li>
+	<li>Stroke</li>
+	<li>Kidney disease</li>
+	<li>Blindness</li>
+	<li>Increased infections</li>
+	<li>Loss of toes, feet, or fingers caused by poor circulation and infections</li>
+</ul>
+<p>Treatment can help lower your high blood sugar. If your blood sugar gets too low (a condition called &ldquo;hypoglycemia,&rdquo; pronounced hi-po-gli-SEE-me-ah), you may become dizzy, weak, or black out (lose consciousness). If not treated right away, hypoglycemia can even lead to death. It is important to monitor your blood sugar so it does not get too low. Some people with diabetes may drink orange juice or eat candy if their blood sugar gets too low. It is important to discuss hypoglycemia with your doctor.</p>
+<div class="report_highlight_box medium_box">If you are a woman with diabetes, becoming pregnant can make it harder to control your blood sugar level. Controlling your blood sugar during pregnancy is important to keep you and your baby healthy.</div> 
+			<a name="6351"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>Testing Your Blood Sugar</h4>
+<h5>How do I know how much sugar is in my blood?</h5>
+<p>There are two types of tests that tell you your blood sugar level:</p>
+<ul>
+	<li>A1C test</li>
+	<li>Blood sugar test</li>
+</ul>
+<p>Doctors use a special blood test, called an A1C test, to check how high your blood sugar level was during the past 3 months. Having an A1C level of 7 percent or below means that your blood sugar has been well controlled over the past 3 months.*</p>
+<p>When taking insulin, you need to use a different type of test called a blood sugar test&mdash;often done with a fingerstick&mdash;to help you adjust the amount of insulin you take during the day. This test measures the amount of sugar in your blood at any one time. This measurement is given in milligrams per deciliter (mg/dL). The normal blood sugar levels for people who do not have diabetes are:</p>
+<ul>
+	<li>Between 70 and 130 mg/dL before meals*</li>
+	<li>Less than 180 mg/dL at 2 hours after meals*</li>
+</ul>
+<p>Talk with your doctor about setting a goal for your blood sugar level.</p>
+<p>* This information comes from the National Institute of Diabetes and Digestive and Kidney Diseases/National Institutes of Health Web site: <a href="http://www.diabetes.niddk.nih.gov/dm/pubs/type1and2/what.aspx#level">www.diabetes.niddk.nih.gov/dm/pubs/type1and2/what.aspx#level</a>.</p>
+<h5>How can I check my blood sugar level with a blood sugar test?</h5>
+<p>There are two ways to check your blood sugar level:</p>
+<ul>
+	<li>Self-testing</li>
+	<li>Automatic monitoring</li>
+</ul>
+<p><em><strong>Self-testing</strong></em></p>
+<p>You can use a blood glucose meter to test your blood sugar level. You put a small drop of blood from your finger or forearm onto a testing strip. The meter reads the strip, and the result appears as a number on the meter&rsquo;s screen. Some meters can store the results for several months. There are many types and styles of blood glucose meters.</p>
+<p><img alt="Image of Blood Glucose Meter" src="/ehc/assets/Image/glucoseconsbloodglucosemonitor.png" style="width: 385px; height: 192px; " /></p>
+<p><em><strong>Automatic monitoring</strong></em></p>
+<p>A real-time continuous glucose monitoring system automatically tracks sugar-level changes all day and night. It is a small device that you wear on your belt. The device has sensors that attach to your belly with a small needle held in place with tape. The system checks your sugar level as often as every 1 to 5 minutes. The monitor displays your blood sugar readings and can store them for your doctor. The results can help you and your doctor adjust your insulin to the right amount.</p>
+<p>The sensors on automatic monitors have to be replaced regularly. You may need to move the sensors to different locations around your belly to avoid irritation or infections.</p>
+<p>Doctors may suggest automatic monitoring only for people who have difficulty controlling their blood sugar and people who may not know when their blood sugar gets too low.</p>
+<div class="report_highlight_box medium_box">Automatic monitoring may not be as accurate as self-testing. If you use automatic monitoring, you will still need to self-test regularly to make sure that the readings are accurate. If your blood sugar level changes, it may take 5 or 10 minutes to show on your monitor. Talk with your doctor about how this might affect the amount of insulin you take.</div>
+<p><img alt="Real-time Continuous Glucose Monitoring System" src="/ehc/assets/Image/glucoseconscontinuousglucosemonitor(1).png" style="width: 401px; height: 253px; " /></p>
+<h5>What does the research say about self-testing versus automatic monitoring?</h5>
+<ul>
+	<li>Children, teens, and adults with type 1 diabetes who use automatic monitoring:
+		<ul>
+			<li>Have less hyperglycemia (high blood sugar) and lower A1C levels than those who use self-testing.</li>
+			<li>Have hypoglycemia (blood sugar that is too low) for about the same amount of time as those who use self-testing.</li>
+			<li>May have about the same quality of life as those who use self-testing, but there is not enough research to know this for certain.</li>
+		</ul>
+	</li>
+	<li>There was not enough research to compare automatic monitoring with self-testing for people with type 2 diabetes or for pregnant women who had type 1 diabetes before becoming pregnant.</li>
+</ul>
+<h4>Taking Insulin</h4>
+<h5>What are the ways that I can give myself insulin?</h5>
+<p>There are two ways to take insulin:</p>
+<ul>
+	<li>Shots</li>
+	<li>Insulin pumps</li>
+</ul>
+<p><em><strong>Shots</strong></em></p>
+<p>You can give yourself insulin shots in one of two ways:</p>
+<ul>
+	<li>You can use a syringe and measure how much insulin you put in.</li>
+	<li>You can use special pens that are pre-filled with insulin. These pens let you &ldquo;click&rdquo; to the amount of insulin you need.</li>
+</ul>
+<p>You may have to change the place on your body where you stick the needle to avoid irritation or bruising.</p>
+<p><img alt="Image of Insulin Pen" src="/ehc/assets/Image/glucoseconsumerinsulinpen.png" style="width: 400px; height: 118px; " /></p>
+<p><em><strong>Insulin pumps</strong></em></p>
+<p>An insulin pump is a small device with a tube connected to a needle that goes under the skin on your belly. Tape holds the needle in place. You may need to move the needle to different places on your belly to avoid irritation and infections. You set the amount of insulin you need the pump to give you. Then, the device gives you insulin throughout the day or night. You may also use the pump to give you additional insulin at meals or other times.</p>
+<p>There are two types of insulin pumps:</p>
+<ul>
+	<li>Pumps that you set based on measurements from a blood glucose meter.</li>
+	<li>Pumps that receive automatic continuous monitor readings. These are called &ldquo;sensor-augmented pumps.&rdquo; The monitor sends readings to the pump, then you use the readings to set the pump to deliver the insulin you need.</li>
+</ul>
+<p><img alt="Image of Insulin Pump" src="/ehc/assets/Image/glucoseconsinsulinpump.png" style="width: 432px; height: 303px; " /></p>
+<h5>What does research say about giving yourself shots versus using an insulin pump?</h5>
+<ul>
+	<li>Children or teens with type 1 diabetes who use insulin pumps:
+		<ul>
+			<li>Lower their A1C levels about as much as those who give themselves shots.</li>
+			<li>May be as likely to gain weight, have about the same quality of life, and have hypoglycemia (blood sugar that is too low) as much as those who give themselves shots, but there is not enough research to know this for certain.</li>
+		</ul>
+	</li>
+	<li>Adults with type 1 diabetes who use insulin pumps:
+		<ul>
+			<li>Have lower A1C levels than those who give themselves shots.</li>
+			<li>May be as likely to gain weight, have about the same quality of life, and have hypoglycemia as much as those who give themselves shots, but there is not enough research to know this for certain.</li>
+		</ul>
+	</li>
+	<li>Adults with type 2 diabetes who use insulin pumps:
+		<ul>
+			<li>Lower their A1C levels about as much as those who give themselves shots.</li>
+			<li>May be as likely to gain weight and have hypoglycemia (blood sugar that is too low) as those who give themselves shots, but there is not enough research to know this for certain.</li>
+		</ul>
+	</li>
+	<li>Insulin pumps and shots appeared to work about the same to improve A1C levels for pregnant women who had type 1 diabetes before becoming pregnant, but there is not enough research to know this for certain.</li>
+</ul>
+<p><img alt="Image of Insulin Pump" src="/ehc/assets/Image/glucoseconsinsulinpump2.png" style="width: 412px; height: 261px; " /></p>
+<h5>What does the research say about how well sensor-augmented pumps help control blood sugar?</h5>
+<p>Children and adults with type 1 diabetes:</p>
+<ul>
+	<li>Have less hyperglycemia (high blood sugar) and lower A1C levels than those who use self-testing.</li>
+	<li>Have hypoglycemia for about the same amount of time as those who use self-testing.</li>
+	<li>May be as likely to gain weight as those who use self-testing, but there is not enough research to know this for certain.</li>
+</ul> 
+			<a name="6352"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about?</h4>
+<p>There are several things to consider when deciding the best way to measure your blood sugar or give yourself insulin.</p>
+<p>Talk with your doctor about:</p>
+<ul>
+	<li>How well each option works for the type of diabetes that you have.</li>
+	<li>How well you have been able to control your blood sugar over the past year.</li>
+	<li>How to operate the devices.</li>
+	<li>Your preferences in measuring blood sugar or giving yourself insulin.</li>
+	<li>Which option best fits your lifestyle and daily activities.</li>
+	<li>How comfortable you are wearing an automatic monitoring device, giving yourself shots, or wearing an insulin pump.</li>
+	<li>Whether your insurance plan will cover the cost of the equipment.</li>
+</ul>
+<h5>How much do these devices cost?</h5>
+<p>The cost to you for these devices depends on your insurance plan. You will also need to buy any parts of the devices that need to be replaced (such as sensors), any supplies you will need for the devices (such as testing strips), and the amount of insulin you need.</p>
+<p><em><strong>Monitors</strong></em></p>
+<ul>
+	<li>Self-testing is the least expensive option.</li>
+	<li>Monitors are much more expensive. They can cost up to $1,500.*</li>
+</ul>
+<p><em><strong>Insulin delivery</strong></em></p>
+<ul>
+	<li>Syringes are the least expensive option. The cost depends on how many come in the package.</li>
+	<li>Pens are more expensive than syringes.</li>
+	<li>Pumps are the most expensive option. They can cost up to $7,800.*</li>
+</ul>
+<p>* Prices are the average wholesale prices listed from <em>RED BOOK Online</em>&reg;.</p>
+<p><img alt="Image of Insulin Shot" src="/ehc/assets/Image/glucoseconsinsulinshot.png" style="width: 436px; height: 288px; " /></p>
+<h5>Ask your doctor</h5>
+<ul>
+	<li>Do you think my blood sugar level is controlled well?</li>
+	<li>Is there anything I should change to better manage my diabetes?</li>
+	<li>Would a continuous monitor or insulin pump help me control my blood sugar?</li>
+	<li>What else can I do to keep my blood sugar at a healthy level?</li>
+</ul> 
+			<a name="6353"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productid=749"><em>Methods for Insulin Delivery and Glucose Monitoring: A Comparative Effectiveness Review</em></a>, July 2012.</p>
+<p>The report was produced by the Johns Hopkins University Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).&nbsp;</p>
+<p>For a copy of the report or for more information about AHRQ and the Effective Health Care Program, go to <a href="http://www.effectivehealthcare.ahrq.gov/glucose.cfm">www.effectivehealthcare.ahrq.gov/glucose.cfm</a>.&nbsp;Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Geetha Achanta, Ph.D., Aimee Roundtree, Ph.D., Amelia Williamson Smith, M.S., Thomas Workman, Ph.D., Ashok Balasubramanyam, M.D., and Michael Fordis, M.D. Illustrations were created by Douglas Alexander. People with diabetes reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

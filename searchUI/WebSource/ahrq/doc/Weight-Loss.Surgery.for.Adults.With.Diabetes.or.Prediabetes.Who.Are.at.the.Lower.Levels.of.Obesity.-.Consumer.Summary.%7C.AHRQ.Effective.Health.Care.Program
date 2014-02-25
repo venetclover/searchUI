@@ -1,0 +1,1449 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Weight-Loss Surgery for Adults With Diabetes or Prediabetes Who Are at the Lower Levels of Obesity - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;pageaction=displayproduct&amp;productid=1693" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26pageaction%3Ddisplayproduct%26productid%3D1693">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=227">
+					Comparative Effectiveness of Bariatric Surgery and Non-Surgical Therapy in Adults with Metabolic Conditions and Body Mass Index of 30 to 34.9 kg/m² 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1482">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Jun. 5, 2013 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=595">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Dec. 14, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1695">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Sept. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1705">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Sept. 12, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1694">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 13, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1519">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Jun. 5, 2013 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>CME/CE Activity</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=354&cmepage=cme_info">
+									
+									Comparative Effectiveness of Bariatric Surgery and Non-Surgical Therapy in Adults with Metabolic Conditions and Body Mass Index of 30 to 34.9 kg/m² 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Journal Publications</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://jama.jamanetwork.com/article.aspx?articleid=1693893">
+									
+									Maggard-Gibbons M, Maglione M, Livhits M, et al. Bariatric Surgery for Weight Loss and Glycemic Control in Nonmorbidly Obese Adults With Diabetes: A Systematic Review. JAMA. 2013;309(21):2250-2261. 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=283&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12(13)-EHC139-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1693"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1693"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1693"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1693&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1693&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1693&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1693"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1693&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1693&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1693&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2397F3C7-92B3-18CC-8CD46E0FEE13F296" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1693&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1693&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1693" title="Weight-Loss Surgery for Adults With Diabetes or Prediabetes Who Are at the Lower Levels of Obesity"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1693.gif" alt="Weight-Loss Surgery for Adults With Diabetes or Prediabetes Who Are at the Lower Levels of Obesity" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Weight-Loss Surgery for Adults With Diabetes or Prediabetes Who Are at the Lower Levels of Obesity" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1693&amp;button=1&quot; title=&quot;Weight-Loss Surgery for Adults With Diabetes or Prediabetes Who Are at the Lower Levels of Obesity&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1693.gif&quot; border=&quot;0&quot; alt=&quot;Weight-Loss Surgery for Adults With Diabetes or Prediabetes Who Are at the Lower Levels of Obesity&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Sept. 13, 2013 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Weight-Loss Surgery for Adults With Diabetes or Prediabetes Who Are at the Lower Levels of Obesity</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/227/1693/weight-loss-surgery-130913.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							3.6 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li class="last" style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/227/1693/WEIGHT_LOSS_SURGERY.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							11.2 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#8019">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#8020">Understanding Your Condition</a></li>
+					
+						<li><a href="#8021">Understanding Your Options</a></li>
+					
+						<li><a href="#8022">Making a Decision</a></li>
+					
+						<li><a href="#8023">Sources</a></li>
+					
+			</ul>
+		
+			<a name="8019"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>If you meet all the following, this summary is for you:</h4>
+<ul>
+	<li>You are at the lower levels of obesity, with a body mass index (BMI) between 30 and 35.* BMI is a measurement based on height and weight that doctors use to identify people whose weight may cause serious health problems.</li>
+	<li>Your doctor&dagger; has told you that you have diabetes or prediabetes (your blood sugar level is higher than normal, but not as high as with diabetes).</li>
+	<li>You want to know what research says about weight-loss surgery, also called &ldquo;bariatric&rdquo; (pronounced bare-ee-AH-trick) surgery, to treat your diabetes or prediabetes.</li>
+</ul>
+<h4>What will this summary cover?</h4>
+<p>This summary will cover:</p>
+<ul>
+	<li>Diabetes and prediabetes and how they are treated</li>
+	<li>BMI and how it is measured</li>
+	<li>How the digestive system works</li>
+	<li>What weight-loss surgery is and an overview of three types of weight-loss surgery: adjustable gastric band, sleeve gastrectomy, and gastric bypass</li>
+	<li>Risks for each type of weight-loss surgery</li>
+	<li>What researchers have found about how well weight-loss surgery works to treat diabetes or prediabetes in people with a BMI between 30 and 35</li>
+</ul>
+<p>This summary can help you talk with your doctor about whether weight-loss surgery might be right for you.</p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Note</strong>: This summary does not discuss how to prepare for weight-loss surgery or what you should expect after surgery. Talk with your doctor for more information about what to do before and after weight-loss surgery.</div>
+<h4>Where does the information come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 54 studies published through September 2012 on weight-loss surgery for people with diabetes or prediabetes and a BMI between 30 and 35. The report was reviewed by clinicians, researchers, experts, and the public. You can access the report on the right side of this Web page.</p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">
+	<p><strong>Note</strong>: Doctors often suggest weight-loss surgery for people at higher levels of obesity. The research for this summary is on weight-loss surgery for people with diabetes or prediabetes who have a BMI between 30 and 35.</p>
+	<p>There are other weight-loss surgeries than those listed in this summary. The surgeries discussed here are the ones studied in the research for this summary.</p>
+</div>
+<p>* If you are unsure of your BMI, please see the chart, below.<br />
+	<sup>&dagger;</sup> In this summary, the term doctor refers to your health care professional, including your physician, gastroenterologist (a specialist who treats the digestive system), bariatric surgeon, nurse practitioner, or physician assistant.</p> 
+			<a name="8020"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What are diabetes and prediabetes?</h4>
+<p>Diabetes (also called &ldquo;diabetes mellitus,&rdquo; pronounced DI-ah-BEE-teez MEL-eh-tuhs) is a condition in which your body has trouble managing the level of sugar (or glucose) in your blood. This causes your blood sugar to be too high. In prediabetes, your blood sugar level is higher than normal but is not yet high enough to be called diabetes. People with prediabetes have a high risk of developing diabetes.</p>
+<p>High blood sugar can cause serious health problems, including:</p>
+<ul>
+	<li>Hardening of the arteries</li>
+	<li>Heart disease</li>
+	<li>Stroke</li>
+	<li>Kidney disease</li>
+	<li>Blindness</li>
+	<li>Increased infections</li>
+	<li>Loss of toes, feet, legs, or fingers caused by poor circulation and infections</li>
+</ul>
+<p>If not treated, high blood sugar can even lead to death.</p>
+<h4>How common are diabetes and prediabetes?</h4>
+<ul>
+	<li>About 8 out of every 100 people in the United States have diabetes.</li>
+	<li>About 33 out of every 100 people age 20 or older in the United States have prediabetes.</li>
+</ul>
+<h4>What is body mass index?</h4>
+<p>Body mass index (BMI) is a measurement based on your height and weight (find your BMI using the chart below). BMI is one of many ways doctors identify people whose weight may cause serious health problems.</p>
+<p>People with a BMI of 30 or higher are considered obese and have an increased risk for health problems. Almost half of adults who have diabetes have a BMI of 30 or higher. This summary is for people with a BMI between 30 and 35 who have diabetes or prediabetes.</p>
+<h4>Finding your BMI</h4>
+<p>The chart below can help you find your BMI. First, find your height along the left side of the chart. Then, follow that line across until you find the number closest to your weight. Follow that column up to the top of the chart to find your BMI.</p>
+<table class="styleOne" style="font-family:Tahoma,Geneva,Verdana,sans-serif;">
+<caption>Body Mass Index Table</caption>
+	<thead>
+		<tr class="small bottom">
+			<th rowspan="2">&nbsp;</th>
+			<th class="align_center" colspan="4" id="un_nbmi" style="border-right-color:#000;">Normal BMI</th>
+			<th class="align_center" colspan="5" id="un_ovbmi" style="border-right-color:#000;">Overweight BMI</th>
+			<th class="align_center" colspan="10" id="un_obbmi">Obese BMI</th>
+		</tr>
+		<tr class="small bottom">
+			<th abbr="BMI=21" class="align_center" id="un_3">21</th>
+			<th abbr="BMI=22" class="align_center" id="un_4">22</th>
+			<th abbr="BMI=23" class="align_center" id="un_5">23</th>
+			<th abbr="BMI=24" class="align_center" id="un_6" style="border-right-color:#000;">24</th>
+			<th abbr="BMI=25" class="align_center" id="un_7">25</th>
+			<th abbr="BMI=26" class="align_center" id="un_8">26</th>
+			<th abbr="BMI=27" class="align_center" id="un_9">27</th>
+			<th abbr="BMI=28" class="align_center" id="un_10">28</th>
+			<th abbr="BMI=29" class="align_center" id="un_11" style="border-right-color:#000;">29</th>
+			<th abbr="BMI=30" class="align_center" id="un_12" style="background-color:#164379;color:#fff;">30</th>
+			<th abbr="BMI=31" class="align_center" id="un_13">31</th>
+			<th abbr="BMI=32" class="align_center" id="un_14" style="background-color:#164379;color:#fff;">32</th>
+			<th abbr="BMI=33" class="align_center" id="un_15">33</th>
+			<th abbr="BMI=34" class="align_center" id="un_16">34</th>
+			<th abbr="BMI=35" class="align_center" id="un_17">35</th>
+			<th abbr="BMI=36" class="align_center" id="un_18">36</th>
+			<th abbr="BMI=37" class="align_center" id="un_19">37</th>
+			<th abbr="BMI=38" class="align_center" id="un_20">38</th>
+			<th abbr="BMI=39" class="align_center" id="un_21">39</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="small">
+			<th class="section_title" id="un_ht" scope="rowgroup">Height</th>
+			<th class="section_title align_center" colspan="19" id="un_bw" scope="rowgroup">Body Weight (pounds)</th>
+		</tr>
+		<tr class="small">
+			<th class="section_title" headers="un_ht" id="un_410">4 feet, 10 inches</th>
+			<td class="align_center" headers="un_bw un_410 un_3">100</td>
+			<td class="align_center" headers="un_bw un_410 un_4">105</td>
+			<td class="align_center" headers="un_bw un_410 un_5">110</td>
+			<td class="align_center" headers="un_bw un_410 un_6" style="border-right-color:#000;">115</td>
+			<td class="align_center" headers="un_bw un_410 un_7">119</td>
+			<td class="align_center" headers="un_bw un_410 un_8">124</td>
+			<td class="align_center" headers="un_bw un_410 un_9">129</td>
+			<td class="align_center" headers="un_bw un_410 un_10">134</td>
+			<td class="align_center" headers="un_bw un_410 un_11" style="border-right-color:#000;">138</td>
+			<td class="align_center" headers="un_bw un_410 un_12" style="background-color:#bcc5dc;">143</td>
+			<td class="align_center" headers="un_bw un_410 un_13">148</td>
+			<td class="align_center" headers="un_bw un_410 un_14" style="background-color:#bcc5dc;">153</td>
+			<td class="align_center" headers="un_bw un_410 un_15">158</td>
+			<td class="align_center" headers="un_bw un_410 un_16">162</td>
+			<td class="align_center" headers="un_bw un_410 un_17">167</td>
+			<td class="align_center" headers="un_bw un_410 un_18">172</td>
+			<td class="align_center" headers="un_bw un_410 un_19">177</td>
+			<td class="align_center" headers="un_bw un_410 un_20">181</td>
+			<td class="align_center" headers="un_bw un_410 un_21">186</td>
+		</tr>
+		<tr class="small alt_row_color">
+			<th class="section_title" headers="un_ht" id="un_411">4 feet, 11 inches</th>
+			<td class="align_center" headers="un_bw un_411 un_3">104</td>
+			<td class="align_center" headers="un_bw un_411 un_4">109</td>
+			<td class="align_center" headers="un_bw un_411 un_5">114</td>
+			<td class="align_center" headers="un_bw un_411 un_6" style="border-right-color:#000;">119</td>
+			<td class="align_center" headers="un_bw un_411 un_7">124</td>
+			<td class="align_center" headers="un_bw un_411 un_8">128</td>
+			<td class="align_center" headers="un_bw un_411 un_9">133</td>
+			<td class="align_center" headers="un_bw un_411 un_10">138</td>
+			<td class="align_center" headers="un_bw un_411 un_11" style="border-right-color:#000;">143</td>
+			<td class="align_center" headers="un_bw un_411 un_12" style="background-color:#bcc5dc;">148</td>
+			<td class="align_center" headers="un_bw un_411 un_13">153</td>
+			<td class="align_center" headers="un_bw un_411 un_14" style="background-color:#bcc5dc;">158</td>
+			<td class="align_center" headers="un_bw un_411 un_15">163</td>
+			<td class="align_center" headers="un_bw un_411 un_16">168</td>
+			<td class="align_center" headers="un_bw un_411 un_17">173</td>
+			<td class="align_center" headers="un_bw un_411 un_18">178</td>
+			<td class="align_center" headers="un_bw un_411 un_19">183</td>
+			<td class="align_center" headers="un_bw un_411 un_20">188</td>
+			<td class="align_center" headers="un_bw un_411 un_21">193</td>
+		</tr>
+		<tr class="small">
+			<th class="section_title" headers="un_ht" id="un_500">5 feet, 0 inches</th>
+			<td class="align_center" headers="un_bw un_500 un_3">107</td>
+			<td class="align_center" headers="un_bw un_500 un_4">112</td>
+			<td class="align_center" headers="un_bw un_500 un_5">118</td>
+			<td class="align_center" headers="un_bw un_500 un_6" style="border-right-color:#000;">123</td>
+			<td class="align_center" headers="un_bw un_500 un_7">128</td>
+			<td class="align_center" headers="un_bw un_500 un_8">133</td>
+			<td class="align_center" headers="un_bw un_500 un_9">138</td>
+			<td class="align_center" headers="un_bw un_500 un_10">143</td>
+			<td class="align_center" headers="un_bw un_500 un_11" style="border-right-color:#000;">148</td>
+			<td class="align_center" headers="un_bw un_500 un_12" style="background-color:#bcc5dc;">153</td>
+			<td class="align_center" headers="un_bw un_500 un_13">158</td>
+			<td class="align_center" headers="un_bw un_500 un_14" style="background-color:#bcc5dc;">163</td>
+			<td class="align_center" headers="un_bw un_500 un_15">168</td>
+			<td class="align_center" headers="un_bw un_500 un_16">174</td>
+			<td class="align_center" headers="un_bw un_500 un_17">179</td>
+			<td class="align_center" headers="un_bw un_500 un_18">184</td>
+			<td class="align_center" headers="un_bw un_500 un_19">189</td>
+			<td class="align_center" headers="un_bw un_500 un_20">194</td>
+			<td class="align_center" headers="un_bw un_500 un_21">199</td>
+		</tr>
+		<tr class="small alt_row_color">
+			<th class="section_title" headers="un_ht" id="un_501">5 feet, 1 inch</th>
+			<td class="align_center" headers="un_bw un_501 un_3">111</td>
+			<td class="align_center" headers="un_bw un_501 un_4">116</td>
+			<td class="align_center" headers="un_bw un_501 un_5">122</td>
+			<td class="align_center" headers="un_bw un_501 un_6" style="border-right-color:#000;">127</td>
+			<td class="align_center" headers="un_bw un_501 un_7">132</td>
+			<td class="align_center" headers="un_bw un_501 un_8">137</td>
+			<td class="align_center" headers="un_bw un_501 un_9">143</td>
+			<td class="align_center" headers="un_bw un_501 un_10">148</td>
+			<td class="align_center" headers="un_bw un_501 un_11" style="border-right-color:#000;">153</td>
+			<td class="align_center" headers="un_bw un_501 un_12" style="background-color:#bcc5dc;">158</td>
+			<td class="align_center" headers="un_bw un_501 un_13">164</td>
+			<td class="align_center" headers="un_bw un_501 un_14" style="background-color:#bcc5dc;">169</td>
+			<td class="align_center" headers="un_bw un_501 un_15">174</td>
+			<td class="align_center" headers="un_bw un_501 un_16">180</td>
+			<td class="align_center" headers="un_bw un_501 un_17">185</td>
+			<td class="align_center" headers="un_bw un_501 un_18">190</td>
+			<td class="align_center" headers="un_bw un_501 un_19">195</td>
+			<td class="align_center" headers="un_bw un_501 un_20">201</td>
+			<td class="align_center" headers="un_bw un_501 un_21">206</td>
+		</tr>
+		<tr class="small">
+			<th class="section_title" headers="un_ht" id="un_502">5 feet, 2 inches</th>
+			<td class="align_center" headers="un_bw un_502 un_3">115</td>
+			<td class="align_center" headers="un_bw un_502 un_4">120</td>
+			<td class="align_center" headers="un_bw un_502 un_5">126</td>
+			<td class="align_center" headers="un_bw un_502 un_6" style="border-right-color:#000;">131</td>
+			<td class="align_center" headers="un_bw un_502 un_7">136</td>
+			<td class="align_center" headers="un_bw un_502 un_8">142</td>
+			<td class="align_center" headers="un_bw un_502 un_9">147</td>
+			<td class="align_center" headers="un_bw un_502 un_10">153</td>
+			<td class="align_center" headers="un_bw un_502 un_11" style="border-right-color:#000;">158</td>
+			<td class="align_center" headers="un_bw un_502 un_12" style="background-color:#bcc5dc;">164</td>
+			<td class="align_center" headers="un_bw un_502 un_13">169</td>
+			<td class="align_center" headers="un_bw un_502 un_14" style="background-color:#bcc5dc;">175</td>
+			<td class="align_center" headers="un_bw un_502 un_15">180</td>
+			<td class="align_center" headers="un_bw un_502 un_16">186</td>
+			<td class="align_center" headers="un_bw un_502 un_17">191</td>
+			<td class="align_center" headers="un_bw un_502 un_18">196</td>
+			<td class="align_center" headers="un_bw un_502 un_19">202</td>
+			<td class="align_center" headers="un_bw un_502 un_20">207</td>
+			<td class="align_center" headers="un_bw un_502 un_21">213</td>
+		</tr>
+		<tr class="small alt_row_color">
+			<th class="section_title" headers="un_ht" id="un_503">5 feet, 3 inches</th>
+			<td class="align_center" headers="un_bw un_503 un_3">118</td>
+			<td class="align_center" headers="un_bw un_503 un_4">124</td>
+			<td class="align_center" headers="un_bw un_503 un_5">130</td>
+			<td class="align_center" headers="un_bw un_503 un_6" style="border-right-color:#000;">135</td>
+			<td class="align_center" headers="un_bw un_503 un_7">141</td>
+			<td class="align_center" headers="un_bw un_503 un_8">146</td>
+			<td class="align_center" headers="un_bw un_503 un_9">152</td>
+			<td class="align_center" headers="un_bw un_503 un_10">158</td>
+			<td class="align_center" headers="un_bw un_503 un_11" style="border-right-color:#000;">163</td>
+			<td class="align_center" headers="un_bw un_503 un_12" style="background-color:#bcc5dc;">169</td>
+			<td class="align_center" headers="un_bw un_503 un_13">175</td>
+			<td class="align_center" headers="un_bw un_503 un_14" style="background-color:#bcc5dc;">180</td>
+			<td class="align_center" headers="un_bw un_503 un_15">186</td>
+			<td class="align_center" headers="un_bw un_503 un_16">191</td>
+			<td class="align_center" headers="un_bw un_503 un_17">197</td>
+			<td class="align_center" headers="un_bw un_503 un_18">203</td>
+			<td class="align_center" headers="un_bw un_503 un_19">208</td>
+			<td class="align_center" headers="un_bw un_503 un_20">214</td>
+			<td class="align_center" headers="un_bw un_503 un_21">220</td>
+		</tr>
+		<tr class="small">
+			<th class="section_title" headers="un_ht" id="un_504">5 feet, 4 inches</th>
+			<td class="align_center" headers="un_bw un_504 un_3">122</td>
+			<td class="align_center" headers="un_bw un_504 un_4">128</td>
+			<td class="align_center" headers="un_bw un_504 un_5">134</td>
+			<td class="align_center" headers="un_bw un_504 un_6" style="border-right-color:#000;">140</td>
+			<td class="align_center" headers="un_bw un_504 un_7">145</td>
+			<td class="align_center" headers="un_bw un_504 un_8">151</td>
+			<td class="align_center" headers="un_bw un_504 un_9">157</td>
+			<td class="align_center" headers="un_bw un_504 un_10">163</td>
+			<td class="align_center" headers="un_bw un_504 un_11" style="border-right-color:#000;">169</td>
+			<td class="align_center" headers="un_bw un_504 un_12" style="background-color:#bcc5dc;">174</td>
+			<td class="align_center" headers="un_bw un_504 un_13">180</td>
+			<td class="align_center" headers="un_bw un_504 un_14" style="background-color:#bcc5dc;">186</td>
+			<td class="align_center" headers="un_bw un_504 un_15">192</td>
+			<td class="align_center" headers="un_bw un_504 un_16">197</td>
+			<td class="align_center" headers="un_bw un_504 un_17">204</td>
+			<td class="align_center" headers="un_bw un_504 un_18">209</td>
+			<td class="align_center" headers="un_bw un_504 un_19">215</td>
+			<td class="align_center" headers="un_bw un_504 un_20">221</td>
+			<td class="align_center" headers="un_bw un_504 un_21">227</td>
+		</tr>
+		<tr class="small alt_row_color">
+			<th class="section_title" headers="un_ht" id="un_505" style="background-color:#164379;color:#fff;">5 feet, 5 inches</th>
+			<td class="align_center" headers="un_bw un_505 un_3" style="background-color:#bcc5dc;">126</td>
+			<td class="align_center" headers="un_bw un_505 un_4" style="background-color:#bcc5dc;">132</td>
+			<td class="align_center" headers="un_bw un_505 un_5" style="background-color:#bcc5dc;">138</td>
+			<td class="align_center" headers="un_bw un_505 un_6" style="border-right-color:#000;background-color:#bcc5dc;">144</td>
+			<td class="align_center" headers="un_bw un_505 un_7" style="background-color:#bcc5dc;">150</td>
+			<td class="align_center" headers="un_bw un_505 un_8" style="background-color:#bcc5dc;">156</td>
+			<td class="align_center" headers="un_bw un_505 un_9" style="background-color:#bcc5dc;">162</td>
+			<td class="align_center" headers="un_bw un_505 un_10" style="background-color:#bcc5dc;">168</td>
+			<td class="align_center" headers="un_bw un_505 un_11" style="border-right-color:#000;background-color:#bcc5dc;">174</td>
+			<td class="align_center" headers="un_bw un_505 un_12" style="background-color:#164379;color:#fff;">180</td>
+			<td class="align_center" headers="un_bw un_505 un_13">186</td>
+			<td class="align_center" headers="un_bw un_505 un_14" style="background-color:#bcc5dc;">192</td>
+			<td class="align_center" headers="un_bw un_505 un_15">198</td>
+			<td class="align_center" headers="un_bw un_505 un_16">204</td>
+			<td class="align_center" headers="un_bw un_505 un_17">210</td>
+			<td class="align_center" headers="un_bw un_505 un_18">216</td>
+			<td class="align_center" headers="un_bw un_505 un_19">222</td>
+			<td class="align_center" headers="un_bw un_505 un_20">228</td>
+			<td class="align_center" headers="un_bw un_505 un_21">234</td>
+		</tr>
+		<tr class="small">
+			<th class="section_title" headers="un_ht" id="un_506">5 feet, 6 inches</th>
+			<td class="align_center" headers="un_bw un_506 un_3">130</td>
+			<td class="align_center" headers="un_bw un_506 un_4">136</td>
+			<td class="align_center" headers="un_bw un_506 un_5">142</td>
+			<td class="align_center" headers="un_bw un_506 un_6" style="border-right-color:#000;">148</td>
+			<td class="align_center" headers="un_bw un_506 un_7">155</td>
+			<td class="align_center" headers="un_bw un_506 un_8">161</td>
+			<td class="align_center" headers="un_bw un_506 un_9">167</td>
+			<td class="align_center" headers="un_bw un_506 un_10">173</td>
+			<td class="align_center" headers="un_bw un_506 un_11" style="border-right-color:#000;">179</td>
+			<td class="align_center" headers="un_bw un_506 un_12">186</td>
+			<td class="align_center" headers="un_bw un_506 un_13">192</td>
+			<td class="align_center" headers="un_bw un_506 un_14" style="background-color:#bcc5dc;">198</td>
+			<td class="align_center" headers="un_bw un_506 un_15">204</td>
+			<td class="align_center" headers="un_bw un_506 un_16">210</td>
+			<td class="align_center" headers="un_bw un_506 un_17">216</td>
+			<td class="align_center" headers="un_bw un_506 un_18">223</td>
+			<td class="align_center" headers="un_bw un_506 un_19">229</td>
+			<td class="align_center" headers="un_bw un_506 un_20">235</td>
+			<td class="align_center" headers="un_bw un_506 un_21">241</td>
+		</tr>
+		<tr class="small alt_row_color">
+			<th class="section_title" headers="un_ht" id="un_507">5 feet, 7 inches</th>
+			<td class="align_center" headers="un_bw un_507 un_3">134</td>
+			<td class="align_center" headers="un_bw un_507 un_4">140</td>
+			<td class="align_center" headers="un_bw un_507 un_5">146</td>
+			<td class="align_center" headers="un_bw un_507 un_6" style="border-right-color:#000;">153</td>
+			<td class="align_center" headers="un_bw un_507 un_7">159</td>
+			<td class="align_center" headers="un_bw un_507 un_8">166</td>
+			<td class="align_center" headers="un_bw un_507 un_9">172</td>
+			<td class="align_center" headers="un_bw un_507 un_10">178</td>
+			<td class="align_center" headers="un_bw un_507 un_11" style="border-right-color:#000;">185</td>
+			<td class="align_center" headers="un_bw un_507 un_12">191</td>
+			<td class="align_center" headers="un_bw un_507 un_13">198</td>
+			<td class="align_center" headers="un_bw un_507 un_14" style="background-color:#bcc5dc;">204</td>
+			<td class="align_center" headers="un_bw un_507 un_15">211</td>
+			<td class="align_center" headers="un_bw un_507 un_16">217</td>
+			<td class="align_center" headers="un_bw un_507 un_17">223</td>
+			<td class="align_center" headers="un_bw un_507 un_18">230</td>
+			<td class="align_center" headers="un_bw un_507 un_19">236</td>
+			<td class="align_center" headers="un_bw un_507 un_20">242</td>
+			<td class="align_center" headers="un_bw un_507 un_21">249</td>
+		</tr>
+		<tr class="small">
+			<th class="section_title" headers="un_ht" id="un_508">5 feet, 8 inches</th>
+			<td class="align_center" headers="un_bw un_508 un_3">138</td>
+			<td class="align_center" headers="un_bw un_508 un_4">144</td>
+			<td class="align_center" headers="un_bw un_508 un_5">151</td>
+			<td class="align_center" headers="un_bw un_508 un_6" style="border-right-color:#000;">158</td>
+			<td class="align_center" headers="un_bw un_508 un_7">164</td>
+			<td class="align_center" headers="un_bw un_508 un_8">171</td>
+			<td class="align_center" headers="un_bw un_508 un_9">177</td>
+			<td class="align_center" headers="un_bw un_508 un_10">184</td>
+			<td class="align_center" headers="un_bw un_508 un_11" style="border-right-color:#000;">190</td>
+			<td class="align_center" headers="un_bw un_508 un_12">197</td>
+			<td class="align_center" headers="un_bw un_508 un_13">203</td>
+			<td class="align_center" headers="un_bw un_508 un_14" style="background-color:#bcc5dc;">210</td>
+			<td class="align_center" headers="un_bw un_508 un_15">216</td>
+			<td class="align_center" headers="un_bw un_508 un_16">223</td>
+			<td class="align_center" headers="un_bw un_508 un_17">230</td>
+			<td class="align_center" headers="un_bw un_508 un_18">236</td>
+			<td class="align_center" headers="un_bw un_508 un_19">243</td>
+			<td class="align_center" headers="un_bw un_508 un_20">249</td>
+			<td class="align_center" headers="un_bw un_508 un_21">256</td>
+		</tr>
+		<tr class="small alt_row_color">
+			<th class="section_title" headers="un_ht" id="un_509">5 feet, 9 inches</th>
+			<td class="align_center" headers="un_bw un_509 un_3">142</td>
+			<td class="align_center" headers="un_bw un_509 un_4">149</td>
+			<td class="align_center" headers="un_bw un_509 un_5">155</td>
+			<td class="align_center" headers="un_bw un_509 un_6" style="border-right-color:#000;">162</td>
+			<td class="align_center" headers="un_bw un_509 un_7">169</td>
+			<td class="align_center" headers="un_bw un_509 un_8">176</td>
+			<td class="align_center" headers="un_bw un_509 un_9">182</td>
+			<td class="align_center" headers="un_bw un_509 un_10">189</td>
+			<td class="align_center" headers="un_bw un_509 un_11" style="border-right-color:#000;">196</td>
+			<td class="align_center" headers="un_bw un_509 un_12">203</td>
+			<td class="align_center" headers="un_bw un_509 un_13">209</td>
+			<td class="align_center" headers="un_bw un_509 un_14" style="background-color:#bcc5dc;">216</td>
+			<td class="align_center" headers="un_bw un_509 un_15">223</td>
+			<td class="align_center" headers="un_bw un_509 un_16">230</td>
+			<td class="align_center" headers="un_bw un_509 un_17">236</td>
+			<td class="align_center" headers="un_bw un_509 un_18">243</td>
+			<td class="align_center" headers="un_bw un_509 un_19">250</td>
+			<td class="align_center" headers="un_bw un_509 un_20">257</td>
+			<td class="align_center" headers="un_bw un_509 un_21">263</td>
+		</tr>
+		<tr class="small">
+			<th class="section_title" headers="un_ht" id="un_510">5&nbsp;feet,&nbsp;10&nbsp;inches</th>
+			<td class="align_center" headers="un_bw un_510 un_3">146</td>
+			<td class="align_center" headers="un_bw un_510 un_4">153</td>
+			<td class="align_center" headers="un_bw un_510 un_5">160</td>
+			<td class="align_center" headers="un_bw un_510 un_6" style="border-right-color:#000;">167</td>
+			<td class="align_center" headers="un_bw un_510 un_7">174</td>
+			<td class="align_center" headers="un_bw un_510 un_8">181</td>
+			<td class="align_center" headers="un_bw un_510 un_9">188</td>
+			<td class="align_center" headers="un_bw un_510 un_10">195</td>
+			<td class="align_center" headers="un_bw un_510 un_11" style="border-right-color:#000;">202</td>
+			<td class="align_center" headers="un_bw un_510 un_12">209</td>
+			<td class="align_center" headers="un_bw un_510 un_13">216</td>
+			<td class="align_center" headers="un_bw un_510 un_14" style="background-color:#bcc5dc;">222</td>
+			<td class="align_center" headers="un_bw un_510 un_15">229</td>
+			<td class="align_center" headers="un_bw un_510 un_16">236</td>
+			<td class="align_center" headers="un_bw un_510 un_17">243</td>
+			<td class="align_center" headers="un_bw un_510 un_18">250</td>
+			<td class="align_center" headers="un_bw un_510 un_19">257</td>
+			<td class="align_center" headers="un_bw un_510 un_20">264</td>
+			<td class="align_center" headers="un_bw un_510 un_21">271</td>
+		</tr>
+		<tr class="small alt_row_color">
+			<th class="section_title" headers="un_ht" id="un_511">5 feet, 11 inches</th>
+			<td class="align_center" headers="un_bw un_511 un_3">150</td>
+			<td class="align_center" headers="un_bw un_511 un_4">157</td>
+			<td class="align_center" headers="un_bw un_511 un_5">165</td>
+			<td class="align_center" headers="un_bw un_511 un_6" style="border-right-color:#000;">172</td>
+			<td class="align_center" headers="un_bw un_511 un_7">179</td>
+			<td class="align_center" headers="un_bw un_511 un_8">186</td>
+			<td class="align_center" headers="un_bw un_511 un_9">193</td>
+			<td class="align_center" headers="un_bw un_511 un_10">200</td>
+			<td class="align_center" headers="un_bw un_511 un_11" style="border-right-color:#000;">208</td>
+			<td class="align_center" headers="un_bw un_511 un_12">215</td>
+			<td class="align_center" headers="un_bw un_511 un_13">222</td>
+			<td class="align_center" headers="un_bw un_511 un_14" style="background-color:#bcc5dc;">229</td>
+			<td class="align_center" headers="un_bw un_511 un_15">236</td>
+			<td class="align_center" headers="un_bw un_511 un_16">243</td>
+			<td class="align_center" headers="un_bw un_511 un_17">250</td>
+			<td class="align_center" headers="un_bw un_511 un_18">257</td>
+			<td class="align_center" headers="un_bw un_511 un_19">265</td>
+			<td class="align_center" headers="un_bw un_511 un_20">272</td>
+			<td class="align_center" headers="un_bw un_511 un_21">279</td>
+		</tr>
+		<tr class="small">
+			<th class="section_title" headers="un_ht" id="un_600" style="background-color:#164379;color:#fff;">6 feet, 0 inches</th>
+			<td class="align_center" headers="un_bw un_600 un_3" style="background-color:#bcc5dc;">154</td>
+			<td class="align_center" headers="un_bw un_600 un_4" style="background-color:#bcc5dc;">162</td>
+			<td class="align_center" headers="un_bw un_600 un_5" style="background-color:#bcc5dc;">169</td>
+			<td class="align_center" headers="un_bw un_600 un_6" style="border-right-color:#000;background-color:#bcc5dc;">177</td>
+			<td class="align_center" headers="un_bw un_600 un_7" style="background-color:#bcc5dc;">184</td>
+			<td class="align_center" headers="un_bw un_600 un_8" style="background-color:#bcc5dc;">191</td>
+			<td class="align_center" headers="un_bw un_600 un_9" style="background-color:#bcc5dc;">199</td>
+			<td class="align_center" headers="un_bw un_600 un_10" style="background-color:#bcc5dc;">206</td>
+			<td class="align_center" headers="un_bw un_600 un_11" style="border-right-color:#000;background-color:#bcc5dc;">213</td>
+			<td class="align_center" headers="un_bw un_600 un_12" style="background-color:#bcc5dc;">221</td>
+			<td class="align_center" headers="un_bw un_600 un_13" style="background-color:#bcc5dc;">228</td>
+			<td class="align_center" headers="un_bw un_600 un_14" style="background-color:#164379;color:#fff;">235</td>
+			<td class="align_center" headers="un_bw un_600 un_15">242</td>
+			<td class="align_center" headers="un_bw un_600 un_16">250</td>
+			<td class="align_center" headers="un_bw un_600 un_17">258</td>
+			<td class="align_center" headers="un_bw un_600 un_18">265</td>
+			<td class="align_center" headers="un_bw un_600 un_19">272</td>
+			<td class="align_center" headers="un_bw un_600 un_20">279</td>
+			<td class="align_center" headers="un_bw un_600 un_21">287</td>
+		</tr>
+		<tr class="small alt_row_color">
+			<th class="section_title" headers="un_ht" id="un_601">6 feet, 1 inch</th>
+			<td class="align_center" headers="un_bw un_601 un_3">159</td>
+			<td class="align_center" headers="un_bw un_601 un_4">166</td>
+			<td class="align_center" headers="un_bw un_601 un_5">174</td>
+			<td class="align_center" headers="un_bw un_601 un_6" style="border-right-color:#000;">182</td>
+			<td class="align_center" headers="un_bw un_601 un_7">189</td>
+			<td class="align_center" headers="un_bw un_601 un_8">197</td>
+			<td class="align_center" headers="un_bw un_601 un_9">204</td>
+			<td class="align_center" headers="un_bw un_601 un_10">212</td>
+			<td class="align_center" headers="un_bw un_601 un_11" style="border-right-color:#000;">219</td>
+			<td class="align_center" headers="un_bw un_601 un_12">227</td>
+			<td class="align_center" headers="un_bw un_601 un_13">235</td>
+			<td class="align_center" headers="un_bw un_601 un_14">242</td>
+			<td class="align_center" headers="un_bw un_601 un_15">250</td>
+			<td class="align_center" headers="un_bw un_601 un_16">257</td>
+			<td class="align_center" headers="un_bw un_601 un_17">265</td>
+			<td class="align_center" headers="un_bw un_601 un_18">272</td>
+			<td class="align_center" headers="un_bw un_601 un_19">280</td>
+			<td class="align_center" headers="un_bw un_601 un_20">288</td>
+			<td class="align_center" headers="un_bw un_601 un_21">295</td>
+		</tr>
+		<tr class="small">
+			<th class="section_title" headers="un_ht" id="un_602">6 feet, 2 inches</th>
+			<td class="align_center" headers="un_bw un_602 un_3">163</td>
+			<td class="align_center" headers="un_bw un_602 un_4">171</td>
+			<td class="align_center" headers="un_bw un_602 un_5">179</td>
+			<td class="align_center" headers="un_bw un_602 un_6" style="border-right-color:#000;">186</td>
+			<td class="align_center" headers="un_bw un_602 un_7">194</td>
+			<td class="align_center" headers="un_bw un_602 un_8">202</td>
+			<td class="align_center" headers="un_bw un_602 un_9">210</td>
+			<td class="align_center" headers="un_bw un_602 un_10">218</td>
+			<td class="align_center" headers="un_bw un_602 un_11" style="border-right-color:#000;">225</td>
+			<td class="align_center" headers="un_bw un_602 un_12">233</td>
+			<td class="align_center" headers="un_bw un_602 un_13">241</td>
+			<td class="align_center" headers="un_bw un_602 un_14">249</td>
+			<td class="align_center" headers="un_bw un_602 un_15">256</td>
+			<td class="align_center" headers="un_bw un_602 un_16">264</td>
+			<td class="align_center" headers="un_bw un_602 un_17">272</td>
+			<td class="align_center" headers="un_bw un_602 un_18">280</td>
+			<td class="align_center" headers="un_bw un_602 un_19">287</td>
+			<td class="align_center" headers="un_bw un_602 un_20">295</td>
+			<td class="align_center" headers="un_bw un_602 un_21">303</td>
+		</tr>
+		<tr class="small alt_row_color">
+			<th class="section_title" headers="un_ht" id="un_603">6 feet, 3 inches</th>
+			<td class="align_center" headers="un_bw un_603 un_3">168</td>
+			<td class="align_center" headers="un_bw un_603 un_4">176</td>
+			<td class="align_center" headers="un_bw un_603 un_5">184</td>
+			<td class="align_center" headers="un_bw un_603 un_6" style="border-right-color:#000;">192</td>
+			<td class="align_center" headers="un_bw un_603 un_7">200</td>
+			<td class="align_center" headers="un_bw un_603 un_8">208</td>
+			<td class="align_center" headers="un_bw un_603 un_9">216</td>
+			<td class="align_center" headers="un_bw un_603 un_10">224</td>
+			<td class="align_center" headers="un_bw un_603 un_11" style="border-right-color:#000;">232</td>
+			<td class="align_center" headers="un_bw un_603 un_12">240</td>
+			<td class="align_center" headers="un_bw un_603 un_13">248</td>
+			<td class="align_center" headers="un_bw un_603 un_14">256</td>
+			<td class="align_center" headers="un_bw un_603 un_15">264</td>
+			<td class="align_center" headers="un_bw un_603 un_16">272</td>
+			<td class="align_center" headers="un_bw un_603 un_17">279</td>
+			<td class="align_center" headers="un_bw un_603 un_18">287</td>
+			<td class="align_center" headers="un_bw un_603 un_19">295</td>
+			<td class="align_center" headers="un_bw un_603 un_20">303</td>
+			<td class="align_center" headers="un_bw un_603 un_21">311</td>
+		</tr>
+		<tr class="small">
+			<th class="section_title" headers="un_ht" id="un_604">6 feet, 4 inches</th>
+			<td class="align_center" headers="un_bw un_604 un_3">172</td>
+			<td class="align_center" headers="un_bw un_604 un_4">180</td>
+			<td class="align_center" headers="un_bw un_604 un_5">189</td>
+			<td class="align_center" headers="un_bw un_604 un_6" style="border-right-color:#000;">197</td>
+			<td class="align_center" headers="un_bw un_604 un_7">205</td>
+			<td class="align_center" headers="un_bw un_604 un_8">213</td>
+			<td class="align_center" headers="un_bw un_604 un_9">221</td>
+			<td class="align_center" headers="un_bw un_604 un_10">230</td>
+			<td class="align_center" headers="un_bw un_604 un_11" style="border-right-color:#000;">238</td>
+			<td class="align_center" headers="un_bw un_604 un_12">246</td>
+			<td class="align_center" headers="un_bw un_604 un_13">254</td>
+			<td class="align_center" headers="un_bw un_604 un_14">263</td>
+			<td class="align_center" headers="un_bw un_604 un_15">271</td>
+			<td class="align_center" headers="un_bw un_604 un_16">279</td>
+			<td class="align_center" headers="un_bw un_604 un_17">287</td>
+			<td class="align_center" headers="un_bw un_604 un_18">295</td>
+			<td class="align_center" headers="un_bw un_604 un_19">304</td>
+			<td class="align_center" headers="un_bw un_604 un_20">312</td>
+			<td class="align_center" headers="un_bw un_604 un_21">320</td>
+		</tr>
+	</tbody>
+</table>
+<p><b>Examples</b></p>
+<ol>
+	<li>If you are 5 feet, 5 inches tall and weight 180 pounds, your BMI would be 30.</li>
+	<li>If you are 6 feet, 0 inches tall and weight 235 pounds, your BMI would be 32.</li>
+</ol> 
+			<a name="8021"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>How are diabetes and prediabetes treated?</h4>
+<p>Your doctor may suggest several things to help control your diabetes or keep your prediabetes from getting worse. These include:</p>
+<ul>
+	<li>A healthy diet</li>
+	<li>Exercise</li>
+	<li>Achieving a healthy weight</li>
+	<li>Monitoring your blood sugar</li>
+	<li>Medicine</li>
+</ul>
+<p>If you try these methods and are not able to achieve a healthy weight and control your diabetes or keep your prediabetes from getting worse, your doctor may suggest weight-loss surgery (called &ldquo;bariatric&rdquo; surgery). You should not consider weight-loss surgery unless you have tried the methods listed above and they did not work.</p>
+<p>This summary discusses what researchers have found about weight-loss surgery to treat diabetes or prediabetes in people with a BMI between 30 and 35. Pages 6 through 8 discuss what weight-loss surgery is and give an overview of three types of weight-loss surgery.</p>
+<h4>How does the digestive system work?</h4>
+<p>When you swallow food, it moves down your throat, through a narrow tube (called the esophagus), and into your stomach. In the stomach, digestive juices start breaking down the food. From the stomach, the food moves to the first part of your small intestine. Here, more digestive juices speed up digestion, and some of the calories and nutrients are absorbed. The food then moves through the middle and lower parts of your small intestine, where the rest of the calories and nutrients are absorbed. Any food that cannot be digested moves from the small intestine into your large intestine (also called the colon), where it stays as waste until it leaves your body.</p>
+<p><img alt="illustration of digestive system" src="/ehc/assets/Image/illustration of digestive system.png" style="width: 350px; height: 630px; " /></p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">
+	<p><strong>What are calories?</strong></p>
+	<p>Calories are listed in the nutrition information of the foods you eat and tell you how much energy is in one serving of food. You burn calories when you use energy to exercise and do other activities. If you do not use all of the calories that you eat, the extra energy is changed into fat and stored in your body.</p>
+</div>
+<h4>What is weight-loss surgery?</h4>
+<p>Weight-loss surgery is surgery on your stomach (and sometimes intestine) to help you lose weight. Weight-loss surgery is not surgery to remove fat.</p>
+<p>Weight-loss surgery can work by:</p>
+<ul>
+	<li>Limiting the amount of food you can eat at one time</li>
+	<li>Changing the way your food is digested so fewer calories and nutrients are absorbed</li>
+	<li>Causing hormone changes that lessen your appetite</li>
+</ul>
+<p>In addition to helping people lose weight, weight-loss surgery can help control diabetes and keep prediabetes from getting worse.</p>
+<p>Doctors may suggest weight-loss surgery to people with a BMI above 40. Doctors may also suggest weight-loss surgery to people with a BMI of 35 or higher who have a serious health problem because of their weight (such as diabetes, sleep apnea, or high blood pressure). However, weight-loss surgery may also help people at lower levels of obesity (a BMI between 30 and 35) who have diabetes or prediabetes.</p>
+<p>Three common types of weight-loss surgery are:</p>
+<ul>
+	<li>Adjustable gastric band (Lap-Band Gastric Banding System<sup>&reg;</sup>, Realize Gastric Band<sup>&reg;</sup>)</li>
+	<li>Sleeve gastrectomy</li>
+	<li>Gastric bypass</li>
+</ul>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Note:</strong> Weight-loss surgery is not a quick and easy answer to losing weight and controlling your diabetes or keeping your prediabetes from getting worse. People who have weight-loss surgery must change the way they eat and must get regular exercise. Weight-loss surgery also comes with many risks, which are listed on page 9.</div>
+<h4>Overview of Weight-Loss Surgeries</h4>
+<h5>Adjustable Gastric Band</h5>
+<p><strong>How does it work?</strong></p>
+<p>An adjustable gastric band decreases the amount of food you can eat at one time. The band makes you feel full after eating only a small amount.</p>
+<p>After having this surgery, eating too much at one time may cause you to vomit.</p>
+<p><strong><img alt="adjustable gastric band surgery" src="/ehc/assets/Image/adjustable-gastric-band.png" style="width: 237px; height: 271px; float: right; " />How is it done?</strong></p>
+<p>The surgeon puts a small band around the top of your stomach. The band squeezes your stomach to make a small pouch. The band is adjustable, and your doctor can make it smaller or wider, depending on how full you feel after eating, how hungry you are, and how much weight you are losing. The band is filled with saltwater and is connected to a tube that leads to a port. The port is placed inside your body just under the skin. Your doctor can change the size of the band by sticking a needle through the skin into the port and adding or removing saltwater.</p>
+<p><strong>Is it reversible?</strong></p>
+<p>It is possible to reverse this type of weight-loss surgery. A surgeon can take the band out, but it may be difficult due to scarring from the first surgery.</p>
+<h5>Sleeve Gastrectomy</h5>
+<p><strong>How does it work?</strong></p>
+<p>A sleeve gastrectomy works in two ways:</p>
+<ul>
+	<li>By decreasing the amount of food you can eat at one time</li>
+	<li>By causing hormone changes that lessen your appetite</li>
+</ul>
+<p><strong><img alt="sleeve gastrectomy" src="/ehc/assets/Image/sleeve-gastrectomy.png" style="width: 238px; height: 242px; float: right; " />How is it done?</strong></p>
+<p>The surgeon removes most of your stomach, leaving only a narrow tube (or &ldquo;sleeve&rdquo;) for food to travel through.</p>
+<p><strong>Is it reversible?</strong></p>
+<p>This type of weight-loss surgery is not reversible.</p>
+<h5>Gastric Bypass</h5>
+<p><strong>How does it work?</strong></p>
+<p>A gastric bypass works in three ways:</p>
+<ul>
+	<li>By decreasing the amount of food you can eat at one time</li>
+	<li>By changing the way calories and nutrients are absorbed from the food you eat</li>
+	<li>By causing hormone changes that lessen your appetite</li>
+</ul>
+<p>After having this surgery, eating a lot of carbohydrates (starches), sugar, or fat could cause pain in your belly, cramping, nausea, and diarrhea.</p>
+<p><strong><img alt="gastric bypass surgery" src="/ehc/assets/Image/gastric-bypass.png" style="width: 319px; height: 360px; float: right; " />How is it done?</strong></p>
+<p>The surgeon divides your stomach to make a small pouch. The surgeon then connects the end of the pouch to the middle part of your small intestine. This means that when you eat, the food does not go through the rest of your stomach and the first part of your small intestine.</p>
+<p><strong>Is it reversible?</strong></p>
+<p>This type of weight-loss surgery is not reversible.</p>
+<h5>Laparoscopic Surgery</h5>
+<p>These three types of weight-loss surgery (adjustable gastric band, sleeve gastrectomy, and gastric bypass) can be done as laparoscopic surgery (pronounced lah-puh-ruh-SKAHP-ik). In laparoscopic surgery, the surgeon uses a tool called a laparoscope (pronounced LAH-pruh-skohp). A laparoscope is a thin tube with a tiny camera that the surgeon puts through small cuts in your belly along with other small tools to do the surgery. The laparoscope lets the surgeon see inside your body and do the surgery without having to make a big cut. This may help you recover more quickly.</p>
+<h4>What are the risks of weight-loss surgery?</h4>
+<p>Weight-loss surgery comes with many risks. Some of these risks can be life threatening.</p>
+<p><strong>All weight-loss surgeries</strong> come with these risks:</p>
+<ul>
+	<li>Stomach pain, nausea, and vomiting</li>
+	<li>Stomach ulcers</li>
+	<li>Injury to your organs (such as the intestines or stomach)</li>
+	<li>Infection in the surgery wound</li>
+	<li>Bleeding in your belly</li>
+	<li>Blood clots (a clot could travel to your lung, which could be life threatening*)</li>
+</ul>
+<p><strong>Note:</strong> In some cases, people may not lose weight after weight-loss surgery. It is also possible to gain back weight that was lost.<br />
+	* This is a risk with any surgery.</p>
+<p><strong>Other possible risks</strong> are listed below for each type of weight-loss surgery.</p>
+<h5>Adjustable gastric band comes with these risks:</h5>
+<ul>
+	<li>The band could slip out of place*</li>
+	<li>The band could become embedded in your stomach*</li>
+	<li>Problems with the tube that connects the band to the port</li>
+	<li>Problems with the port</li>
+</ul>
+<p>* If this happens, you may need another surgery to fix the band or remove it.</p>
+<h5>Sleeve gastrectomy comes with these risks:</h5>
+<ul>
+	<li>Worsened acid reflux (heartburn)</li>
+	<li>Blockages in your stomach from scar tissue*</li>
+	<li>Leaks from where your stomach was cut*</li>
+	<li>Narrowing of the sleeve created during surgery (symptoms of this include nausea, vomiting, and difficulty swallowing)<sup>&dagger;</sup></li>
+</ul>
+<p>* You may need another surgery to fix this.<br />
+	<sup>&dagger;</sup> If this happens, the doctor may need to do a procedure to widen the sleeve.</p>
+<h5>Gastric bypass comes with these risks:</h5>
+<ul>
+	<li>Not getting enough vitamins and other nutrients your body needs</li>
+	<li>Blockages in your intestines from scar tissue*</li>
+	<li>Internal hernia (part of your intestine bulges through an opening inside your belly)*</li>
+	<li>Leaks from your intestines where cuts were made during the surgery*</li>
+	<li>Narrowing of the connection between your stomach and intestine (symptoms of this include nausea, vomiting, and difficulty swallowing)<sup>&dagger;</sup></li>
+</ul>
+<p>* You may need another surgery to fix this.<br />
+	<sup>&dagger;</sup> If this happens, the doctor may need to do a procedure to widen the connection.</p>
+<h4>What have researchers found about weight-loss surgery for people with diabetes or prediabetes and a BMI between 30 and 35?</h4>
+<p>Researchers found that for people with diabetes or prediabetes and a BMI between 30 and 35:</p>
+<ul>
+	<li>All three types of weight-loss surgery:
+		<ul>
+			<li>Helped with weight loss (in studies that lasted up to 2 years)</li>
+			<li>Helped control diabetes and keep prediabetes from getting worse (in studies that lasted up to 2 years)</li>
+			<li>Appeared to lower weight and control blood sugar more than medicine, diet, and exercise (in studies that lasted 1 year)</li>
+		</ul>
+	</li>
+	<li>Weight-loss surgery starts helping to lower blood sugar in some people as early as 1 month after surgery.</li>
+</ul>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Note:</strong> After weight-loss surgery, it is possible to gain back weight that was lost. It is also possible for your diabetes or prediabetes to get worse again. After surgery, you may need to start taking weight-loss medicines and diabetes medicines again.</div>
+<h4>What have researchers found about how much weight-loss surgery, diet and exercise, and medicine lower weight and blood sugar?</h4>
+<p>The chart below shows what researchers found about how much weight-loss surgery, diet and exercise, and diabetes medicines lower weight and blood sugar after 1 year.</p>
+<p>To check your blood sugar level, your doctor may do an HbA1c (hemoglobin A1c) blood test. This blood test shows your average blood sugar level over the past 2 to 3 months. Usually, the goal is for your HbA1c to be less than 7. This means that your blood sugar level has been in the &ldquo;good&rdquo; range over the past 2 to 3 months. If your HbA1c is higher than 7, your blood sugar is too high. Weight-loss surgery, diet and exercise, and diabetes medicines all help lower your HbA1c.</p>
+<table class="styleOne">
+	<thead>
+		<tr class="bottom">
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Weight After 1 Year</th>
+			<th scope="col">HbA1c (Average Blood Sugar Level) After 1 Year</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="3">* More research is needed to know this for sure.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th scope="row" class="section_title">People who had weight-loss surgery:</th>
+			<td>Lost about 30 to 45 pounds*</td>
+			<td>Lowered their level by about 2.5 to 3.5</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">People who used diet and exercise and did not have surgery:</th>
+			<td>Lost about 6 pounds</td>
+			<td>Lowered their level by about 0.5 to 2</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">People who took diabetes medicines and did not have surgery:</th>
+			<td>Lost up to 6 pounds or gained up to 5 pounds, depending on the medicine</td>
+			<td>Lowered their level by about 0.5 to 1</td>
+		</tr>
+	</tbody>
+</table>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">
+	<p><strong>Note:</strong> Weight loss and the amount that HbA1c is lowered may be different, depending on the specific type of weight-loss surgery. There is not enough research to know how the specific types of weight-loss surgery compare to each other.</p>
+	<p>There is also not enough research that directly compares weight-loss surgery to diet and exercise or diabetes medicines to know how these treatment options compare to each other.</p>
+</div>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Note:</strong> It is important to remember that people who have weight-loss surgery must change the way they eat and must get regular exercise.</div>
+<h4>What are the costs of weight-loss surgery?</h4>
+<p>Weight-loss surgery can cost between $20,000 and $25,000. The costs to you depend on your health insurance plan and which surgery you have. Your health insurance plan may not cover all weight-loss surgeries. Check with your health insurance provider to see if weight-loss surgery is covered for you.</p> 
+			<a name="8022"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about?</h4>
+<p>There are several things to think about when deciding if weight-loss surgery to treat your diabetes or prediabetes is right for you. You and your doctor may want to talk about:</p>
+<ul>
+	<li>The trade-offs between the possible benefits and risks of weight-loss surgery</li>
+	<li>The lifestyle changes you will need to make if you have weight-loss surgery</li>
+	<li>If you decide to have weight-loss surgery, which surgery is best for you</li>
+	<li>How you feel about weight-loss surgeries that are difficult to reverse or are not reversible</li>
+	<li>How long you would be away from work and other daily activities after surgery</li>
+	<li>The costs of weight-loss surgery and whether your health insurance covers it
+		<ul>
+			<li>You may want to think about how the costs of weight-loss surgery compare to the costs of weight-loss medicines and medicines to treat diabetes or prediabetes.</li>
+		</ul>
+	</li>
+</ul>
+<h4>Ask Your Doctor or Surgeon</h4>
+<ul>
+	<li>Could weight-loss surgery help me control my diabetes or keep my prediabetes from getting worse?</li>
+	<li>If I do not have weight-loss surgery, how will we control my diabetes or keep my prediabetes from getting worse?</li>
+	<li>If weight-loss surgery could help, which surgery do you think may be best for me?</li>
+	<li>If I have surgery, how long will I be in the hospital? How long will I be away from work and daily activities?</li>
+	<li>What serious side effects should I look for?</li>
+	<li>After the surgery, what lifestyle changes will I need to make? Will I need to follow a certain diet? What portion size will I need to eat? How much exercise will I need?</li>
+	<li>How long after the surgery will it take for my diabetes or prediabetes to get better?</li>
+	<li>Will I still need my diabetes medicines?</li>
+</ul> 
+			<a name="8023"></a>
+			
+
+			
+				<h3>Sources</h3>
+				<p>The information in this summary comes from the report <em>Bariatric Surgery and Nonsurgical Therapy in Adults With Metabolic Conditions and a Body Mass Index of 30.0 to 34.9 kg/m<sup>2</sup></em>, June 2013. The report was produced by the Southern California Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus<sup>&reg;</sup> Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus"><em>www.nlm.nih.gov/medlineplus</em></a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., Juliet Holder-Haynes, M.D., and Michael Fordis, M.D. People with diabetes or prediabetes and a BMI between 30 and 35 and people who have had weight-loss surgery reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

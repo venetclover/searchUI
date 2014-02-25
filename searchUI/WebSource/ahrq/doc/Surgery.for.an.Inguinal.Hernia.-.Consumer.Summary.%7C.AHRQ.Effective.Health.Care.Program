@@ -1,0 +1,850 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Surgery for an Inguinal Hernia - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;button=1&amp;productid=1589" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fpageaction%3Ddisplayproduct%26button%3D1%26productid%3D1589">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=244">
+					Surgical Options for Inguinal Hernia: Comparative Effectiveness Review 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1176">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Aug. 17, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=660">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Apr. 11, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1345">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Dec. 5, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1594">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Jul. 24, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1590">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Jul. 24, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1228">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Aug. 17, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>CME Activity</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=347&cmepage=cme_info">
+									
+									Surgical Management of Inguinal Hernia 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12(13)-EHC091-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1589"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1589"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1589"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1589&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1589&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1589&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1589"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1589&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1589&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1589&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=23961B75-932E-6DCF-E838034C91A49441" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1589&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1589&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1589" title="Surgery for an Inguinal Hernia"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1589.gif" alt="Surgery for an Inguinal Hernia" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Surgery for an Inguinal Hernia" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1589&amp;button=1&quot; title=&quot;Surgery for an Inguinal Hernia&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1589.gif&quot; border=&quot;0&quot; alt=&quot;Surgery for an Inguinal Hernia&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Jul. 24, 2013 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Surgery for an Inguinal Hernia</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/244/1589/inguinal-hernia-consumer-130723.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							1.1 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li class="last" style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/244/1589/INGUINAL_HERNIA.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.4 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#7793">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#7794">Understanding Your Condition</a></li>
+					
+						<li><a href="#7795">Understanding Your Options</a></li>
+					
+						<li><a href="#7796">Making a Decision</a></li>
+					
+						<li><a href="#7797">Source</a></li>
+					
+			</ul>
+		
+			<a name="7793"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, this information is right for you if:</h4>
+<ul>
+	<li>Your doctor* has said that you have an inguinal hernia (pronounced IN-gwen-ul HER-nee-uh), also sometimes called a groin hernia. An inguinal hernia is a condition in which part of your intestine, other organs, or belly fat pokes through an opening or weak spot in the muscles in your groin.</li>
+	<li>You want to know what research says about surgery to fix an inguinal hernia.</li>
+	<li>You are over age 18. The information in this summary is from research on adults.</li>
+</ul>
+<h4>No, this information is not right for you if:</h4>
+<ul>
+	<li>Your doctor has told you that you have a type of hernia other than an inguinal hernia. If you are not sure what kind of hernia you have, ask your doctor.</li>
+</ul>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Note</strong>: The typical adult in the research studies for this summary was a man:
+	<ul>
+		<li>Of normal weight to slightly overweight</li>
+		<li>In his mid 50s</li>
+		<li>With an inguinal hernia on only one side of his groin</li>
+		<li>Who was having his first hernia on that side of his groin</li>
+		<li>And who did not require emergency hernia surgery</li>
+	</ul>
+	<p>For this reason, the research information in this summary may not apply to women, men in other age groups, or people who need emergency surgery to fix their hernia.</p>
+</div>
+<h4>What will this summary tell me?</h4>
+<p>This summary will tell you what research says about the benefits and risks of open surgery and laparoscopic (pronounced lah-puh-ruh-SKAHP-ik) surgery to fix an inguinal hernia. It can help you talk with your doctor about whether surgery is right for you and, if so, which type of surgery might be best for you. This summary does not discuss how to prepare for surgery to fix an inguinal hernia or what to expect after surgery.</p>
+<h4>Where does the information come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 151 studies published between January 1990 and November 2011 on surgery to fix an inguinal hernia. The report was reviewed by clinicians, researchers, experts, and the public. You can read the report at www.effectivehealthcare.ahrq.gov/inguinal-hernia.cfm.</p>
+<p>* In this summary, the term &ldquo;doctor&rdquo; refers to the health care professionals who may take care of you, including your physician, nurse practitioner, or physician assistant.</p> 
+			<a name="7794"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is an inguinal hernia?</h4>
+<p>An inguinal hernia is a condition in which part of your intestine, other organs, or belly fat pokes through an opening or weak spot in the muscles in your groin. Anyone can get an inguinal hernia&mdash;from infants to adults. But it is much more common in men than in women.</p>
+<p>Symptoms of an inguinal hernia can include:</p>
+<ul>
+	<li>A bulge on one or both sides of your groin (the bulge may appear or disappear when you change positions or lie down)</li>
+	<li>In men, the scrotum (the sac that holds the testicles) may become swollen or enlarged</li>
+	<li>A burning feeling or pain in the area of the bulge, especially when lifting or straining</li>
+</ul>
+<p>Sometimes the bulge of an inguinal hernia is painful, and sometimes it is not. Often, gently pushing on the bulge can make the intestine go back into your belly. Sometimes, however, the intestine can become trapped in the groin or scrotum and cannot be pushed back in.</p>
+<p><img alt="Image of hernia showing location of intestines and a weak spot (opening) in the groin muscle." src="/ehc/assets/Image/Screen Shot 2013-07-16 at 6_09_25 PM.png" style="width: 550px; height: 354px; " /></p>
+<h4>What if my intestine becomes trapped?</h4>
+<p>If part of your intestine becomes trapped and cannot be pushed back in, it can affect your intestine&rsquo;s ability to move gas and stool (waste) through and out of your body. This can cause you to feel constipated. If you think your hernia may be trapped, call your doctor.</p>
+<p>In a trapped hernia, the blood supply to the piece of intestine poking through can become cut off (a condition called a &ldquo;strangulated&rdquo; hernia). Without blood, the piece of intestine could die and would then have to be removed in an emergency surgery. A strangulated hernia requires emergency medical attention.</p>
+<p>Symptoms of a strangulated hernia include:</p>
+<ul>
+	<li>The bulge becomes very tender and red</li>
+	<li>Pain that gets worse all of a sudden</li>
+	<li>Fever</li>
+	<li>A fast heartbeat</li>
+	<li>Nausea</li>
+	<li>Vomiting</li>
+</ul>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Warning</strong>: A strangulated hernia is a serious condition and could be life threatening without surgery to fix the inguinal hernia. If you think you may have a strangulated hernia, you should call your doctor or go to the hospital right away.</div>
+<h4>What causes an inguinal hernia?</h4>
+<p>Inguinal hernias can be caused by several things. One possible cause is a weak spot in your groin muscles from when you were born. Another possible cause is repeated strain on your groin muscles. Things that could cause strain include lifting heavy objects, pushing hard while going to the bathroom (possibly because of constipation), gaining weight, or coughing a lot.</p>
+<h4>How common are inguinal hernias?</h4>
+<p><img alt="Out of every 100 men, 25 will have an inguinal hernia sometime during their lifetime. Out of every 100 women, 2 will have an inguinal hernia sometime during their lifetime." src="/ehc/assets/Image/Screen Shot 2013-07-16 at 6_06_48 PM.png" style="width: 450px; height: 239px; " /></p>
+<ul>
+	<li>The risk of inguinal hernia increases with age.</li>
+	<li>Surgery to fix a hernia is one of the most common types of surgery done in the United States.</li>
+</ul> 
+			<a name="7795"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>How is an inguinal hernia treated?</h4>
+<p>The only way to fix an inguinal hernia is with surgery. If your hernia is not painful, is not getting larger, and is not trapped, you may choose to wait to have surgery. If you choose to wait, your doctor will watch your hernia to make sure it does not get worse or become trapped. There are benefits and risks with both waiting and surgery. You should discuss both options with your doctor.</p>
+<p>If you decide to have surgery to fix your inguinal hernia, there are two ways to do the surgery: open surgery or laparoscopic (pronounced lah-puh-ruh-SKAHP-ik) surgery.</p>
+<h5>Open Surgery</h5>
+<p>In an open surgery, the surgeon makes a cut in your groin and moves your intestine, other organs, or belly fat back into your belly. The surgeon then closes up the weak spot in your groin muscles with stitches. Usually the surgeon will cover the weak spot with a small piece of mesh before stitching it closed to provide extra support.</p>
+<p><img alt="image showing the hernia before and after surgery." src="/ehc/assets/Image/Screen Shot 2013-07-16 at 6_15_55 PM.png" style="width: 550px; height: 296px; " /></p>
+<h5>Laparoscopic Surgery</h5>
+<p>In laparoscopic surgery, the surgeon uses a tool called a laparoscope (pronounced LAH-pruh-skohp). A laparoscope is a thin tube with a tiny camera that the surgeon puts through small cuts in your belly along with other small tools to do the surgery. The laparoscope lets the surgeon see inside your body and fix the hernia without having to make a big cut. After moving your intestine, other organs, or belly fat back into your belly, the surgeon will cover the weak spot with a small piece of mesh to make it stronger.</p>
+<p><img alt="Image of a laparoscope and the small cuts made to insert the tools for the surgery." src="/ehc/assets/Image/Screen Shot 2013-07-16 at 6_16_12 PM.png" style="width: 550px; height: 239px; " /></p>
+<h4>What are the risks of surgery for an inguinal hernia?</h4>
+<p>Surgery to fix an inguinal hernia is generally safe, and complications are rare. However, possible risks include:</p>
+<ul>
+	<li>Bleeding</li>
+	<li>Infection</li>
+	<li>Long-term pain</li>
+	<li>A scar</li>
+	<li>Injury to organs (such as the intestines, bladder, or others)</li>
+	<li>Injury to the blood vessels (on the side of your groin where you are having surgery) that supply the testicle with blood</li>
+	<li>Injury to the tube (on the side of your groin where you are having surgery) that carries semen (fluid containing sperm) from the testicle to the penis</li>
+	<li>Risks of general anesthesia, such as pneumonia or blood clots, although these risks are rare</li>
+</ul>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Note</strong>: After surgery to fix an inguinal hernia, there is a chance that the hernia could come back. The chance of an inguinal hernia coming back varies and may be affected by many things, including whether you have open or laparoscopic surgery and your surgeon&rsquo;s experience with that type of surgery.</div>
+<h4>What does research say about surgery for an inguinal hernia?</h4>
+<p>Both open and laparoscopic surgery work to fix an inguinal hernia. The possible benefits and risks of open and laparoscopic surgeries are described below.</p>
+<h5>For people with their first inguinal hernia*</h5>
+<p><strong>Open Surgery</strong></p>
+<ul>
+	<li>May have a lower chance of the hernia coming back than laparoscopic surgery, but there is not enough research to know this for sure</li>
+	<li>May have a lower risk of damage to deep blood vessels than laparoscopic surgery, but there is not enough research to know this for sure</li>
+</ul>
+<p><strong>Laparoscopic Surgery</strong></p>
+<ul>
+	<li>Allows a faster return to work and normal activities than open surgery</li>
+	<li>Has a lower risk of infection and long-term pain than open surgery</li>
+	<li>May have a lower risk of bleeding from the surgical wounds on the belly than open surgery, but there is not enough research to know this for sure</li>
+</ul>
+<p>Researchers also found:</p>
+<ul>
+	<li>The type of surgery people have does not appear to affect how long they stay in the hospital, but there is not enough research to know this for sure.</li>
+	<li>People whose inguinal hernia was not painful and who had surgery to fix the hernia seemed to have a better quality of life after 1 year than those who did not have surgery, but there is not enough research to know this for sure.</li>
+</ul>
+<h5>For people who have an inguinal hernia that has come back**</h5>
+<p><strong>Laparoscopic Surgery</strong></p>
+<ul>
+	<li>Allows a faster return to normal activities than open surgery</li>
+	<li>Has a lower risk of long-term pain than open surgery</li>
+</ul>
+<p>* You may have had an inguinal hernia on the other side of your groin, but this is the first time you have had one on this side.<br />
+	** You have an inguinal hernia on one or both sides of your groin that was fixed and has come back in the same spot.</p> 
+			<a name="7796"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>There are several things to think about when deciding if surgery to fix your inguinal hernia is right for you and, if so, which type of surgery to have. You may want to talk with your doctor about:</p>
+<ul>
+	<li>How much pain you have</li>
+	<li>How active you are&mdash;the more active you are, the more likely it is that your hernia could get larger or worse without treatment</li>
+	<li>The risk of your intestine becoming trapped or strangulated</li>
+	<li>The possible benefits and risks of surgery</li>
+	<li>If your inguinal hernia is not painful, the trade-offs between the possible benefits of surgery and the possible risks, such as longterm pain after surgery</li>
+	<li>If you decide to have surgery, which type of surgery best fits your preferences&mdash;open surgery or laparoscopic surgery</li>
+	<li>Your surgeon&rsquo;s experience with each type of surgery</li>
+	<li>The amount of time you will have to stay in the hospital and be away from work and other daily activities after surgery</li>
+	<li>The costs of surgery</li>
+</ul>
+<h4>What are the costs of surgery?</h4>
+<p>The costs to you for surgery to fix an inguinal hernia depend on your health insurance and the type of surgery done.</p>
+<h4>Ask your doctor</h4>
+<ul>
+	<li>Do I need surgery to fix my inguinal hernia now or can I wait?</li>
+	<li>Do any of my other health conditions affect my ability to have surgery?</li>
+	<li>If I decide to wait, are there activities I should avoid to keep my hernia from getting worse?</li>
+	<li>If I wait, what signs should I watch for that my hernia is getting worse?</li>
+	<li>If I decide to have surgery, which type is best for me&mdash;open or laparoscopic surgery?</li>
+	<li>Do you do both open and laparoscopic surgeries for inguinal hernias? Which type of surgery do you have more experience with?</li>
+	<li>How long will it take to recover from surgery? When can I return to work and physical activities?</li>
+	<li>How will surgery affect my lifestyle? What should I avoid right after surgery?</li>
+	<li>What can I do to help keep my inguinal hernia from coming back?</li>
+</ul> 
+			<a name="7797"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em>Surgical Options for Inguinal Hernia: Comparative Effectiveness Review</em>, August 2012. The report was produced by the ECRI Institute Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus<sup>&reg;</sup> Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., Mike K. Liang, M.D., and Michael Fordis, M.D. Illustrations were created by Douglas Alexander. Patients with an inguinal hernia reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

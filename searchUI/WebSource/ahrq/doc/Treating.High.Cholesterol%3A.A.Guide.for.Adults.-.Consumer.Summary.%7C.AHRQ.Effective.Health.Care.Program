@@ -1,0 +1,1026 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Treating High Cholesterol: A Guide for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=351&amp;pageaction=displayproduct&amp;button=1" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fproductid%3D351%26pageaction%3Ddisplayproduct%26button%3D1">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=11">
+					Comparative Effectiveness of Lipid-Modifying Agents 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Reports</h4>
+						
+				<ul>
+					
+						<li>
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=171">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Sept. 1, 2009 </span>
+						</li>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=172">
+										Appendixes 
+									</a>
+							<span style="font-size:7pt;"> Sept. 1, 2009 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=409">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Mar. 10, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1533">
+										Surveillance Report (December 2011) 
+									</a>
+							<span style="font-size:7pt;"> Jun. 11, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=352">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Nov. 18, 2009 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=512">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Aug. 25, 2010 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=170">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 1, 2009 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 09(10)-EHC024-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d351%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d351%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d351%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d351%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d351%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d351%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d351%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d351%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d351%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d351%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=239823AB-A756-F7BA-58E6153D072AF591" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=351&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=351&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=351" title="Treating High Cholesterol: A Guide for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/351.gif" alt="Treating High Cholesterol: A Guide for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Treating High Cholesterol: A Guide for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=351&amp;button=1&quot; title=&quot;Treating High Cholesterol: A Guide for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/351.gif&quot; border=&quot;0&quot; alt=&quot;Treating High Cholesterol: A Guide for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Nov. 18, 2009 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Treating High Cholesterol: A Guide for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/11/351/Lipids_ConsumerGuide.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							644 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/11/351/Lipids_consumer_audio3.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							11.1 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=512" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#917">Fast Facts</a></li>
+					
+						<li><a href="#916">Introduction</a></li>
+					
+						<li><a href="#918">Learning About Cholesterol</a></li>
+					
+						<li><a href="#919">Setting Your Cholesterol Goal</a></li>
+					
+						<li><a href="#920">How Is High Cholesterol Treated?</a></li>
+					
+						<li><a href="#921">Learning About Cholesterol Medicines</a></li>
+					
+						<li><a href="#922">Talking With Your Doctor About High Cholesterol</a></li>
+					
+						<li><a href="#924">For More Information</a></li>
+					
+						<li><a href="#923">Source</a></li>
+					
+			</ul>
+		
+			<a name="917"></a>
+			
+
+			
+				<h3>Fast Facts</h3>
+				<ul>
+	<li>High cholesterol can lead to heart attacks and strokes.</li>
+	<li>There are different kinds of medicines to treat high cholesterol.</li>
+	<li>Medicines called statins are used the most.</li>
+	<li>If your cholesterol is still too high when you are taking a statin, there are options. Your doctor or nurse can increase your statin dose or add a different kind of cholesterol medicine.</li>
+	<li>Research can&rsquo;t tell us yet if taking a statin and another kind of cholesterol medicine lowers cholesterol more than taking only a statin.</li>
+	<li>Research also can&rsquo;t tell us yet if taking a statin and another kind of cholesterol medicine helps prevent more heart attacks or strokes than taking only a statin.</li>
+</ul> 
+			<a name="916"></a>
+			
+
+			
+				<h3>Introduction</h3>
+				<h2>What Does This Guide Cover?</h2>
+<p>Keeping your cholesterol at a good level can help lower your chance of heart attacks and strokes. This guide can help you talk with your doctor or nurse about medicines to treat high cholesterol. It covers:</p>
+<ul>
+	<li>Different kinds of cholesterol medicines.</li>
+	<li>How the medicines work.</li>
+	<li>Side effects of cholesterol medicines.</li>
+</ul>
+<p>The information in this guide comes from a government-funded review of research about cholesterol medicines.</p>
+<h2>What Is Not Covered in This Guide?</h2>
+<p>This guide does not compare all the ways to lower cholesterol. It does not compare cholesterol medicines with herbal treatments or dietary treatments (like oatmeal). It also does not compare all the combinations of medicines. This guide does not cover the treatment of high cholesterol in people under 18 years old.</p> 
+			<a name="918"></a>
+			
+
+			
+				<h3>Learning About Cholesterol</h3>
+				<p>Cholesterol is a building block of our body&rsquo;s cells. The liver makes cholesterol. Cholesterol travels to the body&rsquo;s cells in the blood. We all need some cholesterol, but our bodies can make all the cholesterol we need. Certain foods are an added source of cholesterol.</p>
+<p>Many people have the right amount of cholesterol. Other people have too much. High cholesterol sometimes runs in families.</p>
+<p>There are different types of cholesterol. The two main types are often called &ldquo;bad&rdquo; and &ldquo;good.&rdquo; The bad cholesterol can damage the heart and arteries, but good cholesterol does not cause damage.</p>
+<h2>Bad Cholesterol (LDL Cholesterol)</h2>
+<p>Everyone should try to keep bad (LDL) cholesterol as low as possible. If your doctor or nurse tells you that you have high cholesterol, it means that your bad cholesterol is too high.</p>
+<p>When you have too much bad (LDL) cholesterol in your blood, it can build up on the walls of your arteries. This build-up is called plaque (pronounced &ldquo;plak&rdquo;). Plaque can narrow your arteries and make it harder for blood to flow. Plaque can lead to heart attacks and strokes. Keeping bad cholesterol at a low level can help avoid these problems.</p>
+<p><img height="342" width="301" alt="" src="/tasks/sites/ehc/assets/Image/lipid1.jpg" /></p>
+<h2>Good Cholesterol (HDL Cholesterol)</h2>
+<p>Good (HDL) cholesterol helps remove extra cholesterol from the body. When your good cholesterol is higher, your chance of heart disease is lower. If your good cholesterol is 60 or higher, that helps protect against heart attacks and strokes.</p>
+<h2>Triglycerides</h2>
+<p>Triglycerides (try-GLIS-uh-rides) are a kind of fat found in your blood. The body makes triglycerides. They are also found in food. Your body needs this kind of fat, but it&rsquo;s best to keep your triglycerides low. Less than 150 is usually the goal.</p>
+<p>Just having high cholesterol does not cause any symptoms. Most people do not know they have high cholesterol unless they get tested. Having a blood test to check your cholesterol will tell you if your levels are on target.</p>
+<h2>Checking Your Cholesterol Levels</h2>
+<p>Cholesterol is measured by a blood test done at your doctor&rsquo;s office or a lab. A cholesterol test will tell you your total cholesterol level. It will also tell you the levels of your good (HDL) and bad (LDL) cholesterol and your triglycerides.</p>
+<p>How often you have this blood test may depend on your personal risk for heart attacks or strokes. Talk to your doctor or nurse about how often your cholesterol should be checked.</p>
+<p></p> 
+			<a name="919"></a>
+			
+
+			
+				<h3>Setting Your Cholesterol Goal</h3>
+				<p>The target for your bad (LDL) cholesterol depends on your risk factors for heart disease. Risk factors are things that increase your chance of having a heart attack or stroke. If you have more risk factors, your doctor or nurse will recommend a lower target for your bad cholesterol. Talk with your doctor or nurse about setting your cholesterol goal.</p>
+<h2>Risk Factors</h2>
+<p>These are some risk factors for heart disease.</p>
+<ul>
+	<li>Age.
+	<ul>
+		<li>For men&mdash;being 45 or older.</li>
+		<li>For women&mdash;being 55 or older.</li>
+	</ul>
+	</li>
+	<li>Family history of early heart disease.</li>
+	<li>Smoking.</li>
+	<li>High blood pressure.</li>
+	<li>Low levels of good (HDL) cholesterol.</li>
+</ul>
+<h2>People at Moderate Risk</h2>
+<p>People with two or more risk factors (listed above) are at moderate risk for heart attacks and strokes.</p>
+<h2>People at High Risk</h2>
+<p>People who already have heart disease or diabetes are at high risk for heart attacks and strokes. Others with certain risk combinations also fall into this group. Ask your doctor or nurse whether you fall into this high-risk group.</p> 
+			<a name="920"></a>
+			
+
+			
+				<h3>How Is High Cholesterol Treated?</h3>
+				<p>The first step in controlling your cholesterol is to eat a balanced diet and to be more active. Even small changes can make a big difference. Your doctor or nurse may recommend a special cholesterol-lowering diet. The diet follows simple guidelines like:</p>
+<ul>
+	<li>Eating a variety of foods, including fresh fruits, vegetables, and whole grains.</li>
+	<li>Limiting fat calories to 35 percent or less of total calories eaten each day.</li>
+	<li>Limiting foods with cholesterol in them, like egg yolks.</li>
+	<li>Eating foods with fiber in them, like whole grains.</li>
+</ul>
+<p>Some people can reach their cholesterol goals by eating a balanced diet and exercising. But many people will also need medicine to lower their cholesterol.</p> 
+			<a name="921"></a>
+			
+
+			
+				<h3>Learning About Cholesterol Medicines</h3>
+				<p>Different kinds of cholesterol medicines work in different ways to improve your cholesterol levels. Some medicines can lower your triglycerides. Most people start with a statin because statins usually work well to lower bad (LDL) cholesterol. If your bad cholesterol is still too high, your doctor or nurse may increase your statin dose or add a different kind of cholesterol medicine to help you reach your goal. This chart shows the different kinds of cholesterol medicines and how they work.</p>
+<table cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col">Generic Name</th>
+			<th scope="col">Brand Name</th>
+			<th scope="col">How They Work</th>
+		</tr>
+	</thead>
+	<caption>Kinds of Cholesterol Medicines and How They Work</caption>
+	<tbody>
+		<tr>
+			<th class="section_title" colspan="3">Statins</th>
+		</tr>
+		<tr>
+			<td>Atorvastatin</td>
+			<td>Lipitor&reg;</td>
+			<td rowspan="6">
+			<p>Block the liver from making cholesterol.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>Fluvastatin</td>
+			<td>Lescol&reg;</td>
+		</tr>
+		<tr>
+			<td>Lovastatin</td>
+			<td>Mevacor&reg;, Altoprev&reg;</td>
+		</tr>
+		<tr>
+			<td>Pravastatin</td>
+			<td>Pravachol&reg;</td>
+		</tr>
+		<tr>
+			<td>Rosuvastatin</td>
+			<td>Crestor&reg;</td>
+		</tr>
+		<tr>
+			<td>Simvastatin</td>
+			<td>Zocor&reg;</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="3">Bile Acid Binders</th>
+		</tr>
+		<tr>
+			<td>Cholestyramine</td>
+			<td>Questran&reg;</td>
+			<td rowspan="3">Decrease the amount of fat absorbed from food.</td>
+		</tr>
+		<tr>
+			<td>Colesevelam</td>
+			<td>Welchol&reg;</td>
+		</tr>
+		<tr>
+			<td>Colestipol</td>
+			<td>Colestid&reg;</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="3">Cholesterol Absorption Inhibitor</th>
+		</tr>
+		<tr>
+			<td>Ezetimibe</td>
+			<td>Zetia&reg;</td>
+			<td>Decreases the amount of cholesterol absorbed from food. Also lowers triglycerides.</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="3">Fibrates</th>
+		</tr>
+		<tr>
+			<td>Gemfibrozil</td>
+			<td>Lopid&reg;</td>
+			<td rowspan="2">Help the liver break-down bad (LDL) cholesterol. Also lower triglycerides.</td>
+		</tr>
+		<tr>
+			<td>Fenofibrate</td>
+			<td>TriCor&reg;, Lofibra&reg;</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="3">Vitamins and Supplements</th>
+		</tr>
+		<tr>
+			<td>Niacin</td>
+			<td>Niacor&reg;, Niaspan&reg;</td>
+			<td>Blocks the liver from removing good (HDL) cholesterol. Also lowers triglycerides.</td>
+		</tr>
+		<tr>
+			<td>Omega-3 fatty acids</td>
+			<td>Lovaza&reg;</td>
+			<td>Increase the level of good (HDL) cholesterol. Also lower triglycerides.</td>
+		</tr>
+	</tbody>
+</table>
+<h2>Are Two Medicines Better Than One?</h2>
+<h4>Preventing Heart Attacks and Strokes</h4>
+<p>Research can&rsquo;t tell us yet if taking a statin and another kind of cholesterol medicine helps prevent more heart attacks or strokes than taking only a statin. This is because most of the research didn&rsquo;t include very many people or last very long.</p>
+<h4>Lowering Cholesterol</h4>
+<p>Research can&rsquo;t tell us yet if taking a statin and another kind of cholesterol medicine lowers cholesterol more than taking only a statin. This is because the research studies did not all measure cholesterol in the same way. Some measured total cholesterol; some only measured bad (LDL) or good (HDL) cholesterol.</p>
+<h2>Side Effects of Cholesterol Medicines</h2>
+<h4>Minor Side Effects</h4>
+<p>All the medicines in this guide can cause minor side effects, like heartburn, upset stomach, and diarrhea. These problems often go away and are not usually serious. Tell your doctor or nurse if these symptoms are severe or do not go away.</p>
+<h4>Serious Side Effects</h4>
+<p><em>Muscle problems</em>. It is rare, but some cholesterol medicines can cause muscle damage. If you are taking a cholesterol medicine and get muscle aches, tell your doctor or nurse right away.</p>
+<p><em>Liver problems</em>. It is rare, but some cholesterol medicines can cause liver damage. You might need a blood test to check your liver before you start these medicines.</p>
+<p>Research can&rsquo;t tell us yet if combining cholesterol medicines leads to more or fewer side effects than taking only a statin.</p> 
+			<a name="922"></a>
+			
+
+			
+				<h3>Talking With Your Doctor About High Cholesterol</h3>
+				<p><em>Can I control my cholesterol by eating healthy and being active?</em></p>
+<p>Everyone with high cholesterol should be on a cholesterol-lowering diet. Exercising can help too. If you can&rsquo;t get to your cholesterol goal with diet and exercise alone, you may need to start a cholesterol medicine. Work with your doctor or nurse to set up a plan that works for you.</p>
+<p><em>Are all these medicines taken the same way?</em></p>
+<p>Most cholesterol medicines are pills. A few come as powders that you mix into a drink. Some are taken once a day. Others need to be taken more often. With some combinations, the medicines can&rsquo;t be taken at the same time. Talk with your doctor or nurse about what kind of schedule will be easiest for you to follow.</p>
+<p><em>What about the cost?</em></p>
+<p>Some medicines are available as generics, which cost less. If prescriptions are part of your health insurance plan, ask about the cost to you. If you need help paying for cholesterol medicines, there may be a program for you. Contact the Partnership for Prescription Assistance. Web site: pparx.org. Phone: (888) 477-2669.</p>
+<p><em>What else can I do to keep my heart healthy?</em></p>
+<p>Lowering your cholesterol is an important step. But it&rsquo;s also important to control other health problems that can put you at risk for heart attacks and stroke, like diabetes and high blood pressure. Stopping smoking is important too.</p>
+<p><em>If I lower my cholesterol enough with medicine, can I stop taking the medicine?</em></p>
+<p>Most people have to continue taking the medicine in order to keep their cholesterol low. Cholesterol medicines are usually safe no matter how long you have to take them.</p>
+<h2>Track Your Cholesterol Levels</h2>
+<p>Use this table to track your cholesterol levels. Each time you have your cholesterol checked, fill in a row of the table. That way, you and your doctor or nurse will be able to see how your levels change over time.</p>
+<table cellspacing="0">
+	<thead>
+		<tr>
+			<th align="center" colspan="5" scope="col">My Cholesterol Levels</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th width="20%" class="section_title">Date</th>
+			<th width="20%" class="section_title">Total cholesterol</th>
+			<th width="20%" class="section_title">Good (HDL) cholesterol</th>
+			<th width="20%" class="section_title">Bad (LDL) cholesterol</th>
+			<th width="20%" class="section_title">Triglycerides</th>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<p></p>
+<h2>Track Your Cholesterol Medicines</h2>
+<p>Use this table to keep a record of the cholesterol medicines you take. It will help you keep track of the medicines that work best for you.</p>
+<p></p>
+<table cellspacing="0">
+	<thead>
+		<tr>
+			<th align="center" scope="col" colspan="4">My cholesterol medicines</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th width="20%" class="section_title">Medicine</th>
+			<th width="20%" class="section_title">Dose</th>
+			<th width="30%" class="section_title">When did I start taking this medicine?</th>
+			<th width="30%" class="section_title">If I am no longer taking it, why did I stop?</th>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table> 
+			<a name="924"></a>
+			
+
+			
+				<h3>For More Information</h3>
+				<p>Visit <a href="http://www.effectivehealthcare.ahrq.gov">www.effectivehealthcare.ahrq.gov</a>.</p>
+<p>Click on Guides for Patients and Consumers to print a copy of this guide and learn about other conditions.</p>
+<p>For free print copies of this guide, call 800-358-9295.  Ask the Publications Clearinghouse for AHRQ Publication Number 09(10)-EHC024-A.</p>
+<p>To learn more about cholesterol, visit <a href="http://www.nlm.nih.gov/medlineplus/cholesterol.html">www.nlm.nih.gov/medlineplus/cholesterol.html</a>.</p>
+<p></p> 
+			<a name="923"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this guide comes from a detailed review of 102 research reports. The review is called <em>Comparative Effectiveness of Lipid-Modifying Agents</em> (2009), and was written by the University of Ottawa Evidence-based Practice Center.</p>
+<p>The Agency for Healthcare Research and Quality (AHRQ) created the Eisenberg Center at Oregon Health &amp; Science University to make research helpful for consumers. This guide was written by Bruin Rugge, M.D., Martha Schechtel, R.N., Rachelle Nicolai, B.A., Susan Severance, M.P.H., and David Hickam, M.D., of the Eisenberg Center. People with high cholesterol helped them develop this guide.</p>
+<p></p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

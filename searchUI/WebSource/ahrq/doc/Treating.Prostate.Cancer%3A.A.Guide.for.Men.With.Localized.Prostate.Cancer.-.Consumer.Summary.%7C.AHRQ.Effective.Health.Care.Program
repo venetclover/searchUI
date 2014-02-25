@@ -1,0 +1,1039 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Treating Prostate Cancer: A Guide for Men With Localized Prostate Cancer - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;pageaction=displayproduct&amp;productid=98" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26pageaction%3Ddisplayproduct%26productid%3D98">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=9">
+					Comparative Effectiveness of Therapies for Clinically Localized Prostate Cancer 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Reports</h4>
+						
+				<ul>
+					
+						<li>
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=80">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Feb. 5, 2008 </span>
+						</li>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=81">
+										Appendixes 
+									</a>
+							<span style="font-size:7pt;"> Feb. 5, 2008 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1548">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jun. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=99">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Jul. 24, 2008 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=157">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Jul. 29, 2009 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=79">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Feb. 5, 2008 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>Related Topics</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&productid=537">
+									
+									Future Research Needs for Comparative Effectiveness of Treatments of Localized Prostate Cancer 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Related Patient Decision Aid</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/ehc/decisionaids/prostate-cancer/">
+									
+									Knowing Your Options: A Decision Aid for Men With Clinically Localized Prostate Cancer 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>AHRQ's Healthcare 411 Audio/Video Features</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://healthcare411.ahrq.gov/radiocastseg.aspx?id=765&type=seg">
+									
+									Prostate Cancer Treatments 
+								</a>
+								
+								
+						</li>
+						
+							<li>
+								<a href="http://healthcare411.ahrq.gov/featureAudio.aspx?id=827">
+									
+									Prostate Cancer Treatment - A New Guide for Clinicians 
+								</a>
+								
+								
+						</li>
+						
+							<li>
+								<a href="http://healthcare411.ahrq.gov/radiocastseg.aspx?id=820&type=seg">
+									
+									Prostate Cancer Consumer Guide 
+								</a>
+								
+								
+						</li>
+						
+							<li>
+								<a href="http://healthcare411.ahrq.gov/radiocastseg.aspx?id=838&type=seg">
+									
+									Prostate Cancer Screening Not Recommended For 75+ 
+								</a>
+								
+								
+						</li>
+						
+							<li class="last">
+								<a href="http://healthcare411.ahrq.gov/featureAudio.aspx?id=767">
+									
+									Treatment Options for Prostate Cancer 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 08-EHC010-2A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d98"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d98"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d98"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d98&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d98&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d98&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d98"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d98&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d98&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d98&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=239819C4-D9D7-8972-C15A8B329FC5E4D3" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=98&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=98&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=98" title="Treating Prostate Cancer: A Guide for Men With Localized Prostate Cancer"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/98.gif" alt="Treating Prostate Cancer: A Guide for Men With Localized Prostate Cancer" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Treating Prostate Cancer: A Guide for Men With Localized Prostate Cancer" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=98&amp;button=1&quot; title=&quot;Treating Prostate Cancer: A Guide for Men With Localized Prostate Cancer&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/98.gif&quot; border=&quot;0&quot; alt=&quot;Treating Prostate Cancer: A Guide for Men With Localized Prostate Cancer&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Jul. 24, 2008 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Treating Prostate Cancer: A Guide for Men With Localized Prostate Cancer</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/9/98/ProstateCancerConsumer.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							419 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/9/98/ProstateCancerConsumer.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							22.0 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/9/98/ProstateCancerConsumerPlayer.swf" class="button-audio button-showtext">
+								Play Audio</a>
+							
+							(SWF)
+							70 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=157" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#326">Introduction</a></li>
+					
+						<li><a href="#327">Fast Facts</a></li>
+					
+						<li><a href="#328">Learning About Prostate Cancer</a></li>
+					
+						<li><a href="#329">Thinking About Your Options</a></li>
+					
+						<li><a href="#330">Side Effects of Treatment</a></li>
+					
+						<li><a href="#331">Questions to Ask Your Doctor</a></li>
+					
+						<li><a href="#332">Questions for You to Think About</a></li>
+					
+						<li><a href="#333">Source</a></li>
+					
+						<li><a href="#334">For More Information</a></li>
+					
+			</ul>
+		
+			<a name="326"></a>
+			
+
+			
+				<h3>Introduction</h3>
+				
+<p>Most men have time to learn about all the options for treating their prostate cancer. You have time to talk with your family and to discuss your options with your doctor or nurse. This guide can help you think about what is best for you&mdash;now and in the future.</p>
+<h4>What does this guide cover?</h4>
+<p>This guide can help you work with your doctor to treat localized prostate cancer. The information comes from a government-funded review of research about treatments for localized prostate cancer. It covers research about four common prostate cancer treatments and their side effects.</p>
+<p><b>Watchful waiting</b> &mdash; carefully watching the cancer over time with regular checkups.</p>
+<p><b>Prostate surgery</b> &mdash; also called radical prostatectomy (PRAHS-tah-TEK-toe-mee).</p>
+<p><b>Radiation</b> &mdash; one kind called external beam and another called brachytherapy (BRAKE-ee-THAYR-uh-pee) or &quot;seeding.&quot;</p>
+<p><b>Hormone treatment.</b></p>
+<h4>What is not covered in this guide?</h4>
+<p>This guide does not cover how to prevent prostate cancer. It also does not talk about other treatments, like ultrasound treatment, cryotherapy (freezing treatment), laparoscopic surgery (also called bandaid or keyhole surgery), or robotic surgery. These are newer treatments. There isn&rsquo;t enough research yet to tell us how well they work compared with other treatments. This guide also does not cover herbal products (like green tea) or vitamins and minerals (like selenium). It does not include treatments, like chemotherapy, for prostate cancer that has already spread outside the prostate gland.</p> 
+			<a name="327"></a>
+			
+
+			
+				<h3>Fast Facts</h3>
+				
+<div class="report_highlight_box large_box">
+<h5>Fast Facts on Treatments for Prostate Cancer</h5>
+<ul>
+	<li>About 9 out of 10 men with prostate cancer have cancer that has not spread outside the prostate gland. That means it is localized prostate cancer.</li>
+	<li>Most men with localized prostate cancer survive their cancer. This is true with watchful waiting or any active treatment.</li>
+	<li>Research can't tell us yet which option is best for localized prostate cancer. Each man will have to decide based on what he thinks about the benefits and risks.</li>
+	<li>Men who have prostate surgery are more likely to survive their cancer than men who use watchful waiting.</li>
+	<li>Prostate cancer treatments can cause long-lasting sexual, urinary, and bowel problems.</li>
+	<li>Hospitals and surgeons that do more prostate surgeries have better results.</li>
+</ul>
+</div> 
+			<a name="328"></a>
+			
+
+			
+				<h3>Learning About Prostate Cancer</h3>
+				
+<h4>How Is Prostate Cancer Found?</h4>
+<p>Most men with localized prostate cancer have few or no symptoms at all. These cancers are usually found during a routine exam or through screening tests. The most common tests are a digital rectal exam and a blood test called PSA (prostate specific antigen).</p>
+<h5>Digital Rectal Exam</h5>
+<div style="border: 1px solid rgb(254, 180, 89); margin: 5px; padding: 5px; float: right; width: 520px;">
+<div style="padding: 5px; position: relative; float: left; width: 380px;"><img src="/ehc/images/guides/Figure_ProstateCancer.gif" alt="Image of the prostate gland in the body." /></div>
+<div style="padding: 5px; position: relative; float: right; background-color: rgb(255, 232, 180); width: 120px; vertical-align: top;"><b>What is the prostate?</b><br />
+The prostate is a gland about the size of a walnut. It is found only in men. It makes and stores the liquid that carries sperm. The prostate is located near the bladder and rectum (the last part of the bowel before the anus). It is just below the bladder and surrounds the urethra (the tube that drains urine from the bladder).</div>
+</div>
+<p>The doctor or nurse feels the prostate gland through the rectum with a finger. This is done to check the shape of the prostate and to check for hard spots.</p>
+<h5>PSA Blood Test</h5>
+<p>PSA is a protein made by the prostate gland. A blood test tells how much PSA is in the blood. Many men with prostate cancer have PSA levels that are higher than normal or have increased over time.</p>
+<p><i>When a digital rectal exam or PSA blood test is not normal, more testing may be done. This might include a biopsy of the prostate.</i></p>
+<h5>Biopsy</h5>
+<p>A biopsy is when the doctor takes out tiny pieces of the prostate gland with a needle. The pieces are examined under a microscope to look for cancer cells. If the biopsy shows prostate cancer, the lab gives it a Gleason score.</p>
+<p><b>Gleason scores</b> range from 2 to 10. They give an idea of how fast the cancer may grow. A lower Gleason score (2 to 5) means the cancer is slower to grow. A higher score (8 to 10) means the cancer is more &quot;aggressive&quot; and more likely to spread. Most men with prostate cancer have a score in the middle (6 to 7).</p>
+<p>Surviving prostate cancer is more likely with lower Gleason scores. This is true with any prostate cancer treatment or watchful waiting.</p>
+<p>The charts below show that surviving prostate cancer is more likely with lower Gleason scores. &quot;Age&quot; means the age when the cancer was found. The men in this research study used watchful waiting or hormone treatment. Keep in mind that some men who survived prostate cancer died of other causes.</p>
+<p><img src="/ehc/images/guides/Table1_ProstateCancer.gif" alt="Chart displaying Gleason Score Ranges and 10-year survival rate percentages for men diagnosed at aged 55 to 59. With a Gleason score of 2 to 5, the survival rate is around 97 percent. With a Gleason score of 6, the survival rate is around 95 percent. With a Gleason score of 7, the survival rate is around 51 percent. With a Gleason score of 8 to 10, the survival rate is around 24 percent." /></p>
+<p><img src="/ehc/images/guides/Table2_ProstateCancer.gif" alt="Chart displaying Gleason Score Ranges and 10-year survival rate percentages for men diagnosed at aged 60 to 64. With a Gleason score of 2 to 5, the survival rate is around 96 percent. With a Gleason score of 6, the survival rate is around 86 percent. With a Gleason score of 7, the survival rate is around 63 percent. With a Gleason score of 8 to 10, the survival rate is around 41 percent." /></p>
+<p><img src="/ehc/images/guides/Table3_ProstateCancer.gif" alt="Chart displaying Gleason Score Ranges and 10-year survival rate percentages for men diagnosed at aged 65 to 69. With a Gleason score of 2 to 5, the survival rate is around 97 percent. With a Gleason score of 6, the survival rate is around 88 percent. With a Gleason score of 7, the survival rate is around 58 percent. With a Gleason score of 8 to 10, the survival rate is around 33 percent." /></p>
+<p><img src="/ehc/images/guides/Table4_ProstateCancer.gif" alt="Chart displaying Gleason Score Ranges and 10-year survival rate percentages for men diagnosed at aged 70 to 74. With a Gleason score of 2 to 5, the survival rate is around 94 percent. With a Gleason score of 6, the survival rate is around 80 percent. With a Gleason score of 7, the survival rate is around 69 percent. With a Gleason score of 8 to 10, the survival rate is around 52 percent." /></p> 
+			<a name="329"></a>
+			
+
+			
+				<h3>Thinking About Your Options</h3>
+				
+<div style="float: right; width: 412px;" class="highlight_box">
+<h5>Research Takes Time</h5>
+<p>This guide focuses on the long-term results of treatments. There isn't research yet that compares the effects over time of all four treatments. But there is research that compares a few of the treatments to each other. Some treatments have been compared after 10 years and others after 5 years.</p>
+<p>Most of the research so far started before PSA testing was common. Today, PSA testing is widely used. It helps find the cancers earlier and when they are smaller. Research today includes men whose prostate cancers are found by PSA testing. Not enough time has passed to know the long-term results of this research.</p>
+</div>
+<p>Options for localized prostate cancer include watchful waiting, prostate surgery, radiation, and hormone treatment. Deciding can be a challenge because there is a lot to think about. Research can't tell us which option is best. All the active treatments can have long-lasting side effects. Many prostate cancers grow slowly over a lifetime. That means men can take time to learn about the cancer, the options, and the side effects.</p>
+<p>The first thing to think about is whether to wait and watch the cancer or treat it right away. Options might be different based on your overall health and lab results.</p>
+<h5>What was your Gleason score at the time the cancer was found?</h5>
+<p>A lower Gleason score means the cancer usually grows slowly.</p>
+<p>Tumors with higher Gleason scores (8 to 10) are called aggressive. They are very likely to grow and spread outside the prostate gland within 5 years. Men who have a higher Gleason score may think they need to get an active treatment. But research can't tell us if watchful waiting or an active treatment is better for men with higher Gleason scores.</p>
+<h5>How will your age or other health problems affect your treatment choices?</h5>
+<p>Age and some health problems can make surgery more risky. If you have serious heart or lung problems, your doctor may talk to you about other options. If you have had radiation before, you may not be able to have radiation for prostate cancer. Talk to your doctor about your options.</p>
+<h4>Watchful Waiting</h4>
+<p>Watchful waiting (also called active surveillance or expectant management) means seeing what happens with the cancer over time.</p>
+<p>Watchful waiting is not the same as doing nothing. It means that you keep a careful watch on the cancer with regular checkups. When you visit your doctor or nurse, you might get a digital rectal exam, a PSA blood test, an ultrasound, or a biopsy to see if the cancer has grown.</p>
+<h5>How will watching and waiting affect your sense of well-being?</h5>
+<p>With watchful waiting, your cancer is not taken out or destroyed. You and your doctor will be checking for changes over time. The cancer may not spread. But if it does, your doctor will talk with you about your options for active treatment.</p>
+<h5>What about the side effects?</h5>
+<p>The main benefit of watchful waiting is that you can avoid the side effects of active treatment, like erectile dysfunction (ED) and urinary problems. Keep in mind that men who use watchful waiting may also get these problems. They can be caused by other health issues or medicines.</p>
+<p><i>You and your doctor may decide on an active treatment instead of watchful waiting. If so, think about which one would be best for you. The main benefit with an active treatment is that there is a higher chance that the cancer can be taken out or destroyed. The trade-off is that all active treatments can cause side effects. Some side effects can be long-lasting.</i></p>
+<h4>Prostate Surgery</h4>
+<p>Prostate surgery (also called radical prostatectomy) is an operation to take out the prostate gland and the cancer inside the gland. The urethra (tube that carries urine) is surrounded by the prostate gland, so part of it has to be removed as well. The remaining urethra is reattached to the bladder. Other tissues around the prostate gland, like lymph nodes, may also be removed and checked for cancer.</p>
+<p>Nerves that are needed for a man to get an erection are next to the prostate gland. These nerves can be damaged during surgery, which causes problems in keeping an erection. If the cancer has not spread near the nerves, they can be left alone and not taken out.</p>
+<p>There is more research about prostate surgery than other active treatments.</p>
+<h5>How does prostate surgery compare with watchful waiting?</h5>
+<p>In general, men who have prostate surgery are in good health and are younger than men who use watchful waiting or other active treatments. The risks from prostate surgery increase as you get older. Up to 10 out of 100 men 65 years and older have heart and lung problems after surgery.</p>
+<p>Men who have prostate surgery are more likely to survive their prostate cancer than men who follow watchful waiting. One research study that compared prostate surgery with watchful waiting found:</p>
+<ul>
+	<li>90 out of 100 men who had <b>prostate surgery</b> survived their cancer for at least 10 years.</li>
+	<li>85 out of 100 men who used <b>watchful waiting</b> survived their cancer for at least 10 years.</li>
+</ul>
+<p>This research study started before PSA testing was common.</p>
+<h5>What about combining hormone treatment with prostate surgery?</h5>
+<p>Research tells us that using hormone treatment before prostate surgery does not work better than having prostate surgery without the hormone treatment. Hormone treatment used before surgery does not help men live longer and does not stop the cancer from coming back.</p>
+<div class="highlight_box">
+<h5>More experience means better results</h5>
+<p>Men who have prostate surgery from a surgeon and a hospital with more experience have fewer problems from the surgery.</p>
+<ul>
+	<li>Men treated by surgeons who do more than 10 prostate surgeries a year have a lower chance of long-lasting side effects. They have fewer problems, like dribbling or leaking urine, than men treated by surgeons who do less.</li>
+	<li>Men treated in hospitals that do more than 43 prostate surgeries a year have fewer problems from the surgery. They are less likely to have bleeding or heart and lung problems.</li>
+</ul>
+</div>
+<h4>Radiation</h4>
+<p>Radiation kills the cancer cells. The goal is to target the cancer and avoid hurting normal parts of the body. Radiation can be given in two ways&mdash;external beam radiation or brachytherapy. Sometimes the two kinds of radiation are used together.</p>
+<p><b>External beam</b> radiation uses radiation from a machine to target the prostate gland. This kind of radiation takes place in a hospital or clinic. The radiation is given a few minutes a day for about 6 to 8 weeks.</p>
+<p><b>Brachytherapy</b> (also called radiation &quot;seeding&quot;) uses a needle to put small seeds of radiation into the cancer inside the prostate gland. This usually requires a trip to the hospital or clinic. The seeds inside the prostate gland slowly release radiation over time.</p>
+<h5>What do we know about radiation?</h5>
+<ul>
+	<li>Men who get higher amounts of radiation are less likely to have their prostate cancer come back than men who get lower amounts of radiation.</li>
+	<li>Men who get higher amounts of external beam radiation are more likely to have diarrhea and rectal pain.</li>
+	<li>Research can't tell us if men who get higher amounts of radiation live longer.</li>
+	<li>Research can't tell us if external beam radiation or seeding works better for localized prostate cancer.</li>
+</ul>
+<h5>How does radiation compare with other options?</h5>
+<p>Research can't tell us if men who have radiation live as long as men who use watchful waiting or have prostate surgery.</p>
+<h4>Hormone Treatment</h4>
+<p>Testosterone is a hormone made by the body. It causes prostate cancer cells to grow. Hormone treatment lowers or blocks the body's testosterone. This helps to slow or stop the growth of cancer cells.</p>
+<h5>What do we know about hormone treatments?</h5>
+<p>Hormone treatments come in shots or pills. Most of the research about hormone medicines is on these drugs&mdash;leuprolide (Lupron<sup>&reg;</sup>, Viadur<sup>&reg;</sup>, Eligard<sup>&reg;</sup>), goserelin (Zoladex<sup>&reg;</sup>), flutamide (Eulexin<sup>&reg;</sup>), and bicalutamide (Casodex<sup>&reg;</sup>). Hormone medicines are often combined with prostate surgery or radiation. Hormone treatment can also be used by itself.</p>
+<p>Most of the research is about combining hormone medicines with other types of prostate cancer treatments. There is less research about using hormone medicines on their own.</p>
+<p>Bicalutamide (Casodex<sup>&reg;</sup>) is a pill that does not work for localized prostate cancer. This is true whether it is used by itself, with prostate surgery, or with external beam radiation.</p>
+<p>Research can't tell us if using other hormone treatments on their own can stop localized prostate cancer from spreading.</p>
+<h4>What about combining hormone treatment with radiation?</h4>
+<p>Men who combine hormone medicines with external beam radiation are more likely to survive their prostate cancer than men who get only radiation. One research study that compared radiation with and without hormone treatment found:</p>
+<ul>
+	<li>100 out of 100 men who <b>combined</b> hormone treatment along with external beam radiation survived their prostate cancer for at least 5 years.</li>
+	<li>94 out of 100 men who had <b>only</b> external beam radiation survived their prostate cancer for at least 5 years.</li>
+</ul>
+<p>This research study can't tell us if combining hormone treatment with external beam radiation cures the cancer. Longer research studies are needed to see all the effects of the treatments.</p> 
+			<a name="330"></a>
+			
+
+			
+				<h3>Side Effects of Treatment</h3>
+				<p>All prostate cancer treatments can cause side effects. The most common side effects are sexual, urinary, and bowel problems. Some of these problems happen soon after treatment and others develop over time. Talk to your doctor or nurse if you have any of these side effects. <i>There may be a way to help.</i></p>
+<p><b>Erectile dysfunction</b> (ED) means not being able to keep an erection for intercourse. ED is the most common long-lasting side effect. It can happen with any treatment.</p>
+<p><b>Urinary problems</b> are another long-lasting side effect. This can mean leaking or dribbling urine. It can also mean sometimes not being able to hold your urine at all. Urinary problems are more common after surgery than with other treatments.</p>
+<p><b>Bowel problems</b> can also be a long-lasting side effect. This can mean sometimes having &quot;bowel urgency&quot; (needing to have a bowel movement right away and not being able to wait). Long-lasting bowel problems are more common after external beam radiation or hormone treatment than after prostate surgery or with watchful waiting.</p>
+<p><b>Hormone treatments</b> can have other side effects. They can cause hot flashes, breast swelling, and loss of sex drive. They can also cause tiredness, depression, and memory problems. Hormone treatments can weaken bones and raise the chance they will break.</p>
+<ul>
+	<li>57 out of 100 men who take hormone medicines have <b>hot flashes</b> (sudden feeling of warmth and sweating).</li>
+	<li>25 out of 100 men who take hormone medicines have <b>breast swelling</b>.</li>
+</ul>
+<table class="report_drug_table" title="Comparing Side Effects 2 Years After Treatment" border="0" cellspacing="0" width="75%">
+	<caption>The chart below shows research about long-lasting side effects 2 years after treatment. Erection problems are common with all treatments. Bowel problems are more common with external beam radiation. Urinary problems are more common with prostate surgery.</caption>
+	<thead>
+		<tr>
+			<th id="table_title" colspan="5">Comparing Side Effects 2 Years After Treatment <i><br />
+			(number of men out of 100)</i></th>
+		</tr>
+		<tr class="table_header">
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Watchful<br />
+			Waiting</th>
+			<th scope="col">Prostate<br />
+			Surgery</th>
+			<th scope="col">External Beam<br />
+			Radiation</th>
+			<th scope="col">Hormone<br />
+			Treatment</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row">Erectile Dysfunction<br />
+			(no erections at all)</th>
+			<td class="align_center">33</td>
+			<td class="align_center">58</td>
+			<td class="align_center">43</td>
+			<td class="align_center">86</td>
+		</tr>
+		<tr class="alt_row_color">
+			<th scope="row">Urinary problems<br />
+			(leaking urine)</th>
+			<td class="align_center">&nbsp;7</td>
+			<td class="align_center">35</td>
+			<td class="align_center">12</td>
+			<td class="align_center">11</td>
+		</tr>
+		<tr>
+			<th scope="row">Bowel Problems<br />
+			(bowel urgency)</th>
+			<td class="align_center">16</td>
+			<td class="align_center">14</td>
+			<td class="align_center">29</td>
+			<td class="align_center">16</td>
+		</tr>
+	</tbody>
+</table> 
+			<a name="331"></a>
+			
+
+			
+				<h3>Questions to Ask Your Doctor</h3>
+				
+<p class="question">How aggressive is my cancer? What is the Gleason score of my prostate tumor? What are the results of my PSA and other tests?</p>
+<p class="question">How much time do I have to decide on an option?</p>
+<p class="question">Do my other health problems make any one option better for me?</p>
+<p class="question">Who else should I talk to about watchful waiting? Prostate surgery? Radiation? Hormone treatment?</p>
+<p class="question">What are my risks with this option?</p>
+<p class="question">What is the chance that my cancer will come back after treatment?</p>
+<p class="question">Which option will give me the least problems with erections? Leaking urine? Bowel urgency?</p>
+<p class="question">What is the chance I will be able to have a sex life after treatment?</p>
+<p class="question">How many treatments do you do a year?</p>
+<p class="question">Is there help for any side effects I might have?</p>
+<p class="question">What kind of followup care will I get?</p> 
+			<a name="332"></a>
+			
+
+			
+				<h3>Questions for You to Think About</h3>
+				
+<p class="question">What other information do I need to decide?</p>
+<p class="question">Will joining a support group help me with my decision?</p>
+<p class="question">Will I be okay with waiting and knowing there's a chance the cancer might grow?</p>
+<p class="question">How will my decision affect my relationships?</p>
+<p class="question">What side effects can I live with?</p>
+<p class="question">How will the side effects affect my sex life?</p>
+<p class="question">Will I be okay if I never have an erection after treatment for prostate cancer?</p>
+<p class="question">How much time, money, and support do I need for the option I choose?</p> 
+			<a name="333"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this guide comes from a detailed review of research reports. The review is called <i><a href="/ehc/products/9/80/2008_0204ProstateCancerFinal.pdf">Comparative Effectiveness of Therapies for Clinically Localized Prostate Cancer</a></i> (2008) and was written by the Minnesota Evidence-based Practice Center.</p>
+<p>The Agency for Healthcare Research and Quality (AHRQ) created the Eisenberg Center at Oregon Health &amp; Science University to make research helpful for consumers. This guide was prepared by Sandra Robinson, M.S.P.H., Monica Goei, M.D., Martha Schechtel, R.N., Erin Davis, B.A., Valerie King, M.D., and David Hickam, M.D., of the Eisenberg Center. Men with prostate cancer helped them write this guide.</p> 
+			<a name="334"></a>
+			
+
+			
+				<h3>For More Information</h3>
+				<p>For more information about prostate cancer treatment, research, and support, visit the Medline Plus Web site: <a target="_blank" href="http://www.nlm.nih.gov/medlineplus/prostatecancer.html">www.nlm.nih.gov/medlineplus/prostatecancer.html</a></p>
+<p>For more information about screening for prostate cancer, visit the Centers for Disease Control and Prevention Web site: <a target="_blank" href="http://www.cdc.gov/cancer/prostate/publications/decisionguide">www.cdc.gov/cancer/prostate/publications/decisionguide</a></p>
+<p>For more information about prostate cancer treatment and research, visit the National Cancer Institute Web site: <a target="_blank" href="http://www.cancer.gov/cancertopics/types/prostate">www.cancer.gov/cancertopics/types/prostate</a></p>
+<div class="report_highlight_box medium_box">
+<p>For free print copies call:</p>
+<p><b>The AHRQ Publications Clearinghouse<br />
+(800) 358-9295</b></p>
+&nbsp;
+<p>AHRQ Publication Number:<br />
+08-EHC010-2A</p>
+</div> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

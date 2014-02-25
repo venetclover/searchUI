@@ -1,0 +1,924 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Keeping Children at a Healthy Weight - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;productid=1714&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26productid%3D1714%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=330">
+					Childhood Obesity Prevention Programs: Comparative Effectiveness Review and Meta-Analysis 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1524">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Jun. 10, 2013 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=902">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Dec. 20, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1701">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Sept. 12, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1712">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Sept. 19, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1713">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 19, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1523">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Jun. 10, 2013 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>CME/CE Activity</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=356&cmepage=cme_info">
+									
+									Childhood Obesity Prevention Programs: Comparative Effectiveness 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Related Research</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1526">
+									
+									Future Research Needs for Childhood Obesity Prevention Programs 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 13-EHC081-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1714%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1714%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1714%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1714%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1714%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1714%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1714%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1714%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1714%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1714%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=23989DC2-05E0-26E3-FA103626FFF5188C" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1714&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1714&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1714" title="Keeping Children at a Healthy Weight"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1714.gif" alt="Keeping Children at a Healthy Weight" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Keeping Children at a Healthy Weight" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1714&amp;button=1&quot; title=&quot;Keeping Children at a Healthy Weight&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1714.gif&quot; border=&quot;0&quot; alt=&quot;Keeping Children at a Healthy Weight&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Sept. 19, 2013 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Keeping Children at a Healthy Weight</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/330/1714/child-obesity-130916.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							1.7 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li class="last" style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/330/1714/CHILDREN_WEIGHT.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							9.4 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#8069">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#8070">Understanding Obesity in Children</a></li>
+					
+						<li><a href="#8071">Keeping Your Child From Becoming Overweight or Obese</a></li>
+					
+						<li><a href="#8072">Talking With Your Child's Doctor, School, and Community Centers</a></li>
+					
+						<li><a href="#8073">Sources</a></li>
+					
+			</ul>
+		
+			<a name="8069"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>This information is for you if:</h4>
+<ul>
+	<li>You care for a child between the ages of 5 and 18 years. If your child is younger than 5 years, you may still find this information helpful.</li>
+	<li>You want to know things that can be done at home, in school, and in the community to help children maintain a healthy weight and keep them from becoming overweight or obese. If a child is already overweight or obese, steps can still be taken to keep the child from gaining any more weight.</li>
+</ul>
+<h4>What will this summary cover?</h4>
+<p>This summary will cover:</p>
+<ul>
+	<li>How to know if your child is at a healthy weight</li>
+	<li>What body mass index (BMI) is and what BMI percentiles are</li>
+	<li>What health problems being overweight or obese could cause in a child</li>
+	<li>What might lead to a child becoming overweight or obese</li>
+	<li>What can be done at home, in school, and in the community to help keep children from becoming overweight or obese</li>
+	<li>What researchers have found about things that can be done at home, at school, and in the community</li>
+</ul>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Note</strong>: This summary does not discuss how to help children lose weight. It only talks about keeping your child from becoming overweight or obese. If your child is overweight, ask your child&rsquo;s doctor for information about how to help your child lose weight.</div>
+<p>This summary can help you talk with your child&rsquo;s doctor*, school, and community leaders about keeping your child at a healthy weight.</p>
+<p>* In this summary, the term &ldquo;doctor&rdquo; refers to your child&rsquo;s health care professional, including your child&rsquo;s pediatrician, family medicine physician, nurse practitioner, or physician assistant.</p>
+<h4>Where does the information come from?</h4>
+<p>Researchers reviewed 124 studies on ways to prevent children and adolescents from becoming obese. These studies were published between November 1985 and August 2012. The researchers were funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency.</p>
+<p>The researchers wrote a report on what they found, and this summary is based on that report. The report was reviewed by doctors, researchers, other experts, and the public. You can read the report at <em>www.effectivehealthcare.ahrq.gov/child-obesity-prevention.cfm</em>.</p> 
+			<a name="8070"></a>
+			
+
+			
+				<h3>Understanding Obesity in Children</h3>
+				<p></p>
+<h4>How do I know if my child is at a healthy weight?</h4>
+<p><img alt="young boy on scale" src="/ehc/assets/Image/scale.jpg" style="width:153px;height:350px;float:right;" />Your child&rsquo;s doctor will track your child&rsquo;s height and weight over time and can tell you if your child is at a healthy weight. During wellness checkups, be sure to talk with your child&rsquo;s doctor about your child&rsquo;s weight.</p>
+<p>Your child&rsquo;s doctor may ask you about:</p>
+<ul>
+	<li>Your child&rsquo;s eating habits</li>
+	<li>Whether you have places to get healthy food for your child</li>
+	<li>How much physical activity your child gets</li>
+	<li>Whether there are safe places for your child to run around and play</li>
+	<li>How much screen time your child has each day (time spent watching television, playing video games, or sitting in front of a computer, cell phone, or tablet such as an iPad)</li>
+	<li>Any health problems your child has</li>
+	<li>Your family&rsquo;s medical history</li>
+</ul>
+<h4>What is BMI and what are BMI percentiles?</h4>
+<p>To find out if your child is in a healthy weight range, your child&rsquo;s doctor may use something called BMI, or &ldquo;body mass index.&rdquo; BMI is a measurement based on your child&rsquo;s height and weight. BMI helps the doctor estimate how much body fat your child has. The doctor can use BMI to see if your child is at a healthy weight for his or her height. A healthy BMI is different for girls and boys and changes by age.</p>
+<p>Your doctor may compare your child&rsquo;s BMI to the typical BMI range for children of the same sex and age. To do so, doctors may use what is called a &ldquo;BMI percentile.&rdquo; This can help the doctor figure out if a child is underweight, at a healthy weight, overweight, or obese.</p>
+<p>According to the Centers for Disease Control and Prevention (CDC), children are considered:</p>
+<ul>
+	<li>At a healthy weight if their BMI is between the 5th and 85th percentile</li>
+	<li>Overweight if their BMI is between the 85th and 95th percentile</li>
+	<li>Obese if their BMI is in the 95th percentile or above</li>
+</ul>
+<p>To calculate your child's BMI and BMI percentile, go to <a href="http://apps.nccd.cdc.gov/dnpabmi/">http://apps.nccd.cdc.gov/dnpabmi/</a>.</p>
+<img alt="" src="/ehc/assets/Image/healthy-weight-child-img-1.png" style="width: 570px;height: 92px;" />
+<h4>What health problems can being overweight or obese cause for a child?</h4>
+<p>Children who are overweight or obese are more likely to be overweight or obese as adults. They are also more likely to develop serious health problems such as:</p>
+<ul>
+	<li>High blood sugar or diabetes</li>
+	<li>High blood pressure</li>
+	<li>High cholesterol (a type of fat in the blood)</li>
+	<li>Sleep apnea (a condition in which you stop breathing for brief periods of time while you sleep)</li>
+	<li>Heart problems (such as heart attack or heart failure) or a stroke as an adult</li>
+	<li>Extra pressure on bones and joints, which could lead to bone and joint problems both as a child and as an adult</li>
+	<li>Nonalcoholic fatty liver disease (a disease caused by too much fat in the liver)</li>
+	<li>Low self-esteem or depression</li>
+	<li>Eating disorders such as binge eating and purging</li>
+</ul>
+<h4>What might lead to a child becoming overweight or obese?</h4>
+<p>Many things can lead to a child becoming overweight or obese, including:</p>
+<ul>
+	<li><strong>Unhealthy eating habits.</strong> Children may eat too much, eat too many unhealthy foods, or drink too many sugary drinks.</li>
+	<li><strong>Not getting enough sleep.</strong> Children who do not get enough sleep each night are more likely to become overweight.</li>
+	<li><strong>Family history.</strong> Children from overweight families may be more likely to become overweight. This could be due to a child&rsquo;s genes or learned family eating habits.</li>
+	<li><strong>Not enough physical activity.</strong> Children may not get enough physical activity. Children should be active for at least 1 hour each day.</li>
+	<li><strong>Too much screen time.</strong> Children may have too much screen time during the day. Some children may eat while watching television or playing on the computer.</li>
+	<li><strong>Environment.</strong> Children may spend time in an environment (such as with relatives, with friends, in childcare, or at school) where healthy eating choices or opportunities for physical activity are not available.</li>
+</ul> 
+			<a name="8071"></a>
+			
+
+			
+				<h3>Keeping Your Child From Becoming Overweight or Obese</h3>
+				<h4>How can I keep my child from becoming overweight or obese?</h4>
+<p>To help keep your child from becoming overweight or obese, make sure your child eats healthy and is physically active. There are many things that can be done at home, in school, and in the community to help keep children at a healthy weight. Some examples of each are listed below.</p>
+<h4>At Home</h4>
+<p>There are many things you can do at home as a family. Some examples include:</p>
+<h5>Eat healthy</h5>
+<ul>
+	<li>Cook healthy meals at home with foods from each food group.
+		<ul>
+			<li>The food groups include fruits, vegetables, grains, protein foods (such as meats, eggs, fish, tofu, and beans), and low-fat or nonfat dairy.</li>
+		</ul>
+	</li>
+	<li>Be sure to eat a healthy breakfast every day.</li>
+	<li>Eat at the table as a family instead of in front of a screen (television, computer, cell phone, or tablet).</li>
+	<li>Limit or do not keep unhealthy foods and drinks at home.
+		<ul>
+			<li>Replace unhealthy snacks such as cookies, candy, or chips with healthy snacks such as fruits and vegetables.</li>
+			<li>Replace unhealthy sugary drinks such as sodas, sports drinks, or juices with healthy drinks such as water and low-fat or nonfat milk.</li>
+		</ul>
+	</li>
+	<li>Eat most meals at home instead of at restaurants. At home, you are better able to limit the amount of fat, sugar, and salt in your meals.</li>
+	<li>Be sure to eat the right amount of food.</li>
+</ul>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">For more information about healthy foods, eating the right amount, and sample menus, go to <a href="http://choosemyplate.gov">http://choosemyplate.gov</a>.</div>
+<h5><img alt="father swimming with his children" src="/ehc/assets/Image/healthy-weight-child-img-2.jpg" style="width:345px;height:293px;float:right;margin-left:10px;" />Be physically active</h5>
+<ul>
+	<li>Give your child a chance to run around and play &ndash; at least 1 hour a day.</li>
+	<li>Plan fun activities like bicycling, walking to the park, playing ball, or swimming.</li>
+	<li>Encourage everyone in the family to be active during the day.
+		<ul>
+			<li>For example, take the stairs instead of the elevator and walk or bike places instead of driving or taking the bus.</li>
+		</ul>
+	</li>
+	<li>Limit the amount of screen time each day.</li>
+	<li>In addition to being physically active, make sure your child gets enough sleep each night.</li>
+</ul>
+<p>Let&rsquo;s Go! is a program to keep children from becoming obese. The program focuses on healthy eating and physical activity.</p>
+<p>Let&rsquo;s Go! recommends the &ldquo;5-2-1-0&rdquo; healthy habits for each day:</p>
+<ul>
+	<li>5 fruits and vegetables</li>
+	<li>2 hours or less of screen time for recreation</li>
+	<li>1 hour or more of physical activity</li>
+	<li>0 sugary drinks</li>
+</ul>
+<p>Let&rsquo;s Go! also recommends keeping television and computers out of your child&rsquo;s bedroom and not allowing screen time for children younger than 2 years.</p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">Let&rsquo;s Go! is a State of Maine program that also supplies resources to communities outside of the State. These graphics and messages are adapted from Let&rsquo;s Go! at <a href="http://www.letsgo.org">www.letsgo.org</a>.&nbsp;<a href="/exit-disclaimer/"><img alt="Exit Disclaimer" src="/ehc/images/exit_disclaimer.png" /></a></div>
+<h4>In School</h4>
+<p><img alt="Girl in cafeteria line" src="/ehc/assets/Image/healthy-weight-child-img-3.jpg" style="width:310px;height:237px;float:right;margin-left:10px;" /></p>
+<p>In addition to eating healthy and being physically active at home, school programs can help keep children at a healthy weight. School programs could include things such as:</p>
+<ul>
+	<li>Lessons about the importance of healthy eating and physical activity</li>
+	<li>Information sessions for parents to learn ways to help keep their child at a healthy weight</li>
+	<li>Healthy breakfast and lunch options in the cafeteria with the right portion sizes</li>
+	<li>Healthy snacks and drinks in vending machines and at parties and events</li>
+	<li>Filtered water coolers to encourage drinking water instead of soft drinks or sports drinks</li>
+	<li>Adult-led walk-to-school or bike-to-school groups</li>
+	<li>A longer physical education (PE) period in which children are physically active</li>
+	<li>Gym equipment such as balls and jump ropes for use during recess</li>
+</ul>
+<p>Let&rsquo;s Go! also has resources for schools to help children eat healthy and be physically active. For more information and toolkits for your child&rsquo;s school, go to <a href="http://www.letsgo.org/toolkits/">www.letsgo.org/toolkits/</a>.&nbsp;<a href="/exit-disclaimer/"><img alt="Exit Disclaimer" src="/ehc/images/exit_disclaimer.png" /></a></p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">To find out what your child&rsquo;s school is doing to help keep children from becoming overweight or obese, talk with your child&rsquo;s principal, school nurse, or school counselor. You can also ask how to become involved in the school&rsquo;s Parent-Teacher Association (PTA) or Parent-Teacher Organization (PTO).</div>
+<h4>In the Community</h4>
+<p><img alt="" src="/ehc/assets/Image/healthy-weight-child-img-4.jpg" style="width:159px;height:300px;float:right;" /></p>
+<p>In addition to home and school, things can also be done in the community to help keep children at a healthy weight. Communities and community centers can:</p>
+<ul>
+	<li>Improve community parks, sidewalks, and biking paths.</li>
+	<li>Take steps to make parks, sidewalks, and biking paths safe.</li>
+	<li>Advertise community events such as health fairs, 5K walks, sports events at local parks, community garden programs, and local farmers markets. This can be done on posters, in local newspapers, and on local television and radio stations.</li>
+	<li>Offer programs in which families can get advice on healthy eating and being physically active.</li>
+</ul>
+<p>For other resources to help keep your child at a healthy weight, go to:</p>
+<ul>
+	<li>First Lady Michelle Obama&rsquo;s <strong>Let&rsquo;s Move!</strong>: <a href="http://www.letsmove.gov">www.letsmove.gov</a></li>
+	<li>The National Institutes of Health <strong>We Can!</strong>: <a href="http://www.nhlbi.nih.gov/health/public/heart/obesity/wecan">www.nhlbi.nih.gov/health/public/heart/obesity/wecan</a></li>
+	<li>The American Academy of Pediatrics <strong>Healthy Children</strong>: <a href="http://www.healthychildren.org">www.healthychildren.org</a>&nbsp;<a href="/exit-disclaimer/"><img alt="Exit Disclaimer" src="/ehc/images/exit_disclaimer.png" /></a></li>
+</ul>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">
+	<p>For more information about improving parks, sidewalks, and biking paths in your area, contact your local parks and recreation department.</p>
+	<p>For more information about events or programs in your community, contact your local community or recreation centers (such as the YMCA, Boys and Girls Club, or local religious community centers).</p>
+</div>
+<h4>What have researchers found about doing things at home, in school, and in the community to help keep children from becoming overweight or obese?</h4>
+<p>Healthy eating and physical activity are very important in keeping children from becoming overweight or obese.</p>
+<p>Researchers found that:</p>
+<ul>
+	<li>Programs at schools to help children eat healthy and be physically active can keep children from becoming overweight or obese.</li>
+	<li>Along with school programs, additional steps at home and in the community can also help.</li>
+	<li>More research is needed to know which particular programs or steps work the best.</li>
+</ul> 
+			<a name="8072"></a>
+			
+
+			
+				<h3>Talking With Your Child's Doctor, School, and Community Centers</h3>
+				<h4>Examples of Questions To Ask Your Child&rsquo;s Doctor</h4>
+<ul>
+	<li>Is my child at a healthy weight?</li>
+	<li>What are the most important things for me to do at home to help keep my child at a healthy weight?</li>
+	<li>How can I get my child to eat healthy foods?</li>
+	<li>How much of each type of food should my child eat?</li>
+	<li>How much physical activity does my child need each day?</li>
+	<li>What are the best types of physical activity for my child?</li>
+	<li>How much screen time should I allow my child each day?</li>
+	<li>How much sleep should my child get each night?</li>
+	<li>Do you have any resources that can help me keep my child at a healthy weight?</li>
+	<li>Do you know of any community resources that can help?</li>
+	<li>If there are no grocery stores nearby or healthy food is too expensive for me, do you know of any resources that could help me?</li>
+	<li>If there is no safe place for my child to play outside, how can I help my child stay active?</li>
+</ul>
+<h4>Examples of Questions To Ask Your Child&rsquo;s School Principal, Nurse, or Counselor</h4>
+<ul>
+	<li>Does the school offer programs to help keep children from becoming overweight or obese? If not, how can we start some?</li>
+	<li>In the cafeteria and in vending machines, are healthy foods such as fruits and vegetables available instead of sugary drinks and salty or fatty foods?</li>
+	<li>How much time is my child given during PE, recess, and throughout the day to be physically active?</li>
+	<li>Does the school ever use PE or other physical activity as punishment?</li>
+	<li>Do you have adult-led walk-to-school or bike-to-school programs or other physical activity programs for children?</li>
+	<li>Are there information sessions that I can attend to learn more about helping my child stay at a healthy weight?</li>
+	<li>What can I do at home to help reinforce what my child is taught about healthy eating and physical activity at school?</li>
+	<li>Do you know of any community resources that can help?</li>
+</ul>
+<h4>Examples of Questions To Ask Your Local Community or Recreation Center</h4>
+<ul>
+	<li>Do you have any resources or programs on healthy eating or physical activities for children?</li>
+	<li>Do you keep a calendar of community events such as health fairs, 5K walks, or sports events at local parks?</li>
+	<li>Do you have a list of local community gardens or farmer&rsquo;s markets?</li>
+	<li>Do you know of any programs that can give me advice on how to help my family eat healthy and be physically active?</li>
+</ul> 
+			<a name="8073"></a>
+			
+
+			
+				<h3>Sources</h3>
+				<p>The information in this summary comes from the report <em>Childhood Obesity Prevention Programs: Comparative Effectiveness Review and Meta-Analysis</em>, June 2013. The report was produced by the Johns Hopkins University Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus<sup>&reg;</sup> Web site, a service of the National Library of Medicine and the National Institutes of Health. The site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., Jason A. Mendoza, M.D., M.P.H., and Michael Fordis, M.D. Parents of children between the ages of 2 and 18 reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

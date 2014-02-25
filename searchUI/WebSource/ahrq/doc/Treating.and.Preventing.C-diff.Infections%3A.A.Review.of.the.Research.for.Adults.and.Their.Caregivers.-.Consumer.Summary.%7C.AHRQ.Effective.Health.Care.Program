@@ -1,0 +1,861 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Treating and Preventing C-diff Infections: A Review of the Research for Adults and Their Caregivers - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productid=891" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Fwww%2Eeffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fpageaction%3DdisplayProduct%26productID%3D891">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=115">
+					Effectiveness of Early Diagnosis, Prevention, and Treatment of Clostridium difficile Infection 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=772">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Dec. 19, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=446">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> May 24, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1057">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> May 2, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1570">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jul. 3, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1643">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 14, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=879">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Dec. 19, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1002">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Mar. 12, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=822">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Dec. 19, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=302&cmepage=cme_info">
+									
+									CME Activity: Clostridium difficile Infections: Diagnosis, Treatment, and Prevention 
+								</a>
+								
+								
+						</li>
+						
+							<li>
+								<a href="http://www.annals.org/content/155/12/839.abstract">
+									
+									Drekonja DM, Butler M, MacDonald R, et al. Comparative effectiveness of Clostridium difficile treatments: a systematic review. Ann Intern Med 2011 Dec 20;155(12):839-47. 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=278&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 11(12)-EHC051-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d891"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d891"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d891"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d891&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d891&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d891&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d891"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d891&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d891&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d891&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://www.effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=229066A2-D3F2-3633-76D8BC2A3527CF7F" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=891&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=891&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Dec. 19, 2011 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Treating and Preventing C-diff Infections: A Review of the Research for Adults and Their Caregivers</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/115/891/cdiff_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							533 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/115/891/C-DIFF.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.2 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1002" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#4171">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#4172">Understanding Your Condition</a></li>
+					
+						<li><a href="#4173">Understanding Your Choices</a></li>
+					
+						<li><a href="#4174">Source</a></li>
+					
+			</ul>
+		
+			<a name="4171"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<ul>
+	<li>You are having watery diarrhea with mild cramps three or more times a day and it has lasted for several days, especially after you have been taking an antibiotic or have been in the hospital.</li>
+	<li>Your doctor or health care professional has told you that you are infected with a germ called <em>Clostridium difficile</em>, also called &ldquo;<em>C. difficile</em>&rdquo; or &ldquo;C-diff.&rdquo;</li>
+</ul>
+<p>This summary will provide information from the most recent review of research on C-diff infections to help you understand your treatment options and ways to prevent future infections.</p>
+<h4>No, if:</h4>
+<ul>
+	<li>Your health care professional has told you that the diarrhea or other symptoms you have&mdash;or someone you are caring for has&mdash;are the result of an infection with a different type of germ or virus.</li>
+</ul>
+<h4>Where does the information come from?</h4>
+<p>The information comes from a review of 102 studies on preventing and treating C-diff infections. Independent researchers conducted this review for the Agency for Healthcare Research and Quality (AHRQ), a Federal Government agency. You can read the entire report at <a href="http://www.effectivehealthcare.ahrq.gov/cdiff.cfm">www.effectivehealthcare.ahrq.gov/cdiff.cfm</a>.</p> 
+			<a name="4172"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is <em>Clostridium difficile</em>?</h4>
+<p><em>Clostridium difficile</em> (klos-TRID-e-uhm dif-uh-SEEL) is a germ that can be found in many places, including soil, water, and air. You may hear people call it &ldquo;<em>C. difficile</em>&rdquo; or &ldquo;C-diff.&rdquo;</p>
+<p>Certain types of C-diff germs create chemicals or &ldquo;toxins.&rdquo; Toxin-producing C-diff germs can make some people sick.</p>
+<h4>What causes a C-diff infection?</h4>
+<p>Your intestines have many &ldquo;good&rdquo; germs in them that help you digest food. A C-diff germ enters your body when you eat or swallow something that has C-diff on it. The germ moves to your intestines. A healthy person with a normal immune system and normal &ldquo;good&rdquo; germs may not get sick. But if your immune system is weak or these good germs have been killed by an &ldquo;antibiotic&rdquo; (an-tee-bye-OT-ik) you may be taking for a different kind of infection, C-diff may grow in your intestines and cause diarrhea. This is called a C-diff infection.</p>
+<p><img alt="graphic of intestines" width="407" height="235" src="/tasks/sites/ehc/assets/Image/cdiff_cons_pg_1.jpg" /></p>
+<h4>What increases my risk for a C-diff infection?</h4>
+<p>You may be at a greater risk for getting a C-diff infection if:</p>
+<ul>
+	<li>You have been taking an antibiotic during the past 30 days. Antibiotics can kill the &ldquo;good&rdquo; germs in your intestines.</li>
+	<li>You have an immune system that is weak from a major chronic (ongoing) illness.</li>
+	<li>You are a woman 65 or older.</li>
+	<li>You take medicine for heartburn or to lower the acid in your stomach. These medicines include Prevacid&reg;, Tagamet&reg;, Prilosec&reg;, or Nexium&reg;.</li>
+	<li>You have been in the hospital, especially in an intensive care unit, or you live in a nursing home.</li>
+</ul>
+<p>C-diff infections occur most often in hospitals, nursing homes, and other places where there are more people who are sick or who are taking antibiotic medicines.</p>
+<h4>Can C-diff infections come back?</h4>
+<p>One out of every five people who are treated for a C-diff infection will see it return within 8 to 10 weeks after they have completely finished the medicine used to treat the infection. Researchers do not know why this happens.</p>
+<h4>Is a C-diff infection serious?</h4>
+<p>Some patients with C-diff infections can become very sick. In rare cases, a C-diff infection can lead to having your bowel removed. You could even die. It is important to know how to avoid and treat a C-diff infection, especially if you are at risk.</p>
+<h4>What are the symptoms of C-diff?</h4>
+<p><strong>Symptoms of a mild to moderate</strong> C-diff infection are:</p>
+<ul>
+	<li>Watery diarrhea 3 or more times a day for 2 days or more.</li>
+	<li>Mild cramping and tenderness in your belly.</li>
+</ul>
+<p><strong>Severe symptoms</strong> of a severe C-diff infection include:</p>
+<ul>
+	<li>Watery diarrhea many times throughout the day and night.</li>
+	<li>Very bad cramping and pain in your belly.</li>
+	<li>Fever.</li>
+	<li>Blood or pus in the stool.</li>
+	<li>Nausea.</li>
+	<li>Not enough water in your body (called &ldquo;dehydration&rdquo;).</li>
+	<li>Loss of appetite.</li>
+	<li>Weight loss.</li>
+</ul>
+<p>Do not be embarrassed talking about these symptoms with your doctor. C-diff is a serious illness that needs treatment!</p> 
+			<a name="4173"></a>
+			
+
+			
+				<h3>Understanding Your Choices</h3>
+				<h4>What treatments work to treat C-diff Infections?</h4>
+<h5>Antibiotics for first-time C-diff infections</h5>
+<p>C-diff is a germ, which means it can usually be killed by medicines called antibiotics. Your doctor may prescribe one of these antibiotics:</p>
+<ul>
+	<li>Fidaxomicin (fid-ex-oh-MY-sin). The common brand name for this medicine is Dificid&reg;.</li>
+	<li>Metronidazole (meh-troh-NID-uh-zole). The common brand name of this medicine is Flagyl&reg;.</li>
+	<li>Oral Vancomycin (vank-oh-MY-sin). The common brand name for this medicine is Vancocin&reg;.</li>
+</ul>
+<p>Research found that all three antibiotics can cure your first C-diff infection about the same. However, less people had one type of C-diff infection (called the non-North American Pulsed Field type I strain, or non-NAP1) come back after taking fidaxomicin.</p>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">Always take your antibiotics as you are told by your doctor. That means taking all of the medicine you have been given to treat the infection.</div>
+<h5>What can I do if my C-diff infection comes back?</h5>
+<p>It is common for people to get a C-diff infection again&mdash;maybe several times&mdash;after the first infection. If this happens, your doctor may prescribe another round of the same or different antibiotic, or may try different doses or combinations of these medicines.</p>
+<h5>What other treatments might I hear about? Do they work?</h5>
+<p>You may read or hear about &ldquo;non-standard&rdquo; (not antibiotic) treatments that a doctor might use if standard antibiotic treatments do not work to keep you from getting repeat C-diff infections. These options are not used as often, and they may be used with antibiotics. Some of these options may not be covered by regular medical insurance policies or be available in your area.</p>
+<p><strong>Treatments that show some promise but are not yet proven:</strong></p>
+<ul>
+	<li><strong><em>Clostridium difficile</em> immune whey (CDIW).</strong> CDIW is made from the milk of cows that are immune to (not able to get infected by) C-diff. You take this milk-like liquid like any other drink.</li>
+	<li><strong>Prebiotics.</strong> Prebiotics are food for the good germs in your body. They can help defend your intestines against bad germs like C-diff. They occur naturally in certain foods or can be taken as supplements.</li>
+	<li><strong>Toxin-neutralizing antibodies.</strong> Toxin-neutralizing antibodies are a type of medicine that blocks the toxins produced by C-diff germs. These medicines are given through an IV (an intravenous tube that is held in your arm with a needle).</li>
+	<li><strong>Restoring healthy germs (fecal flora reconstitution).</strong> Doctors take normal fecal matter containing healthy germs from a close family member who is not infected and place it into the intestine of the patient.</li>
+</ul>
+<p><strong>Treatments that did not show promise:</strong></p>
+<ul>
+	<li><strong>Probiotics.</strong> Probiotics are good germs that you can eat to help you fight disease. Some research found that adding probiotics to antibiotic treatment did NOT help cure C-diff infections. Researchers found that critically ill patients with a C-diff infection who take certain probiotics may be at an increased risk for getting a life-threatening fungal infection.</li>
+</ul>
+<h4>How can C-diff infections be prevented?</h4>
+<h5>Using antibiotics wisely</h5>
+<ul>
+	<li>Take an antibiotic only when you have an infection caused by bacteria. Antibiotics cannot help cure all infections. For example, antibiotics do not help the common cold and other viruses. Your doctor can help you decide if you need an antibiotic for an illness.</li>
+	<li>When you do need an antibiotic, it is best to use one made to kill the specific type of germ infecting you (called a &ldquo;narrow-spectrum&rdquo; antibiotic) if it is available. Antibiotics that kill many types of germs (called &ldquo;broad-spectrum&rdquo;) may also kill the good germs that protect you from C-diff. Be sure to ask your doctor if the antibiotic that was prescribed to you has a high risk for C-diff infection.</li>
+	<li>If you have an infection, your doctor may use a broad-spectrum antibiotic. Your doctor may then switch you to a narrow-spectrum antibiotic based on test results showing which germs are causing your infection.</li>
+	<li>Always be sure to take only the antibiotics that have been prescribed for <em>you</em> and to take all of the antibiotic medicine given to you.</li>
+</ul>
+<h5>If you have C-diff at the hospital or nursing home</h5>
+<p>C-diff germs can remain on bed linens, bed rails, bathroom fixtures, and medical equipment.</p>
+<ul>
+	<li>Doctors and nurses should wear disposable gloves and gowns when taking care of you.</li>
+	<li>All doctors, nurses, and other staff should always follow proper hand hygiene policies put in place by the hospital or nursing home where you are staying.</li>
+	<li>The hospital or nursing home should use cleaning products that can kill C-diff germs.</li>
+</ul>
+<h5>If you are visiting someone with C-diff at the hospital or nursing home</h5>
+<p>C-diff infections usually do not occur in people who are not taking antibiotics. If you are not at risk for C-diff, you are not likely to get the infection. However, you can spread the germ without knowing it.</p>
+<ul>
+	<li>Only the patient with C-diff should use the bathroom in the patient&rsquo;s room.</li>
+	<li>You may need to wear disposable gloves and gowns when visiting.</li>
+	<li>Wash your hands with soap and water when entering or leaving the room.</li>
+</ul>
+<h5>If at home</h5>
+<ul>
+	<li>Wash your hands often with soap and water, especially after using the bathroom and before eating or preparing food.</li>
+	<li>Everyone in your home should wash their hands often.</li>
+</ul>
+<h4>Talking to your doctor about C-diff</h4>
+<p>Here are a few questions to ask your doctor or health care professional about C-diff infections.</p>
+<h5>When you have been prescribed an antibiotic for an infection other than a C-diff infection:</h5>
+<ul>
+	<li>Is this a broad-spectrum or a narrow-spectrum antibiotic?</li>
+	<li>If I am at risk for getting a C-diff infection, is there a narrowspectrum antibiotic that I can take?</li>
+</ul>
+<h5>If you are experiencing a C-diff infection for the first time:</h5>
+<ul>
+	<li>Which antibiotic do you think will work best for my C-diff infection?</li>
+	<li>How long will it take for my symptoms to go away?</li>
+	<li>If my symptoms go away and come back, does this mean I have a C-diff infection again?</li>
+	<li>Is there a treatment plan that can help make sure that the C-diff infection doesn&rsquo;t come back?</li>
+</ul> 
+			<a name="4174"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Andrea Humphries, Ph.D., Thomas Workman, Ph.D., Thomas Giordano, M.D., and Michael Fordis, M.D.&nbsp; Patients with <em>Clostridium difficile</em> reviewed this summary.</p>
+<p>It is based on a larger research report produced by the University of Minnesota Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>For a copy of the report or for more information about AHRQ and the Effective Health Care Program, go to <a href="http://www.effectivehealthcare.ahrq.gov/cdiff.cfm">www.effectivehealthcare.ahrq.gov/cdiff.cfm</a>.</p>
+<p>The information in this guide comes from the report <em><a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=772">Effectiveness of Early Diagnosis, Prevention, and Treatment of</a> </em><a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=772">Clostridium difficile</a><em><a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=772"> Infection</a></em>, December 2011. Findings from this report were also published in the article, &ldquo;Comparative Effectiveness of <em>Clostridium difficile</em> Treatments. A Systematic Review&rdquo; in the <em>Annals of Internal Medicine</em> on December 20, 2011.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

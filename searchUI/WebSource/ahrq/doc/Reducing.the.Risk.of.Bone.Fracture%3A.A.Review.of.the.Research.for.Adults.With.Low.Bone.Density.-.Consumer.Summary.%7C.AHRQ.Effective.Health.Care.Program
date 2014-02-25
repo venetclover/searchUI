@@ -1,0 +1,1339 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Reducing the Risk of Bone Fracture: A Review of the Research for Adults With Low Bone Density - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;pcem=en&amp;productid=1049&amp;mode=p" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Fwww%2Eeffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fpageaction%3Ddisplayproduct%26PCem%3DEN%26productID%3D1049%26mode%3DP">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=160">
+					Treatment To Prevent Fractures in Men and Women With Low Bone Density or Osteoporosis: Update of a 2007 Report 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1007">
+										Research Review  (Update)
+									</a>
+							<span style="font-size:7pt;"> Mar. 28, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=441">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> May 14, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1125">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Jun. 28, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1660">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 20, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1048">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> May 16, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1204">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Jul. 31, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1006">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Mar. 28, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/ehc/decisionaids/osteoporosis/">
+									
+									Healthy Bones: A Decision Aid for Women After Menopause 
+								</a>
+								
+								
+						</li>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=311&cmepage=cme_info">
+									
+									CME Activity: Treatment To Prevent Fractures in Men and Women With Low Bone Desity or Osteoporosis: An Update 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12-EHC023-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3den%26amp%3bproductid%3d1049%26amp%3bmode%3dp"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3den%26amp%3bproductid%3d1049%26amp%3bmode%3dp"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3den%26amp%3bproductid%3d1049%26amp%3bmode%3dp"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3den%26amp%3bproductid%3d1049%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3den%26amp%3bproductid%3d1049%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3den%26amp%3bproductid%3d1049%26amp%3bmode%3dp&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3den%26amp%3bproductid%3d1049%26amp%3bmode%3dp"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3den%26amp%3bproductid%3d1049%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3den%26amp%3bproductid%3d1049%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3den%26amp%3bproductid%3d1049%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://www.effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2619745E-C1C2-321C-5C768F27B956F171" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm/search-for-guides-reviews-and-reports/?PCem=EN&amp;mode=P&amp;pageaction=displayproduct&amp;productID=1049" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1049&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1049" title="Reducing the Risk of Bone Fracture: A Review of the Research for Adults With Low Bone Density"><img src="http://www.effectivehealthcare.ahrq.gov/ehc/images/buttons/1049.gif" alt="Reducing the Risk of Bone Fracture: A Review of the Research for Adults With Low Bone Density" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Reducing the Risk of Bone Fracture: A Review of the Research for Adults With Low Bone Density" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1049&amp;button=1&quot; title=&quot;Reducing the Risk of Bone Fracture: A Review of the Research for Adults With Low Bone Density&quot;&gt;&lt;img src=&quot;http://www.effectivehealthcare.ahrq.gov/ehc/images/buttons/1049.gif&quot; border=&quot;0&quot; alt=&quot;Reducing the Risk of Bone Fracture: A Review of the Research for Adults With Low Bone Density&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; May 16, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Reducing the Risk of Bone Fracture: A Review of the Research for Adults With Low Bone Density</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/160/1049/osteoporosis-bone-fracture-130917.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							1.0 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/160/1049/LOW_BONE_DENSITY.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							9.4 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1204" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#5279">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#5280">Understanding Your Condition</a></li>
+					
+						<li><a href="#5281">Understanding Your Options</a></li>
+					
+						<li><a href="#5282">Making a Decision</a></li>
+					
+						<li><a href="#5283">Source</a></li>
+					
+			</ul>
+		
+			<a name="5279"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, this information is right for you if:</h4>
+<ul>
+	<li>Your doctor* has said you have low bone density. People with low bone density have one of two conditions:
+	<ul>
+		<li>Osteopenia (pronounced AH-stee-oh-peen-ee-ya): mild low bone density</li>
+		<li>Osteoporosis (pronounced AH-stee-oh-pohr-oh-sis): severe low bone density</li>
+	</ul>
+	</li>
+	<li>Your doctor has said you may have a higher risk of breaking a bone because of your low bone density.</li>
+	<li>You have broken a bone by falling while standing.</li>
+	<li>Your doctor has suggested medicines to lower your risk of breaking a bone.</li>
+</ul>
+<p>* In this summary, the term &ldquo;doctor&rdquo; refers to the health care professionals who may take care of you, including your physician, nurse practitioner, or physician assistant.</p>
+<h4>No, this information is not right for you if:</h4>
+<ul>
+	<li>Your doctor has not said you have low bone density or that you need medicines to lower your risk for broken bones.</li>
+	<li>You are under 18. This research was done on adults.</li>
+</ul>
+<h4>What does this summary cover?</h4>
+<p>This summary explains how low bone density can increase the risk of breaking a bone and what research has found about different treatments to lower the risk. It can help you talk with your doctor about which treatment might be right for you.</p>
+<h4>Where does the information in this summary come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 567 studies published between January 2005 and March 2011 on low bone density treatments. The report was reviewed by clinicians, researchers, experts, and the public. You can read the report at <a href="http://www.effectivehealthcare.ahrq.gov/lbd.cfm">www.effectivehealthcare.ahrq.gov/lbd.cfm</a>.</p> 
+			<a name="5280"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is low bone density?</h4>
+<p>Low bone density is a condition where the tissue inside your bones begins to thin, or becomes less dense. There are two forms of this condition: osteopenia (mild low bone density) and osteoporosis (severe low bone density).</p>
+<h5>What causes low bone density?</h5>
+<p>Your bones are made of living tissue that never stops growing. The layers of tissue in your bones constantly rebuild. Your body breaks down and removes old bone tissue and forms new bone tissue to replace it.</p>
+<p>When you are young, new bone replaces old bone quickly. This makes your bones solid and strong. As you get older, your body loses bone tissue faster than it can be replaced. This makes your bones less solid and weaker.</p>
+<p>Most people&rsquo;s bones get weaker as they get older. Whether or not a person has osteopenia or osteoporosis depends on how much of their bone density is lost.</p>
+<p><img src="/tasks/sites/ehc/assets/Image/bonedensityimage.png" alt="image of normal bone density and low bone density." width="473" height="183" /></p>
+<h5>How common is low bone density?</h5>
+<ul>
+	<li>About 52 million people in the United States are affected by osteoporosis or low bone density.</li>
+	<li>Both men and women can have low bone density.</li>
+	<li>Osteoporosis is more common in women, especially women who have gone through menopause. About one in five women in the United States who are over the age of 50 have osteoporosis.</li>
+</ul>
+<h5>How do I know my risk for breaking a bone?</h5>
+<p>Your doctor may have used a bone scan or spoken to you about the World Health Organization Fracture Risk Assessment Tool (FRAX&reg;) calculator to estimate your risk of bone fracture.</p>
+<p>Around one in two women over the age of 50 and one in five men will break a bone because of osteoporosis during their lifetime.</p>
+<h5>Who is most likely to break a bone?</h5>
+<p>Women, especially those who have gone through menopause or younger women whose ovaries no longer work, have a higher risk for breaking a bone.</p>
+<p>Others with a higher risk for breaking a bone include people with:</p>
+<ul>
+	<li>Increasing age.</li>
+	<li>A history of broken bones from falling.</li>
+	<li>Caucasian heritage.</li>
+	<li>Rheumatoid arthritis.</li>
+	<li>History of smoking.</li>
+	<li>Alcohol use.</li>
+	<li>Low levels of vitamin D.</li>
+	<li>Not enough calcium in their diet.</li>
+	<li>A higher risk for falling due to poor balance or other causes.</li>
+	<li>Conditions that require medicines like Prednisone&reg; or other steroids, blood thinners, anti-seizure drugs, or breast or prostate cancer drugs.</li>
+</ul>
+<h5>Why are broken bones dangerous?</h5>
+<p>Broken bones can cause serious health problems:</p>
+<ul>
+	<li>The most common bones that break are the hip, wrist, and spine (backbone).</li>
+	<li>Broken bones can cause ongoing pain and make it hard to do daily activities.</li>
+	<li>The bones in your spine can crunch together and cause pain. This could cause you to lose an inch or more of height.</li>
+	<li>While recovering from a broken bone&mdash;especially the hip&mdash;you may need constant care and may have to stay in a nursing home.</li>
+	<li>If you break your hip, you will probably need surgery to fix it. Surgery increases your risk for other health problems.</li>
+	<li>Once you break a bone, you may be more likely to break other bones, which could lead to more health problems.</li>
+</ul>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">About one in every five women over 50 who break their hip will die within a year.</div> 
+			<a name="5281"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>What treatments can help lower the risk of breaking a bone?</h4>
+<p>For people with low bone density, there are treatments that can help strengthen your bones and lower your risk of breaking a bone. Your doctor may suggest one or more of the following treatments:</p>
+<p><img alt="treatment options for low bone density: medicines, nutritional supplements, exercise" height="178" src="/tasks/sites/ehc/assets/Image/treatmentoptionslbd.png" width="438" /></p>
+<h4>What medicines are available?<img alt="Medicines Icon." height="109" src="/tasks/sites/ehc/assets/Image/medicinesicon.png" style="float: right;" width="109" /></h4>
+<p>Medicines that help reduce the risk of breaking a bone either help slow the breakdown of old bone or help build new bone more quickly.</p>
+<ul>
+	<li>Most research has been done to see how well these medicines work for women with osteoporosis who have already gone through menopause. Not as many studies have been done to see if these medicines work for men or for women who have not gone through menopause.</li>
+	<li>Some of these medicines may also be taken by people with osteopenia.</li>
+	<li>There is not enough research to exactly know how much the medicines will lower the risk of breaking a bone.</li>
+	<li>Even if your bone density does not change while you are taking medicine, that does not mean the medicine is not working to protect you from breaking a bone.</li>
+</ul>
+<h5>Medicines and the Bones They Protect</h5>
+<p>For women with osteoporosis who have gone through menopause, researchers found that the following medicines do or do not lower the risk of breaking the bones listed.</p>
+<table class="styleOne">
+	<thead>
+		<tr class="valign-bottom">
+			<th colspan="2" scope="col">Medicine</th>
+			<th scope="col" style="width:10%;">Spine</th>
+			<th scope="col" style="width:10%;">Hip</th>
+			<th scope="col" style="width:10%;">Wrist</th>
+			<th scope="col" style="width:10%;">Other<br />
+				Bone(s)</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="6"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark(1).png" width="22" />&nbsp;= does reduce risk; &nbsp; <img alt="x" height="20" src="/tasks/sites/ehc/assets/Image/red_x(1).png" width="22" />&nbsp;= does NOT reduce risk;&nbsp; &nbsp;&mdash; = unknown.<br />
+				* These medicines appear to lower the risk of breaking a wrist bone, but there is not enough research to know for sure.<br />
+				** In women who have gone through menopause but do NOT have osteoporosis, MHT lowers the risk of breaking the spine,&nbsp;hip, or other bones.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th rowspan="4" scope="row">Bisphosphonates</th>
+			<th class="section_title" scope="row">Alendronate (Fosamax&reg;)</th>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /><strong>*</strong></td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Ibandronate (Boniva&reg;)</th>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center">&mdash;</td>
+			<td class="align_center">&mdash;</td>
+			<td class="align_center">&mdash;</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Risedronate (Actonel&reg; or Atelvia&reg;)</th>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /><strong>*</strong></td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Zoledronic acid (Reclast&reg;)</th>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center">&mdash;</td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="2" scope="row">Denosumab (Prolia&reg;)</th>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center">&mdash;</td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="2" scope="row">Menopausal Hormone Therapy (MHT)**</th>
+			<td class="align_center"><img alt="x" height="20" src="/tasks/sites/ehc/assets/Image/red_x.png" width="22" /></td>
+			<td class="align_center"><img alt="x" height="20" src="/tasks/sites/ehc/assets/Image/red_x.png" width="22" /></td>
+			<td class="align_center"><img alt="x" height="20" src="/tasks/sites/ehc/assets/Image/red_x.png" width="22" /></td>
+			<td class="align_center"><img alt="x" height="20" src="/tasks/sites/ehc/assets/Image/red_x.png" width="22" /></td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="2" scope="row">Raloxifene (Evista&reg;)</th>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center"><img alt="x" height="20" src="/tasks/sites/ehc/assets/Image/red_x.png" width="22" /></td>
+			<td class="align_center"><img alt="x" height="20" src="/tasks/sites/ehc/assets/Image/red_x.png" width="22" /></td>
+			<td class="align_center"><img alt="x" height="20" src="/tasks/sites/ehc/assets/Image/red_x.png" width="22" /></td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="2" scope="row">Teriparatide (Forteo&reg;)</th>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+			<td class="align_center">&mdash;</td>
+			<td class="align_center">&mdash;</td>
+			<td class="align_center"><img alt="check mark" height="22" src="/tasks/sites/ehc/assets/Image/check_mark.png" width="22" /></td>
+		</tr>
+	</tbody>
+</table>
+<h5>How long will the medicine protect my bones?</h5>
+<p>There is not enough research to say how long most medicines might protect you from breaking a bone, or how long you may need to take a medicine. There is some evidence that taking alendronate (Fosamax&reg;) for more than 5 years may protect your spine from breaking. Some women may experience protection for bones other than their spine after taking this medicine for 5 years, while other women will not. Only women who still have osteoporosis or bone breaks in their spine after the first 5 years of treatment may gain protection for bones other than their spine by taking medicine for 5 more years.</p>
+<h5>Bisphosphonates</h5>
+<p>Bisphosphonates (pronounced biss-FOSS-fuh-nates) are a group of medicines that slow the breakdown of bones.</p>
+<table class="styleOne">
+	<thead>
+		<tr class="valign-bottom">
+			<th scope="col">Drug Name</th>
+			<th scope="col">Brand Name</th>
+			<th scope="col">How It Is Taken</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Alendronate</td>
+			<td>Fosamax&reg;</td>
+			<td>
+				<ul>
+					<li>A pill every day</li>
+					<li>A pill one time a week</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Ibandronate</td>
+			<td>Boniva&reg;</td>
+			<td>
+				<ul>
+					<li>A pill every day or one time a month</li>
+					<li>Through an IV (through a tube and needle into your vein) one time every 3 months</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Risedronate</td>
+			<td>Actonel&reg;or Atelvia&reg;</td>
+			<td>
+				<ul>
+					<li>A pill every day, one time a week, or one time a month</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Zoledronic acid</td>
+			<td>Reclast&reg;</td>
+			<td>
+				<ul>
+					<li>Through an IV in your vein one time a year or one time every 2 years</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<ul>
+	<li>For alendronate (Fosamax&reg;), ibandronate (Boniva&reg;), and risedronate (Actonel&reg;), you must take the pill on an empty stomach with a full glass of water. You must also be standing up, and you cannot lie down for at least 30 minutes after taking any of these medicines.</li>
+	<li>Unlike other bisphosphonate pills, Atelvia&reg; must be taken with food, and is usually taken right after breakfast.</li>
+</ul>
+<p><strong>Researchers found:</strong></p>
+<ul>
+	<li>For women with osteoporosis who have gone through menopause:
+		<ul>
+			<li>Alendronate (Fosamax&reg;) lowers the risk of breaking the spine, hip, or other bones. This medicine may also protect your wrist, but there is not enough research to say for certain.</li>
+			<li>Ibandronate (Boniva&reg;) lowers the risk of breaking the spine.</li>
+			<li>Risedronate (Actonel&reg; or Atelvia&reg;) lowers the risk of breaking the spine, hip, or other bones. This medicine may also protect your wrist, but there is not enough research to say for certain.</li>
+			<li>Zoledronic acid (Reclast&reg;) lowers the risk of breaking the spine, hip, or other bones.</li>
+		</ul>
+	</li>
+	<li>If you do not follow your doctor&rsquo;s instructions for taking bisphosphonates, your risk of breaking a bone increases.</li>
+	<li>Some medicines are made for you to take once a week (instead of once a day). Others are taken only once a month or once a year.
+		<ul>
+			<li>Many people find it easier to take these medicines once a week.</li>
+			<li>There is not enough research to know if people find it easier to take medicines once a month.</li>
+			<li>Side effects might be different for once-a-week and once-a-month medicines.</li>
+		</ul>
+	</li>
+	<li>There is not enough research to know if any one bisphosphonate works better than any other.</li>
+</ul>
+<h5>Denosumab (Prolia&reg;)</h5>
+<ul>
+	<li>Denosumab is a medicine that slows the breakdown of bones.</li>
+	<li>This medicine is for women after menopause, for men, and for women undergoing treatment for some types of cancer.</li>
+	<li>It is given as a shot at your doctor&rsquo;s office every 6 months.</li>
+</ul>
+<p><em><strong>What does research say about denosumab (Prolia&reg;)?</strong></em></p>
+<p>Researchers found that denosumab lowers the risk of breaking the spine, hip, or other bones in women with osteoporosis who have gone through menopause.</p>
+<h5>Raloxifene (Evista&reg;)</h5>
+<ul>
+	<li>Raloxifene is another medicine that slows the breakdown of bones.</li>
+	<li>This medicine is only for women after menopause.</li>
+	<li>Raloxifene is not a hormone, but it keeps bone from breaking down like the natural female hormone estrogen.</li>
+	<li>Raloxifene is a pill that you usually take every day with or without food. You have to take this pill at about the same time every day.</li>
+</ul>
+<p><em><strong>What does research say about raloxifene (Evista&reg;)?</strong></em></p>
+<p>Researchers found:</p>
+<ul>
+	<li>Raloxifene lowers the risk of breaking the spine in women with osteoporosis who have gone through menopause.</li>
+	<li>Raloxifene does NOT lower the risk of breaking the hip, wrist, or other bones in women with osteoporosis who have gone through menopause.</li>
+</ul>
+<h5>Teriparatide (Forteo&reg;)</h5>
+<ul>
+	<li>Teriparatide is a medicine that acts like a natural hormone.&nbsp;It helps your body form new bone.</li>
+	<li>This medicine is for women after menopause and for men.</li>
+	<li>It is a shot taken every day that comes in a &ldquo;pen&rdquo;&mdash;a device you use to inject the medicine into your belly or thigh.</li>
+</ul>
+<p><strong><em>What does research say about teriparatide (Forteo&reg;)?</em></strong></p>
+<p>Researchers found that teriparatide lowers the risk of breaking the spine and other bones in women with osteoporosis who have gone through menopause.</p>
+<h5>Menopausal Hormone Therapy (MHT)</h5>
+<ul>
+	<li>MHT is a therapy where women take hormone supplements. Doctors use estrogen or estrogen with progestin for this therapy.</li>
+	<li>This treatment is only for women who have gone through menopause.</li>
+	<li>MHT can have serious side effects. It can increase your risk of stroke, heart disease, and breast cancer.</li>
+	<li>Because of the risk for serious side effects, many health professionals no longer recommend taking estrogen with progestin to prevent osteoporosis.</li>
+</ul>
+<p><strong><em>What does research say about MHT?</em></strong></p>
+<p>Researchers found:</p>
+<ul>
+	<li>MHT does not lower the risk of breaking a bone in women with osteoporosis who have gone through menopause.</li>
+	<li>In women who have gone through menopause but do NOT have osteoporosis, MHT helps prevent the spine, hip, and other bones from breaking.</li>
+</ul>
+<h5>What are the possible side effects of these medicines?</h5>
+<table class="styleOne">
+	<thead>
+		<tr class="valign-bottom">
+			<th scope="col">Medicines</th>
+			<th scope="col">Possible Side Effects*</th>
+			<th scope="col">Additional Information</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="3">* This list is from both research studies and the U.S. Food and Drug Administration.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th class="section_title" rowspan="5" scope="row">All Bisphosphonates:
+				<ul>
+					<li style="text-align: left; ">Alendronate<br />
+						(Fosamax&reg;)</li>
+					<li style="text-align: left; ">Ibandronate<br />
+						(Boniva&reg;)</li>
+					<li style="text-align: left; ">Risedronate<br />
+						(Actonel&reg;&nbsp;<br />
+						or Atelvia&reg;)</li>
+					<li style="text-align: left; ">Zoledronic acid&nbsp;<br />
+						(Reclast&reg;)</li>
+				</ul>
+			</th>
+			<td>Nausea, vomiting, heartburn, or irritation of your esophagus (the tube that carries food from your mouth to your stomach)</td>
+			<td>Following the instructions for taking these medicines lowers the risk of these side effects.</td>
+		</tr>
+		<tr>
+			<td>Low calcium levels in your blood</td>
+			<td>This side effect is easy to treat by taking calcium supplements.</td>
+		</tr>
+		<tr>
+			<td>Breaking a thigh bone</td>
+			<td>A little bit of research found that taking these medicines for more than 5 years may increase your risk for breaking a thigh bone, but there is not enough research to know for sure. This side effect is rare.</td>
+		</tr>
+		<tr>
+			<td>Bone, joint, or muscle pain</td>
+			<td>Let your doctor know if this side effect keeps you from exercising or enjoying favorite activities.</td>
+		</tr>
+		<tr>
+			<td>Problems with the health of your jaw bone</td>
+			<td>Research found that taking these medicines may increase your risk of having problems with the health of your jaw bone. This side effect is rare, but it is serious and can cause pain, infections, and sores in your mouth. In research studies, most patients who experienced this side effect were being treated for cancer.</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Zoledronic acid<br />
+				(Reclast&reg;)</th>
+			<td>Kidney problems, including kidney failure</td>
+			<td>Your doctor may do blood or urine tests to check for this side effect while you are taking this medicine.</td>
+		</tr>
+		<tr>
+			<th class="section_title" rowspan="5" scope="row">Denosumab<br />
+				(Prolia&reg;)</th>
+			<td>Nausea, vomiting, heartburn, or irritation of your esophagus</td>
+			<td>Following the instructions for taking these medicines lowers the risk of these side effects.</td>
+		</tr>
+		<tr>
+			<td>Low calcium levels in your blood</td>
+			<td>This side effect is easy to treat.</td>
+		</tr>
+		<tr>
+			<td>Rashes</td>
+			<td>Call your doctor if you have a rash or blisters that do not go away or get worse.</td>
+		</tr>
+		<tr>
+			<td>Increased risk of infection</td>
+			<td>Infections can be serious and affect your heart in some cases. But the risk of this side effect is small.</td>
+		</tr>
+		<tr>
+			<td>Problems with the health of your jaw bone</td>
+			<td>This side effect is rare, but it is serious and can cause pain, infections, and sores in your mouth.</td>
+		</tr>
+		<tr>
+			<th class="section_title" rowspan="3" scope="row">Menopausal Hormone Therapy (MHT)</th>
+			<td>Heart disease</td>
+			<td>One of the studies found that the risk may be higher during the first year of taking this medicine.</td>
+		</tr>
+		<tr>
+			<td>Stroke</td>
+			<td>It is important to know the symptoms of a stroke and seek medical attention right away.</td>
+		</tr>
+		<tr>
+			<td>Breast cancer</td>
+			<td>Taking a combination of estrogen and progestin hormones may lead to more invasive breast cancer and a higher risk of death from breast cancer.</td>
+		</tr>
+		<tr>
+			<th class="section_title" rowspan="3" scope="row">Raloxifene<br />
+				(Evista&reg;)</th>
+			<td>Arm or leg pain, muscle pain or cramps</td>
+			<td>Let your doctor know if this side effect keeps you from exercising or enjoying favorite activities.</td>
+		</tr>
+		<tr>
+			<td>Hot flashes</td>
+			<td>This side effect may be uncomfortable or embarrassing, but it does not cause any other health risk.</td>
+		</tr>
+		<tr>
+			<td>Blood clots</td>
+			<td>Taking this medicine might increase your risk of developing a blood clot in your legs or lungs. People who will not be able to move for 3 or more days (because they are ill or recovering from surgery) should ask their doctor about stopping the medicine.</td>
+		</tr>
+		<tr>
+			<th class="section_title" rowspan="3" scope="row">Teriparatide<br />
+				(Forteo&reg;)</th>
+			<td>Headaches</td>
+			<td>Although this side effect can be treated with aspirin or other pain relievers, you should see your doctor if headaches become too strong or happen often.</td>
+		</tr>
+		<tr>
+			<td>High calcium levels in your blood</td>
+			<td>This side effect can be treated with medicines.</td>
+		</tr>
+		<tr>
+			<td>Increased risk of bone cancer</td>
+			<td>This side effect happened at doses that were higher than what people usually take.</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Can nutritional supplements help keep my bones healthy?<img alt="Nutritional Supplements Icon." height="109" src="/tasks/sites/ehc/assets/Image/Supplementsicon.png" style="float: right;" width="109" /></h4>
+<p>Your doctor may recommend you take calcium and vitamin D alone or with your prescription medicines to help strengthen your bones and lower your risk of developing osteoporosis. Researchers are not sure if taking calcium or vitamin D without other treatment reduces the risk of breaking a bone for people with osteoporosis.</p>
+<p>Your body needs calcium to build bones, and vitamin D helps your body use calcium. The amount of calcium and vitamin D you need each day depends on your age.</p>
+<p>It is important to make sure your diet is high in calcium and vitamin D. You can get calcium and vitamin D from many foods. Your doctor may recommend you buy pills (prescription or over-the-counter) that contain calcium and vitamin D. Talk with your doctor about how much calcium and vitamin D is right for you.</p>
+<p>Sources of calcium include:</p>
+<ul>
+	<li>Dairy foods like milk, cheese, and yogurt.</li>
+	<li>Dark green leafy vegetables like broccoli and kale.</li>
+	<li>Bread, pasta, cereal, and rice contain low amounts of calcium.</li>
+	<li>Foods that are &ldquo;fortified&rdquo; with calcium (contain added calcium), like many fruit juices, tofu, and cereals.</li>
+</ul>
+<p>Sources of vitamin D include:</p>
+<ul>
+	<li>Fatty fish like salmon, tuna, and mackerel.</li>
+	<li>Green leafy vegetables.</li>
+	<li>Beef liver and egg yolks provide a small amount of vitamin D.</li>
+	<li>Foods fortified with vitamin D, like milk, cereal, some fruit juices, and yogurt.</li>
+	<li>Sunlight.</li>
+</ul>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">It is possible for you to have too much vitamin D in your body. Too much vitamin D can damage your liver. Signs that you have taken too much include:
+	<ul>
+		<li>Nausea, vomiting, poor appetite, constipation, weakness, or weight loss</li>
+		<li>Confusion, becoming disoriented, or an irregular heartbeat</li>
+	</ul>
+</div>
+<h4>Can exercise help?<img alt="Exercise Icon." height="108" src="/tasks/sites/ehc/assets/Image/exerciseicon.png" style="float: right;" width="109" /></h4>
+<p>Your doctor may also recommend exercises to help strengthen your bones, improve your balance, and reduce your chance of falling.</p>
+<ul>
+	<li>&ldquo;Weight-bearing&rdquo; exercises use extra weight and gravity to make bones stronger.</li>
+	<li>Weight-bearing exercises include walking, lifting weights, and climbing stairs.</li>
+	<li>Some exercises may be too hard on your bones and can increase your risk of breaking a bone. For example, activities like golf require you to twist your body in ways that might be dangerous.</li>
+	<li>Talk with your doctor about what exercises are best for you.</li>
+</ul> 
+			<a name="5282"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">For women who have gone through menopause, an online decision aid is available. The online tool:
+	<ul>
+		<li>Helps calculate your risk of breaking a bone.</li>
+		<li>Provides detailed information about medicines used to prevent bone fractures.</li>
+		<li>Allows you to print information and questions to take to your doctor.</li>
+	</ul>
+	The online tool is available at&nbsp;<a href="http://www.effectivehealthcare.ahrq.gov/ehc/decisionaids/osteoporosis/">http://www.effectivehealthcare.ahrq.gov/ehc/decisionaids/osteoporosis/</a>.</div>
+<p>Only you and your doctor can decide whether any medicine&rsquo;s ability to help your condition is worth the risk of a serious side effect. Each person responds differently to different medicines. Your doctor may try several medicines before finding the right one.</p>
+<p>There are several things to consider when deciding which treatment might be best for you:</p>
+<ul>
+	<li>If you have osteopenia (mild low bone density), whether you need to start medicines now or can wait and see if your condition gets worse.</li>
+	<li>What your bone density test says is your risk for breaking a bone.</li>
+	<li>The benefits and side effects of each treatment.</li>
+	<li>Ways your doctor can help you notice any side effects so they can be treated or the medicine can be changed.</li>
+	<li>Which medicine best fits your daily life and routine.</li>
+	<li>The out-of-pocket costs of each treatment option, and whether medicines come in generic form.</li>
+</ul>
+<h5>What are the costs of treatment?</h5>
+<p>The wholesale prices of prescription osteoporosis medicines are listed below. Wholesale prices are the prices paid by pharmacies. These prices are given here so you can compare the cost of different medicines.</p>
+<p>The cost to you for these medicines depends on your health insurance, the dose (amount) needed, and whether the medicine comes in generic form.</p>
+<p><strong>Wholesale prices of prescription osteoporosis medicines</strong></p>
+<table class="styleOne">
+	<thead>
+		<tr class="valign-bottom">
+			<th scope="col">Drug Name</th>
+			<th scope="col">Dose</th>
+			<th scope="col">Form</th>
+			<th scope="col">How Often</th>
+			<th scope="col">Price per<br />
+				Month for<br />
+				Generic*</th>
+			<th scope="col">Brand<br />
+				Name</th>
+			<th scope="col">Price per<br />
+				Month for<br />
+				Brand Name*</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="7">* Prices are the average wholesale prices from <em>RED BOOK Online</em><sup>&reg;</sup>. Generic prices are the middle value in the range of&nbsp;prices listed from different manufacturers. The actual prices of the medicines may be higher or lower than the prices&nbsp;listed here, depending on the manufacturer used by your pharmacy.<br />
+				** These forms of the medicines are taken every 3 months, every 6 months, or once a year. The price listed here is the price per dose, not per month.<br />
+				N/A = not available</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th colspan="7" scope="col">Bisphosphonates</th>
+		</tr>
+		<tr>
+			<th class="section_title" rowspan="3" scope="row">Alendronate</th>
+			<td>10 mg</td>
+			<td>Tablet</td>
+			<td>Once a day</td>
+			<td>$90</td>
+			<td rowspan="3">Fosamax<sup>&reg;</sup></td>
+			<td>$100</td>
+		</tr>
+		<tr>
+			<td>70 mg</td>
+			<td>Tablet</td>
+			<td>Once a week</td>
+			<td>$80</td>
+			<td>$115</td>
+		</tr>
+		<tr>
+			<td>70 mg</td>
+			<td>Liquid</td>
+			<td>Once a week</td>
+			<td>N/A</td>
+			<td>$115</td>
+		</tr>
+		<tr>
+			<th class="section_title" rowspan="2" scope="row">Ibandronate</th>
+			<td>150 mg</td>
+			<td>Tablet</td>
+			<td>Once a month</td>
+			<td>$140</td>
+			<td rowspan="2">Boniva<sup>&reg;</sup></td>
+			<td>$160</td>
+		</tr>
+		<tr>
+			<td>3 mg</td>
+			<td>IV</td>
+			<td>Once every 3 months</td>
+			<td>N/A</td>
+			<td>$180**</td>
+		</tr>
+		<tr>
+			<th class="section_title" rowspan="4" scope="row">Risedronate</th>
+			<td>5 mg</td>
+			<td>Tablet</td>
+			<td>Once a day</td>
+			<td>N/A</td>
+			<td>Actonel<sup>&reg;</sup></td>
+			<td>$170</td>
+		</tr>
+		<tr>
+			<td rowspan="2">35 mg</td>
+			<td rowspan="2">Tablet</td>
+			<td rowspan="2">Once a week</td>
+			<td rowspan="2">N/A</td>
+			<td>Actonel<sup>&reg;</sup></td>
+			<td>$160</td>
+		</tr>
+		<tr>
+			<td>Atelvia<sup>&reg;</sup></td>
+			<td>$160</td>
+		</tr>
+		<tr>
+			<td>150 mg</td>
+			<td>Tablet</td>
+			<td>Once a month</td>
+			<td>N/A</td>
+			<td>Actonel<sup>&reg;</sup></td>
+			<td>$170</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Zoledronic acid</th>
+			<td>5 mg</td>
+			<td>IV</td>
+			<td>Once a year</td>
+			<td>$1,195**</td>
+			<td>Reclast<sup>&reg;</sup></td>
+			<td>$1,300**</td>
+		</tr>
+		<tr>
+			<th colspan="7" scope="col">Others</th>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Denosumab</th>
+			<td>60 mg</td>
+			<td>Shot</td>
+			<td>Once every 6 months</td>
+			<td>N/A</td>
+			<td>Prolia<sup>&reg;</sup></td>
+			<td>$990**</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Raloxifene</th>
+			<td>60 mg</td>
+			<td>Tablet</td>
+			<td>Once a day</td>
+			<td>N/A</td>
+			<td>Evista<sup>&reg;</sup></td>
+			<td>$195</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Teriparatide</th>
+			<td>20 mcg</td>
+			<td>Shot pen</td>
+			<td>Once a day</td>
+			<td>N/A</td>
+			<td>Forteo<sup>&reg;</sup></td>
+			<td>$1,430</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Ask your doctor</h4>
+<ul>
+	<li>What is my risk for breaking a bone?</li>
+	<li>What are your reasons for prescribing the specific medicine you chose?</li>
+	<li>How do I take this medicine? Do I take it daily, weekly, monthly, or once a year?</li>
+	<li>How long will I need to take this medicine?</li>
+	<li>What side effects should I expect from this medicine?</li>
+	<li>Do I need to take a calcium and vitamin D supplement?</li>
+	<li>Which types of exercises are best for me and which types of exercise should I avoid?</li>
+</ul> 
+			<a name="5283"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em><a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1007">Treatments To Prevent Fractures in Men and Women With Low Bone Density or Osteoporosis: An Update to the 2007 Report</a></em>, March 2012.</p>
+<p>The report was produced by the Southern California Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Emily White, M.S., Amelia Williamson Smith, M.S., Thomas Workman, Ph.D., Morali Sharma, M.D., Robert Volk, Ph.D., and Michael Fordis, M.D.&nbsp; Illustrations were created by Douglas Alexander. Patients with low bone density reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

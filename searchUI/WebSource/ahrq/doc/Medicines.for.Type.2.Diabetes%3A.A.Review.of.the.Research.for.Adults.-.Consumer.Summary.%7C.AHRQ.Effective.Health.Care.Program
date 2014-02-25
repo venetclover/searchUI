@@ -1,0 +1,1498 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Medicines for Type 2 Diabetes: A Review of the Research for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;pcem=ra&amp;productid=721&amp;mode=p" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fpageaction%3Ddisplayproduct%26PCem%3DRA%26productID%3D721%26mode%3DP">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=155">
+					Comparative Effectiveness and Safety of Oral Diabetes Medications for Adults With Type 2 Diabetes: An Update of the 2007 Report 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=644">
+										Research Review  (Update)
+									</a>
+							<span style="font-size:7pt;"> Mar. 15, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1629">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=423">
+										Research Protocol  (Update)
+									</a>
+							<span style="font-size:7pt;"> Apr. 5, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=720">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Jun. 30, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=867">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Dec. 5, 2011 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=645">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Mar. 15, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://www.annals.org/content/early/2011/03/11/0003-4819-154-9-201105030-00336.abstract">
+									
+									Annals of Internal Medicine -- Review: Comparative Effectiveness and Safety of Medications for Type 2 Diabetes: An Update Including New Drugs and 2-Drug Combinations 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=296&cmepage=cme_info">
+									
+									CME Activity: Management of an Adult With Type 2 Diabetes With Antidiabetic Medications: A Case Scenario 
+								</a>
+								
+								
+						</li>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=294&cmepage=cme_info">
+									
+									CME Activity: Comparing Medicines for Type 2 Diabetes 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 11-EHC038-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3dra%26amp%3bproductid%3d721%26amp%3bmode%3dp"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3dra%26amp%3bproductid%3d721%26amp%3bmode%3dp"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3dra%26amp%3bproductid%3d721%26amp%3bmode%3dp"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3dra%26amp%3bproductid%3d721%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3dra%26amp%3bproductid%3d721%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3dra%26amp%3bproductid%3d721%26amp%3bmode%3dp&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3dra%26amp%3bproductid%3d721%26amp%3bmode%3dp"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3dra%26amp%3bproductid%3d721%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3dra%26amp%3bproductid%3d721%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bpcem%3dra%26amp%3bproductid%3d721%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2636DF20-D3C0-6468-FB0EEA6DFEAC9C6E" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm/search-for-guides-reviews-and-reports/?PCem=RA&amp;mode=P&amp;pageaction=displayproduct&amp;productID=721" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=721&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=721" title="Medicines for Type 2 Diabetes: A Review of the Research for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/721.gif" alt="Medicines for Type 2 Diabetes: A Review of the Research for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Medicines for Type 2 Diabetes: A Review of the Research for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=721&amp;button=1&quot; title=&quot;Medicines for Type 2 Diabetes: A Review of the Research for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/721.gif&quot; border=&quot;0&quot; alt=&quot;Medicines for Type 2 Diabetes: A Review of the Research for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Jun. 30, 2011 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Medicines for Type 2 Diabetes: A Review of the Research for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/155/721/OralMedT2Diab_consumer.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							338 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/155/721/DIABETES_AID.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							8.1 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=867" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#3205">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#3206">Understanding Your Condition</a></li>
+					
+						<li><a href="#3207">Understanding Your Options</a></li>
+					
+						<li><a href="#3208">Making a Decision</a></li>
+					
+						<li><a href="#3209">Source</a></li>
+					
+			</ul>
+		
+			<a name="3205"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h5>Yes, if:</h5>
+<ul>
+	<li>Your doctor or health care provider has told you that you have type 2 diabetes and have high blood sugar.</li>
+	<li>Your doctor or health care provider recommends that you take medicine to help lower or control your blood sugar.</li>
+</ul>
+<h5>No, if:</h5>
+<ul>
+	<li>You are younger than 18 years old.</li>
+	<li>You have a different kind of diabetes called type 1 diabetes.</li>
+	<li>You are pregnant and have a different kind of diabetes called gestational diabetes.</li>
+</ul>
+<h4>What is covered in this research summary?</h4>
+<p>This summary covers the research on the benefits and possible side effects of medicines to lower or control your blood sugar. It will help you talk with your doctor or other health care professional to decide which medicines are best for you.</p>
+<h4>Where does the information come from?</h4>
+<p>The information in this summary comes from a review of many studies about type 2 diabetes medicines. The review was conducted by an independent research center in 2007 and again in 2011. Read the full report at <a href="http://www.effectivehealthcare.ahrq.gov/diabetesmeds.cfm">www.effectivehealthcare.ahrq.gov/diabetesmeds.cfm</a>.</p> 
+			<a name="3206"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is type 2 diabetes?</h4>
+<ul>
+	<li>Insulin is a hormone, or chemical, made by the body. It is needed to change food into energy.</li>
+	<li>Type 2 diabetes means that your body cannot make enough insulin or that the cells in your body do not use insulin well. This causes blood sugar to get too high.</li>
+</ul>
+<h4>Why treat type 2 diabetes?</h4>
+<ul>
+	<li>If your blood sugar level stays high for a long time, you may have a greater chance of a heart attack, a stroke, kidney damage, or blindness. You may also need to have a toe, foot, or leg removed because of poor blood flow.</li>
+	<li>Keeping your blood sugar at a good level might lower your chance of having these problems.</li>
+</ul>
+<h4>How is type 2 diabetes treated?</h4>
+<ul>
+	<li>The first step in controlling your blood sugar is to eat a balanced diet and be more active. Even small changes in exercise can make a big difference.</li>
+	<li>Many people also need medicine to help keep their blood sugar under control.</li>
+</ul>
+<h4>How do I know the amount of sugar in my blood?</h4>
+<p>There are two common tests for blood sugar. They can help you and your doctor check how well your blood sugar is under control.</p>
+<h5>Finger stick</h5>
+<p>One test is a finger (or forearm) stick that you can do yourself. This test is done one or more times a day. You can do it in the morning before you eat (fasting) or at other times of the day, like after a meal. This test tells what your blood sugar level is at that moment in time. The fasting number should be between 80 and 120. After a meal, the target is usually less than 180.</p>
+<h5>Blood test</h5>
+<p>The other test is a blood test called hemoglobin (Hb) A1C. This test is done at your doctor&rsquo;s office or at a lab a few times a year. The A1C test shows your average blood sugar level over the past 2 to 3 months. Usually the goal is for your A1C to be around 7. This means that your finger-stick blood sugar level has been in the &ldquo;good&rdquo; range over the past 2 to 3 months. If the A1C level is higher than this, changing your medicine might help.</p> 
+			<a name="3207"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>Are all diabetes medicines the same?</h4>
+<p>There are many types of diabetes medicines. Each type works in a different way to control blood sugar.</p>
+<h4>How well can medicines lower my blood sugar?</h4>
+<p>All the medicines in this summary lower blood sugar. The lab test for blood sugar level (A1C) is the best way to tell how well the medicines work.</p>
+<ul>
+	<li>Most diabetes medicines can lower your A1C by about 1 point. This means that if you start with an A1C level of 8, taking one of these medicines could bring it down to 7.</li>
+	<li>Combining two kinds of diabetes medicines can lower blood sugar more than taking just one kind. Most combinations of medicines can bring it down about 1 extra point. This means if you start with an A1C level of 9 and can bring it down to 8 with one kind of medicine, you might be able to lower it to 7 by adding a second medicine.</li>
+	<li>There is not as much research on some drugs: nateglinide (Starlix&reg;), exenatide (Byetta&reg;), and sitagliptin (Januvia&reg;). This means that we do not know as much about how these drugs compare with other diabetes medicines.</li>
+</ul>
+<table class="styleOne">
+	<caption>Medicines for Type 2 Diabetes &ndash; Benefits</caption>
+	<thead>
+		<tr class="valign-bottom">
+			<th scope="col" colspan="2">Type of Medicine</th>
+			<th scope="col" rowspan="2">Benefits</th>
+		</tr>
+		<tr class="valign-bottom">
+			<th scope="col">Generic Name</th>
+			<th scope="col">Brand Name</th>
+		</tr>
+	</thead>
+	<tfoot>
+	<tr>
+		<td colspan="3">Some of the combinations of medicine may come in a single pill, and are shown with a &ldquo;/&rdquo; symbol between them. Others are taken together but are separate medicines, and are shown with a &ldquo;+&rdquo; symbol.</td>
+	</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Biguanides <em>Block the liver from making sugar</em></th>
+		</tr>
+		<tr>
+			<td>Metformin&nbsp;</td>
+			<td>Glucophage&reg;</td>
+			<td>
+			<ul>
+				<li>Lowers A1C by about 1 point</li>
+				<li>Lowers &ldquo;bad&rdquo; cholesterol more than other types</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Sulfonylureas <em>Raise the amount of insulin in the body</em></th>
+		</tr>
+		<tr>
+			<td>Glimepiride</td>
+			<td>Amaryl&reg;</td>
+			<td rowspan="3">
+			<ul>
+				<li>Lowers A1C by about 1 point</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Glipizide</td>
+			<td>Glucotrol&reg;</td>
+		</tr>
+		<tr>
+			<td>Glyburide</td>
+			<td>Diabeta&reg;; Glynase Prestab&reg;; Micronase&reg;</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Meglitinides Raise the amount of insulin in the body</th>
+		</tr>
+		<tr>
+			<td>Repaglinide</td>
+			<td>Prandin&reg;</td>
+			<td rowspan="2">
+			<ul>
+				<li>Lowers A1C by about 1 point</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Nateglinide</td>
+			<td>Starlix&reg;</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Thiazolidinediones (TZDs) <em>Help the body use insulin better</em></th>
+		</tr>
+		<tr>
+			<td>Pioglitazone</td>
+			<td>Actos&reg;</td>
+			<td>
+			<ul>
+				<li>Lowers A1C by about 1 point</li>
+				<li>Lowers triglycerides (a kind of fat in your blood) more than other types</li>
+				<li>Might protect kidney function&nbsp;</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Dipeptidyl Peptidase-4 (DPP-4) Inhibitors <em>Raise the amount of insulin in the body after a meal</em></th>
+		</tr>
+		<tr>
+			<td>Sitagliptin</td>
+			<td>Januvia&reg;</td>
+			<td rowspan="2">
+			<ul>
+				<li>Lowers A1C by less than 1 point</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Saxagliptin</td>
+			<td>Onglyza&reg;</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists <em>Raise the amount of insulin in the body</em></th>
+		</tr>
+		<tr>
+			<td>Exenatide</td>
+			<td>Byetta&reg;</td>
+			<td rowspan="2">
+			<ul>
+				<li>Less weight gain than other medicines</li>
+				<li>Less is known about how well this medicine lowers A1C compared with other medicines</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Liraglutide</td>
+			<td>Victoza&reg;</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Combinations</th>
+		</tr>
+		<tr>
+			<td colspan="2">Glyburide/metformin</td>
+			<td rowspan="4">
+			<ul>
+				<li>Lowers A1C by about 2 points</li>
+				<li>Metformin/pioglitazone lowers triglycerides&nbsp;</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin/pioglitazone</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin/sitagliptin</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin/saxagliptin</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin + GLP-1 receptor agonists</td>
+			<td rowspan="3">
+			<ul>
+				<li>Metformin + GLP-1 receptor agonists may cause less weight gain than other combinations of medicines</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metoformin + basal insulin</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin + premixed insulin</td>
+		</tr>
+	</tbody>
+</table>
+<table class="styleOne">
+	<caption>Medicines for Type 2 Diabetes &ndash; Possible Side Effects</caption>
+	<thead>
+		<tr class="valign-bottom">
+			<th colspan="2" scope="col">Type of Medicine</th>
+			<th rowspan="2" scope="col">Possible Side Effects</th>
+		</tr>
+		<tr class="valign-bottom">
+			<th scope="col">Generic Name</th>
+			<th scope="col">Brand Name</th>
+		</tr>
+	</thead>
+	<tfoot>
+	<tr>
+		<td colspan="3">* NOTE: Your doctor has received an alert from the United States Food and Drug Administration (FDA) that TZDs (pioglitazone or rosiglitazone) should not be taken by patients with serious or severe heart failure. Rosiglitazone also increases the risk for heart attack and stroke. According to the FDA, rosiglitazone is to be used only if other drugs do not work to lower your blood sugar. Talk with your doctor.</td>
+	</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Biguanides</th>
+		</tr>
+		<tr>
+			<td>Metformin&nbsp;</td>
+			<td>Glucophage&reg;</td>
+			<td>
+			<ul>
+				<li>Some risk for low blood sugar</li>
+				<li>Less weight gain than other medicines</li>
+				<li>Higher risk for stomach problems (gas, diarrhea)</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Sulfonylureas</th>
+		</tr>
+		<tr>
+			<td>Glimepiride</td>
+			<td>Amaryl&reg;</td>
+			<td rowspan="3">
+			<ul>
+				<li>May cause weight gain</li>
+				<li>3 to 5 times more likely to cause low blood sugar</li>
+				<li>May cause stomach problems</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Glipizide</td>
+			<td>Glucotrol&reg;</td>
+		</tr>
+		<tr>
+			<td>Glyburide</td>
+			<td>Diabeta&reg;; Glynase&nbsp;Prestab&reg;; Micronase&reg;</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Meglitinides</th>
+		</tr>
+		<tr>
+			<td>Repaglinide</td>
+			<td>Prandin&reg;</td>
+			<td rowspan="2">
+			<ul>
+				<li>May cause weight gain</li>
+				<li>Risk for low blood sugar</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Nateglinide</td>
+			<td>Starlix&reg;</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Thiazolidinediones (TZDs) *</th>
+		</tr>
+		<tr>
+			<td>Pioglitazone</td>
+			<td>Actos&reg;</td>
+			<td>
+			<ul>
+				<li>May cause weight gain</li>
+				<li>Some risk for low blood sugar</li>
+				<li>Can add to risk of heart failure or make it worse</li>
+				<li>Increases the risk for fracture, especially in women</li>
+				<li>May cause bladder cancer when used longer than 1 year</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Dipeptidyl Peptidase-4 (DPP-4) Inhibitors</th>
+		</tr>
+		<tr>
+			<td>Sitagliptin</td>
+			<td>Januvia&reg;</td>
+			<td rowspan="2">
+			<ul>
+				<li>Not enough is known about the side effects of these medicines</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Saxagliptin</td>
+			<td>Onglyza&reg;</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists</th>
+		</tr>
+		<tr>
+			<td>Exenatide</td>
+			<td>Byetta&reg;</td>
+			<td rowspan="2">
+			<ul>
+				<li>Not enough is known about the side effects of these medicines</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Liraglutide</td>
+			<td>Victoza&reg;</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Combinations</th>
+		</tr>
+		<tr>
+			<td colspan="2">Glyburide/metformin</td>
+			<td rowspan="7">
+			<ul>
+				<li>Some combinations with drugs such as sulfonylureas may increase the risk of low blood sugar</li>
+				<li>Pioglitazone combinations may cause more weight gain than other medicines</li>
+				<li>Pioglitazone combinations can add to the risk of hip and non-hip fractures, especially for women</li>
+				<li>Some combinations with metformin increase the risk of stomach problems, but not as much as metformin alone</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin/pioglitazone</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin/sitagliptin</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin/saxagliptin</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin + GLP-1 receptor agonists</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin + basal insulin</td>
+		</tr>
+		<tr>
+			<td colspan="2">Metformin + premixed insulin</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Why is information about cholesterol and triglycerides listed in the chart?</h4>
+<p>Diabetes medicines are mainly for lowering blood sugar. Research shows that a few of them can also affect cholesterol and triglycerides.</p>
+<h5>Cholesterol</h5>
+<ul>
+	<li>Everyone should try to keep &ldquo;bad&rdquo; cholesterol (LDL cholesterol) as low as possible. Bad cholesterol can clog your arteries and lead to a heart attack or stroke. People with diabetes have a greater risk for these problems. Your doctor can tell if your LDL is too high.</li>
+	<li>Most diabetes medicines do not raise or lower your &ldquo;good&rdquo; cholesterol (HDL) enough to affect your health. Good cholesterol helps your body and does not clog your arteries or cause heart problems.</li>
+</ul>
+<h5>Triglycerides</h5>
+<ul>
+	<li>&ldquo;Triglycerides&rdquo; (try-GLIS-uh-rides) are a kind of fat in your blood. The body makes triglycerides. They are also in food. Your body needs this kind of fat, but it is best to keep the level of your triglycerides low. Less than 150 is usually the goal.</li>
+</ul>
+<h4>What else should I know about serious side effects?</h4>
+<p>The most common side effects of type 2 diabetes medicines are weight gain and stomach problems. The chart titled &quot;Medicines for Type 2 Diabetes &ndash; Possible Side Effects&quot; lists other side effects that are not common but can be serious. Here is more information about some of them so that you can talk with your doctor about your concerns.</p>
+<h5>Low blood sugar</h5>
+<p>Sometimes, the medicines can lower your blood sugar too much. This is called &ldquo;hypoglycemia&rdquo; (high-po-gly-SEE-mee-ah). Low blood sugar can cause you to feel dizzy, cold and sweaty, confused, shaky, and weak.</p>
+<ul>
+	<li>Low blood sugar is more likely when you take two or more kinds of diabetes medicines.</li>
+</ul>
+<div style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;" class="report_highlight_box large_box"><strong>Warning:</strong> If you think you may have low blood sugar, eat or drink something with sugar in it right away. If you have symptoms while driving or using a machine, pull to the side of the road or turn off the machine. You may wish to keep juice or candy with you until you are comfortable with your medicine. Ask your doctor.</div>
+<h5>Lactic acidosis</h5>
+<p>Taking diabetes medicines can raise the chance of a rare condition called &ldquo;lactic acidosis&rdquo; (lak-tik a-suh-DOE-sis). This condition is more likely for people who take diabetes medicines and have kidney or liver problems. Each year, about 1 out of 10,000 people taking diabetes medicine will have lactic acidosis. Common signs of lactic acidosis are:</p>
+<ul>
+	<li>Trouble breathing.</li>
+	<li>Vomiting or stomach pain.</li>
+	<li>Weakness or unusual muscle pain.</li>
+	<li>Chills or feeling light-headed.</li>
+</ul>
+<p>The chance of having lactic acidosis is about the same for all diabetes medicines.</p>
+<div style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;" class="report_highlight_box large_box"><strong>Warning:</strong> If you have any signs of lactic acidosis, call your doctor or nurse right away.</div>
+<h5>Heart failure</h5>
+<p>Congestive heart failure, or heart failure, is when the heart cannot pump enough blood to the rest of the body. Pioglitazone (Actos&reg;) might cause congestive heart failure or make it worse. Call your doctor or nurse if you suddenly notice these symptoms of heart failure:</p>
+<ul>
+	<li>Gain weight quickly.</li>
+	<li>Tired and weak.</li>
+	<li>Irregular heart beat.</li>
+	<li>Swelling of your belly, ankles, or feet.</li>
+	<li>Lose your appetite or are sick to your stomach.</li>
+	<li>Shortness of breath when you exercise or lie down.</li>
+</ul> 
+			<a name="3208"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>How much do these medicines cost?</h4>
+<p>The cost to you depends on several things, including:</p>
+<ul>
+	<li>What type of insurance plan you have and what medicines it covers.</li>
+	<li>How much medicine you need.</li>
+	<li>Whether you use generic or brand-name medicines.</li>
+</ul>
+<p>Most medicines for type 2 diabetes are covered by health insurance and come in a generic form. The chart below lists the average cost to the pharmacy for each generic and brand-name medicine mentioned in this summary. The doses are similar to those used in the research studies.</p>
+<table class="styleOne">
+	<caption>Average Wholesale Prices for Diabetes Medicines</caption>
+	<thead>
+		<tr class="valign-bottom">
+			<th scope="col" colspan="2">Drug Type</th>
+			<th scope="col" rowspan="2">Dose</th>
+			<th scope="col" colspan="2">&nbsp;Price for 1-Month Supply</th>
+		</tr>
+		<tr class="valign-bottom">
+			<th scope="col">Generic</th>
+			<th scope="col">Brand</th>
+			<th scope="col">Generic</th>
+			<th scope="col">Brand</th>
+		</tr>
+	</thead>
+	<tfoot>
+	<tr>
+		<td colspan="5">These prices are the Federal median price for generic medicines and the average wholesale price for brand-name medicines. The prices have been rounded to the next $5. These prices come from Red Book: Pharmacy&rsquo;s Fundamental Reference, 2011 Edition.<br />
+		<br />
+		XR/XL = extended release<br />
+		NA = not available as a generic</td>
+	</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th class="section_title" scope="col" colspan="5">Biguanides</th>
+		</tr>
+		<tr>
+			<td rowspan="12">Metformin&nbsp;</td>
+			<td rowspan="8">Glucophage&reg;</td>
+			<td>500 mg once a day</td>
+			<td class="align_right">$25</td>
+			<td class="align_right">$35</td>
+		</tr>
+		<tr>
+			<td>500 mg twice a day</td>
+			<td class="align_right">$50</td>
+			<td class="align_right">$70</td>
+		</tr>
+		<tr>
+			<td>500 mg three times a day</td>
+			<td class="align_right">$75</td>
+			<td class="align_right">$105</td>
+		</tr>
+		<tr>
+			<td>850 mg once a day</td>
+			<td class="align_right">$40</td>
+			<td class="align_right">$60</td>
+		</tr>
+		<tr>
+			<td>850 mg twice a day</td>
+			<td class="align_right">$80</td>
+			<td class="align_right">$115</td>
+		</tr>
+		<tr>
+			<td>850 mg three times a day</td>
+			<td class="align_right">$120</td>
+			<td class="align_right">$175</td>
+		</tr>
+		<tr>
+			<td>1,000 mg once a day</td>
+			<td class="align_right">$45</td>
+			<td class="align_right">$70</td>
+		</tr>
+		<tr>
+			<td>1,000 mg twice a day</td>
+			<td class="align_right">$90</td>
+			<td class="align_right">$140</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Glucophage XR&reg;</td>
+			<td>500 mg once a day</td>
+			<td class="align_right">$25</td>
+			<td class="align_right">$35</td>
+		</tr>
+		<tr>
+			<td>1,000 mg once a day</td>
+			<td class="align_right">$50</td>
+			<td class="align_right">$70</td>
+		</tr>
+		<tr>
+			<td>1,500 mg once a day</td>
+			<td class="align_right">$75</td>
+			<td class="align_right">$105</td>
+		</tr>
+		<tr>
+			<td>2,000 mg once a day</td>
+			<td class="align_right">$100</td>
+			<td class="align_right">$140</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="col" colspan="5">Second-Generation Sulfonylureas</th>
+		</tr>
+		<tr>
+			<td rowspan="4">Glimepiride&nbsp;</td>
+			<td rowspan="4">Amaryl&reg;</td>
+			<td>1 mg once a day</td>
+			<td class="align_right">$15</td>
+			<td class="align_right">$20</td>
+		</tr>
+		<tr>
+			<td>2 mg once a day</td>
+			<td class="align_right">$25</td>
+			<td class="align_right">$35</td>
+		</tr>
+		<tr>
+			<td>4 mg once a day</td>
+			<td class="align_right">$40</td>
+			<td class="align_right">$60</td>
+		</tr>
+		<tr>
+			<td>8 mg once a day</td>
+			<td class="align_right">$80</td>
+			<td class="align_right">$120</td>
+		</tr>
+		<tr>
+			<td rowspan="6">Glipizide&nbsp;</td>
+			<td rowspan="4">Glucotrol&reg;</td>
+			<td>5 mg once a day</td>
+			<td class="align_right">$15</td>
+			<td class="align_right">$25</td>
+		</tr>
+		<tr>
+			<td>10 mg once a day</td>
+			<td class="align_right">$25</td>
+			<td class="align_right">$40</td>
+		</tr>
+		<tr>
+			<td>10 mg twice a day</td>
+			<td class="align_right">$50</td>
+			<td class="align_right">$80</td>
+		</tr>
+		<tr>
+			<td>20 mg twice a day</td>
+			<td class="align_right">$100</td>
+			<td class="align_right">$160</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Glucotrol XL&reg;</td>
+			<td>5 mg once a day</td>
+			<td class="align_right">$15</td>
+			<td class="align_right">$25</td>
+		</tr>
+		<tr>
+			<td>20 mg once a day</td>
+			<td class="align_right">$65</td>
+			<td class="align_right">$90</td>
+		</tr>
+		<tr>
+			<td rowspan="6">Glyburide</td>
+			<td rowspan="3">Diabeta&reg;<br />Micronase&reg;</td>
+			<td>2.5 mg twice a day</td>
+			<td class="align_right">$40</td>
+			<td class="align_right">$45</td>
+		</tr>
+		<tr>
+			<td>5 mg once a day</td>
+			<td class="align_right">$30</td>
+			<td class="align_right">$40</td>
+		</tr>
+		<tr>
+			<td>5 mg twice a day</td>
+			<td class="align_right">$60</td>
+			<td class="align_right">$80</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Glynase PresTab&reg;</td>
+			<td>1.5 mg once a day</td>
+			<td class="align_right">$9</td>
+			<td class="align_right">$30</td>
+		</tr>
+		<tr>
+			<td>3 mg once a day</td>
+			<td class="align_right">$18</td>
+			<td class="align_right">$45</td>
+		</tr>
+		<tr>
+			<td>6 mg twice a day</td>
+			<td class="align_right">$72</td>
+			<td class="align_right">$145</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="col" colspan="5">Meglitinides</th>
+		</tr>
+		<tr>
+			<td rowspan="3">Repaglinide</td>
+			<td rowspan="3">Prandin&reg;</td>
+			<td>0.5 mg three times a day</td>
+			<td>NA</td>
+			<td class="align_right">$255</td>
+		</tr>
+		<tr>
+			<td>1 mg three times a day</td>
+			<td>NA</td>
+			<td class="align_right">$255</td>
+		</tr>
+		<tr>
+			<td>4 mg three times a day</td>
+			<td>NA</td>
+			<td class="align_right">$505</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Nateglinide</td>
+			<td rowspan="2">Starlix&reg;</td>
+			<td>60 mg three times a day</td>
+			<td>NA</td>
+			<td class="align_right">$195</td>
+		</tr>
+		<tr>
+			<td>120 mg three times a day</td>
+			<td>NA</td>
+			<td class="align_right">$200</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="col" colspan="5">Thiazolidinediones</th>
+		</tr>
+		<tr>
+			<td rowspan="3">Pioglitazone</td>
+			<td rowspan="3">Actos&reg;</td>
+			<td>15 mg once a day</td>
+			<td>NA</td>
+			<td class="align_right">$180</td>
+		</tr>
+		<tr>
+			<td>30 mg once a day</td>
+			<td>NA</td>
+			<td class="align_right">$275</td>
+		</tr>
+		<tr>
+			<td>45 mg once a day</td>
+			<td>NA</td>
+			<td class="align_right">$300</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="col" colspan="5">Dipeptidyl Peptidase-4 (DPP-4) Inhibitors</th>
+		</tr>
+		<tr>
+			<td>Sitagliptin</td>
+			<td>Januvia&reg;</td>
+			<td>100 mg once a day</td>
+			<td>NA</td>
+			<td class="align_right">$230</td>
+		</tr>
+		<tr>
+			<td>Saxagliptin</td>
+			<td>Onglyza&reg;</td>
+			<td>2.5 mg to 5 mg once a day</td>
+			<td>NA</td>
+			<td class="align_right">$220</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="col" colspan="5">Glucagon-Like Peptide-1 (GLP-1) Agonists</th>
+		</tr>
+		<tr>
+			<td rowspan="2">Exenatide</td>
+			<td rowspan="2">Byetta&reg;</td>
+			<td>Injection of 5 mcg twice a day</td>
+			<td>NA</td>
+			<td class="align_right">$300</td>
+		</tr>
+		<tr>
+			<td>Injection of 10 mcg twice a day</td>
+			<td>NA</td>
+			<td class="align_right">$330</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Liraglutide&nbsp;</td>
+			<td rowspan="3">Victoza&reg;</td>
+			<td>Injection of 0.6 mg once a day</td>
+			<td>NA</td>
+			<td class="align_right">$160</td>
+		</tr>
+		<tr>
+			<td>Injection of 1.2 mg once a day</td>
+			<td>NA</td>
+			<td class="align_right">$315</td>
+		</tr>
+		<tr>
+			<td>Injection of 1.8 mg once a day</td>
+			<td>NA</td>
+			<td class="align_right">$470</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="col" colspan="5">Combinations</th>
+		</tr>
+		<tr>
+			<td rowspan="2">Glyburide/<br />
+			metformin</td>
+			<td rowspan="2">Glucovance&reg;</td>
+			<td>2.5 mg/500 mg twice a day</td>
+			<td class="align_right">$85</td>
+			<td class="align_right">$90</td>
+		</tr>
+		<tr>
+			<td>5 mg/500 mg twice a day</td>
+			<td class="align_right">$85</td>
+			<td class="align_right">$90</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Metformin/<br />
+			pioglitazone</td>
+			<td rowspan="2">Actoplus Met&reg;</td>
+			<td>500 mg/15 mg twice a day</td>
+			<td>NA</td>
+			<td class="align_right">$275</td>
+		</tr>
+		<tr>
+			<td>850 mg/15 mg twice a day</td>
+			<td>&nbsp;NA</td>
+			<td class="align_right">$275</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Metformin/<br />
+			sitagliptin</td>
+			<td rowspan="2">Janumet&reg;</td>
+			<td>500 mg/50 mg twice a day</td>
+			<td>NA</td>
+			<td class="align_right">$230</td>
+		</tr>
+		<tr>
+			<td>1,000 mg/50 mg twice a day</td>
+			<td>NA</td>
+			<td class="align_right">$230</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Metformin/<br />
+			saxagliptin</td>
+			<td rowspan="2">Kombiglyze XR&reg;</td>
+			<td>500 mg/5 mg once a day</td>
+			<td>NA</td>
+			<td class="align_right">$220</td>
+		</tr>
+		<tr>
+			<td>1,000 mg/2.5 mg once a day</td>
+			<td>NA</td>
+			<td class="align_right">$220</td>
+		</tr>
+	</tbody>
+</table>
+<h4>How often will I need to take these medicines?</h4>
+<ul>
+	<li>Some diabetes medicines are taken once a day. Others need to be taken more often or with meals.</li>
+	<li>No matter which medicines you need, follow the directions for each of them.</li>
+	<li>Keep taking your medicines until your doctor tells you to stop. Not taking the medicines, or only taking them for a short time, will NOT help you lower or control your blood sugar.</li>
+	<li>Check your blood sugar every day with your glucose monitor, and get your A1C blood tests when your doctor schedules them.</li>
+</ul>
+<h4>Where can I get more information about type 2 diabetes?</h4>
+<p>For more information about diabetes, visit the <a href="http://www.nlm.nih.gov/medlineplus/diabetes.html">Medline Plus Web site</a>.</p>
+<h4>Ask Your Doctor</h4>
+<p>Talk with your doctor or health care provider about the information in this research summary.</p>
+<ol>
+	<li>Why are you choosing this diabetes medicine instead of the other medicines?</li>
+	<li>Will this medicine make me feel bad, gain weight, feel different, or cause changes to my body?</li>
+	<li>What is my current A1C number, and what would you like it to be?</li>
+	<li>How often should I check my blood sugar and at what times?</li>
+	<li>How will this medicine affect my daily activities, like working, sleeping, or taking care of my family?</li>
+</ol> 
+			<a name="3209"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em>Oral Diabetes Medications for Adults With Type 2 Diabetes: An Update</em>. It was produced by the Johns Hopkins University Evidence-based Practice Center through funding from the Agency for Healthcare Research and Quality (AHRQ). For a copy of the report or for more information about AHRQ and the Effective Health Care Program, go to <a href="http://www.effectivehealthcare.ahrq.gov/diabetesmeds.cfm">www.effectivehealthcare.ahrq.gov/diabetesmeds.cfm</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Andrea Humphries, Ph.D., Thomas Workman, Ph.D., Ashok Balasubramanyam, M.D., and Michael Fordis, M.D.&nbsp; Patients with type 2 diabetes reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

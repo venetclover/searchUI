@@ -1,0 +1,1149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Treatment Options for GERD or Acid Reflux Disease: A Review of the Research for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;productid=756&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26productid%3D756%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=165">
+					Comparative Effectiveness of Management Strategies for Gastroesophageal Reflux Disease -- An Update to the 2005 Report 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=755">
+										Research Review  (Update)
+									</a>
+							<span style="font-size:7pt;"> Sept. 23, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=915">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Jan. 4, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1632">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 14, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=757">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 23, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=991">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Feb. 29, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=781">
+										Executive Summary  (Update)
+									</a>
+							<span style="font-size:7pt;"> Sept. 23, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=310&cmepage=cme_info">
+									
+									CME Activity: Comparative Effectiveness of Management Strategies for Gastroesophageal Reflux Disease – An Update 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 11-EHC049-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d756%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d756%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d756%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d756%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d756%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d756%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d756%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d756%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d756%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d756%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2398043B-FD08-869F-664FF89C653C84C9" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=756&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=756&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=756" title="Treatment Options for GERD or Acid Reflux Disease: A Review of the Research for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/756.gif" alt="Treatment Options for GERD or Acid Reflux Disease: A Review of the Research for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Treatment Options for GERD or Acid Reflux Disease: A Review of the Research for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=756&amp;button=1&quot; title=&quot;Treatment Options for GERD or Acid Reflux Disease: A Review of the Research for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/756.gif&quot; border=&quot;0&quot; alt=&quot;Treatment Options for GERD or Acid Reflux Disease: A Review of the Research for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Sept. 23, 2011 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Treatment Options for GERD or Acid Reflux Disease: A Review of the Research for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/165/756/gerd_consumer.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							434 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/165/756/GERD.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.9 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=991" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#3547">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#3548">Understanding Your Condition</a></li>
+					
+						<li><a href="#3549">Understanding Your Options</a></li>
+					
+						<li><a href="#3550">Making a Decision</a></li>
+					
+						<li><a href="#3551">Source</a></li>
+					
+						<li><a href="#3641">Ordering Information</a></li>
+					
+			</ul>
+		
+			<a name="3547"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h5>Yes, if:</h5>
+<ul>
+	<li>A doctor said that you have gastroesophageal reflux disease (GERD), a chronic disease that causes ongoing pain and burning in the chest and throat (heartburn). GERD is also called &ldquo;acid reflux disease.&rdquo;</li>
+	<li>You want to know what research says about your options.</li>
+</ul>
+<h5>No, if:</h5>
+<ul>
+	<li>You sometimes have heartburn or acid reflux, but a doctor has not said that it is GERD.</li>
+	<li>You are under 18. This information is from research on adults.</li>
+</ul>
+<p></p>
+<div style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;" class="report_highlight_box large_box">Occasional heartburn is common. Just because you have heartburn does not mean you have GERD. GERD is a more serious form of acid reflux with severe symptoms that happen often and over a long time. Your doctor can tell you if you have GERD.</div>
+<p></p>
+<h4>What does this summary cover?</h4>
+<p>This summary describes GERD and explains research about types of treatment. It also talks about what research has found about the benefits and risks of each treatment. It can help you talk with your doctor about GERD.</p>
+<h4>Where does the information come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal government research agency, reviewed 166 research studies on GERD. The report was reviewed by clinicians, researchers, and the public. You can read the report at <a href="http://www.effectivehealthcare.ahrq.gov/gerdupdate.cfm">www.effectivehealthcare.ahrq.gov/gerdupdate.cfm</a>.</p> 
+			<a name="3548"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is gastroesophageal reflux disease?</h4>
+<p>GERD is an ongoing condition in which the contents of the stomach come back into the esophagus (the tube that carries food from your mouth to your stomach). Doctors call this &ldquo;acid reflux.&rdquo;</p>
+<p>There are several reasons why people have GERD. One possible reason has to do with the muscle at the bottom of the esophagus. Normally, this muscle closes to keep food and stomach acid from coming back up the esophagus. In some people with GERD this muscle does not always work right.</p>
+<ul>
+	<li>GERD often causes heartburn, a burning feeling in the chest and throat. Heartburn may happen many times a week, especially after eating or at night.</li>
+	<li>GERD can also cause you to cough or have asthma symptoms. It can also make your voice sound hoarse and raspy. These symptoms can happen even if you do not have heartburn. The acid may also leave a bitter taste in your mouth.</li>
+</ul>
+<p><img width="616" height="429" alt="GERD stomach image." src="/tasks/sites/ehc/assets/Image/gerd_stomach_image.JPG" /></p>
+<h4>How common is GERD?</h4>
+<ul>
+	<li>GERD is one of the most common health problems for adults.</li>
+</ul>
+<h4>What else should I know about GERD?</h4>
+<ul>
+	<li>Your heartburn may keep coming back if not treated.</li>
+	<li>Untreated GERD can cause serious health problems. The acid can damage your esophagus and make it hard to swallow.</li>
+	<li>In some people with GERD, the cells in the esophagus can become abnormal. These abnormal cells could lead to cancer of the esophagus, although this is rare.</li>
+</ul> 
+			<a name="3549"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>How is GERD treated?</h4>
+<p>You may need to make changes to your lifestyle such as maintaining a healthy weight, quitting smoking, drinking less alcohol, or not eating foods that make GERD worse.</p>
+<p>Treatment options for GERD may be different for each person.</p>
+<table class="styleOne">
+	<tbody>
+		<tr>
+			<td><img src="/tasks/sites/ehc/assets/Image/medicine_button(1).png" alt="" /></td>
+			<td style="vertical-align:top;"><strong>Medicine</strong><br />
+			Taking medicine for GERD is the option most people choose first.</td>
+		</tr>
+		<tr>
+			<td><img src="/tasks/sites/ehc/assets/Image/surgery_button.png" alt="" /></td>
+			<td style="vertical-align:top;"><strong>Surgery</strong><br />
+			For some people, surgery can improve GERD symptoms and lower the amount of medicine they need.</td>
+		</tr>
+		<tr>
+			<td><img src="/tasks/sites/ehc/assets/Image/endoscopic_button(1).png" alt="" /></td>
+			<td style="vertical-align:top;"><strong>Endoscopic Treatments</strong><br />
+			Endoscopic treatments for GERD  are newer and are still being studied, so less is known about how well they work or how safe they are.<br />
+			In the next few pages, you can find more information about these types of treatment.</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Medicine</h4>
+<p><img width="136" height="140" src="/tasks/sites/ehc/assets/Image/medicine_button_large.png" alt="" style="float: right;" />Different medicines can help control problems caused by GERD.</p>
+<ul>
+	<li>Some relieve heartburn symptoms when they happen, and some help keep heartburn and other problems from happening.</li>
+	<li>Some medicines are taken only when needed and some are taken every day for a few weeks or months. Others must be taken every day for years.</li>
+	<li>Some medicines can be bought over the counter without a prescription, and others need a prescription. Some are available both over the counter and by prescription.</li>
+	<li>The three main types of medicines to treat GERD are antacids, H2RAs (histamine type 2 receptor antagonists), and PPIs (proton pump inhibitors).</li>
+</ul>
+<h5>Antacids</h5>
+<ul>
+	<li>Antacids stop heartburn by neutralizing (weakening) the acid in your stomach.</li>
+	<li>They work quickly to treat mild GERD symptoms.</li>
+	<li>Antacids go by many names, such as Mylanta&reg;, Rolaids&reg;, or Tums&reg;, and they are available without a prescription.</li>
+	<li>They are taken as pills or liquids.</li>
+	<li>You may need to continue taking antacids along with an H2RA or PPI to control symptoms.</li>
+	<li>H2RAs and PPIs work for a longer time than fast-acting antacids, but they do not start working as fast.</li>
+</ul>
+<h5>Histamine type 2 receptor antagonists (H2RAs)</h5>
+<ul>
+	<li>H2RAs cause your stomach to produce less acid. Less acid in your stomach lowers your chance of getting heartburn.</li>
+	<li>All H2RAs are available both by prescription and over the counter.</li>
+	<li>They are taken as pills.</li>
+</ul>
+<table class="styleOne">
+	<caption>Names of H2RAs</caption>
+	<thead>
+		<tr>
+			<th scope="col">Generic Name</th>
+			<th scope="col">Brand Name</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Famotidine</td>
+			<td>Pepcid AC&reg;; Calmicid&reg;; Fluxid&reg;; Mylanta AR&reg;</td>
+		</tr>
+		<tr>
+			<td>Nizatidine</td>
+			<td>Axid&reg;; Axid AR&reg;</td>
+		</tr>
+		<tr>
+			<td>Ranitidine</td>
+			<td>Zantac&reg;; Tritec&reg;; Wal-Zan&reg;</td>
+		</tr>
+		<tr>
+			<td>Cimetidine</td>
+			<td>Tagamet&reg;</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Proton pump inhibitors (PPIs)</h4>
+<ul>
+	<li>PPIs cause your stomach to make less acid, which helps prevent heartburn.</li>
+	<li>Many PPIs are prescription only, but some are available over the counter.</li>
+	<li>They are taken as pills.</li>
+</ul>
+<table class="styleOne">
+	<caption>Names of PPIs</caption>
+	<thead>
+		<tr>
+			<th scope="col">Generic Name</th>
+			<th scope="col">Brand Name</th>
+		</tr>
+	</thead>
+	<tfoot>
+	<tr>
+		<td colspan="2">* Available over the counter.</td>
+	</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td>Omeprazole</td>
+			<td>Prilosec&reg;*, Losec&reg;*, Omesec&reg;*</td>
+		</tr>
+		<tr>
+			<td>Omeprazole with sodium bicarbonate</td>
+			<td>Zegerid&reg;*</td>
+		</tr>
+		<tr>
+			<td>Lansoprazole</td>
+			<td>Prevacid&reg;*</td>
+		</tr>
+		<tr>
+			<td>Pantoprazole</td>
+			<td>Protonix&reg;</td>
+		</tr>
+		<tr>
+			<td>Rabeprazole</td>
+			<td>Aciphex&reg;</td>
+		</tr>
+		<tr>
+			<td>Esomeprazole</td>
+			<td>Nexium&reg;</td>
+		</tr>
+		<tr>
+			<td>Dexlansoprazole</td>
+			<td>Dexilant&reg;</td>
+		</tr>
+	</tbody>
+</table>
+<h4>What does research say about medicines for GERD?</h4>
+<ul>
+	<li>PPIs work better than H2RAs to relieve heartburn and let the esophagus heal.</li>
+	<li>Most PPIs work equally as well as each other to prevent heartburn.</li>
+	<li>PPIs of prescription and over-the-counter strength seem to work equally well to prevent heartburn and let the esophagus heal.</li>
+	<li>Taking a small dose (amount) of a PPI may work as well as a larger dose in some cases.</li>
+	<li>Taking a PPI every day seems to work better than taking it only when you have symptoms.</li>
+	<li>PPIs may help cough but not hoarseness caused by GERD, although there is not enough research to know this for sure.</li>
+	<li>There is not enough research to know if PPIs help asthma caused by GERD.</li>
+	<li>Patients who are very overweight do not respond as well to medicine.</li>
+</ul>
+<h4>What are the side effects?</h4>
+<ul>
+	<li>Antacids can have side effects such as diarrhea or constipation.</li>
+	<li>Possible side effects of H2RAs include headache, constipation, diarrhea, nausea, or vomiting.</li>
+	<li>PPIs can have side effects such as diarrhea, nausea, vomiting, pain in your abdomen (belly), upset stomach, and headache.</li>
+	<li>PPIs may increase your chance of getting an infection in your intestines (diarrhea) or lungs (pneumonia). They may also increase your chance of breaking a bone. These side effects are less common, however.</li>
+</ul>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">The U.S. Food and Drug Administration warned in 2009 that taking the PPI omeprazole (brand name Prilosec&reg;) while also taking clopidogrel (brand name Plavix&reg;) makes the clopidogrel less effective. Clopidogrel is a medicine that prevents heart attacks and strokes. It does this by keeping blood from clotting in the arteries of your heart or the blood vessels in your brain. These blood clots can lead to heart attack or stroke.</div>
+<h4>Surgery</h4>
+<p><img width="137" height="137" src="/tasks/sites/ehc/assets/Image/surgery_button_large.png" alt="" style="float: right" />For some people, surgery to strengthen the barrier between the stomach and esophagus may be a treatment option for acid reflux. This surgery to treat GERD is called a &ldquo;fundoplication&rdquo; (pronounced fun-doeply-KAY-shun). Your doctor can tell you if surgery might help you.</p>
+<h5>How does surgery for GERD work?</h5>
+<ul>
+	<li>In a fundoplication, the top part of your stomach is wrapped around the bottom of your esophagus and attached there.</li>
+	<li>This helps strengthen the muscle at the bottom of your esophagus that closes to keep food and acid from coming back up.</li>
+	<li>The surgeon may be able to do the surgery with a tool called a &ldquo;laparoscope&rdquo; (pronounced LAH-pruh-skohp). A laparoscope is a thin tube with a tiny camera that the surgeon puts through small cuts in your belly along with other small tools to do the surgery.</li>
+	<li>It usually takes less time to recover from surgery with a laporascope than if the surgeon has to make a large cut in your belly to do the surgery.</li>
+</ul>
+<p><em>There are two types of surgery: total fundoplication and partial fundoplication.</em></p>
+<p><em><img width="333" height="330" src="/tasks/sites/ehc/assets/Image/tot_fun.jpg" alt="" />  </em><img width="333" height="330" src="/tasks/sites/ehc/assets/Image/part_fun.jpg" alt="" /></p>
+<h5>What does the research say about surgery?</h5>
+<ul>
+	<li>Fundoplication surgery works as well as only taking medicine to keep you from getting acid reflux and heartburn. However, you may still need medicine after surgery to control your symptoms.</li>
+	<li>There are different ways to do the surgery (for example, with a laporascope or through a large cut in your belly), but they all work about the same.</li>
+</ul>
+<h5>What are the side effects?</h5>
+<ul>
+	<li>Fundoplication surgery can cause you to feel bloated and make it hard to swallow. These side effects may last for 30 days or longer, and some side effects may require a second surgery to fix.</li>
+	<li>Serious side effects, such as infection and heart attack, may be more common with surgery than with medicine. These side effects are rare.</li>
+</ul>
+<h4>Endoscopic treatments</h4>
+<p><img width="137" height="140" src="/tasks/sites/ehc/assets/Image/endoscopic_button_large.png" style="float: right" alt="" />Endoscopic (pronounced en-doh-SKAHP-ik) treatments help strengthen the muscle that keeps food and acid from going up into your esophagus. These treatments are not considered surgery because no cuts are made in your belly. Instead, a doctor puts a thin tube called an endoscope through your mouth and down your esophagus to do the treatment.</p>
+<p>Three types of endoscopic treatments are EndoCinch&trade;, Stretta&reg;, and EsophyX&trade;. These treatments are very new and are not as common as medicines or surgery to treat GERD. People receiving one of these treatments may be in a study to see how well it works.</p>
+<h5>What does research say about endoscopic treatments?</h5>
+<ul>
+	<li>There are not enough studies to say how well endoscopic treatments (EndoCinch&trade;, Stretta&reg;, and EsophyX&trade;) work to control the symptoms of GERD.</li>
+</ul>
+<h5>What are the side effects of endoscopic treatments?</h5>
+<ul>
+	<li>Endoscopic treatments can cause pain in your chest or abdomen (belly) and bleeding.</li>
+	<li>They can also cause you to feel bloated and make it hard to swallow. These side effects may last for 30 days or longer.</li>
+	<li>Because these treatments are new, not enough research has been done to know how safe they are.</li>
+</ul>
+<h4>Lifestyle changes</h4>
+<p>Your doctor may suggest some lifestyle changes that can help control your GERD symptoms. These include:</p>
+<ul>
+	<li>Maintain a healthy weight.</li>
+	<li>Quit smoking.</li>
+	<li>Limit alcohol.</li>
+	<li>Avoid eating 3 hours before lying down.</li>
+	<li>Raise the head of your bed.</li>
+	<li>Avoid foods that can make GERD symptoms worse (spicy foods, fatty foods, mint, chocolate, tomato-based foods, coffee, and citrus fruits).</li>
+</ul>
+<p></p> 
+			<a name="3550"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>There are several things to consider when choosing a treatment:</p>
+<ul>
+	<li>The benefits and risks of each treatment.</li>
+	<li>The cost of each treatment.</li>
+	<li>Which treatment best fits your likes, dislikes, and values.</li>
+</ul>
+<h5>What are the costs of treatment?</h5>
+<p>The cost to you for these medicines depends on:</p>
+<ul>
+	<li>The type of health insurance you have.</li>
+	<li>The dose (amount) you need to take.</li>
+	<li>Whether the medicine is available in generic form or is sold over the counter. Many H2RAs and PPIs are available over the counter, but your insurance may not cover the cost if you buy them this way.</li>
+</ul>
+<table class="styleOne">
+	<caption>Wholesale Prices of Prescription GERD Medicines</caption>
+	<thead>
+	</thead>
+	<tbody>
+		<tr class="bottom">
+			<th scope="col">Drug Name</th>
+			<th class="align_center" scope="col">Dose</th>
+			<th class="align_center" scope="col">How Often</th>
+			<th class="align_center" scope="col">Price per<br />
+			Month for<br />
+			Generic</th>
+			<th class="align_center" scope="col">Brand</th>
+			<th class="align_center" scope="col">Price per<br />
+			Month for<br />
+			Brand*</th>
+		</tr>
+	</tbody>
+	<tfoot>
+	<tr>
+		<td colspan="6">* These are wholesale prices are from the 2011 edition of <em>Red Book</em>. Generic prices are the middle value in the range of prices listed from different manufacturers. The actual prices of the medicines may be higher or lower than the prices listed here depending on the manufacturer used by your pharmacy. N/A = not applicable.</td>
+	</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th colspan="6" scope="col"><em>H2RAs</em></th>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Famotidine</th>
+			<td class="align_right">20 mg</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$123</td>
+			<td class="align_center">N/A</td>
+			<td class="align_right">N/A</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Nizatidine</th>
+			<td class="align_right">150 mg</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$145</td>
+			<td class="align_center">Axid&reg;</td>
+			<td class="align_right">$203</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Ranitidine</th>
+			<td class="align_right">150 mg</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$24</td>
+			<td class="align_center">Zantac&reg;</td>
+			<td class="align_right">$273</td>
+		</tr>
+		<tr>
+			<th rowspan="2" class="section_title">Cimetidine</th>
+			<td class="align_right">400 mg</td>
+			<td class="align_center">Four times a day</td>
+			<td class="align_right">$240</td>
+			<td rowspan="2" class="align_center">Tagamet&reg;</td>
+			<td class="align_right">$260</td>
+		</tr>
+		<tr>
+			<td class="align_right">800 mg</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$170</td>
+			<td class="align_right">$260</td>
+		</tr>
+		<tr>
+			<th colspan="6" scope="col"><em>PPIs</em></th>
+		</tr>
+		<tr>
+			<th rowspan="2" class="section_title">Omeprazole</th>
+			<td class="align_right">20 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$177</td>
+			<td rowspan="2" class="align_center">Prilosec&reg;</td>
+			<td class="align_right">$200</td>
+		</tr>
+		<tr>
+			<td class="align_right">40 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$222</td>
+			<td class="align_right">$296</td>
+		</tr>
+		<tr>
+			<th rowspan="2" class="section_title">Omeprazole with<br />
+			sodium bicarbonate</th>
+			<td class="align_right">20 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$194</td>
+			<td rowspan="2" class="align_center">Zegerid&reg;</td>
+			<td class="align_right">$194</td>
+		</tr>
+		<tr>
+			<td class="align_right">40 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$271</td>
+			<td class="align_right">$271</td>
+		</tr>
+		<tr>
+			<th rowspan="2" class="section_title">Lansoprazole</th>
+			<td class="align_right">15 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$175</td>
+			<td rowspan="2" class="align_center">Prevacid&reg;</td>
+			<td class="align_right">$212</td>
+		</tr>
+		<tr>
+			<td class="align_right">30 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$177</td>
+			<td class="align_right">$202</td>
+		</tr>
+		<tr>
+			<th rowspan="2" class="section_title">Pantoprazole</th>
+			<td class="align_right">20 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$123</td>
+			<td rowspan="2" class="align_center">Protonix&reg;</td>
+			<td class="align_right">$176</td>
+		</tr>
+		<tr>
+			<td class="align_right">40 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$171</td>
+			<td class="align_right">$176</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Rabeprazole</th>
+			<td class="align_right">20 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">N/A</td>
+			<td class="align_center">Aciphex&reg;</td>
+			<td class="align_right">$249</td>
+		</tr>
+		<tr>
+			<th rowspan="3" class="section_title">Esomeprazole</th>
+			<td class="align_right">20 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">N/A</td>
+			<td rowspan="3" class="align_center">Nexium&reg;</td>
+			<td class="align_right">$207</td>
+		</tr>
+		<tr>
+			<td class="align_right">30 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">N/A</td>
+			<td class="align_right">$414</td>
+		</tr>
+		<tr>
+			<td class="align_right">40 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$161</td>
+			<td class="align_right">$207</td>
+		</tr>
+		<tr>
+			<th rowspan="2" class="section_title">Dexlansoprazole</th>
+			<td class="align_right">30 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">N/A</td>
+			<td rowspan="2" class="align_center">Dexilant&reg;</td>
+			<td class="align_right">$142</td>
+		</tr>
+		<tr>
+			<td class="align_right">60 mg</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">N/A</td>
+			<td class="align_right">$142</td>
+		</tr>
+	</tbody>
+</table>
+<h5>Costs of over-the-counter GERD medicines</h5>
+<p>The cost of over-the-counter medicines are different for every store that sells them. Most cost between $13 and $30 per month&nbsp;depending on the brand and how much you take.</p>
+<h5>Ask your doctor</h5>
+<ul>
+	<li>What should we consider when deciding which treatment is best for me?</li>
+	<li>If medicine is the best treatment, does it matter if I buy these medicines over the counter or if I get a prescription from you?</li>
+	<li>How long will it take until I feel better?</li>
+	<li>What do I do if I still have heartburn after treatment?</li>
+	<li>How will we decide if and when surgery is needed?</li>
+	<li>Would losing weight or other lifestyle changes help my GERD symptoms? If so, how do I do that?</li>
+</ul> 
+			<a name="3551"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em>Management Strategies for Adults With Gastroesophageal Reflux Disease &mdash; An Update</em>. The report was prepared by Tufts Medical Center Evidence-based Practice Center for the Agency for Healthcare Research and Quality (AHRQ). Additional information came from the MedlinePlus&reg; Web site, a service of the U.S. National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Emily White, M.S., Amelia Williamson Smith, M.S., Thomas Workman, Ph.D., Marcelo Vela, M.D., and Michael Fordis, M.D.&nbsp; Illustrations were created by Douglas Alexander. Patients with GERD reviewed this summary.</p> 
+			<a name="3641"></a>
+			
+
+			
+				<h3>Ordering Information</h3>
+				<p>For free print copies of this guide, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 11-EHC049-A.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

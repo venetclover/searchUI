@@ -1,0 +1,862 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Radiofrequency Ablation for Atrial Fibrillation: A Guide for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=348&amp;button=1&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fproductid%3D348%26button%3D1%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=51">
+					Comparative Effectiveness of Radiofrequency Catheter Ablation for Atrial Fibrillation 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Reports</h4>
+						
+				<ul>
+					
+						<li>
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=114">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Dec. 2, 2008 </span>
+						</li>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=115">
+										Appendixes 
+									</a>
+							<span style="font-size:7pt;"> Dec. 2, 2008 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=408">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Mar. 10, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1542">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jun. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=349">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Nov. 16, 2009 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=514">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Aug. 25, 2010 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=323">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 23, 2009 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 09(10)-EHC015-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d348%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d348%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d348%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d348%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d348%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d348%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d348%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d348%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d348%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d348%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=239856D1-CA4A-B305-7D62487A5C2998E6" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=348&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=348&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=348" title="Radiofrequency Ablation for Atrial Fibrillation: A Guide for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/348.gif" alt="Radiofrequency Ablation for Atrial Fibrillation: A Guide for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Radiofrequency Ablation for Atrial Fibrillation: A Guide for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=348&amp;button=1&quot; title=&quot;Radiofrequency Ablation for Atrial Fibrillation: A Guide for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/348.gif&quot; border=&quot;0&quot; alt=&quot;Radiofrequency Ablation for Atrial Fibrillation: A Guide for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Nov. 16, 2009 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Radiofrequency Ablation for Atrial Fibrillation: A Guide for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/51/348/RFA consumer.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							473 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/51/348/radiofrequency_consumer.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							13.4 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=514" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#896">Fast Facts</a></li>
+					
+						<li><a href="#895">Introduction</a></li>
+					
+						<li><a href="#897">The Heart</a></li>
+					
+						<li><a href="#898">A-Fib</a></li>
+					
+						<li><a href="#899">A-Fib Treatments</a></li>
+					
+						<li><a href="#900">How is RFA Performed?</a></li>
+					
+						<li><a href="#901">Benefits of RFA</a></li>
+					
+						<li><a href="#904">What is Still Not Known?</a></li>
+					
+						<li><a href="#902">Risks of RFA</a></li>
+					
+						<li><a href="#903">Talking With Your Doctor About A-Fib and RFA</a></li>
+					
+						<li><a href="#906">For More Information</a></li>
+					
+						<li><a href="#905">Source</a></li>
+					
+			</ul>
+		
+			<a name="896"></a>
+			
+
+			
+				<h3>Fast Facts</h3>
+				<ul>
+	<li>There are different ways to treat atrial fibrillation (A-fib). One kind of treatment involves putting the heart back into normal rhythm.</li>
+	<li>Radiofrequency ablation (RFA) is a procedure used to put the heart back into normal rhythm.</li>
+	<li>During RFA, a thin wire sends heat to fix problem areas that cause abnormal heart beats.</li>
+	<li>Medicines can also be used to put the heart back into normal rhythm.</li>
+	<li>For people who have already tried heart rhythm medicines, RFA is better at putting the heart back into normal rhythm than trying these medicines again.</li>
+	<li>Serious problems are uncommon from RFA. Out of every 100 people who have RFA, about 2 will have a stroke or bleeding around the heart.</li>
+</ul> 
+			<a name="895"></a>
+			
+
+			
+				<h3>Introduction</h3>
+				<p>Atrial fibrillation (also called A-fib) is the most common heart rhythm problem. The chance of having A-fib increases with age. Less than 3 out of every 1,000 people under age 65 have A-fib. But 90 out of every 1,000 people have A-fib by the age of 80.<br />
+A-fib causes the heart to beat fast and can cause symptoms like heart palpitations, shortness of breath, and low energy. A-fib also increases the chance of having a stroke.</p>
+<h2>What Does This Guide Cover?</h2>
+<p>This guide talks about a procedure for people with A-fib that can put the heart back into normal rhythm. The procedure is called radiofrequency ablation (RFA). Ablation means removing problem areas. During RFA, doctors thread a thin wire through a vein to the heart. Then heat is sent through the wire to problem areas. The heat destroys a small amount of tissue and stops abnormal heart beats.</p>
+<p>The information in this guide comes from a government-funded review of research that compares RFA with heart rhythm medicines. Doctors can use each of these treatments to try to put the heart back into normal rhythm.</p>
+<h2>What Is Not Covered in This Guide?</h2>
+<p>This guide does not cover all the treatments for A-fib. It does not talk about the research on:</p>
+<ul>
+	<li>Medicines to prevent strokes, like warfarin (Coumadin&reg;).</li>
+	<li>Medicines to slow down the heart beat (like metoprolol, diltiazem, and digoxin).</li>
+	<li>Other ways to get the heart back into normal rhythm, like electrical cardioversion (shocking the heart), pacemakers, or open-heart surgery.</li>
+	<li>Other kinds of ablation that do not use heat, like cryo-ablation (freezing therapy).</li>
+</ul> 
+			<a name="897"></a>
+			
+
+			
+				<h3>The Heart</h3>
+				<h2>The heart&rsquo;s chambers</h2>
+<p>The heart is made up of four chambers. The right atrium and left atrium are the upper chambers. The upper chambers hold blood before it goes into the lower chambers. The right ventricle and left ventricle are the lower chambers. The ventricles pump blood out of the heart to the lungs and the rest of the body.</p>
+<h2>The heart&rsquo;s natural electrical system</h2>
+<p>The picture below shows the heart&rsquo;s natural electrical system. Heart beats (contractions) are controlled through electrical signals. Each signal starts in the SA node, which is in the right atrium. The electrical signal travels through the right atrium and left atrium on its way to the AV node. The AV node sends the signal to the ventricles. This makes the ventricles contract and pump blood out of the heart. Both sides of the heart pump at the same time. The electrical signals from the SA node normally make the heart beat between 60 and 100 times a minute.</p>
+<p><img height="252" width="315" alt="" src="/tasks/sites/ehc/assets/Image/RFA_pic.png" /></p> 
+			<a name="898"></a>
+			
+
+			
+				<h3>A-Fib</h3>
+				<h2>What causes A-fib?</h2>
+<p>A-fib is caused by a problem with the heart&rsquo;s electrical system. With A-fib, most electrical signals start from places other than the SA node. This makes the right atrium and left atrium beat very fast and with an irregular rhythm. This irregular beating is called fibrillation. For some people, A-fib is constant. For others, it comes and goes.</p>
+<p>A-fib occurs most often in people older than 65. Older people are more likely to have medical conditions that increase the risk of A-fib, like heart disease and high blood pressure.</p>
+<h2>Why treat A-fib?</h2>
+<p>With A-fib, a person&rsquo;s heart beat is much faster than normal. That can cause symptoms like heart palpitations, shortness of breath, and low energy. Some people have no symptoms at all.</p>
+<p>Even if you have no symptoms at all, A-fib can cause problems. A-fib increases the chance of having a stroke. With A-fib, the right atrium and left atrium do not contract smoothly. This means the blood is not completely emptied into the ventricles. When this happens, clots can form in the atrium. The clots can break loose, travel to the brain, and cause a stroke.<br />
+</p> 
+			<a name="899"></a>
+			
+
+			
+				<h3>A-Fib Treatments</h3>
+				<p>Some people with A-fib only take medicine to help prevent blood clots and strokes. This medicine is usually warfarin (Coumadin&reg;) or aspirin.</p>
+<p>The other treatments for A-fib fall into two different groups. One slows down the heart rate, and the other puts the heart back into its normal rhythm.</p>
+<p>Doctors usually recommend trying to control the heart rate first. For many people, medicine to control the heart rate is all that is needed.</p>
+<p>If people cannot take these medicines, or if the medicines don&rsquo;t relieve A-fib symptoms, doctors may try a different strategy. They may try instead to get the heart back into its normal rhythm.</p>
+<p>Heart rhythm medicines and RFA are treatments used to put the heart back into its normal rhythm. Getting the heart back into normal rhythm will make sure the upper and lower chambers of the heart are working well together.</p>
+<h2>Heart rhythm medicines</h2>
+<p>Many medicines are used to help get the heart back into normal rhythm. The medicines below have been compared with RFA in the research studies.</p>
+<ul>
+	<li>Amiodarone (Pacerone&reg; and Cordarone &reg;)</li>
+	<li>Flecainide (Tambocor&reg;)</li>
+	<li>Propafenone (Rythmol&reg;)</li>
+	<li>Sotalol (Betapace&reg;)</li>
+	<li>Disopyramide (Norpace&reg;)</li>
+</ul>
+<p>These medicines can help put the heart back into normal rhythm, but they can have serious side effects. They can cause new heart rhythm problems. They also can cause your heart to beat too slowly. Many other side effects are possible.<br />
+</p> 
+			<a name="900"></a>
+			
+
+			
+				<h3>How is RFA Performed?</h3>
+				<p>RFA is another way to put the heart back into normal rhythm. It stops the electrical signals that come from places other than the SA node. In RFA, thin wires are threaded into the heart through a vein in the arm or leg. One wire is used to find the problem areas in the heart&rsquo;s electrical system. Then heat is sent through another wire. The heat destroys a small amount of tissue in the problem areas and stops abnormal heart beats. Once all the problem areas are fixed, the wires are taken out.</p>
+<p>The RFA procedure can take 3 hours or more. The doctor moves the wires carefully between the heart&rsquo;s chambers. After the procedure is over, most people do not have much pain. You will need to stay lying down for a few hours, but you may be able to leave the hospital the same day. Some people need to stay at the hospital overnight or longer. Most people have RFA only one time.<br />
+</p> 
+			<a name="901"></a>
+			
+
+			
+				<h3>Benefits of RFA</h3>
+				<p>For people who have tried heart rhythm medicines and still have A-fib, RFA is better at getting the heart back into its normal rhythm than trying a heart rhythm medicine for a second time.</p>
+<p>The research shows that after 1 year:</p>
+<ul>
+	<li>74 out of 100 people who have RFA are free from A-fib.</li>
+	<li>20 out of 100 people who try a heart rhythm medicine for a second time are free from A-fib.</li>
+</ul>
+<p>We don&rsquo;t know how RFA and heart rhythm medicines compare after a longer time. Most of the research did not last longer than 1 year.</p>
+<p>RFA works equally well for men and women and for people of different ages. How long a person has had A-fib also does not affect how well RFA works.<br />
+</p> 
+			<a name="904"></a>
+			
+
+			
+				<h3>What is Still Not Known?</h3>
+				<p>There is not enough research yet to answer some of the questions you might have about RFA.</p>
+<ul>
+	<li>We don&rsquo;t know for sure how RFA and heart rhythm medicines compare for preventing strokes, congestive heart failure, or death in the future.</li>
+	<li>We don&rsquo;t know for sure whether RFA is better than heart rhythm medicines for people who have never tried taking heart rhythm medicines before.</li>
+	<li>We don&rsquo;t know for sure if people can stop taking medicines to prevent blood clots and strokes more often with RFA or with heart rhythm medicines.</li>
+	<li>We don&rsquo;t know for sure which treatment (RFA or heart rhythm medicines) makes people feel better overall.</li>
+</ul> 
+			<a name="902"></a>
+			
+
+			
+				<h3>Risks of RFA</h3>
+				<p>Some possible problems with RFA are bleeding or pain where the wires are inserted. More serious problems are possible, but they are uncommon.</p>
+<h2>Stroke</h2>
+<p>RFA can cause problems that lead to a stroke.</p>
+<ul>
+	<li>About 1 out of 100 people who have RFA have a stroke from the procedure.</li>
+</ul>
+<h2>Bleeding around the heart</h2>
+<p>RFA can cause bleeding problems around the heart. Sometimes RFA causes a leak in the wall of the heart. If enough blood leaks into the pocket around the heart, it can put pressure on the heart. This is called cardiac tamponade (tamp-uh-NOD). If it happens, the blood needs to be removed from the pocket around the heart. Most of the time, this is done by inserting a needle through the chest. Sometimes it requires surgery.</p>
+<ul>
+	<li>Cardiac tamponade happens in about 1 out of 100 people who have RFA.</li>
+</ul>
+<p>Sometimes, the bleeding problem is more serious. In rare cases, a hole can form between the heart and esophagus (eh-SAW-fuh-gus) after RFA. If this happens, the blood leaks from the heart into the esophagus. It has happened with only a few people who have had RFA. When it happens, it can cause severe bleeding and death.</p>
+<h2>Pulmonary vein narrowing</h2>
+<p>The pulmonary veins carry blood from the lungs to the heart. RFA destroys problem areas near the pulmonary veins to stop A-fib. The scars that form afterward can cause the veins to narrow.</p>
+<ul>
+	<li>Pulmonary vein narrowing happens in less than 1 out of 100 people who have RFA.</li>
+	<li>Usually, pulmonary vein narrowing does not cause symptoms and does not need treatment.</li>
+</ul> 
+			<a name="903"></a>
+			
+
+			
+				<h3>Talking With Your Doctor About A-Fib and RFA</h3>
+				<p>The research can&rsquo;t tell us for sure which people are most likely to benefit from RFA. Talk with your doctor or nurse about how well it might work for you. Here are some questions you might ask.</p>
+<ul>
+	<li>Can I just take medicine to slow down my heart rate?</li>
+	<li>Can I just take medicine to change the rhythm of my heart?</li>
+	<li>Will RFA help my A-fib symptoms?</li>
+	<li>Can I stop taking medicine to prevent blood clots and strokes, like warfarin (Coumadin&reg;), if RFA stops the A-fib?</li>
+	<li>What kind of follow-up will I need after RFA?</li>
+</ul> 
+			<a name="906"></a>
+			
+
+			
+				<h3>For More Information</h3>
+				<p>Visit <a href="http://www.effectivehealthcare.ahrq.gov">www.effectivehealthcare.ahrq.gov</a>.</p>
+<p>Click on Guides for Patients and Consumers to print a copy of this guide and learn about other conditions.</p>
+<p>For free print copies of this guide, call 800-358-9295.  Ask the Publications Clearinghouse for AHRQ Publication Number 09(10)-EHC015-A.</p>
+<p>To learn more about atrial fibrillation, visit <a href="http://www.nhlbi.nih.gov/health/dci/Diseases/af/af_what.html">www.nhlbi.nih.gov/health/dci/Diseases/af/af_what.html</a>.</p>
+<p></p> 
+			<a name="905"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this guide comes from a detailed review of 120 research reports. The review is called <em>Comparative Effectiveness of Radiofrequency Catheter Ablation for Atrial Fibrillation</em> (2009) and was written by the Tufts Medical Center Evidence-based Practice Center.</p>
+<p>The Agency for Healthcare Research and Quality (AHRQ) created the Eisenberg Center to make research helpful for consumers. This guide was written by Rachelle Nicolai, B.A., Somnath Saha, M.D., Martha Schechtel, R.N., and David Hickam, M.D., of Oregon Health &amp; Science University. People with A-fib helped them develop this guide.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

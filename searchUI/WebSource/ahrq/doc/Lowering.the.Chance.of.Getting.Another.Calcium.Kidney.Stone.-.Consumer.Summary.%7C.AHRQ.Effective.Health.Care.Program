@@ -1,0 +1,942 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Lowering the Chance of Getting Another Calcium Kidney Stone - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;button=1&amp;productid=1609" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fpageaction%3Ddisplayproduct%26button%3D1%26productid%3D1609">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=274">
+					Recurrent Nephrolithiasis in Adults: Comparative Effectiveness of Preventive Medical Strategies 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1035">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Jul. 26, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=701">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Jun. 15, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1318">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Nov. 13, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1611">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 8, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1610">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Aug. 8, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1728">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Sept. 24, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1195">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Jul. 26, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>CME Activity</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=348&cmepage=cme_info">
+									
+									Recurrent Nephrolithiasis in Adults: Comparative Effectiveness of Preventive Medical Strategies 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=313&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12(13)-EHC049-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1609"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1609"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1609"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1609&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1609&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1609&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1609"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1609&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1609&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1609&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2398AA86-C525-6A19-87AA9033B53941BD" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1609&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1609&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1609" title="Lowering the Chance of Getting Another Calcium Kidney Stone"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1609.gif" alt="Lowering the Chance of Getting Another Calcium Kidney Stone" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Lowering the Chance of Getting Another Calcium Kidney Stone" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1609&amp;button=1&quot; title=&quot;Lowering the Chance of Getting Another Calcium Kidney Stone&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1609.gif&quot; border=&quot;0&quot; alt=&quot;Lowering the Chance of Getting Another Calcium Kidney Stone&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Aug. 8, 2013 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Lowering the Chance of Getting Another Calcium Kidney Stone</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/274/1609/kidney-stone-consumer-130801.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							421 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/274/1609/CALCIUM_KIDNEY_STONES.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.8 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1728" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#7865">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#7866">Understanding Your Condition</a></li>
+					
+						<li><a href="#7867">Understanding Your Options</a></li>
+					
+						<li><a href="#7868">Making a Decision</a></li>
+					
+						<li><a href="#7870">Source</a></li>
+					
+			</ul>
+		
+			<a name="7865"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>If you meet all of the following, this information is for you:</h4>
+<ul>
+	<li>You have had a kidney stone in the past.</li>
+	<li>Your doctor* told you that your kidney stone was a calcium stone (the most common type of kidney stone). The research for this summary was only on people with calcium stones. If you do not know what type of stone you had, the information in this summary may still be useful to you.</li>
+	<li>You want to know about options to lower your chance of getting another calcium stone.</li>
+	<li>And you are age 18 or older. The information in this summary is from research on adults.</li>
+</ul>
+<h4>What will this summary tell me?</h4>
+<p>This summary will tell you about:</p>
+<ul>
+	<li>Changes you can make to your diet and/or medicines you can take that could help lower your chance of getting another calcium stone</li>
+	<li>What research says about how well making changes to your diet and taking medicines work to lower the chance of getting another calcium stone</li>
+	<li>Possible side effects of the medicines</li>
+</ul>
+<p>This summary can help you talk with your doctor about options to help lower your chance of getting another calcium stone.</p>
+<p>* In this summary, the term &quot;doctor&quot; refers to your health care professional, including your primary care physician, urologist, nurse practitioner, or physician assistant.</p>
+<h4>Where does the information come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 28 studies (randomized controlled trails) on dietary changes and medicines to lower the chance of having recurrent kidney stones published between January 1948 and November 2011. Nearly all the adults in the research studies for this summary were young to middle-aged men with calcium stones. The report was reviewed by clinicians, researchers, experts, and the public. You can access the report on the right side of this Web page.</p> 
+			<a name="7866"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What are kidney stones?</h4>
+<p>Kidney stones are hard pebbles that form inside your kidneys. Your kidneys are bean-shaped organs that filter the waste chemicals out of your blood and produce urine. Urine travels through your urinary tract to leave your body. The urine goes out of your kidneys, through your ureters (the tubes that connect the kidneys to the bladder; pronounced YUR-et-ers), and into your bladder. The bladder stores urine until it leaves your body when you urinate.</p>
+<p>Kidney stones form when tiny mineral crystals in your urine stick together. Kidney stones can range in size and shape. They can be as small as a grain of sand or as large as a golf ball, although stones that big are rare.</p>
+<p>If a kidney stone is small enough, it can move or &ldquo;pass&rdquo; through your urinary tract and out of your body on its own. If the stone is too large, however, it could get stuck in your kidney or ureter.</p>
+<p><img alt="Image of human torso showing locations of kidneys, ureters and bladder and example of a location of a kidney stone. " src="/ehc/assets/Image/Screen Shot 2013-08-02 at 12_04_47 PM.png" style="width: 300px; height: 472px; " /></p>
+<p>This summary only talks about calcium stones (the most common type of kidney stones).</p>
+<h4>What are the symptoms of kidney stones?</h4>
+<p>Symptoms of kidney stones can include:</p>
+<ul>
+	<li>Sharp pain in your lower belly (below your belly button), back, side, or groin</li>
+	<li>Nausea and vomiting</li>
+	<li>Fever and chills</li>
+	<li>Blood in your urine</li>
+	<li>The feeling of sand or small particles passing through when you urinate</li>
+	<li>Pain when you urinate</li>
+</ul>
+<h4>Who is at risk for getting calcium stones?</h4>
+<p>Several factors can increase your chance of getting calcium stones, including:</p>
+<ul>
+	<li>Not drinking enough water</li>
+	<li>Not getting enough calcium in your diet
+		<ul>
+			<li>Eating or drinking calcium-rich foods does not increase your chance of getting calcium stones. In fact, a diet too low in calcium can actually increase the risk of getting calcium stones.</li>
+		</ul>
+	</li>
+	<li>Eating a lot of foods high in oxalate (for example, spinach, rhubarb, nuts, or wheat bran)</li>
+	<li>Consuming a lot of foods or drinks high in fructose (for example, soft drinks, fruits, ketchup and other condiments, and many canned or packaged foods)</li>
+	<li>Having family members who have had kidney stones</li>
+	<li>Having had kidney stones before</li>
+</ul>
+<h4>How common are kidney stones?</h4>
+<ul>
+	<li>Out of every 100 men, around 13 will get kidney stones in their lifetime.</li>
+	<li>Out of every 100 women, around 7 will get kidney stones in their lifetime.</li>
+	<li>About 8 out of 10 people with kidney stones have calcium stones.</li>
+</ul>
+<h4>How are kidney stones treated and can they form again?</h4>
+<p>Most kidney stones are able to move or &ldquo;pass&rdquo; through your urinary tract&mdash;out of your kidneys, through your ureters (the tubes that connect your kidneys to your bladder), through your bladder, and out of your body&mdash;on their own. You may or may not feel the stones as they pass through. For some people, passing the stones can be painful.</p>
+<p>Sometimes, however, kidney stones cannot pass on their own and get stuck. If this happens, treatment is needed. Treatment can include medicine to dissolve the stones, shock-wave therapy to break the stones into smaller pieces to make them easier to pass, or surgery to remove the stones.</p>
+<p>After your kidney stones have passed&mdash;either on their own or with treatment&mdash;or after they are removed, the stones may form again. People who have had a kidney stone in the past are more likely to get another stone in the future. For this reason, your doctor may suggest steps to take to help lower your chance of getting another stone.</p>
+<p><img alt="Without taking steps to lower the chance of getting another kidney stone, up to 5 out of every 10 people who have had a kidney stone in the past will have stones form again." src="/ehc/assets/Image/Screen Shot 2013-08-02 at 12_03_50 PM.png" style="width: 550px; height: 182px; " /></p> 
+			<a name="7867"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>How can I lower my chance of getting another calcium stone?</h4>
+<p>Your doctor may suggest making changes to your diet and/or taking medicine to help lower your chance of getting another calcium stone. Your doctor may do urine and blood tests and ask about your medical history, eating habits, and lifestyle. Not everyone forms calcium stones for the same reasons. Your doctor will work with you to find the best way to help keep calcium stones from forming again.</p>
+<h4>Making Changes to Your Diet</h4>
+<p>Your doctor may suggest making changes to your diet, such as:</p>
+<ul>
+	<li>Drinking more water
+		<ul>
+			<li>You should try to drink at least eight to ten 8-ounce drinking glasses of water a day.</li>
+		</ul>
+	</li>
+	<li>Drinking fewer soft drinks or eliminating soft drinks
+		<ul>
+			<li>If you drink soft drinks, you should avoid soft drinks that contain phosphoric acid alone without citric acid.</li>
+		</ul>
+	</li>
+	<li>Making sure to get enough calcium in the foods you eat
+		<ul>
+			<li>Although it may be surprising, too little calcium in your diet can actually increase your risk of getting another calcium stone. Your doctor can tell you if you are getting enough calcium in your diet.</li>
+			<li>Taking calcium dietary supplements (such as calcium pills or chews) may not lower your risk for getting another calcium stone as well as getting calcium from food. The best way to assure you are getting enough calcium is to make sure your diet includes enough calcium-rich foods. Examples of calcium-rich foods include milk, cheese, and yogurt.</li>
+			<li>Talk with your doctor about which calcium-rich foods are good to eat and if there are any that you should avoid.</li>
+		</ul>
+	</li>
+	<li>Eating a diet low in sodium (salt)
+		<ul>
+			<li>Try to eat fresh vegetables and meats instead of processed foods. If you buy canned foods, make sure they have no salt added.</li>
+			<li>Use other seasonings instead of salt to flavor food. Make sure any spice blends you use do not contain salt.</li>
+		</ul>
+	</li>
+	<li>Eating a diet low in animal protein
+		<ul>
+			<li>Limit the amount of meat, fish, and eggs you eat.</li>
+		</ul>
+	</li>
+	<li>Avoiding foods high in oxalate (for example, spinach, rhubarb, nuts, and wheat bran)</li>
+</ul>
+<p>Talk with your doctor before making changes to your diet. Be sure to tell your doctor about any medicines and vitamins you are taking.</p>
+<h5>What does research say about changes in diet to lower the chance of getting another calcium stone?</h5>
+<p>Although more studies are needed to know for sure, researchers found that:</p>
+<ul>
+	<li>Drinking more water and avoiding soft drinks lower the chance of getting another calcium stone.</li>
+	<li>Eating a diet with enough calcium, low sodium, low animal protein, and low oxalate may lower the chance of getting another calcium stone.</li>
+</ul>
+<h4>Medicines</h4>
+<p>There are several medicines your doctor may suggest to lower your chance of getting another calcium stone. The table below lists these medicines and their possible side effects.</p>
+<table class="styleOne">
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Medicine</th>
+			<th scope="col">How the Medicine Works</th>
+			<th scope="col">Possible Side Effects</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="3">* According to the U.S. Food and Drug Administration (FDA), taking citrates that contain potassium could cause serious side effects in people whose bodies are unable to remove potassium, such as people with kidney problems. Take one of these citrates only if your doctor prescribes it.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th class="row">Thiazide diuretics (water pills)
+				<ul>
+					<li>Hydrochlorothiazide (HydroDIURIL<sup>&reg;</sup>, Microzide<sup>&reg;</sup>)</li>
+					<li>Chlorthalidone (Hydone<sup>&reg;</sup> Tablet, Hygroton<sup>&reg;</sup>, Thalitone<sup>&reg;</sup>)</li>
+					<li>Indapamide (Lozol<sup>&reg;</sup>)</li>
+				</ul>
+			</th>
+			<td>These medicines decrease the amount of calcium in your urine.</td>
+			<td>
+				<ul>
+					<li>Stomach pain or cramping</li>
+					<li>Nausea and vomiting</li>
+					<li>Diarrhea</li>
+					<li>Tiredness</li>
+					<li>Muscle weakness or cramping</li>
+					<li>Headache</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="row">Citrates*
+				<ul>
+					<li>Potassium citrate (Urocit-K<sup>&reg;</sup>)</li>
+					<li>Sodium-potassium citrate</li>
+				</ul>
+			</th>
+			<td>These medicines help keep calcium stones from forming.</td>
+			<td>
+				<ul>
+					<li>Stomach pain</li>
+					<li>Nausea and vomiting</li>
+					<li>Diarrhea</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="row">Allopurinol (Zyloprim<sup>&reg;</sup>)</th>
+			<td>This medicine lowers the amount of uric acid (a waste chemical) in your blood and urine. High amounts of uric acid in your blood or urine can cause calcium stones to form.</td>
+			<td>
+				<ul>
+					<li>Nausea</li>
+					<li>Diarrhea</li>
+					<li>Skin rash</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h5>What does research say about medicines to lower the chance of getting another calcium stone?</h5>
+<p>Researchers found that:</p>
+<ul>
+	<li>When taken along with drinking more water, thiazide diuretics and citrates work to lower the chance of getting another calcium stone.</li>
+	<li>When taken along with drinking more water, allopurinol (Zyloprim<sup>&reg;</sup>) works to lower the chance of getting another calcium stone in people who have a high amount of uric acid (a waste chemical) in their blood or urine.</li>
+</ul> 
+			<a name="7868"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>There are many things to think about when deciding which option might be best to help lower your chance of getting another calcium stone. You and your doctor should talk about:</p>
+<ul>
+	<li>Your eating habits and the changes to your diet and lifestyle you may be asked to make</li>
+	<li>The possible benefits of making changes to your diet</li>
+	<li>The possible benefits and side effects of taking medicines to lower your chance of getting another kidney stone</li>
+	<li>The costs of the medicines</li>
+</ul>
+<h4>What are the costs of medicines to lower your chance of getting another calcium stone?</h4>
+<p>Thiazide diuretics, citrates, and allopurinol are all available in generic form and are usually not very expensive. The costs to you for these medicines depend on:</p>
+<ul>
+	<li>Your health insurance</li>
+	<li>The dose (amount) that you need to take</li>
+</ul>
+<h4>Ask your doctor</h4>
+<ul>
+	<li>Could changes in my diet help lower my chance of getting another calcium stone? If so, what changes will I need to make?</li>
+	<li>Could a medicine help lower my chance of getting another calcium stone? If so, which medicine?</li>
+	<li>How long will I need to take the medicine?</li>
+	<li>Are there any serious side effects of the medicine that I should watch for? When should I call you about any side effects?</li>
+	<li>Could making changes to my diet or taking a medicine affect other medicines I am taking?</li>
+	<li>How will we know if the diet changes and/or medicine are working?</li>
+	<li>Is there anything else I can do to help lower my chance of getting another calcium stone?</li>
+	<li>What should I do if I get another calcium stone?</li>
+</ul> 
+			<a name="7870"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em>Recurrent Nephrolithiasis in Adults: Comparative Effectiveness of Preventive Medical Strategies</em>, July 2012. The report was produced by the Minnesota Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>For a copy of the report or for more information about AHRQ and the Effective Health Care Program, go to <em>www.effectivehealthcare.ahrq.gov/kidney-stones.cfm.</em> Additional information came from the MedlinePlus<sup>&reg;</sup> Web site, a service of the National Library of Medicine and the National Institutes of Health. This service is available at <em>www.nlm.nih.gov/medlineplus.</em></p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., Richard E. Link, M.D., Ph.D., and Michael Fordis, M.D. People who have recurring calcium kidney stones reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

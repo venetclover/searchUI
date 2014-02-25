@@ -1,0 +1,863 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Progestogens To Prevent Preterm Birth: A Review of the Research About Progestogens for Women at Risk - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=1254&amp;pageaction=displayproduct&amp;button=1" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fproductid%3D1254%26pageaction%3Ddisplayproduct%26button%3D1">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=104">
+					Progestogens for the Prevention of Preterm Birth 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1239">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Sept. 7, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=397">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Apr. 15, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1347">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Dec. 5, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1664">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 20, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1255">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 21, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1381">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Jan. 24, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1237">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 7, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://journals.lww.com/greenjournal/Abstract/publishahead/Progestogens_for_Preterm_Birth_Prevention__A.99947.aspx">
+									
+									Likis FE, Velez Edwards DR, Andrews JC, et al. Progestogens for preterm birth prevention: a systematic review and meta-analysis. Obstet Gynecol 2012 Oct;120(4):1-11. 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Related Links</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=326&cmepage=cme_info">
+									
+									CME Activity: Progestogens for Prevention of Preterm Birth 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=274&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12-EHC105-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1254%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1254%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1254%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1254%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1254%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1254%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1254%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1254%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1254%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1254%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2398419E-F54B-110F-E73C4E1FA71EE542" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1254&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1254&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1254" title="Progestogens To Prevent Preterm Birth: A Review of the Research About Progestogens for Women at Risk"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1254.gif" alt="Progestogens To Prevent Preterm Birth: A Review of the Research About Progestogens for Women at Risk" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Progestogens To Prevent Preterm Birth: A Review of the Research About Progestogens for Women at Risk" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1254&amp;button=1&quot; title=&quot;Progestogens To Prevent Preterm Birth: A Review of the Research About Progestogens for Women at Risk&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1254.gif&quot; border=&quot;0&quot; alt=&quot;Progestogens To Prevent Preterm Birth: A Review of the Research About Progestogens for Women at Risk&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Sept. 21, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Progestogens To Prevent Preterm Birth: A Review of the Research About Progestogens for Women at Risk</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/104/1254/preterm_labor_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							509 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/104/1254/PROGESTOGENS.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							6.2 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1381" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#6459">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#6460">Understanding Your Condition</a></li>
+					
+						<li><a href="#6461">Understanding Progestogens</a></li>
+					
+						<li><a href="#6462">Making a Decision</a></li>
+					
+						<li><a href="#6463">Source</a></li>
+					
+			</ul>
+		
+			<a name="6459"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<ul>
+	<li>At least once before you had a baby too early because labor started on its own before 37 weeks of pregnancy (for example, at 20 weeks). This is called &ldquo;spontaneous (spon-TAY-nee-us) preterm birth.&rdquo; An example is if your &ldquo;water broke&rdquo; before 37 weeks of pregnancy. You may be pregnant now or are thinking about becoming pregnant again.</li>
+	<li>Your doctor* has told you that you have a short cervix. (The cervix is the narrow tube-like opening in the lower part of your uterus. The uterus is where your baby grows while you are pregnant.)</li>
+	<li>Your doctor has told you that you are at risk for preterm birth. If you are not sure if you are at risk for preterm birth, ask your doctor.</li>
+	<li>You have heard about the use of hormones called &ldquo;progestogens&rdquo; (pronounced pro-JES-toe-jenz) to prevent preterm birth and want to know about the research on the benefits and possible side effects of this treatment.</li>
+</ul>
+<p>* In this summary, the term &ldquo;doctor&rdquo; refers to any of the health care professionals who may take care of you, including your obstetrician or other physician, nurse practitioner, midwife, or physician assistant.</p>
+<h4>No, if:</h4>
+<ul>
+	<li>You are 37 weeks or more along in your pregnancy.</li>
+	<li>You never had a baby born too early because of spontaneous preterm birth.</li>
+	<li>You are pregnant with more than one baby, such as twins or triplets.</li>
+</ul>
+<h4>What will this summary tell me?</h4>
+<p>This summary will tell you about the risk of preterm birth. It also tells you what the research says about the benefits and harms of taking a progestogen to prevent preterm birth. You can use this information to talk with your doctor about whether taking a progestogen is the best treatment option for you.</p>
+<h4>Where does the information come from?</h4>
+<p>The information in this summary comes from a review of 63 research studies about progestogens. The review was funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency. You can read the full report at <a href="http://www.effectivehealthcare.ahrq.gov/pretermbirth.cfm">www.effectivehealthcare.ahrq.gov/pretermbirth.cfm</a>.</p> 
+			<a name="6460"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is spontaneous preterm birth?</h4>
+<p>A preterm birth is when birth happens before the 37th week of pregnancy (a full-term pregnancy lasts for 37 to 42 weeks). When preterm birth happens on its own, without being induced for a specific medical reason, it is called &ldquo;spontaneous preterm birth.&rdquo;</p>
+<p>Some babies born before 37 weeks are at risk for needing special care. They may need care in an intensive care unit. Babies born very early have a higher risk of being disabled or possibly dying.</p>
+<p>More than 475,000 babies or around 12 percent of all births in the United States each year are preterm. For the families of each of these babies, preterm birth can cause distress and heartache and can increase the cost of care for the mother and her baby.</p>
+<h4>What is the difference between preterm labor and preterm birth?</h4>
+<p>Preterm labor means that you start to have contractions and your cervix starts to widen (dilate) before the 37th week of pregnancy. Preterm labor can lead to preterm birth. It is not always possible to stop preterm labor once it starts, and many babies are born too early.</p>
+<p>Because of this, doctors have been looking for ways to help women not go into labor until they are pregnant for at least 37 weeks.</p>
+<h4>What makes me at risk for preterm birth?</h4>
+<p>Doctors have found several things that may put a woman at risk for a preterm birth:</p>
+<ul>
+	<li>Having had a preterm birth before</li>
+	<li>Being pregnant with more than one baby, such as twins or triplets</li>
+	<li>Having a short cervix (when the narrow tube-like opening to your uterus is less than an inch long)</li>
+	<li>Having some symptoms of preterm labor, such as early contractions that start to open your cervix</li>
+</ul>
+<p>Your doctor can tell you if you are at risk for preterm birth.</p> 
+			<a name="6461"></a>
+			
+
+			
+				<h3>Understanding Progestogens</h3>
+				<h4>What is progestogen?</h4>
+<p>Progestogens (pronounced pro-JES-toe-jenz) have two forms:</p>
+<ul>
+	<li>The natural progesterone (pronounced pro-JES-ter-own) hormone made in your body</li>
+	<li>A similar hormone made in a laboratory (called a &ldquo;synthetic hormone,&rdquo; or progestin)</li>
+</ul>
+<p>The progesterone hormone made in your body helps you become and stay pregnant. Taking extra natural or synthetic progesterone (progestogens) may help prevent preterm birth in some women.</p>
+<p>Progestogen can be given in one of several ways:</p>
+<ul>
+	<li>As a gel, cream, capsule, or suppository that you place in your vagina</li>
+	<li>As a shot in your arm or other muscles</li>
+	<li>As a pill that is swallowed (this is less common)</li>
+</ul>
+<h4>What does the research say about taking progestogens?</h4>
+<ul>
+	<li>Some research found that progestogens help women who are pregnant with one baby and who had a preterm birth with a previous pregnancy.
+		<ul>
+			<li>For 1 out of every 11 of these women who take a progestogen, the treatment will help her pregnancy last to at least 37 weeks.</li>
+			<li>Progestogens may also help these women lower the risk of having their baby die at birth, but there is not enough research to know this for certain.</li>
+			<li>Although all three forms of progestogens (pills, shots, and vaginal gels or suppositories) can lower the risk of having a spontaneous preterm birth, doctors cannot say if one form works better than another.</li>
+		</ul>
+	</li>
+	<li>Two research studies showed that women with a short cervix who were treated with progestogens were less likely to have a preterm birth. There is not enough research to know for certain how many women with a short cervix will benefit.</li>
+	<li>Women who were pregnant with twins or triplets did not see any benefit from taking progestogens.</li>
+	<li>There is not enough research to know if progestogens can help prevent preterm birth in women with other risk factors such as preterm labor (having early contractions that open the cervix).</li>
+</ul>
+<h4>How safe is progestogen?</h4>
+<p>There is not enough research about the side effects caused by progestogens to know about their overall safety. The most common short-term side effect women had in the research studies was a feeling of discomfort where they got the shot or irritation from the vaginal form (for example, the cream or gel). Doctors do not know about long-term side effects that might show up months or years after you give birth.</p> 
+			<a name="6462"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about?</h4>
+<p>There are several things that you and your doctor or health care professional should talk about when deciding if a progestogen is a good choice for you.</p>
+<p>Talk with your doctor about:</p>
+<ul>
+	<li>The benefits of taking progestogens to prevent preterm birth</li>
+	<li>The uncertainty about possible side effects of taking a progestogen</li>
+	<li>Your preferences and lifestyle</li>
+	<li>The cost of progestogen pills, shots, or suppositories</li>
+</ul>
+<h4>How comfortable am I with what is known about progestogens?</h4>
+<p>Doctors know more about how progestogens may help, but less about the possible long-term side effects. It is important for you to talk with your doctor about how comfortable you are with what is known about the benefits and safety of taking progestogens to prevent preterm birth.</p>
+<h4>How will taking a progestogen affect my lifestyle?</h4>
+<p>Preventing preterm birth may affect the amount of activity or work you are able to do. But the progestogen itself should not affect your lifestyle.</p>
+<p>The pill and vaginal gel forms of progestogens can be taken at home. If you take the shot form, you will need to go to your doctor or health care professional once a week or have a home nurse give you the shot.</p>
+<p>Your doctor or health care professional can make a plan with you.</p>
+<h4>What is the cost?</h4>
+<p>The cost to you for progestogens in any form depends on:</p>
+<ul>
+	<li>The amount (dose) that you need to take</li>
+	<li>How often you need to take it</li>
+	<li>The brand you use</li>
+	<li>The length of time that you need to take it</li>
+	<li>Your health insurance plan</li>
+	<li>Whether you get the brand-name or a generic form</li>
+</ul>
+<p>Progestogen pills, vaginal gels, and shots are all available in a generic form. The cost can be as low as $3 to $20 per dose. The average price for the most expensive form of progestogen shot is as high as $700.</p>
+<p>For a woman who is treated with the vaginal gel form of progestogen (starting at the 16th week of her pregnancy and lasting until the 37th week), the total cost of 21 weeks of treatment can range from $1,800 to $2,500 depending on the brand of gel.</p>
+<h4>Ask Your Doctor or Other Health Care Professional</h4>
+<p>Talk with your doctor or health care professional about taking progestogen to prevent preterm birth. Here are some questions you may want to ask:</p>
+<ul>
+	<li>Could taking a progestogen help my baby and me?</li>
+	<li>If so, which form of progestogen might be best for me?</li>
+	<li>What do you think about the things that doctors still do not know about progestogens?</li>
+	<li>What else can I do to help prevent a preterm birth?</li>
+</ul> 
+			<a name="6463"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1239"><em>Progestogens for Prevention of Preterm Birth</em></a>, August 2012.</p>
+<p>The report was produced by the Vanderbilt University Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ). For a copy of the report or for more information about AHRQ and the Effective Health Care Program, go to <a href="http://www.effectivehealthcare.ahrq.gov/pretermbirth.cfm">www.effectivehealthcare.ahrq.gov/pretermbirth.cfm</a>.</p>
+<p>Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>. The drug costs included in this summary are taken from &ldquo;A Guide to the Cost of Progesterone for Prevention of Preterm Labor,&quot; an article published in the April 15, 2011, issue of <em>Proceedings in Obstetrics and Gynecology</em>. The article is available at <a href="http://ir.uiowa.edu/pog/vol1/iss3/9">http://ir.uiowa.edu/pog/vol1/iss3/9</a>&nbsp;<a href="/exit-disclaimer/"><img alt="Exit Disclaimer" src="/ehc/images/exit_disclaimer.png" /></a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., Diane Markesich, Ph.D., Thomas Workman, Ph.D., Kjersti Aagaard-Tillery, M.D., and Michael Fordis, M.D.&nbsp;Pregnant women at risk of preterm&nbsp;birth helped review this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

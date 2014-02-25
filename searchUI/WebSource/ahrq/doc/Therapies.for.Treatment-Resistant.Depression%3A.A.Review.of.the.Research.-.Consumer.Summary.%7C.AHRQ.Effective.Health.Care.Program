@@ -1,0 +1,900 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Therapies for Treatment-Resistant Depression: A Review of the Research - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pcem=en&amp;productid=1011&amp;pageaction=displayproduct&amp;mode=p" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Fwww%2Eeffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3FPCem%3DEN%26productID%3D1011%26pageaction%3Ddisplayproduct%26mode%3DP">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=76">
+					Nonpharmacologic Interventions for Treatment-Resistant Depression in Adults 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=792">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Sept. 23, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=369">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Dec. 9, 2009 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=923">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Jan. 5, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1545">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jun. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1655">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 20, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1010">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Mar. 19, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1130">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Jun. 13, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=787">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 23, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=307&cmepage=cme_info">
+									
+									CME Activity: Nonpharmacologic Interventions for Treatment-Resistant Depression in Adults 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 11(12)-EHC056-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpcem%3den%26amp%3bproductid%3d1011%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpcem%3den%26amp%3bproductid%3d1011%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpcem%3den%26amp%3bproductid%3d1011%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpcem%3den%26amp%3bproductid%3d1011%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpcem%3den%26amp%3bproductid%3d1011%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpcem%3den%26amp%3bproductid%3d1011%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpcem%3den%26amp%3bproductid%3d1011%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpcem%3den%26amp%3bproductid%3d1011%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpcem%3den%26amp%3bproductid%3d1011%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpcem%3den%26amp%3bproductid%3d1011%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://www.effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2613D7B8-B191-E40A-4EA3923EE87A7B05" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm/search-for-guides-reviews-and-reports/?PCem=EN&amp;mode=P&amp;pageaction=displayproduct&amp;productID=1011" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1011&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1011" title="Therapies for Treatment-Resistant Depression: A Review of the Research"><img src="http://www.effectivehealthcare.ahrq.gov/ehc/images/buttons/1011.gif" alt="Therapies for Treatment-Resistant Depression: A Review of the Research" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Therapies for Treatment-Resistant Depression: A Review of the Research" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1011&amp;button=1&quot; title=&quot;Therapies for Treatment-Resistant Depression: A Review of the Research&quot;&gt;&lt;img src=&quot;http://www.effectivehealthcare.ahrq.gov/ehc/images/buttons/1011.gif&quot; border=&quot;0&quot; alt=&quot;Therapies for Treatment-Resistant Depression: A Review of the Research&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Mar. 19, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Therapies for Treatment-Resistant Depression: A Review of the Research</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/76/1011/ref_dep_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							492 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/76/1011/TRD.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.8 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1130" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#5050">Is This Information Right for Me or Someone I Care For?</a></li>
+					
+						<li><a href="#5051">Understanding My Condition</a></li>
+					
+						<li><a href="#5052">Understanding My Options</a></li>
+					
+						<li><a href="#5053">Making a Decision</a></li>
+					
+						<li><a href="#5054">Source</a></li>
+					
+			</ul>
+		
+			<a name="5050"></a>
+			
+
+			
+				<h3>Is This Information Right for Me or Someone I Care For?</h3>
+				<h5>Yes, if:</h5>
+<ul>
+	<li>A doctor or health care professional has told you that you have major depressive disorder (MDD), or depression, <u><strong><em>and</em></strong></u></li>
+	<li>You have tried two different kinds of depression medicine, but you still have symptoms of depression.</li>
+	<li>A doctor or health care professional has told you that you have treatment-resistant depression, or TRD.</li>
+	<li>Your doctor or health care professional has suggested one or more of the following non-medicine treatments (therapies):
+	<ul>
+		<li>Electroconvulsive therapy (ECT)</li>
+		<li>Repetitive transcranial magnetic stimulation (rTMS)</li>
+		<li>Vagus nerve stimulation (VNS)</li>
+		<li>Talk therapy</li>
+	</ul>
+	</li>
+</ul>
+<h5>No, if:</h5>
+<ul>
+	<li>A doctor has not diagnosed you with depression.</li>
+	<li>You have not tried at least two different kinds of depression medicine.</li>
+</ul>
+<h5>What does this summary cover?</h5>
+<p>This summary explains treatment-resistant depression. It tells you what the most recent research says about the treatments available when medicines do not help. It gives questions to ask about these treatment options.</p>
+<h5>Where does the information come from?</h5>
+<p>The information comes from a report that reviewed 63 studies published between January 1980 and November 2010 for the Agency for Healthcare Research and Quality, a Federal Government research agency. You can read the full report at <a href="http://www.effectivehealthcare.ahrq.gov/trd.cfm">www.effectivehealthcare.ahrq.gov/trd.cfm</a>.</p> 
+			<a name="5051"></a>
+			
+
+			
+				<h3>Understanding My Condition</h3>
+				<h4>Why isn&rsquo;t the medicine working?</h4>
+<p>If your depression medicine didn&rsquo;t help you feel better, you are not alone. <strong><em>About half or more of all people treated with medicine for their depression will still have some symptoms or will have symptoms come back.</em></strong></p>
+<p>When your symptoms do not go away after trying two or more different medicines for 6 weeks or more, you may have what doctors call &ldquo;treatment-resistant depression.&rdquo;</p>
+<h5>Why do I have treatment-resistant depression?</h5>
+<p>There can be many reasons why a medicine works for some people and not others. Depression is a complex illness, and everyone is different. Your doctor or health care professional may want to talk about your symptoms again to see if there may be other reasons for why you feel depressed. You and your doctor can also explore other treatment options.</p>
+<p></p>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">Many people do not get better the first or second time they treat their depression. Do not give up! You and your doctor can continue to look for the right treatment.</div>
+<h5>Is there anything that will work for me?</h5>
+<p>Doctors have many different ways to treat depression. Even if some medicines did not help you feel better, there are other treatment options. These options include combining medicines with non-medicine treatments, adding different medicines, or switching to one or more non-medicine therapies.</p> 
+			<a name="5052"></a>
+			
+
+			
+				<h3>Understanding My Options</h3>
+				<h4>What are non-medicine treatments?</h4>
+<p>Although medicines are the most common way that doctors treat depression, there are other treatments (therapies) for depression that do not use medicines. Researchers have studied four of these treatments:</p>
+<p><img alt="The four non-pharmacologic treatments (therapies) for depression: electroconvulsive therapy, vagus nerve stimulation, repetitive transcranial magnetic stimulation, and talk therapy" width="412" height="230" src="/tasks/sites/ehc/assets/Image/nonpharmtherapy.png" /></p>
+<p></p>
+<h4>Electroconvulsive Therapy<img alt="" width="112" height="113" style="float: right;" src="/tasks/sites/ehc/assets/Image/ect(5).png" /></h4>
+<p>Electroconvulsive therapy, or ECT, is one of the oldest and most common non-medicine treatments for depression and other mental illnesses.</p>
+<ul>
+	<li>ECT works by sending small amounts of electric current into one or both sides of the brain. This changes the way that the chemicals in your brain work.</li>
+	<li>ECT is commonly used for treatment-resistant depression.</li>
+	<li>An ECT session takes about 10 or 15 minutes and is done at a hospital or doctor&rsquo;s clinic. People are given anesthesia (pronounced an&ndash;es-THEE-zha), which are drugs used to put the person to sleep. You are not awake during an ECT treatment.</li>
+	<li>A person may need two or three sessions per week for 2 to 4 weeks. The number of sessions depends on the person&rsquo;s condition and how soon the person starts to feel better.</li>
+</ul>
+<p><img alt="Image of electroconvulsive therapy." width="438" height="339" src="/tasks/sites/ehc/assets/Image/ElectroconvulsiveTherapy.png" /></p>
+<h5>What are the benefits of ECT?</h5>
+<p>ECT has been used for many years to help people with depression. Research about the benefits of ECT was not included in this review. Researchers think that ECT is most effective in helping people who are suicidal. Older people seem to benefit from ECT as well as younger people, if not more.</p>
+<h5>What are the side effects of ECT?</h5>
+<ul>
+	<li>Some people who have ECT have had seizures after the therapy.</li>
+	<li>Some older research found that people who have had ECT may not think as well or as quickly after the therapy.</li>
+	<li>There may be some side effects caused by the anesthesia such as low blood pressure, heart problems, or allergic reactions.</li>
+	<li>People with unstable heart disease, bleeding problems, or extra pressure in their skulls should not have ECT.</li>
+</ul>
+<h5>What else should I think about?</h5>
+<ul>
+	<li>ECT has changed and has become safer than when it was first used. Many people with different kinds of mental illnesses have been treated with ECT.</li>
+	<li>An ECT session costs around $2,500 per session, including anesthesia. There may be extra costs if a hospital stay is needed.</li>
+	<li>ECT costs are covered by most health insurance plans, Medicaid, and Medicare. The amount you pay depends on your plan.</li>
+</ul>
+<h4>Repetitive Transcranial Magnetic Stimulation<img alt="" width="112" height="114" style="float: right;" src="/tasks/sites/ehc/assets/Image/repetitivetranscranialmagneticstimulation(1).png" /></h4>
+<p>Repetitive transcranial magnetic stimulation, or rTMS, uses magnets to stimulate the nerve cells of the brain. A special device placed near the top of your head sends magnetic energy to the front part of your brain, called the &ldquo;prefrontal cortex.&rdquo; This part of your brain controls mood and depression.</p>
+<p>The magnets send a pulse to your brain that excites the nerve cells. Researchers do not fully understand the exact way that rTMS works, but they think that the magnetic energy may help improve the way that the cells in your cortex send messages to each other.</p>
+<p>rTMS is used for depression, other mental illnesses, epilepsy, and Parkinson&rsquo;s disease. The U.S. Food and Drug Administration has not approved it for treatment-resistant depression, but it has been used for people who didn&rsquo;t feel better after trying one medicine for 6 weeks or more.</p>
+<ul>
+	<li>rTMS therapy sessions can be done in a doctor&rsquo;s office. rTMS does not require anesthesia (drugs used to put you to sleep). You are awake during the session.</li>
+	<li>Sessions usually last 40 minutes.</li>
+	<li>A person will have rTMS therapy every day (weekdays only) for 2 to 6 weeks. The number of weeks depends on the person&rsquo;s condition and how quickly the person starts to feel better.</li>
+</ul>
+<p><img alt="Image of Repetitive Transcranial Magnetic Stimulation" width="292" height="348" src="/tasks/sites/ehc/assets/Image/rTMS(1).png" /></p>
+<h5>What are the benefits of rTMS?</h5>
+<ul>
+	<li>Research found that people who had rTMS were three times as likely to experience some relief from their depression.</li>
+	<li>Research found that people who had rTMS were six times as likely to have their depression go away completely. Researchers do not feel as confident about this result, because it came from only a few studies.</li>
+	<li>rTMS may improve people&rsquo;s overall health and ability to function every day, but there is not enough research to know this for certain.</li>
+	<li>There was not enough research to say if rTMS could keep depression symptoms from coming back.</li>
+</ul>
+<h5>What are the side effects of rTMS?</h5>
+<ul>
+	<li>There is not enough research to say how likely people might experience side effects because of rTMS therapy.</li>
+	<li>rTMS may cause scalp pain in some people, but there is not enough research to know this for certain. Other side effects may include mild headaches, fainting, and temporary changes in hearing.</li>
+</ul>
+<h5>What else should I think about?</h5>
+<ul>
+	<li>rTMS is newer than other therapies. This means that there may not be as many places in your area that have the equipment for this treatment.</li>
+	<li>rTMS is not approved for people who have treatment-resistant depression. This means that rTMS therapy is not covered by Medicaid and Medicare, and may not be covered by your health insurance plan. You may have to pay for the total cost of the treatment. The average total cost of rTMS treatment for most people is between $2,000 and $7,500.</li>
+	<li>People with a high risk of seizures or who have implants or magnet-sensitive metal in their heads should not use rTMS.</li>
+</ul>
+<h4>Vagus Nerve Stimulation<img alt="" width="114" height="114" style="float: right;" src="/tasks/sites/ehc/assets/Image/vagusnervestimulation(2).png" /></h4>
+<p>Vagus nerve stimulation, or VNS, uses a round battery-powered device that is implanted in your body during surgery. The device is placed in your chest with a wire that attaches to a nerve in your neck called the &ldquo;vagus&rdquo; nerve.</p>
+<p>The wire sends an electrical impulse to your vagus nerve for 30 seconds every 5 minutes. It is usually kept inside the body for 10 weeks or more and then is removed. It was first made for people with epilepsy, but is also used for people with treatment-resistant depression.</p>
+<ul>
+	<li>VNS is usually only used for people who have not found relief from their depression after trying four or more depression medicines.</li>
+	<li>VNS is used only for people who are 18 years of age or older.</li>
+	<li>The surgery takes between 30 to 60 minutes. An overnight hospital stay may not be needed.</li>
+</ul>
+<h5>What are the benefits of VNS?</h5>
+<ul>
+	<li>There are not as many good studies about VNS to say how well it works.</li>
+	<li>Limited research found that VNS did not improve the symptoms of depression.</li>
+</ul>
+<p><img alt="Image illustrating vagus nerve stimulation." width="261" height="375" src="/tasks/sites/ehc/assets/Image/vns.png" /></p>
+<h5>What are the side effects of VNS?</h5>
+<ul>
+	<li>Some people had changes to their voice, a cough, neck pain, tingling or numbness in the skin, and shortness of breath.</li>
+	<li>Since VNS requires an operation, people using this treatment are at risk for problems caused by surgery and anesthesia (drugs used to put you to sleep).</li>
+</ul>
+<h5>What else should I think about?</h5>
+<ul>
+	<li>The VNS device may be able to stay in your body for a long time.</li>
+	<li>It may take 6 to 12 months before a person can see the benefits of VNS.</li>
+	<li>VNS therapy is not covered by Medicaid and Medicare, and may not be covered by your health insurance plan. This means that you may have to pay for the entire cost. The average cost of treatment for most people, not including the cost of the operation, is between $10,000 and $20,000.</li>
+</ul>
+<h4>&ldquo;Talk&rdquo; Therapy<img alt="" width="115" height="113" style="float: right;" src="/tasks/sites/ehc/assets/Image/talktherapy.png" /></h4>
+<p>Doctors may call this &ldquo;cognitive behavioral therapy&rdquo; or &ldquo;interpersonal therapy.&rdquo; Trained therapists talk with people about how they think and feel about their depression. What the person and the therapist talk about is carefully planned by the therapist. The person and therapist might talk about specific symptoms or life events, ways to cope, or ways to address problems. Each session is part of a larger program of therapy to help the person feel better.</p>
+<ul>
+	<li>Most talk therapy is done in 30-minute or 1-hour sessions once a week for 3 or 4 months, depending on the person.</li>
+	<li>Some talk therapy is done in groups of people with a therapist rather than alone with the therapist.</li>
+</ul>
+<h5>What are the benefits of talk therapy?</h5>
+<p>There are not enough studies about how well talk therapy works for patients with treatment-resistant depression. Talk therapy has been studied for people with depression, eating disorders, anxiety, and personality disorders.</p>
+<h5>What are the side effects of talk therapy?</h5>
+<p>Research has not found any side effects from talk therapy.</p>
+<h5>What else should I think about?</h5>
+<ul>
+	<li>Talk therapy is covered by Medicare and most health insurance plans, although the number of therapy sessions you can have may be limited. The amount you pay depends on your plan. Most therapists charge around $150 per session.</li>
+	<li>Finding the right therapist for you may make a difference in the success of this treatment. You may want to think about how the gender, age, race, or personality of the therapist makes you feel. Therapists are used to having people decide whether they want to work with them after the first visit. They will not be offended if you find someone else who makes you feel more comfortable.</li>
+</ul>
+<h4>How do all these therapies compare with one another?</h4>
+<p>There is little research that compares each of these therapies against all the others. Although researchers can&rsquo;t say for sure, a very few studies found that:</p>
+<ul>
+	<li>ECT seems to work better than a standard antidepressant to make depression symptoms better or go away completely.</li>
+	<li>There are no clear differences between how well ECT or rTMS makes depression symptoms better or go away.</li>
+	<li>There are no clear differences between how well ECT combined with rTMS makes depression symptoms better or go away when compared with having ECT by itself.</li>
+	<li>Researchers cannot say whether there are more side effects from any one of the therapies over the others.</li>
+	<li>Researchers cannot say whether there are more benefits from talk therapy than from medicines.</li>
+</ul> 
+			<a name="5053"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>You and your doctor can decide together which option is best for you by considering:</p>
+<ul>
+	<li>Other health conditions that may increase your risk of side effects.</li>
+	<li>The specific nature of your depression and possible other causes for having treatment-resistant depression.</li>
+	<li>Your values, likes, and dislikes about each of the options.</li>
+	<li>Your goals for treatment and recovery from depression.</li>
+	<li>Your insurance plan and the costs to you for each option.</li>
+</ul>
+<p>If your depression is making it hard to talk about these issues, bring a trusted friend or family member along to the doctor&rsquo;s visit.</p>
+<h5>Talk with your doctor or health care professional</h5>
+<p>Here are some questions you may want to ask your doctor or health care professional at your next visit.</p>
+<ul>
+	<li>Why do I have treatment-resistant depression?</li>
+	<li>Would I do these treatments instead of taking medicine, or do I keep taking medicine for my depression?</li>
+	<li>Do you have any worries about these treatments for me, given my health?</li>
+	<li>If one choice doesn&rsquo;t work, what do you think is the next thing that I should try?</li>
+	<li>When should I let you know that the treatment is working or not working?</li>
+	<li>What is my risk for having side effects?</li>
+</ul> 
+			<a name="5054"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em><a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=792">Nonpharmacological Interventions for Treatment-Resistant Depression</a></em>, September 2011.</p>
+<p>The report was produced by the RTI International-University of North Carolina Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Emily White, M.S., Thomas Workman, Ph.D., Mark Kunik, M.D., and Michael Fordis, M.D.&nbsp; Illustrations were created by Douglas Alexander. Patients with depression reviewed this summary.&nbsp;</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

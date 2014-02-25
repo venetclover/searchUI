@@ -1,0 +1,815 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Comparative Effectiveness Research for Better Decisionmaking: “The core question of comparative effectiveness research — which treatment works best, for whom, and under what circumstances — is a fundamental concern for patients and clinicians…&quot; Learn about products available for clinicians developed from comparative effectiveness reviews of the literature by AHRQ funded investigators." />
+	<meta name="keywords" content="comparative effectiveness, research, review, report, evidence, evidence-based, medicine, decision, patients, clinicians, treatment" />
+
+	<title>Medicines for Rheumatoid Arthritis: A Review of the Research for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm?pageaction=displayproduct&amp;pcem=en&amp;mode=p&amp;productid=1314" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script> <script src="/ehc/js/adapter/shadowbox-jquery.js" type="text/javascript"></script> <script src="/ehc/js/shadowbox.js" type="text/javascript"></script>
+<script type="text/javascript">
+addLoadEvent(function(){
+    Shadowbox.init();
+});
+</script>
+<link href="/ehc/css/shadowbox.css" rel="stylesheet" type="text/css" /> <!-- missing header include- listImageStyles.cfm --></head>
+
+
+
+
+	<body id="homepage" class="threeCol home">
+	
+	
+		<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cycle.js"></script><noscript><!--Javascript not required --></noscript>
+
+<script type="text/javascript">
+<!--
+$(document).ready(function() {	
+
+	//Show Banner
+	$(".main_image .desc").show(); //Show Banner
+	$(".main_image .block").animate({ opacity: 0.70 }, 1 ); //Set Opacity
+
+	//Click and Hover events for thumbnail list
+	$(".image_thumb ul li:first").addClass('active'); 
+	$(".image_thumb ul li").click(function(){ 
+		//Set Variables
+		var imgAlt = $(this).find('img').attr("alt"); //Get Alt Tag of Image
+		var imgTitle = $(this).find('a').attr("href"); //Get Main Image URL
+		var imgDesc = $(this).find('.block').html(); 	//Get HTML of block
+		var imgDescHeight = $(".main_image").find('.block').height();	//Calculate height of block	
+		var target = $(this).find('.linkout').attr("href");
+		
+		if ($(this).is(".active")) {  //If it's already active, then...
+			return false; // Don't click through
+		} else {
+			//Animate the Teaser				
+			$(".main_image .block").animate({ opacity: 0, marginBottom: -imgDescHeight }, 250 , function() {
+				$(".main_image .block").html(imgDesc).animate({ opacity: 0.70,	marginBottom: "0" }, 250 );
+
+				$(".main_image img").attr({ src: imgTitle , alt: imgAlt});
+				$("#rotatorLink").attr("href", target);
+			});
+		}
+		
+		$(".image_thumb ul li").removeClass('active'); //Remove class of 'active' on all lists
+		$(this).addClass('active');  //add class of 'active' on this list only
+		return false;
+		
+	}) .hover(function(){
+		$(this).addClass('hover');
+		}, function() {
+		$(this).removeClass('hover');
+	});
+			
+	//Toggle Teaser
+	$("a.collapse").click(function(){
+		$(".main_image .block").slideToggle();
+		$("a.collapse").toggleClass("show");
+	});
+	
+});//Close Function
+-->
+</script>
+
+		<script type="text/javascript">
+			//<![CDATA[
+			jQuery(document).ready(function() {
+				
+				$('#features_wrapper') 
+					.cycle({ 
+						fx:     'fade', 
+						speed:  0, 
+						timeout: 12000, 
+						cleartype: 1,
+						cleartypeNoBg: true,
+						pager:  '#rotator_pagnation',
+						pagerAnchorBuilder: function(idx, slide) {
+							return '#rotator_pagnation a:eq(' + (idx) + ')';
+					}
+				});
+					
+				$('.page_off').click(function(){
+					$('#features_wrapper').cycle('pause');
+					return false;
+				});
+				
+				$('#slidePause').click(function() {							  
+					$('#features_wrapper').cycle('pause');
+					return false;
+				});
+				
+				$('#slidePlay').click(function() {							  
+					$('#features_wrapper').cycle('resume', true);
+					return false;
+				});
+														  
+			});
+			//]]>
+		
+		</script><noscript><!--Javascript not required --></noscript>
+	
+	
+		<div id="container" class="sysHome">
+
+			
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Fwww%2Eeffectivehealthcare%2Eahrq%2Egov%2F%3Fpageaction%3Ddisplayproduct%26pcem%3Den%26mode%3DP%26productID%3D1314">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+			
+			<div id="primary">
+				<div id="primary_nest" style="margin-top:12px;">
+					
+					<div class="leftNav">
+						
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/"  title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+					</div>
+					
+					<div id="content_wrapper">
+						<a name="skipNavigation"></a>
+<div id="content_top"></div>
+						<div id="content_fill" style="float:left;">
+							
+								<div id="stage">
+									<noscript><a href="index.cfm/features">View all featured stories</a></noscript>
+									<p class="hide"><a href="index.cfm/features">View all featured stories</a></p>
+									<div id="cf_wrapper">
+										<p>
+	<style type="text/css">p {margin:0px !important}
+p.rotator_caption {
+	font-size:12px !important;
+	text-indent:-2px !important;
+	
+}
+.hidden { display: none; }
+.unhidden { display: block; }
+
+.image_thumb ul li.active:hover {
+	cursor:pointer;
+}
+#rotator_ad {
+	padding: 0px; 
+	height: 200px !important; 
+	width: 234px; 
+	margin-top: 15px; 
+	margin-left: -1px;
+}</style>
+</p>
+<div class="container" id="main">
+	<div class="main_image">
+		<div id="DivImg"><img alt="" id="IdImg" src="" /></div>
+		<div class="desc">
+			<div class="block">
+				<p id="id1" style="display: none;">Weekly updates on articles published on systematic and comparative effectiveness review methods.</p>
+				<p id="id2" style="display: none;">Thinking about what is important when deciding on treatments with your doctor.</p>
+				<p id="id3" style="display: none;">Download our research summaries about the risks and benefits of different treatments for health conditions.</p>
+				<p id="id4" style="display: none;">Participate in activities featuring EHC Program research and publications.</p>
+			</div>
+		</div>
+	</div>
+	<div class="image_thumb">
+		<ul>
+			<li>
+				<div class="block" onclick="location.href='/index.cfm/tools-and-resources/researcher-resources/article-alerts/'" onmouseover="showpic(1)">
+					<h2>Sign Up for Methods Research Updates</h2>
+				</div>
+			</li>
+			<li>
+				<div class="block" onclick="location.href='/index.cfm/guides-cmece-and-other-resources-for-clinicians/patient-decision-aids'" onmouseover="showpic(2)">
+					<h2>Interactive Patient Decision Aids</h2>
+				</div>
+			</li>
+			<li>
+				<div class="block" onclick="location.href='/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/'" onmouseover="showpic(3)">
+					<h2>Free Consumer Research Summaries</h2>
+				</div>
+			</li>
+			<li>
+				<div class="block" onclick="location.href='index.cfm/guides-cmece-and-other-resources-for-clinicians/cmece-activities/'" onmouseover="showpic(4)">
+					<h2>See What's New in CME/CE</h2>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="container" id="rotator_ad"><!---- Ad map and image code (for right-most "ad" ----><map name="ad"><area alt="Hematopoietic Stem-Cell Transplantation for Rare Diseases in the Pediatric Population" coords="57,93,225,112" href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1720&amp;ehc=redad" shape="rect" /> <area alt="Bone Marrow or Blood Stem Cell Transplants in Children With Severe Forms of Autoimmune Disorders or Certain Types of Cancer" coords="57,133,225,162" href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productid=1721&amp;ehc=redad" shape="rect" /> <area alt="Bone Marrow or Blood Stem Cell Transplants in Children With Certain Rare Inherited Metabolic Diseases" coords="57,162,225,182" href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1722&amp;ehc=redad" shape="rect" /> <img alt="Ad for Bone Marrow or Blood Stem cell Transplants in Children Research Summaries" src="/ehc/assets/Image/stem_cell_red_ad.png" style="width: 234px; height: 190px;" usemap="#ad" /></map></div>
+<!---- END of front page right ad ----->
+<p>&nbsp;</p>
+<script type="text/javascript">
+    function showpic(o) {
+        o = parseInt(o);
+        switch (o)
+        {
+        case 1:
+            imgName='ehc/assets/Image/article-alert.jpg';
+			document.getElementById('id2').style.display = 'none';
+			document.getElementById('id3').style.display = 'none';
+			document.getElementById('id4').style.display = 'none';
+			document.getElementById('id1').style.display = 'block';
+			break;
+        case 2:
+            imgName='/ehc/assets/Image/dec_aid_ad.JPG';
+			document.getElementById('id1').style.display = 'none';
+			document.getElementById('id3').style.display = 'none';
+			document.getElementById('id4').style.display = 'none';
+			document.getElementById('id2').style.display = 'block';
+			break;
+        case 3:
+            imgName='/tasks/sites/ehc/assets/Image/free_cons_sum_ad.jpg';
+			document.getElementById('id1').style.display = 'none';
+			document.getElementById('id2').style.display = 'none';
+			document.getElementById('id4').style.display = 'none';			
+			document.getElementById('id3').style.display = 'block';
+			break;
+        case 4:
+            imgName='/tasks/sites/ehc/assets/Image/CME-CE_rotator.jpg';
+			document.getElementById('id1').style.display = 'none';
+			document.getElementById('id2').style.display = 'none';
+			document.getElementById('id3').style.display = 'none';			
+			document.getElementById('id4').style.display = 'block';
+			break;
+		default:
+			imgName='/ehc/assets/Image/dec_aid_ad.jpg';
+			break;
+        }
+        var DivImage = document.getElementById('DivImg');
+        var DisplayImg = document.getElementById('IdImg');
+        DisplayImg.src=imgName;
+        DivImage.style.visibility="visible";
+    }
+
+
+showpic(1);
+</script> 
+									</div>
+								<div class="clear"></div>
+								</div>
+							
+									<div id="extras_wrapper_home">
+										<div class="frontPage_inset">
+
+	<div class="featureBox_fill">
+		<h2>Now Open for Comment</h2>
+		<div class="greyRule"></div>
+	
+				<h3>Draft Documents and White Papers</h3>
+					
+						<p class="featureBox_topicDate"> Oct. 30&ndash;Nov. 26, 2013 </P>
+						<p class="featureBox_topicTitle">
+							<a href="/research-available-for-comment/comment-draft-reports/?pageaction=displaydraftcommentform&amp;topicid=510&amp;productid=1738&amp;documenttype=draftReport">Transitional Care Interventions to Prevent Readmissions for People with Heart Failure</a>
+						</p>
+					
+						<p class="featureBox_topicDate"> Oct. 30&ndash;Nov. 26, 2013 </P>
+						<p class="featureBox_topicTitle">
+							<a href="/research-available-for-comment/comment-draft-reports/?pageaction=displaydraftcommentform&amp;topicid=522&amp;productid=1740&amp;documenttype=draftReport">Pharmacokinetic/Pharmacodynamic Measures for Guiding Antibiotic Treatment for Nosocomial Pneumonia</a>
+						</p>
+					
+						<p class="featureBox_topicDate"> Nov. 4&ndash;Dec. 2, 2013 </P>
+						<p class="featureBox_topicTitle">
+							<a href="/research-available-for-comment/comment-draft-reports/?pageaction=displaydraftcommentform&amp;topicid=545&amp;productid=1731&amp;documenttype=draftReport">Chronic Venous Leg Ulcer Treatment: Future Research Needs</a>
+						</p>
+					
+						<p class="featureBox_topicDate"> Nov. 7&ndash;Dec. 4, 2013 </P>
+						<p class="featureBox_topicTitle">
+							<a href="/research-available-for-comment/comment-draft-reports/?pageaction=displaydraftcommentform&amp;topicid=494&amp;productid=1746&amp;documenttype=draftReport">Linking Data for Health Services Research: A Framework and Guidance for Researchers</a>
+						</p>
+					
+						<p class="featureBox_topicDate"> Nov. 7&ndash;Dec. 4, 2013 </P>
+						<p class="featureBox_topicTitle">
+							<a href="/research-available-for-comment/comment-draft-reports/?pageaction=displaydraftcommentform&amp;topicid=431&amp;productid=1747&amp;documenttype=draftReport">Troponin Cardiac Marker Interpretation During Renal Function Impairment</a>
+						</p>
+					
+						<p class="featureBox_topicDate"> Nov. 12&ndash;Dec. 9, 2013 </P>
+						<p class="featureBox_topicTitle">
+							<a href="/research-available-for-comment/comment-draft-reports/?pageaction=displaydraftcommentform&amp;topicid=482&amp;productid=1748&amp;documenttype=draftReport">Chronic Urinary Retention: Comparative Effectiveness of Treatments and Harms</a>
+						</p>
+					
+						<p class="featureBox_topicDate"> Nov. 21&ndash;Dec. 18, 2013 </P>
+						<p class="featureBox_topicTitle">
+							<a href="/research-available-for-comment/comment-draft-reports/?pageaction=displaydraftcommentform&amp;topicid=353&amp;productid=1759&amp;documenttype=draftReport">Menopausal Symptoms: Comparative Effectiveness Review of Therapies</a>
+						</p>
+					
+		
+		
+	
+		<div class="doubleDottedRule">&nbsp;</div>
+		
+		
+	</div>
+		<div style="clear:left;"></div>
+
+	
+	
+	
+	
+	
+	
+</div>
+
+
+
+<div class="frontPage_inset">
+
+	
+
+      
+           
+      
+	
+
+
+	<div class="featureBox_fill">
+		<h2>News and Announcements</h2>
+		<div class="greyRule"></div>
+			
+		<h3>Product Announcements</h3>
+	
+		<div class="svSyndLocal clearfix" id="sysProductAnnouncements"> 
+							<p class="featureBox_topicDate">
+								Nov. 20, 2013 
+						</p>
+						
+                    	<p class="featureBox_topicTitle"><a href="/index.cfm/linkservid/9C157723-BFDC-5F8D-F8C3F923E9B9A0BF/showMeta/0/" >Use of Natriuretic Peptide Measurement in the Management of Heart Failure -- Final Report</a></p>
+						
+							<p class="featureBox_topicDate">
+								Nov. 20, 2013 
+						</p>
+						
+                    	<p class="featureBox_topicTitle"><a href="/index.cfm/linkservid/9C1DCCF3-D8D9-5DC1-F39C70F37FC76B3D/showMeta/0/" >Communication and Dissemination Strategies To Facilitate the Use of Health-Related Evidence -- Final Report</a></p>
+						
+							<p class="featureBox_topicDate">
+								Nov. 18, 2013 
+						</p>
+						
+                    	<p class="featureBox_topicTitle"><a href="/index.cfm/linkservid/383FD24C-0B38-CD02-EA9D7EBF268573DC/showMeta/0/" >Finding Grey Literature Evidence and Assessing for Outcome and Analysis Reporting Biases When Comparing Medical Interventions -- Methods Chapter</a></p>
+						
+							<p class="featureBox_topicDate">
+								Nov. 18, 2013 
+						</p>
+						
+                    	<p class="featureBox_topicTitle"><a href="/index.cfm/linkservid/3A4D9CC8-E208-28AA-032611B732942AEB/showMeta/0/" >Evaluation of the Benefits and Harms of Aspirin for Primary Prevention of Cardiovascular Events: A Comparison of Quantitative Approaches -- Methods Report</a></p>
+						
+							<p class="featureBox_topicDate">
+								Nov. 18, 2013 
+						</p>
+						
+                    	<p class="featureBox_topicTitle"><a href="/index.cfm/linkservid/3A89D4BE-A0FB-23C6-BC07AF0F8EA1DABC/showMeta/0/" >Grading the Strength of a Body of Evidence When Assessing Health Care Interventions for the Effective Health Care Program: An Update -- Methods Chapter</a></p>
+						
+			</div> 
+		<p class="featureBox_topicDate"><a href="index.cfm/news-and-announcements/product-announcements/" class="more" style="border:none; margin-left:2px;">More...</a></p>
+		<div class="dottedRule">&nbsp;</div>
+	
+	</div>
+
+	<div style="clear:left;"></div>
+</div><style type="text/css">
+	div.popBox { margin-bottom: 14px; }
+</style>
+
+
+
+
+
+	<div class="frontPage_inset">
+		
+        	
+				<div class="featureBox_fill">
+			<h2>Most Popular</h2>
+					<div class="greyRule"></div>
+			
+			<h3>Researcher Tools</h3>
+				<p class="featureBox_topicType featureBox_topicTitle" style="font-weight:normal;"><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;mp=1&amp;productID=880" rel="nofollow">Horizon Scan Status Update</a></p>
+				<p class="featureBox_topicType">Abstract - Final</p>
+				<p class="featureBox_topicTitle"><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;mp=1&amp;productID=690" rel="nofollow">Registry of Patient Registries</a></p>
+				
+					<p class="featureBox_topicType"> <span class="productType">Overview</span></p>
+					<p class="featureBox_topicTitle"><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;mp=1&amp;productID=318" rel="nofollow">Methods Guide for Effectiveness and Comparative Effectiveness Reviews</a></p>
+				
+					<p class="featureBox_topicType"> <span class="productType">Research Report - Final</span></p>
+					<p class="featureBox_topicTitle"><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;mp=1&amp;productID=531" rel="nofollow">Registries for Evaluating Patient Outcomes: A User's Guide: 2nd Edition</a></p>
+				
+				<div class="doubleDottedRule">&nbsp;</div>
+			
+				<h3>Most Viewed This Week</h3>
+					
+					<p class="featureBox_topicType"> <span class="productType">Consumer Summary</span></p>
+					<p class="featureBox_topicTitle"><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;mp=1&amp;productID=512" rel="nofollow">Tratamientos para el colesterol alto: Guía para adultos</a></p>
+					
+					<p class="featureBox_topicType"> <span class="productType">Consumer Summary</span></p>
+					<p class="featureBox_topicTitle"><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;mp=1&amp;productID=1040" rel="nofollow">Cómo medir la presión arterial en casa: Revisión de la investigación para adultos</a></p>
+					
+					<p class="featureBox_topicType"> <span class="productType">Consumer Summary</span></p>
+					<p class="featureBox_topicTitle"><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;mp=1&amp;productID=545" rel="nofollow">Treatment Options for Rotator Cuff Tears: A Guide for Adults</a></p>
+					
+				<div class="doubleDottedRule">&nbsp;</div>
+			
+				<h3>Most E-mailed This Week</h3>
+					
+							<p class="featureBox_topicType"> <span class="productType">Research Review - Draft</span></p> 
+						<p class="featureBox_topicTitle"><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;me=1&amp;productID=1718" rel="nofollow">Treatment of Depression During Pregnancy and the Postpartum Period</a></p>
+						
+							<p class="featureBox_topicType"> <span class="productType">Clinician Summary</span></p> 
+						<p class="featureBox_topicTitle"><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;me=1&amp;productID=951" rel="nofollow">Analgesics for Osteoarthritis</a></p>
+						
+							<p class="featureBox_topicType"> <span class="productType">Clinician Summary</span></p> 
+						<p class="featureBox_topicTitle"><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;me=1&amp;productID=1143" rel="nofollow">Second-Generation Antidepressants for Treating Adult Depression: An Update</a></p>
+						
+					<div class="dottedRule">&nbsp;</div>
+			
+				</div>
+		
+	</div> 
+									
+										<div style="clear:left;">&nbsp;</div>
+									</div>
+
+							
+							</div> 
+						<div id="content_bottom"></div>
+					</div>
+				</div>
+			</div>
+			<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		</div>
+	</body>
+
+
+</html>

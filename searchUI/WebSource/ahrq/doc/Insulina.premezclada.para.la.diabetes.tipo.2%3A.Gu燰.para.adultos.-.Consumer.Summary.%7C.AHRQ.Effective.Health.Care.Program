@@ -1,0 +1,1235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Insulina premezclada para la diabetes tipo 2: Guía para adultos - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productid=511" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Fwww%2Eeffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fpageaction%3DdisplayProduct%26productID%3D511">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=18">
+					Comparative Effectiveness, Safety and Indications of Pre-mixed Insulin Analogues for Adults with Type 2 Diabetes 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Reports</h4>
+						
+				<ul>
+					
+						<li>
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=106">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Sept. 15, 2008 </span>
+						</li>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=110">
+										Appendixes 
+									</a>
+							<span style="font-size:7pt;"> Sept. 15, 2008 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=116">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Dec. 29, 2008 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=124">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Mar. 25, 2009 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=125">
+										Consumer Summary 
+									</a>
+							<span style="font-size:7pt;"> Mar. 25, 2009 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=108">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 15, 2008 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>AHRQ's Healthcare 411 Audio/Video Features</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.healthcare411.org/radiocastseg.aspx?id=1085&type=seg">
+									
+									Comparing Type 2 Diabetes Treatments 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 08(10)-EHC017-B
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d511"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d511"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d511"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d511&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d511&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d511&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d511"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d511&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d511&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d511&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://www.effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=26590EFA-A37E-0BD6-1DBD4C6EABFA26DE" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?pageaction=displayProduct&amp;productID=511&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=511&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=511" title="Insulina premezclada para la diabetes tipo 2: Guía para adultos"><img src="http://www.effectivehealthcare.ahrq.gov/ehc/images/buttons/511.gif" alt="Insulina premezclada para la diabetes tipo 2: Guía para adultos" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copia este c&oacute;digo para del bot&oacute;n "Insulina premezclada para la diabetes tipo 2: Guía para adultos"
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=511&amp;button=1&quot; title=&quot;Insulina premezclada para la diabetes tipo 2: Guía para adultos&quot;&gt;&lt;img src=&quot;http://www.effectivehealthcare.ahrq.gov/ehc/images/buttons/511.gif&quot; border=&quot;0&quot; alt=&quot;Insulina premezclada para la diabetes tipo 2: Guía para adultos&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Aug. 25, 2010 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Insulina premezclada para la diabetes tipo 2: Guía para adultos</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/18/511/Insulin spanish.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							417 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=125" class="button-html button-showtext">In English</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+				<p><p>You may also view the webinar associated with&nbsp;this topic,&nbsp;&quot;<a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/site-map/ahrq-web-conference-on-insulin-analogues-report/">Comparative Effectiveness, Safety, and Indications of Insulin Analogues in Premixed Formulations for Adults With Type 2 Diabetes</a>.&quot;</p></p>
+			
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#1805">Hechos resumidos sobre la insulina premezclada</a></li>
+					
+						<li><a href="#1806">¿Qué  cubre esta guía?</a></li>
+					
+						<li><a href="#1807">Diabetes tipo 2 e insulina</a></li>
+					
+						<li><a href="#1808">Aprenda sobre el azúcar en la sangre</a></li>
+					
+						<li><a href="#1809">Aprenda sobre la insulina</a></li>
+					
+						<li><a href="#1810">Insulina con efecto para todo el día</a></li>
+					
+						<li><a href="#1811">Insulina para las comidas</a></li>
+					
+						<li><a href="#1812">Insulina premezclada para todo el día y las comidas</a></li>
+					
+						<li><a href="#1813">Comparación de medicamentos</a></li>
+					
+						<li><a href="#1814">Preguntas para su médico</a></li>
+					
+						<li><a href="#1815">Costo de la insulina</a></li>
+					
+						<li><a href="#1816">Donde puede obtener más información?</a></li>
+					
+						<li><a href="#1817">¿Cuál es la fuente de esta guía?</a></li>
+					
+			</ul>
+		
+			<a name="1805"></a>
+			
+
+			
+				<h3>Hechos resumidos sobre la insulina premezclada</h3>
+				<ul>
+	<li>Cuando una persona tiene diabetes tipo 2, su cuerpo no produce la insulina suficiente o no la utiliza tan bien como deber&iacute;a. Muchas personas con diabetes tipo 2 necesitan inyectarse insulina.</li>
+	<li>La insulina premezclada combina dos tipos de insulina. El primer tipo ayuda al cuerpo a controlar el az&uacute;car en la sangre (glucosa en la sangre) durante todo el d&iacute;a. El segundo tipo ayuda al cuerpo a controlar el az&uacute;car en la sangre durante las comidas.</li>
+	<li>Existen diferentes tipos de insulina premezclada.</li>
+	<li>Los distintos tipos de insulina premezclada son igualmente eficaces para disminuir el A1c. El A1c es una prueba de sangre que muestra su promedio de az&uacute;car en la sangre durante los &uacute;ltimos 2 a 3 meses.</li>
+	<li>La posibilidad de que el az&uacute;car en la sangre baje demasiado es igual con los distintos tipos de insulina premezclada.</li>
+</ul> 
+			<a name="1806"></a>
+			
+
+			
+				<h3>¿Qué  cubre esta guía?</h3>
+				<p>La informaci&oacute;n de esta gu&iacute;a proviene de una revisi&oacute;n, financiada por el gobierno, de las investigaciones sobre insulina premezclada. En esta gu&iacute;a, se comparan los beneficios, efectos secundarios y costos de un nuevo tipo de insulina premezclada, con los de otros tipos de insulina y con las pastillas para la diabetes.</p>
+<p>&iquest;Le ha dicho su m&eacute;dico o enfermera que necesita insulina para tratar su diabetes tipo 2? Hay muchos tipos de insulina y muchas formas diferentes de tomarla. Esta gu&iacute;a le puede ayudar a conocer m&aacute;s sobre ellas. Tambi&eacute;n puede ayudarle a hablar con su m&eacute;dico o enfermera para saber si la insulina premezclada es una buena opci&oacute;n.</p>
+<h4>&iquest;Qu&eacute;  no cubre esta gu&iacute;a?</h4>
+<p>Esta gu&iacute;a no cubre todas las formas posibles de tratar la diabetes tipo 2. No incluye informaci&oacute;n sobre la dieta y el ejercicio. No cubre el uso de insulina en bombas ni de inyecciones sin insulina, como las de exenatida (Byetta&reg;) o pramlintida (Symlin&reg;). Tampoco cubre el uso de insulina en los ni&ntilde;os, en las mujeres embarazadas ni en personas con diabetes tipo 1.</p>
+<p>Si su m&eacute;dico le recomend&oacute; usar pastillas para tratar la diabetes tipo 2, la Agency for Healthcare Research and Quality (Agencia para la Investigaci&oacute;n y la Calidad de la Atenci&oacute;n M&eacute;dica, AHRQ, por sus siglas en ingl&eacute;s), ha publicado otra gu&iacute;a, en espa&ntilde;ol, que puede serle &uacute;til. Se llama <em>Pastillas para la diabetes tipo 2: Gu&iacute;a para adultos</em>, y puede obtenerse en el sitio Web: <a href="/index.cfm/informacion-en-espanol/">effectivehealthcare.ahrq.gov/spanishinfo.cfm</a>.</p> 
+			<a name="1807"></a>
+			
+
+			
+				<h3>Diabetes tipo 2 e insulina</h3>
+				<p>La insulina es una hormona. La produce un &oacute;rgano cercano al est&oacute;mago, llamado p&aacute;ncreas. La insulina ayuda al cuerpo a convertir en energ&iacute;a el az&uacute;car de la sangre.</p>
+<p>En la diabetes tipo 2, el p&aacute;ncreas no produce suficiente insulina o el cuerpo no la utiliza como debiera. El az&uacute;car se acumula en la sangre porque el cuerpo no puede aprovecharla sin la ayuda de la insulina. Esto causa que el az&uacute;car en la sangre se mantenga alta. A menudo, la diabetes tipo 2 es una enfermedad que afecta familias de generaci&oacute;n en generaci&oacute;n. </p>
+<h4>&iquest;Por qu&eacute; es necesario tratar la diabetes?</h4>
+<p>Si el az&uacute;car en la sangre se mantiene alta por mucho tiempo, aumenta la posibilidad de que la persona sufra un ataque cardiaco, embolias o derrames, y amputaciones. Puede aumentar tambi&eacute;n el riesgo de ceguera, da&ntilde;o a los nervios y da&ntilde;os en los ri&ntilde;ones. La posibilidad de que surjan estos problemas disminuye si el az&uacute;car en la sangre se mantiene en un nivel adecuado.</p>
+<h4>&iquest;C&oacute;mo se trata la diabetes tipo 2?</h4>
+<p>El primer paso para controlar su az&uacute;car en la sangre es comer una dieta balanceada y ser m&aacute;s activo. Hasta los cambios m&aacute;s peque&ntilde;os pueden hacer una gran diferencia. La mayor&iacute;a de las personas con diabetes tipo 2 tambi&eacute;n toman pastillas para ayudar a controlar el az&uacute;car en la sangre. </p>
+<p>Con el tiempo, muchas personas  necesitan insulina para tratar la diabetes. Cerca de 3 de cada 10 personas con diabetes tipo 2 usan insulina.<br />
+</p> 
+			<a name="1808"></a>
+			
+
+			
+				<h3>Aprenda sobre el azúcar en la sangre</h3>
+				<h4>&iquest;C&oacute;mo se mide el az&uacute;car en la sangre?</h4>
+<p>Hay dos pruebas comunes para medir el az&uacute;car en la sangre. &Eacute;stas le ayudar&aacute;n tanto a usted como a su m&eacute;dico para saber si el az&uacute;car en la sangre est&aacute; bajo control. </p>
+<h4>Piquete o pinchazo en el dedo </h4>
+<p>Una prueba consiste en un piquete o pinchazo en el dedo (o antebrazo) que puede hacerse en casa. Esta prueba se hace una o m&aacute;s veces al d&iacute;a. Es lo primero que puede hacer en la ma&ntilde;ana antes de comer (en ayunas) o a otra hora del d&iacute;a, como despu&eacute;s de la comida. Esta prueba indica el nivel de az&uacute;car en la sangre presente al momento de hacerla. La cifra ideal en ayunas suele estar entre 80 y 120. Despu&eacute;s de las comidas, el valor ideal suele estar por debajo de 180.</p>
+<h4>Prueba de sangre</h4>
+<p>La otra prueba es una prueba de sangre llamada A1c (A-uno-C). &Eacute;sta se realiza en el consultorio o en un laboratorio varias veces al a&ntilde;o. El A1c muestra el valor promedio de az&uacute;car en la sangre durante los &uacute;ltimos 2 a 3 meses. En general, la meta es que su A1c sea menos <br />
+que 7.</p>
+<h4>Vigile que su az&uacute;car en la sangre no baje demasiado</h4>
+<p>Todos los medicamentos para la diabetes pueden causar que el az&uacute;car en la sangre baje demasiado.  Cuando el az&uacute;car en la sangre es muy bajo, se conoce como  hipoglucemia.  Esto puede causar que se sienta mareado, sudoroso, confundido, tembloroso, con hambre y d&eacute;bil.  </p>
+<p><strong>Advertencia: </strong>Si piensa que su az&uacute;car est&aacute; baja, coma o beba inmediatamente algo con az&uacute;car. Su m&eacute;dico o enfermera puede sugerirle algunas cosas, como caramelo duro, jugos o tabletas de glucosa.<br />
+</p> 
+			<a name="1809"></a>
+			
+
+			
+				<h3>Aprenda sobre la insulina</h3>
+				<p>La insulina ayuda al cuerpo a convertir en energ&iacute;a el az&uacute;car de la sangre. Siempre tenemos un poco de az&uacute;car en la sangre. Eso significa que el p&aacute;ncreas tiene que producir peque&ntilde;as cantidades de insulina durante el d&iacute;a. Cuando come, su az&uacute;car en la sangre aumenta. Eso significa que el p&aacute;ncreas necesita hacer m&aacute;s insulina durante las comidas. Cuando est&aacute; m&aacute;s activo, el cuerpo utiliza m&aacute;s az&uacute;car y necesita menos insulina.</p>
+<p>Cuando uno tiene diabetes, el az&uacute;car en la sangre se mantiene alta. Una forma de tratar la diabetes es con inyecciones de insulina. Toda la insulina que se usa para tratar la diabetes se hace en laboratorios. </p>
+<p><em>Hay muchos tipos diferentes de insulina. El tipo que usted necesite depender&aacute; de su grado de actividad, sus h&aacute;bitos de alimentaci&oacute;n y de c&oacute;mo su cuerpo responde a la insulina. Su m&eacute;dico o enfermera trabajar&aacute; con usted para que el tipo de insulina sea el adecuado a sus necesidades.</em><br />
+</p> 
+			<a name="1810"></a>
+			
+
+			
+				<h3>Insulina con efecto para todo el día</h3>
+				<p>Hay dos tipos de insulina que pueden controlar el az&uacute;car en la sangre durante todo el d&iacute;a. Son la insulina de acci&oacute;n intermedia y la de acci&oacute;n prolongada. Los dos tipos producen un nivel bajo y constante de insulina todo el d&iacute;a. Eso significa, en general, que se aplican una o dos inyecciones al d&iacute;a.</p>
+
+<table class="styleOne">
+	<caption>Insulina con efecto para todo el d&iacute;a</caption>
+	<thead>
+		<tr>
+			<th scope="col">Tipo</th>
+			<th scope="col">Nombre gen&eacute;rico</th>
+			<th scope="col">Nombre de la marca</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th class="section_title" scope="row">Insulina de acci&oacute;n intermedia</th>
+			<td rowspan="2">NPH</td>
+			<td>
+			<ul>
+				<li>Humulin&reg;N</li>
+				<li>Novolin&reg;N</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" rowspan="2" scope="row">Insulina de acci&oacute;n prolongada</th>
+			<td>Insulina detemir</td>
+			<td>Levemir&reg;</td>
+		</tr>
+		<tr>
+			<td>Insulina glargina</td>
+			<td>Lantus&reg;</td>
+		</tr>
+	</tbody>
+</table> 
+			<a name="1811"></a>
+			
+
+			
+				<h3>Insulina para las comidas</h3>
+				<p>Con el tiempo, es posible que un solo tipo de insulina sea suficiente para controlar el az&uacute;car en la sangre. Su m&eacute;dico o enfermera puede a&ntilde;adir insulina que se usa con las comidas. Hay dos tipos de insulina que controlan el az&uacute;car en la sangre en las comidas. Son la insulina de acci&oacute;n r&aacute;pida y la de acci&oacute;n corta. Estos tipos de insulina tienen un efecto r&aacute;pido y duran un tiempo corto. Compensan el aumento del az&uacute;car en la sangre que se produce al comer. Esto significa que tal vez deba aplicarse dos o m&aacute;s inyecciones al d&iacute;a.</p>
+<table class="styleOne">
+	<caption>Insulina para las comidas</caption>
+	<thead>
+		<tr>
+			<th scope="col">Tipo</th>
+			<th scope="col">Nombre gen&eacute;rico</th>
+			<th scope="col">Nombre de la marca</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" class="section_title">Insulina de acci&oacute;n corta</th>
+			<td>Regular</td>
+			<td>
+				<ul>
+					<li>Humulin&reg;R</li>
+					<li>Novolin&reg;R</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="row" rowspan="3" class="section_title">Insulina de acci&oacute;n r&aacute;pida</th>
+			<td>Insulina aspartato</td>
+			<td>NovoLog&reg;</td>
+		</tr>
+		<tr>
+			<td>Insulina glulisina</td>
+			<td>Apidra&reg;</td>
+		</tr>
+		<tr>
+			<td>Insulina lispro</td>
+			<td>Humalog&reg;</td>
+		</tr>
+	</tbody>
+</table> 
+			<a name="1812"></a>
+			
+
+			
+				<h3>Insulina premezclada para todo el día y las comidas</h3>
+				<p>Algunas personas con diabetes necesitan los dos tipos de insulina. Necesitan insulina que act&uacute;e durante todo el d&iacute;a y la insulina para las comidas. La insulina premezclada combina los dos tipos de cobertura. Le da cobertura r&aacute;pida para una comida, adem&aacute;s de una cobertura prolongada para otros periodos del d&iacute;a. Si toma insulina premezclada, tal vez necesite menos inyecciones cada d&iacute;a.</p>
+<h4>Existen diferentes tipos de insulina premezclada.</h4>
+<ul>
+	<li>La <strong>insulina premezclada NPH/regular</strong> se hace combinando insulina NPH e insulina regular.</li>
+	<li>La <strong>nueva insulina premezclada</strong> es el otro tipo de insulina premezclada. Se hace combinando insulina aspartato (NovoLog&reg;) o insulina lispro (Humalog&reg;) con una insulina de acci&oacute;n prolongada hecha especialmente para la mezcla.</li>
+</ul>
+<table class="styleOne">
+	<caption>Insulina con las dos coberturas (para todo el d&iacute;a y las comidas)</caption>
+	<thead>
+		<tr>
+			<th scope="col">Tipo</th>
+			<th scope="col">Nombre gen&eacute;rico</th>
+			<th scope="col">Nombre de la marca</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row"	rowspan="2" class="section_title">Insulina premezclada NPH/regular</th>
+			<td>NPH/regular 70/30NPH/regular 70/30</td>
+			<td>
+				<ul>
+					<li>Humulin&reg; 70/30</li>
+					<li>Novolin&reg; 70/30</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>NPH/regular 50/50</td>
+			<td>Humulin&reg; 50/50</td>
+		</tr>
+		<tr>
+			<th scope="row" rowspan="3" class="section_title">Nueva Insulina premezclada</th>
+			<td>Insulina aspartato 70/30</td>
+			<td>NovoLog&reg; Mix 70/30</td>
+		</tr>
+		<tr>
+			<td>Insulina lispro 75/25</td>
+			<td>HumaLog&reg; Mix 75/25</td>
+		</tr>
+		<tr>
+			<td>Insulina lispro 50/50</td>
+			<td>HumaLog&reg; Mix 50/50</td>
+		</tr>
+	</tbody>
+</table>
+<p>Los n&uacute;meros en el nombre de la insulina premezclada indican el porcentaje de cada tipo de insulina presente en la mezcla. El primer n&uacute;mero corresponde a la cantidad de insulina de acci&oacute;n prolongada. Por ejemplo, una mezcla de 70/30 indica que 70 por ciento de la mezcla es insulina de acci&oacute;n prolongada y 30 por ciento es insulina de cobertura r&aacute;pida para una comida.</p> 
+			<a name="1813"></a>
+			
+
+			
+				<h3>Comparación de medicamentos</h3>
+				<p>En algunos estudios de investigaci&oacute;n se ha comparado la nueva insulina premezclada con otros medicamentos para la diabetes. Esta investigaci&oacute;n puede ayudarles a usted y a su m&eacute;dico a decidir si la nueva insulina premezclada es una buena opci&oacute;n para usted. En los cuadros siguientes se indica cu&aacute;l medicamento <strong>act&uacute;a mejor</strong>, seg&uacute;n la investigaci&oacute;n y al compararse uno con otro. Tambi&eacute;n se indica cu&aacute;l medicamento tiene <strong>menos probabilidad</strong> de causar efectos secundarios.</p>
+<h4>Comparaci&oacute;n entre la nueva insulina premezclada y las pastillas para la diabetes</h4>
+<p>La nueva insulina premezclada disminuye m&aacute;s el az&uacute;car en la sangre que las pastillas para la diabetes. La nueva insulina premezclada tiende m&aacute;s a causar que el az&uacute;car en la sangre baje. Puede tambi&eacute;n causar aumento de peso m&aacute;s que las pastillas para la diabetes.</p>
+<h4>Comparaci&oacute;n entre la nueva insulina premezclada y la insulina de acci&oacute;n prolongada</h4>
+<p>La nueva insulina premezclada puede disminuir m&aacute;s el A1c y el az&uacute;car en la sangre despu&eacute;s de las comidas, que la insulina de acci&oacute;n prolongada. Pero la insulina de acci&oacute;n prolongada es mejor para disminuir el az&uacute;car en la sangre antes de comer. La nueva insulina premezclada tiende a causar que el az&uacute;car en la sangre est&eacute; bajo. Puede tambi&eacute;n ocasionar mayor aumento de peso que la insulina de acci&oacute;n prolongada.</p>
+<table class="styleOne">
+	<caption>Comparaci&oacute;n entre la nueva insulina premezclada y las pastillas para la diabetes: Beneficios</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" style="width:50%;">Beneficio</th>
+			<th scope="col">Pastillas para la diabetes</th>
+			<th scope="col">Nueva insulina premezclada</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" class="section_title">Disminuye el A1c.</th>
+			<td>&nbsp;</td>
+			<td class="align_center">act&uacute;a mejor</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">Baja el az&uacute;car en la sangre en ayunas (antes de las comidas).</th>
+			<td>&nbsp;</td>
+			<td class="align_center">act&uacute;a mejor</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">Baja el az&uacute;car en la sangre despu&eacute;s de las comidas.</th>
+			<td>&nbsp;</td>
+			<td class="align_center">act&uacute;a mejor</td>
+		</tr>
+	</tbody>
+</table>
+<table class="styleOne">
+	<caption>Comparaci&oacute;n entre la nueva insulina premezclada y las pastillas para la diabetes: Efectos secundarios</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" style="width:50%;">Efectos secundario</th>
+			<th scope="col">Pastillas para la diabetes</th>
+			<th scope="col">Nueva insulina premezclada</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" class="section_title">Hipoglucemia (az&uacute;car en la sangre demasiado baja).</th>
+			<td class="align_center">menos probabilidad</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">Aumento de peso.</th>
+			<td class="align_center">menos probabilidad</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+<table class="styleOne">
+	<caption>Comparaci&oacute;n entre la nueva insulina premezclada y la insulina de acc&iacute;on prolongada: Beneficios</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" style="width:50%;">Beneficio</th>
+			<th scope="col">Insulina de acci&oacute;n prolongada</th>
+			<th scope="col">Nueva insulina premezclada</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" class="section_title">Disminuye el A1c.</th>
+			<td>&nbsp;</td>
+			<td class="align_center">act&uacute;a mejor</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">Baja el az&uacute;car en la sangre en ayunas (antes de las comidas).</th>
+			<td class="align_center">act&uacute;a mejor</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">Baja el az&uacute;car en la sangre despu&eacute;s de las comidas.</th>
+			<td>&nbsp;</td>
+			<td class="align_center">act&uacute;a mejor</td>
+		</tr>
+	</tbody>
+</table>
+<table class="styleOne">
+	<caption>Comparaci&oacute;n entre la nueva insulina premezclada y la insulina de acc&iacute;on prolongada: Efectos secundarios</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" style="width:50%;">Efectos secundario</th>
+			<th scope="col">Insulina de acci&oacute;n prolongada</th>
+			<th scope="col">Nueva insulina premezclada</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" class="section_title">Hipoglucemia (az&uacute;car en la sangre demasiado baja).</th>
+			<td class="align_center">menos probabilidad</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">Aumento de peso.</th>
+			<td class="align_center">menos probabilidad</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+<h4>Comparaci&oacute;n entre la nueva insulina premezclada y la insulina premezclada NPH/regular</h4>
+<p>Los distintos tipos de insulina premezclada act&uacute;an casi igual. La nueva insulina premezclada es mejor para bajar el az&uacute;car en la sangre despu&eacute;s de las comidas.</p>
+<table class="styleOne">
+	<caption>Comparaci&oacute;n entre la nueva insulina premezclada y la insulina premezclada NPH/regular: Beneficios</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" style="width:50%;">Beneficio</th>
+			<th scope="col">Insulina premezclada NPH/regular</th>
+			<th scope="col">Nueva insulina premezclada</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" class="section_title">Disminuye el A1c.</th>
+			<td class="align_center">act&uacute;a igual</td>
+			<td class="align_center">act&uacute;a igual</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">Baja el az&uacute;car en la sangre en ayunas (antes de las comidas).</th>
+			<td class="align_center">act&uacute;a igual</td>
+			<td class="align_center">act&uacute;a igual</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">Baja el az&uacute;car en la sangre despu&eacute;s de las comidas.</th>
+			<td>&nbsp;</td>
+			<td class="align_center">act&uacute;a mejor</td>
+		</tr>
+	</tbody>
+</table>
+<table class="styleOne">
+	<caption>Comparaci&oacute;n entre la nueva insulina premezclada y la insulina premezclada NPH/regular: Efectos secundarios</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" style="width:50%;">Efectos secundario</th>
+			<th scope="col">Insulina premezclada NPH/regular</th>
+			<th scope="col">Nueva insulina premezclada</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" class="section_title">Hipoglucemia (az&uacute;car en sangre demasiado baja).</th>
+			<td class="align_center">act&uacute;a igual</td>
+			<td class="align_center">act&uacute;a igual</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">Aumento de peso.</th>
+			<td class="align_center">act&uacute;a igual</td>
+			<td class="align_center">act&uacute;a igual</td>
+		</tr>
+	</tbody>
+</table> 
+			<a name="1814"></a>
+			
+
+			
+				<h3>Preguntas para su médico</h3>
+				<p>Todos los tipos de insulina ayudan al cuerpo a controlar el az&uacute;car en la sangre. Hable con su m&eacute;dico o enfermera sobre el tipo de insulina que le funcionar&iacute;a mejor a usted. &Eacute;stas son algunas de las cosas que debe preguntar.</p>
+<h4>&iquest;Qu&eacute; tan seguido necesito aplicarse insulina? </h4>
+<p>Algunos tipos de insulina se aplican solamente una vez al d&iacute;a. Otros deben aplicarse m&aacute;s seguido, o con las comidas. Es posible que necesite menos inyecciones si le prescriben insulina premezclada. Pregunte a su m&eacute;dico o enfermera con qu&eacute; frecuencia deber&aacute; aplicarse la insulina.</p>
+<p>Independientemente del tipo de insulina que use, siempre siga las instrucciones que vienen con el medicamento.</p>
+<h4>&iquest;Son m&aacute;s f&aacute;ciles de medir y de inyectar algunos tipos de insulina?</h4>
+<p>Algunas personas usan insulina que dura todo el d&iacute;a e insulina para las comidas. La insulina premezclada combina los dos tipos en una mezcla. Es posible que esta mezcla le facilite medir e inyectarse la insulina.  </p>
+<h4>&iquest;Se puede inyectar con pluma?</h4>
+<p>Cuando se usa jeringa, usted necesita llenar la jeringa de insulina.  Cuando se usa pluma, no se necesita llenarla de insulina. Usted debe poner una aguja en la pluma, colocar la dosis en un marcador y aplicarse la inyecci&oacute;n. La mayor&iacute;a de los tipos de insulina est&aacute;n disponibles tambi&eacute;n en plumas. Esta opci&oacute;n puede facilitar que se inyecte y mida la insulina. Esta opci&oacute;n puede ser &uacute;til si tiene problemas para usar las jeringas.</p>
+<h4>&iquest;Qu&eacute; puede decirse del costo? </h4>
+<p>En el cuadro de la p&aacute;gina 12, se pueden comparar los costos de distintos tipos de insulina. Si su plan de seguro m&eacute;dico incluye recetas, pregunte cu&aacute;l ser&iacute;a el costo para usted. Si necesita ayuda para pagar la insulina, puede que haya un programa para ayudarle a usted.  La Partnership for Prescription Assistance (Alianza para la Asistencia con los Medicamentos Recetados,  PPARx, por sus siglas en ingl&eacute;s), puede informarle de estos programas. Sitio web: <a href="http://www.pparx.org/es">www.pparx.org/es</a> <a href="/index.cfm/exit-disclaimer/"><img alt="Exit Disclaimer" src="/ehc/images/exit_disclaimer.png" /></a>. Tel&eacute;fono: 1-888-477-2669<br />
+</p> 
+			<a name="1815"></a>
+			
+
+			
+				<h3>Costo de la insulina</h3>
+				<p>La insulina viene en frascos (viales) y plumas. Un paquete de plumas contiene m&aacute;s unidades de insulina que un frasco.</p>
+<table class="styleOne">
+	<caption>Costo de la insulina: Cubre todo el d&iacute;a</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" style="width:25%;">Tipo</th>
+			<th scope="col" style="width:30%;">Nombre gen&eacute;rico<sup>1</sup></th>
+			<th scope="col" class="align_center" style="width:15%;">Nombre de la marca</th>
+			<th scope="col" class="align_center" style="width:15%;">Costo<sup>2</sup>: Un frasco (1,000 unidades)</th>
+			<th scope="col" class="align_center" style="width:15%;">Costo<sup>2</sup>: Plumas empaque de 5 (1,500 unidades)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" rowspan="2">Insulina de acci&oacute;n intermedia</th>
+			<th class="section_title" rowspan="2" scope="row">Insulina NPH</th>
+			<td>Humulin&reg; N</td>
+			<td class="align_center">$45</td>
+			<td class="align_center">$135</td>
+		</tr>
+		<tr>
+			<td>Novolin&reg; N</td>
+			<td class="align_center">$45</td>
+			<td class="align_center">$135</td>
+		</tr>
+		<tr>
+			<th scope="row" rowspan="2">Insulina de acci&oacute;n prolongada</th>
+			<th class="section_title" scope="row">Insulina detemir</th>
+			<td>Levemir&reg;</td>
+			<td class="align_center">$95</td>
+			<td class="align_center">$190</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Insulina glargina</th>
+			<td>Lantus&reg;</td>
+			<td class="align_center">$95</td>
+			<td class="align_center">$190</td>
+		</tr>
+	</tbody>
+</table>
+<table class="styleOne">
+	<caption>Costo de la insulina: Cubre el tiempo de las comidas</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" style="width:25%;">Tipo</th>
+			<th scope="col" style="width:30%;">Nombre gen&eacute;rico<sup>1</sup></th>
+			<th scope="col" class="align_center" style="width:15%;">Nombre de la marca</th>
+			<th scope="col" class="align_center" style="width:15%;">Costo<sup>2</sup>: Un frasco (1,000 unidades)</th>
+			<th scope="col" class="align_center" style="width:15%;">Costo<sup>2</sup>: Plumas empaque de 5 (1,500 unidades)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" rowspan="2">Insulina de acci&oacute;n corta</th>
+			<th class="section_title" rowspan="2" scope="row">Insulina regular</th>
+			<td>Humulin&reg; R</td>
+			<td class="align_center">$45</td>
+			<td class="align_center">ND</td>
+		</tr>
+		<tr>
+			<td>Novolin&reg; R</td>
+			<td class="align_center">$45</td>
+			<td class="align_center">$135</td>
+		</tr>
+		<tr>
+			<th scope="row" rowspan="3">Insulina de acci&oacute;n r&aacute;pida</th>
+			<th class="section_title" scope="row">Insulina aspartato</th>
+			<td>NovoLog&reg;</td>
+			<td class="align_center">$105</td>
+			<td class="align_center">$200</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Insulina glulisina</th>
+			<td>Apidra&reg;</td>
+			<td class="align_center">$95</td>
+			<td class="align_center">$180</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Insulina lispro</th>
+			<td>Humalog&reg;</td>
+			<td class="align_center">$105</td>
+			<td class="align_center">$200</td>
+		</tr>
+	</tbody>
+</table>
+<table class="styleOne">
+	<caption>Costo de la insulina: Tiene las dos coberturas (todo el d&iacute;a y las comidas)</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" style="width:25%;">Tipo</th>
+			<th scope="col" style="width:30%;">Nombre gen&eacute;rico<sup>1</sup></th>
+			<th scope="col" class="align_center" style="width:15%;">Nombre de la marca</th>
+			<th scope="col" class="align_center" style="width:15%;">Costo<sup>2</sup>: Un frasco (1,000 unidades)</th>
+			<th scope="col" class="align_center" style="width:15%;">Costo<sup>2</sup>: Plumas empaque de 5 (1,500 unidades)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="row" rowspan="3">Insulina premezclada NPH/regular</th>
+			<th class="section_title" rowspan="2" scope="row">70% de insulina NPH/30% de insulina regular</th>
+			<td>Humulin&reg; 70/30
+			</td>
+			<td class="align_center">$45</td>
+			<td class="align_center">$135</td>
+		</tr>
+		<tr>
+			<td>Novolin&reg;70/30</td>
+			<td class="align_center">$45</td>
+			<td class="align_center">$135</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">50% de insulina NPH/50% de insulina regular</th>
+			<td>Humulin&reg; 50/50</td>
+			<td class="align_center">$45</td>
+			<td class="align_center">ND</td>
+		</tr>
+		<tr>
+			<th scope="row" rowspan="3">Nueva insulina premezclada</th>
+			<th class="section_title" scope="row">70% de insulina aspartato protamina en suspensi&oacute;n/ 30% de insulina aspartato</th>
+			<td>NovoLog&reg; Mix 70/30</td>
+			<td class="align_center">$105</td>
+			<td class="align_center">$200</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">75% de insulina lispro protamina en suspensi&oacute;n/25% de insulina lispro</th>
+			<td>Humalog&reg; Mix 75/25</td>
+			<td class="align_center">$105</td>
+			<td class="align_center">$200</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">50% de insulina lispro protamina en suspensi&oacute;n/50% de insulina lispro</th>
+			<td>Humalog&reg; Mix 50/50</td>
+			<td class="align_center">$105</td>
+			<td class="align_center">$200</td>
+		</tr>
+	</tbody>
+</table>
+<p><sup>1</sup> Estos medicamentos se incluyeron en los estudios de investigaci&oacute;n.<br />
+	<sup>2</sup> El costo promedio al por mayor proviene del <em>Red Book</em>, 2008. No incluye el costo de agujas ni jeringas.<br />
+	ND = no est&aacute; disponible en plumas.
+</p> 
+			<a name="1816"></a>
+			
+
+			
+				<h3>Donde puede obtener más información?</h3>
+				<p>Para obtener una copia electr&oacute;nica de esta gu&iacute;a y materiales en que se comparan tratamientos y medicamentos para otras condiciones m&eacute;dicas, visite este sitio web: <a href="http://www.effectivehealthcare.ahrq.gov/spanishinfo.cfm">www.effectivehealthcare.ahrq.gov/spanishinfo.cfm</a>. </p>
+<p>Para obtener copias gratuitas, llame a:<br />
+AHRQ Publications Clearinghouse (800) 358-9295<br />
+Pida la Publicaci&oacute;n de AHRQ N&uacute;mero 08(10)-EHC017-B.<br />
+Si desea m&aacute;s informaci&oacute;n sobre la diabetes, visite el sitio web de MedlinePlus: <a href="http://www.nlm.nih.gov/medlineplus/spanish/diabetes.html">www.nlm.nih.gov/medlineplus/spanish/diabetes.html</a>.<br />
+</p> 
+			<a name="1817"></a>
+			
+
+			
+				<h3>¿Cuál es la fuente de esta guía?</h3>
+				<p>La informaci&oacute;n de esta gu&iacute;a proviene de una revisi&oacute;n detallada de 45 informes de investigaci&oacute;n. La revisi&oacute;n se titula <em>Comparative Effectiveness, Safety and Indications of Insulin Analogues in Premixed Formulations for Adults with Type 2 Diabetes</em> (Comparaci&oacute;n de la efectividad, seguridad e indicaciones de los an&aacute;logos de insulina en f&oacute;rmulas premezcladas para adultos con diabetes tipo 2) (2008), y fue escrita por el Johns Hopkins Evidence-based Practice Center (Centro de Pr&aacute;ctica Basada en la Evidencia Johns Hopkins).</p>
+<p>La Agency for Healthcare Research and Quality (Agencia para la Investigaci&oacute;n y Calidad de la Atenci&oacute;n M&eacute;dica, AHRQ, por sus siglas en ingl&eacute;s), cre&oacute; el Eisenberg Center (Centro Eisenberg) en la Oregon Health &amp; Science University (Universidad de la Salud y Ciencia de Oregon) con la finalidad de que la investigaci&oacute;n sea de ayuda a los consumidores. Esta gu&iacute;a fue elaborada por Monica Goei, M.D, Martha Schechtel, R.N., Seth Meyer, M.A., Joe Stewart, B.C.N.S.P., Rachelle Nicolai, B.A., Valerie King, M.D., y David Hickam, M.D., del Eisenberg Center (Centro Eisenberg). Personas que usan insulina para tratar la diabetes tipo 2 les ayudaron en la elaboraci&oacute;n de esta gu&iacute;a. AHRQ tradujo esta publicaci&oacute;n al espa&ntilde;ol.<br />
+</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

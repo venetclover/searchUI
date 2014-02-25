@@ -1,0 +1,1231 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Managing Osteoarthritis Pain With Medicines: A Review of the Research for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=950&amp;button=1&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fproductid%3D950%26button%3D1%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=180">
+					Comparative Effectiveness and Safety of Analgesics for Osteoarthritis–An Update to the 2006 Report 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=795">
+										Research Review  (Update)
+									</a>
+							<span style="font-size:7pt;"> Oct. 24, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=494">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Aug. 5, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1094">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> May 16, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1661">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 20, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=951">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Feb. 15, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1061">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> May 11, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=805">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Oct. 24, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=306&cmepage=cme_info">
+									
+									CME Activity: Analgesics for Osteoarthritis–An Update 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 06(07)-EHC009-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d950%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d950%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d950%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d950%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d950%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d950%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d950%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d950%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d950%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d950%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=239895EF-0D0D-9A36-809B5BAFD10DF545" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=950&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=950&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=950" title="Managing Osteoarthritis Pain With Medicines: A Review of the Research for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/950.gif" alt="Managing Osteoarthritis Pain With Medicines: A Review of the Research for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Managing Osteoarthritis Pain With Medicines: A Review of the Research for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=950&amp;button=1&quot; title=&quot;Managing Osteoarthritis Pain With Medicines: A Review of the Research for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/950.gif&quot; border=&quot;0&quot; alt=&quot;Managing Osteoarthritis Pain With Medicines: A Review of the Research for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Feb. 15, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Managing Osteoarthritis Pain With Medicines: A Review of the Research for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/180/950/anal_osteo_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							517 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/180/950/ANALGESICS.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.7 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1061" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#4599">Is This Summary Right for Me?</a></li>
+					
+						<li><a href="#4600">Understanding Your Condition</a></li>
+					
+						<li><a href="#4601">Understanding Your Options</a></li>
+					
+						<li><a href="#4602">Making a Decision</a></li>
+					
+						<li><a href="#4603">Source</a></li>
+					
+			</ul>
+		
+			<a name="4599"></a>
+			
+
+			
+				<h3>Is This Summary Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<ul>
+	<li>A doctor* said you have osteoarthritis (pronounced ah-stee-oharth- RYE-tis). Osteoarthritis is different from other kinds of arthritis such as rheumatoid or psoriatic arthritis.</li>
+	<li>The doctor suggested one of the following medicines for your osteoarthritis pain, and you want to know what research says about the medicine.
+	<ul>
+		<li>Acetaminophen (Tylenol&reg;)</li>
+		<li>Ibuprofen (Motrin&reg;, Advil&reg;)</li>
+		<li>Diclofenac (Cambia&reg;, Cataflam&reg;, Voltaren&reg;, Voltarol&reg;, Zipsor&reg;)</li>
+		<li>Naproxen (Aleve&reg;, Naprosyn&reg;)</li>
+		<li>Celecoxib (Celebrex&reg;)</li>
+		<li>Etodolac (Lodine&reg;)</li>
+		<li>Meloxicam (Mobic&reg;)</li>
+		<li>Nabumetone (Relafen&reg;)</li>
+		<li>Aspirin</li>
+	</ul>
+	</li>
+	<li>You are considering taking the nutritional supplements glucosamine or chondroitin for your osteoarthritis pain.</li>
+</ul>
+<h4>No, if:</h4>
+<ul>
+	<li>A doctor has not said that you have osteoarthritis.</li>
+	<li>You are under 18. The information in this summary is from research on adults.</li>
+</ul>
+<p></p>
+<p>* In this summary, the term &ldquo;doctor&rdquo; refers to the health care professionals who may take care of you, including your physician, rheumatologist, nurse practitioner, or physician assistant.</p>
+<h4>What does this summary cover?</h4>
+<p>This summary describes how to manage osteoarthritis pain by using a group of medicines called &ldquo;analgesics&rdquo; (pronounced an-al-JEEZ-iks). It also discusses the research about different types of analgesics. It talks about each medicine&rsquo;s ability to relieve pain and the risks for serious side effects. It can help you talk with your doctor about managing your osteoarthritis pain. Other ways to manage pain from osteoarthritis, such as surgery, narcotic medicines, or steroids, are not included in this summary.</p>
+<h4>Where does the information come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government agency, updated a review of the research on analgesics for osteoarthritis. The updated review included 273 research studies published between January 2005 and January 2011. The report was reviewed by clinicians, researchers, experts, and the public. You can read the report at <a href="http://www.effectivehealthcare.ahrq.gov/analgesicsupdate.cfm">www.effectivehealthcare.ahrq.gov/analgesicsupdate.cfm</a>.</p> 
+			<a name="4600"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is osteoarthritis?</h4>
+<p>Osteoarthritis is a painful condition in which joints become swollen and stiff.</p>
+<ul>
+	<li>Cartilage is the soft tissue between the bones that meet at a joint. It acts as a cushion and allows your connecting bones to move smoothly without rubbing against each other.</li>
+	<li>In people with osteoarthritis, the cartilage between bones begins to break down and the bones start grinding together.</li>
+	<li>Osteoarthritis causes pain, joint swelling, and damage.</li>
+</ul>
+<h5>How common is osteoarthritis?</h5>
+<ul>
+	<li>Osteoarthritis is the most common form of arthritis.</li>
+	<li>It affects about 27 million people in the United States.</li>
+	<li>It is a leading cause of disability.</li>
+	<li>Osteoarthritis is more common in people who are older, overweight, or have injured a joint.</li>
+</ul>
+<h5>Why manage the pain of osteoarthritis?</h5>
+<ul>
+	<li>Osteoarthritis can be very painful and may get worse over time.</li>
+	<li>Osteoarthritis can make it hard to move, work, or enjoy activities.</li>
+</ul> 
+			<a name="4601"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>What does it mean to manage the pain?</h4>
+<p>There is no cure for osteoarthritis. However, your doctor may suggest one or more of the following to help you manage your pain:</p>
+<ul>
+	<li>Taking medicines called analgesics to help with pain and swelling.</li>
+	<li>Keeping your weight at a healthy level to lessen the impact on your joints.</li>
+	<li>Exercising to reduce pain and make it easier to do daily tasks.</li>
+</ul>
+<h5>What are analgesics?</h5>
+<p>Analgesics are a type of medicine that helps relieve pain and swelling. Analgesics come in different forms:</p>
+<ul>
+	<li>Acetaminophen (pronounced uh-seet-uh-MIN-oh-fen): Most people know this medicine by the brand name Tylenol&reg;.</li>
+	<li>Nonsteroidal anti-inflammatory drugs (NSAIDs, pronounced en-sedz): Some of the brand names of these medicines may be familiar to you, like Advil&reg;, Motrin&reg;, Aleve&reg;, and Celebrex&reg;.</li>
+	<li>Skin creams: Common brand names include BenGay&reg;, Aspercreme&reg;, or Theragen&reg;.</li>
+	<li>Supplements: Some people use the nutritional supplements glucosamine (pronounced glue-KOH-suh-meen) and chondroitin (pronounced kon-DROY-tin) to reduce osteoarthritis pain.</li>
+</ul>
+<table class="styleOne">
+	<caption>Analgesics for Osteoarthritis Pain</caption>
+	<tbody>
+		<tr>
+			<th scope="col" colspan="2" class="section_title">Acetaminophen</th>
+		</tr>
+		<tr>
+			<td style="width:25%;">What are the generic and brand names?</td>
+			<td>Acetaminophen is the generic name for this medicine. The brand name is Tylenol&reg;.</td>
+		</tr>
+		<tr>
+			<td>Is this medicine available without a prescription?</td>
+			<td>This medicine is available without a prescription.</td>
+		</tr>
+		<tr>
+			<td>How well does this medicine help pain and swelling?</td>
+			<td>
+			<ul>
+				<li>Research says this medicine does not reduce pain as well as NSAIDs do.</li>
+				<li>This medicine does not reduce swelling.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>What are the possible side effects of this medicine?</td>
+			<td>
+			<ul>
+				<li>This medicine can cause liver damage if too much is taken or if it is taken with alcohol.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="2" class="section_title">NSAIDs</th>
+		</tr>
+		<tr>
+			<td>What are the generic and brand names?</td>
+			<td>These medicines go by many generic and brand names:
+			<ul>
+				<li>Ibuprofen
+				<ul>
+					<li>Motrin&reg;</li>
+					<li>Advil&reg;</li>
+				</ul>
+				</li>
+				<li>Diclofenac
+				<ul>
+					<li>Cambia&reg;</li>
+					<li>Cataflam&reg;</li>
+					<li>Voltaren&reg;</li>
+					<li>Voltarol&reg;</li>
+					<li>Zipsor&reg;</li>
+				</ul>
+				</li>
+				<li>Naproxen
+				<ul>
+					<li>Aleve&reg;</li>
+					<li>Naprosyn&reg;</li>
+				</ul>
+				</li>
+				<li>Celecoxib
+				<ul>
+					<li>Celebrex&reg;</li>
+				</ul>
+				</li>
+				<li>Etodolac
+				<ul>
+					<li>Lodine&reg;</li>
+				</ul>
+				</li>
+				<li>Meloxicam
+				<ul>
+					<li>Mobic&reg;</li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Are any of these medicines available without a prescription?</td>
+			<td>Ibuprofen and naproxen are available without a prescription.</td>
+		</tr>
+		<tr>
+			<td>How well do these medicines help pain and swelling?</td>
+			<td>
+			<ul>
+				<li>All these medicines relieve pain and swelling about the same as each other.</li>
+				<li>Research says that all these medicines reduce pain better than acetaminophen.</li>
+				<li>Diclofenac skin cream works as well as NSAID pills.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>What are the possible side effects of these medicines?</td>
+			<td>
+			<ul>
+				<li>All of these medicines can cause serious stomach problems like bleeding or ulcers. More people had these problems with these NSAIDs:
+				<ul>
+					<li>Naproxen</li>
+					<li>Ibuprofen</li>
+					<li>Diclofenac</li>
+				</ul>
+				</li>
+				<li>More people had stomach bleeding after taking naproxen than people taking ibuprofen.</li>
+				<li>All NSAIDs except for naproxen can increase your chances of having heart problems.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="2" class="section_title">Skin Creams</th>
+		</tr>
+		<tr>
+			<td>What are the generic and brand names?</td>
+			<td>
+			<ul>
+				<li>NSAIDs
+				<ul>
+					<li>Diclofenac (Voltaren&reg;)</li>
+					<li>Ibuprofen</li>
+				</ul>
+				</li>
+				<li>Capsaicin
+				<ul>
+					<li>Theragen&reg;</li>
+					<li>Zostrix&reg;</li>
+					<li>Capsagel&reg;</li>
+					<li>Salonpas-Hot&reg;</li>
+				</ul>
+				</li>
+				<li>Salicylate
+				<ul>
+					<li>Aspercreme&reg;</li>
+					<li>BenGay&reg;</li>
+					<li>Sportscreme&reg;</li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Are any of these medicines available without a prescription?</td>
+			<td>Capsaicin and salicylate creams are available without a prescription.</td>
+		</tr>
+		<tr>
+			<td>How well do these medicines help pain and swelling?</td>
+			<td>
+			<ul>
+				<li>People who used NSAID skin creams instead of pills had less risk of having serious stomach problems, but had a higher risk of having dry skin, rash, and itching.</li>
+				<li>Diclofenac skin cream works as well as NSAID pills.</li>
+				<li>Some research says that capsaicin may relieve pain as well as NSAIDs, and salicylate may not, but there is not enough research to know for sure.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>What are the possible side effects of these medicines?</td>
+			<td>
+			<ul>
+				<li>NSAID skin creams may cause dry skin, rash, and itching.</li>
+				<li>Capsaicin might cause a slight burning feeling the first few times it is used.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="2" class="section_title">Supplements</th>
+		</tr>
+		<tr>
+			<td>What are the generic and brand names?</td>
+			<td>The generic names for these supplements are glucosamine (pronounced glue-KOH-suh-meen) and chondroitin (pronounced kon-DROY-tin). These are sold under many brand names, and are sometimes sold together as one pill.</td>
+		</tr>
+		<tr>
+			<td>Are these supplements available without a prescription?</td>
+			<td>These supplements are available without a prescription, and can be found in grocery stores, drug stores, and natural food stores.</td>
+		</tr>
+		<tr>
+			<td>How well do these supplements help pain and swelling?</td>
+			<td>They may work as well as NSAID pills to relieve pain, but there is not enough research to know for sure.</td>
+		</tr>
+		<tr>
+			<td>What are the possible side effects of these supplements?</td>
+			<td>
+			<ul>
+				<li>There is not enough research to say if these supplements cause side effects.</li>
+				<li>Supplements sold in the United States are not regulated by the U.S. Food and Drug Administration (FDA). This means that the quality of the glucosamine and chondroitin may vary and their contents may be different from what is listed on the bottle. The supplements that have been studied were prescriptions that are 99% pure with no added ingredients and are not available in the United States. This means that the supplements you buy may not be the same as the ones that were researched.</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h5>More information about possible serious side effects from taking NSAIDs</h5>
+<p><em><strong>Stomach Problems</strong></em>&mdash;Researchers found that:</p>
+<ul>
+	<li>More people taking naproxen, ibuprofen, or diclofenac developed ulcers (open sores in the stomach) than people taking celecoxib, meloxicam, or etodolac.</li>
+	<li>More people taking naproxen had serious stomach problems like stomach bleeding and ulcers than people taking ibuprofen.</li>
+	<li>People taking NSAIDs who have had stomach bleeding in the past are more likely to have stomach bleeding caused by NSAIDs than people who have not had stomach bleeding in the past.</li>
+	<li>People who take blood thinners (like Coumadin&reg; or warfarin) or other medicines to block clotting (such as aspirin) while taking naproxen, ibuprofen, or diclofenac are 3 to 6 times more likely to have stomach bleeding than people who take blood thinners alone.</li>
+	<li>People who take a low dose (amount) of aspirin while taking celecoxib, naproxen, ibuprofen, or diclofenac increase their risk of getting an ulcer by about 6 percent.</li>
+	<li>People who take higher doses of naproxen, ibuprofen, or diclofenac are more likely to have stomach bleeding than people who take lower doses.</li>
+	<li>The risk of stomach problems from NSAIDs increases as you get older.</li>
+	<li>Adding a medicine that reduces acid in the stomach (called a proton pump inhibitor, or PPI) to celecoxib could reduce the risk of ulcers and the problems caused by ulcers, including bleeding.</li>
+</ul>
+<p><em><strong>Heart Problems</strong></em>&mdash;Researchers found that:</p>
+<ul>
+	<li>Taking celecoxib, ibuprofen, or diclofenac increases your chances of having heart problems.</li>
+	<li>Naproxen does not increase your risk of heart attack.</li>
+	<li>People who take higher doses of celecoxib have a higher risk of having a heart attack than people taking lower doses.</li>
+	<li>The risk of having heart problems from NSAIDs increases as you get older.</li>
+	<li>All NSAIDs can worsen blood pressure, heart function, and kidney function. However, there are no clear differences between naproxen, ibuprofen, diclofenac, etodolac, meloxicam, or nabumetone in the risk of high blood pressure, heart failure, or poor kidney function.</li>
+</ul> 
+			<a name="4602"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>Each pain medicine has a different set of benefits and risks, and each comes with a trade-off. Talk with your doctor to weigh the benefits and risks and to decide which medicine is best for you. You can discuss:</p>
+<ul>
+	<li>How much pain and swelling you feel and how often you feel it.</li>
+	<li>How well each medicine works to relieve pain and swelling.</li>
+	<li>How comfortable you and your doctor are about your risks for serious side effects.</li>
+	<li>Your age and other health issues that may affect your choice of pain medicine.</li>
+	<li>The convenience and cost of having medicines available by prescription or over the counter.</li>
+</ul>
+<h5>What are the costs of analgesics?</h5>
+<p>The cost to you for analgesics depends on:</p>
+<ul>
+	<li>The type of health insurance that you have.</li>
+	<li>The dose (amount) you need.</li>
+	<li>Whether the medicine is available in generic form or is sold without a prescription (&ldquo;over the counter&rdquo;). Some NSAIDs are available over the counter, but your insurance may not cover the cost of these medicines if you buy them this way.</li>
+</ul>
+<p>The cost of over-the-counter analgesics depends on the pharmacy, the brand, and how much you buy at one time. When you shop around for the best price, you should also consider the quality of the product.</p>
+<table class="styleOne">
+	<caption>Wholesale Prices of Prescription Analgesics</caption>
+	<thead>
+		<tr>
+			<th scope="col">Drug Name</th>
+			<th class="align_center" scope="col">Dose</th>
+			<th class="align_center" scope="col">Form</th>
+			<th class="align_center" scope="col">How Often</th>
+			<th class="align_center" scope="col">Price per Month for Generic*</th>
+			<th class="align_center" scope="col">Brand Name</th>
+			<th class="align_center" scope="col">Price per Month for Brand Name*</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="7">* Prices are the average wholesale prices as listed from <em>RED BOOK Online</em>&reg;. Generic prices are the middle value in the range of prices listed from different manufacturers. The actual prices of the medicines may be higher or lower than the prices listed here depending on the manufacturer used by your pharmacy.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th scope="col" colspan="7"><em>NSAIDs</em></th>
+		</tr>
+		<tr>
+			<th rowspan="2" class="section_title" scope="row">Celecoxib</th>
+			<td class="align_right">100&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">N/A</td>
+			<td rowspan="2">Celebrex&reg;</td>
+			<td class="align_right">$176</td>
+		</tr>
+		<tr>
+			<td class="align_right">200&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">N/A</td>
+			<td class="align_right">$145</td>
+		</tr>
+		<tr>
+			<th rowspan="6" class="section_title" scope="row">Ibuprofen</th>
+			<td rowspan="2" class="align_right">400&nbsp;mg</td>
+			<td rowspan="2" class="align_center">Tablet</td>
+			<td class="align_center">Three times a day</td>
+			<td class="align_right">$18</td>
+			<td rowspan="6">Motrin&reg;;<br />
+				Advil&reg;</td>
+			<td class="align_right">$28; $10</td>
+		</tr>
+		<tr>
+			<td class="align_center">Four times a day</td>
+			<td class="align_right">$25</td>
+			<td class="align_right">$37; $13</td>
+		</tr>
+		<tr>
+			<td rowspan="2" class="align_right">600&nbsp;mg</td>
+			<td rowspan="2" class="align_center">Tablet</td>
+			<td class="align_center">Three times a day</td>
+			<td class="align_right">$26</td>
+			<td class="align_right">$36; $15</td>
+		</tr>
+		<tr>
+			<td class="align_center">Four times a day</td>
+			<td class="align_right">$35</td>
+			<td class="align_right">$48; $20</td>
+		</tr>
+		<tr>
+			<td rowspan="2" class="align_right">800&nbsp;mg</td>
+			<td rowspan="2" class="align_center">Tablet</td>
+			<td class="align_center">Three times a day</td>
+			<td class="align_right">$35</td>
+			<td class="align_right">$51; $20</td>
+		</tr>
+		<tr>
+			<td class="align_center">Four times a day</td>
+			<td class="align_right">$46</td>
+			<td class="align_right">$68; $27</td>
+		</tr>
+		<tr>
+			<th rowspan="2" class="section_title" scope="row">Diclofenac</th>
+			<td rowspan="2" class="align_right">50&nbsp;mg</td>
+			<td rowspan="2" class="align_center">Tablet</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$93</td>
+			<td rowspan="2">Cambia&reg;;<br />
+				Cataflam&reg;;<br />
+				Zipsor&reg;</td>
+			<td class="align_right">$1,547;<br />
+				$290;<br />
+				$344</td>
+		</tr>
+		<tr>
+			<td class="align_center">Three times a day</td>
+			<td class="align_right">$140</td>
+			<td class="align_right">$2,320;<br />
+				$435;<br />
+				$516</td>
+		</tr>
+		<tr>
+			<th rowspan="3" class="section_title" scope="row">Naproxen</th>
+			<td class="align_right">250&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$47</td>
+			<td rowspan="3">Aleve&reg;;<br />
+				Naprosyn&reg;</td>
+			<td class="align_right">N/A; $97</td>
+		</tr>
+		<tr>
+			<td class="align_right">375&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$64</td>
+			<td class="align_right">N/A; $124</td>
+		</tr>
+		<tr>
+			<td class="align_right">500&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$78</td>
+			<td class="align_right">N/A; $151</td>
+		</tr>
+		<tr>
+			<th rowspan="4" class="section_title" scope="row">Etodolac</th>
+			<td class="align_right">300&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$86</td>
+			<td rowspan="4">Lodine&reg;</td>
+			<td class="align_right">$101</td>
+		</tr>
+		<tr>
+			<td class="align_right">300&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Three times a day</td>
+			<td class="align_right">$128</td>
+			<td class="align_right">$152</td>
+		</tr>
+		<tr>
+			<td class="align_right">400&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$88</td>
+			<td class="align_right">$107</td>
+		</tr>
+		<tr>
+			<td class="align_right">500&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$89</td>
+			<td class="align_right">$108</td>
+		</tr>
+		<tr>
+			<th rowspan="2" class="section_title" scope="row">Meloxicam</th>
+			<td class="align_right">7.5&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$95</td>
+			<td rowspan="2">Mobic&reg;</td>
+			<td class="align_right">$156</td>
+		</tr>
+		<tr>
+			<td class="align_right">15&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$144</td>
+			<td class="align_right">$239</td>
+		</tr>
+		<tr>
+			<th rowspan="4" class="section_title" scope="row">Nabumetone</th>
+			<td class="align_right">500&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$78</td>
+			<td rowspan="4">Relafen&reg;</td>
+			<td class="align_right">$126</td>
+		</tr>
+		<tr>
+			<td class="align_right">1,000&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$78</td>
+			<td class="align_right">$126</td>
+		</tr>
+		<tr>
+			<td class="align_right">1,000&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Twice a day</td>
+			<td class="align_right">$156</td>
+			<td class="align_right">$252</td>
+		</tr>
+		<tr>
+			<td class="align_right">2,000&nbsp;mg</td>
+			<td class="align_center">Tablet</td>
+			<td class="align_center">Once a day</td>
+			<td class="align_right">$156</td>
+			<td class="align_right">$252</td>
+		</tr>
+	</tbody>
+</table>
+<h5>Ask your doctor</h5>
+<ul>
+	<li>Which analgesic do you think is safest for me but will still help control my pain?</li>
+	<li>Am I at risk for stomach or heart problems if I take an NSAID?</li>
+	<li>How long will it take for my pain to be under control?</li>
+	<li>What side effects should I watch for?</li>
+	<li>Could my other health conditions or medicines affect which medicine I take for my osteoarthritis pain?</li>
+	<li>What are my other options if these medicines do not help?</li>
+	<li>Is there anything else I can do to help manage my osteoarthritis pain?</li>
+</ul> 
+			<a name="4603"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em>Analgesics for Osteoarthritis: An Update of the 2006 Comparative Effectiveness Review</em>, October 2011.</p>
+<p>The report was produced by the Oregon Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>For more information about the Effective Health Care Program, go to: <a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/what-is-the-effective-health-care-program1/">http://www.effectivehealthcare.ahrq.gov/index.cfm/what-is-the-effective-health-care-program1/</a>.&nbsp;Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Thomas Workman, Ph.D., Ursula Braun, M.D., and Michael Fordis, M.D.&nbsp; Patients with osteoarthritis reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

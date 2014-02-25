@@ -1,0 +1,1417 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Treatments for Open-Angle Glaucoma: A Review of the Research for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;productid=1395&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26productid%3D1395%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=183">
+					Treatment for Glaucoma: Comparative Effectiveness 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1024">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Apr. 12, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=580">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Nov. 16, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1128">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Jul. 12, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1556">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jun. 25, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1665">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 20, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1153">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Feb. 14, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1478">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Apr. 25, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1023">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 12, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>Education Resources for this Topic</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=332&cmepage=cme_info">
+									
+									CME activity: Comparisons of Medical, Laser, and Incisional Surgical Treatments for Open-Angle Glaucoma in Adults 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Related Products</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&productid=1025">
+									
+									Screening for Glaucoma: Comparative Effectiveness 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=64&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12(13)-EHC038-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1395%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1395%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1395%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1395%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1395%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1395%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1395%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1395%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1395%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1395%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2397F623-DB00-15BE-CD9E7335FCE6821B" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1395&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1395&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1395" title="Treatments for Open-Angle Glaucoma: A Review of the Research for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1395.gif" alt="Treatments for Open-Angle Glaucoma: A Review of the Research for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Treatments for Open-Angle Glaucoma: A Review of the Research for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1395&amp;button=1&quot; title=&quot;Treatments for Open-Angle Glaucoma: A Review of the Research for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1395.gif&quot; border=&quot;0&quot; alt=&quot;Treatments for Open-Angle Glaucoma: A Review of the Research for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Feb. 14, 2013 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Treatments for Open-Angle Glaucoma: A Review of the Research for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/183/1395/glaucoma-treatment.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							430 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/183/1395/glaucoma-treatment.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							11.6 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1478" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#7107">Is the Information Right for Me?</a></li>
+					
+						<li><a href="#7108">Understanding Your Condition</a></li>
+					
+						<li><a href="#7109">Understanding Your Options</a></li>
+					
+						<li><a href="#7110">Making a Decision</a></li>
+					
+						<li><a href="#7112">Source</a></li>
+					
+			</ul>
+		
+			<a name="7107"></a>
+			
+
+			
+				<h3>Is the Information Right for Me?</h3>
+				<h4>Yes, this information is for you if:</h4>
+<ul>
+	<li>Your eye doctor has said that you have open-angle glaucoma, an eye condition that leads to vision loss.</li>
+	<li>Your eye doctor has suggested medicine, laser surgery, or traditional surgery to treat your glaucoma.</li>
+</ul>
+<h4>No, this information may not be helpful to you if:</h4>
+<ul>
+	<li>Your eye doctor has said that you have another form of glaucoma, such as closed-angle, juvenile, congenital, traumatic, neovascular, refractory, or inflammatory glaucoma.</li>
+	<li>Your eye doctor has not told you that you have open-angle glaucoma or has not suggested that you start treatment for this condition.</li>
+</ul>
+<h4>What will this summary tell me?</h4>
+<ul>
+	<li>This summary will tell you about medicines, laser surgery, and traditional surgery to treat open-angle glaucoma.</li>
+	<li>It will discuss what research says about how well these treatments work and possible side effects.</li>
+	<li>You can use this information when talking with your eye doctor about what treatment may be right for you.</li>
+</ul>
+<div class="report_highlight_box medium_box"><strong>Note:</strong> The research for this summary was done only with people age 40 and older.</div>
+<h4>Where does this information come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 109 studies published through October 2011 on treatments for open-angle glaucoma. The report was reviewed by clinicians, researchers, experts, and the public. You can read the report by selecting the link to &ldquo;Research Review&rdquo; in the box titled, &ldquo;Full Reports&rdquo; on the right side of this Web page.</p> 
+			<a name="7108"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is open-angle glaucoma?</h4>
+<p>Open-angle glaucoma is one of several kinds of glaucoma (a condition that leads to vision loss). Glaucoma is the result of damage to your optic nerve (the nerve that sends images to your brain). Over time, this damage can cause you to lose the ability to see.</p>
+<p>Open-angle glaucoma develops slowly, and most people are not aware of any symptoms. Your eye doctor can check to see if your optic nerve is being damaged. Glaucoma usually happens in both eyes, but one eye may be worse than the other.</p>
+<p>A first symptom of glaucoma you may notice is difficulty with your side vision (called &ldquo;peripheral vision,&rdquo; pronounced pe-RIF-uh-ral). It may also be difficult to see things in bright light or when you go between light and dark.</p>
+<p>Without treatment, your field of vision (the amount you are able to see) gets less and less until you cannot see at all. Your eye doctor can do tests to check for glaucoma. This is why it is important to see your eye doctor regularly.</p>
+<p><img alt="Normal field of vision and field of vision decreased from glaucoma" src="/ehc/assets/Image/trees.jpeg" style="width: 425px; height: 260px; " /></p>
+<h4>What causes open-angle glaucoma?</h4>
+<p>Open-angle glaucoma is the result of damage to your optic nerve. One thing that can damage your optic nerve is an increase in the pressure in your eyes. Some people&rsquo;s optic nerves are more sensitive to an increase in pressure than other people&rsquo;s. Your eye pressure may be at a level considered normal, and you can still have damage to your optic nerve. Increased pressure can happen if the fluid inside your eyes is not draining properly.</p>
+<ul>
+	<li>Your eyes are always making and draining fluid. This fluid keeps the pressure in your eyes at the correct level so they stay the right shape so you can see.</li>
+	<li>Fluid drains from your eyes through a drainage system between the iris and cornea called an &ldquo;angle&rdquo; and out through canals (as shown in the diagram below). In people with open-angle glaucoma, the angle to the canals is open, but the fluid is not draining properly.</li>
+	<li>There may be several reasons why your eyes are not draining fluid properly. The canals may be too narrow, or they may be blocked.</li>
+	<li>If fluid cannot drain out, then it builds up inside your eyes. This could increase the pressure inside your eyes. If the pressure becomes too high for your eyes, it can damage your optic nerve and decrease your ability to see.</li>
+</ul>
+<p><img alt="Image of the eye and its various parts" src="/ehc/assets/Image/Eye-diagram.png" style="width: 650px; height: 418px; " /></p>
+<h4>What are the risk factors for glaucoma?</h4>
+<p>People with an increased risk of developing glaucoma include:</p>
+<ul>
+	<li>African Americans over age 40</li>
+	<li>People over age 60 (especially Latinos)</li>
+	<li>People with a family history of glaucoma</li>
+	<li>People with increased eye pressure</li>
+</ul>
+<h4>How does the eye doctor check for glaucoma?</h4>
+<p>Your eye doctor may do several tests to look for glaucoma, including:</p>
+<ul>
+	<li>Checking your eye pressure
+		<ul>
+			<li>You may have glaucoma even if your eye pressure is at a level considered normal. This is why the eye doctor does additional tests to check for glaucoma.</li>
+		</ul>
+	</li>
+	<li>Measuring your side vision (called a visual field test)</li>
+	<li>Dilating (widening with medicine drops) the pupils of your eyes so that your eye doctor can see your optic nerve</li>
+</ul>
+<div class="report_highlight_box medium_box">In glaucoma, the optic nerve is damaged slowly over time. You cannot feel the damage being done to your eyes, and your eyesight may seem normal. That is why it is important for your eye doctor to perform tests to check for glaucoma.</div>
+<p>How common is open-angle glaucoma?</p>
+<ul>
+	<li>Two to 3 million people in the United States (around 1 percent of Americans) have open-angle glaucoma.</li>
+	<li>Glaucoma is a leading cause of blindness in the United States and around the world.</li>
+</ul> 
+			<a name="7109"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>How is open-angle glaucoma treated?</h4>
+<p>Eye doctors treat open-angle glaucoma by lowering the pressure in your eyes. There are no treatments to fix damaged optic nerves. Once sight is lost, there is no way to bring it back.</p>
+<p>There are three types of treatment for glaucoma: medicine, laser surgery, and traditional surgery. None of these treatments will cure your glaucoma, but they can help stop the damage to your optic nerve.</p>
+&nbsp;
+<p><img alt="drawing of a bottle of eye drops" src="/ehc/assets/Image/eye_dropper_icon.jpeg" style="width: 75px; float: right; height: 75px; " /></p>
+<p><strong>Medicine</strong> is often the first treatment for glaucoma and works in one of two ways:</p>
+<ul>
+	<li>Making your eyes produce less fluid</li>
+	<li>Increasing the outflow of fluid from inside your eyes</li>
+</ul>
+<p><img alt="drawing of eye" src="/ehc/assets/Image/eye_icon.jpeg" style="width: 75px; height: 75px; float: right; " /></p>
+<p><strong>Laser surgery</strong> works in one of two ways:</p>
+<ul>
+	<li>Helping your eyes drain fluid better</li>
+	<li>Decreasing the amount of fluid that your eyes produce (this type of laser surgery is not discussed in this summary)</li>
+</ul>
+<p><img alt="drawing of a surgeon" src="/ehc/assets/Image/surgery_icon.jpeg" style="width: 75px; height: 75px; float: right; " /></p>
+<p><strong>Traditional surgery</strong> works in one of two ways:</p>
+<ul>
+	<li>Redirecting fluid to bypass the part of the drainage system in your eyes that is not working properly</li>
+	<li>Making new pathways for fluid to drain from your eyes</li>
+</ul>
+<h4>Medicine</h4>
+<p><img alt="drawing of a bottle of eye drops" src="/ehc/assets/Image/eye_dropper_icon.jpeg" style="width: 100px; float: right; height: 100px; " /></p>
+<p>Many people with glaucoma will be treated first with medicine.</p>
+<ul>
+	<li>There are many types of glaucoma medicine. Each type of medicine has several brand names.</li>
+	<li>Most medicines are eye drops that you put in your eyes one or more times a day.</li>
+	<li>Some eye doctors may suggest glaucoma medicines that are pills, but this is much less common because of their side effects.</li>
+</ul>
+<div class="report_highlight_box medium_box">It is important to always use your glaucoma eye drop medicine or take your glaucoma pills exactly as your doctor tells you. You should do your best to avoid missing even one day of medicine. It is also important to continue to see your eye doctor regularly for checkups.</div>
+<h4>Medicines for Lowering Eye Pressure</h4>
+<table class="styleOne">
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Type of Medicine</th>
+			<th scope="col">Brand Name</th>
+			<th scope="col">How Taken</th>
+			<th scope="col">Taken How Often</th>
+			<th scope="col">Generic Available?</th>
+			<th scope="col">Drug Name</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="6">*These medicine were not studied in the research for this summary.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td rowspan="4">Prostaglandin Analogs</td>
+			<td>Lumigan<sup>&reg;</sup></td>
+			<td rowspan="4">Eye drops</td>
+			<td rowspan="4">Once a day</td>
+			<td>No</td>
+			<td>Bimatoprost</td>
+		</tr>
+		<tr>
+			<td>Travatan Z<sup>&reg;</sup></td>
+			<td>No</td>
+			<td>Travoprost</td>
+		</tr>
+		<tr>
+			<td>Xalatan<sup>&reg;</sup></td>
+			<td>Yes</td>
+			<td>Latanoprost</td>
+		</tr>
+		<tr>
+			<td>Zioptan<sup>&reg;</sup></td>
+			<td>No</td>
+			<td>Tafluprost*</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Beta-Adrenergic Antagonists</td>
+			<td>Betagan<sup>&reg;</sup></td>
+			<td rowspan="4">Eye drops</td>
+			<td rowspan="4">Twice a day</td>
+			<td>Yes</td>
+			<td>Levobunolol</td>
+		</tr>
+		<tr>
+			<td>Betoptic S<sup>&reg;</sup></td>
+			<td>Yes</td>
+			<td>Betaxolol</td>
+		</tr>
+		<tr>
+			<td>Ocupress<sup>&reg;</sup></td>
+			<td>Yes</td>
+			<td>Carteolol</td>
+		</tr>
+		<tr>
+			<td>Timoptic<sup>&reg;</sup></td>
+			<td>Yes</td>
+			<td>Timolol</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Carbonic Anhydrase Inhibitors</td>
+			<td>Azopt<sup>&reg;</sup></td>
+			<td rowspan="2">Eye drops</td>
+			<td rowspan="2">Three times a day</td>
+			<td>No</td>
+			<td>Brinzolamide</td>
+		</tr>
+		<tr>
+			<td>Trusopt<sup>&reg;</sup></td>
+			<td>Yes</td>
+			<td>Dorzolamide</td>
+		</tr>
+		<tr>
+			<td>Diamox<sup>&reg;</sup></td>
+			<td rowspan="2">Pills</td>
+			<td rowspan="2">Twice a day</td>
+			<td>Yes</td>
+			<td>Acetazolamide</td>
+		</tr>
+		<tr>
+			<td>Neptazane<sup>&reg;</sup>*</td>
+			<td>Yes</td>
+			<td>Methazolamide*</td>
+		</tr>
+		<tr>
+			<td>Alpha-Adrenergic Agonists</td>
+			<td>Alphagan<sup>&reg;</sup> P</td>
+			<td>Eye drops</td>
+			<td>Three times a day</td>
+			<td>Yes</td>
+			<td>Brimonidine</td>
+		</tr>
+		<tr>
+			<td>Miotics</td>
+			<td>Isopto<sup>&reg;</sup><br />
+				Carpine*</td>
+			<td>Eye drops</td>
+			<td>Up to 4 times a day</td>
+			<td>Yes</td>
+			<td>Pilocarpine*</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Combination Medicines</td>
+			<td>Combigan<sup>&reg;</sup></td>
+			<td rowspan="2">Eye drops</td>
+			<td rowspan="2">Twice a day</td>
+			<td>No</td>
+			<td>Brimonidine and timolol</td>
+		</tr>
+		<tr>
+			<td>Cosopt<sup>&reg;</sup></td>
+			<td>Yes</td>
+			<td>Dorzolamide and timolol</td>
+		</tr>
+	</tbody>
+</table>
+<h4>What does research say about possible benefits of glaucoma medicines?</h4>
+<ul>
+	<li>All the glaucoma medicines studied in the research work to lower eye pressure.
+		<ul>
+			<li>Prostaglandin analogs (Lumigan&reg;, Travatan Z<sup>&reg;</sup>, Xalatan&reg;) and the combination of the medicines dorzolamide and timolol (Cosopt<sup>&reg;</sup>) seem to lower eye pressure better than the other medicines.</li>
+		</ul>
+	</li>
+	<li>People who use medicine to treat their glaucoma are less likely to have optic nerve damage and lose their side vision than people who are not treated.</li>
+</ul>
+<h4>What are the possible side effects of glaucoma medicines?</h4>
+<p>The U.S. Food and Drug Administration (FDA) lists the following possible side effects for glaucoma medicines.</p>
+<ul>
+	<li>In general, glaucoma eye drop medicines have these possible side effects:
+		<ul>
+			<li>Redness in and around the eyes</li>
+			<li>Blurred vision</li>
+			<li>Burning and stinging</li>
+			<li>Itching</li>
+			<li>Increased tears</li>
+			<li>The feeling that something is in your eye</li>
+			<li>Sensitivity to light</li>
+			<li>Dry eye</li>
+			<li>Eye or eyelid discomfort</li>
+		</ul>
+	</li>
+	<li>Prostaglandin analogs (Lumigan<sup>&reg;</sup>, Travatan Z<sup>&reg;</sup>, Xalatan&reg;, Zioptan<sup>&reg;</sup>) can cause the following side effects:
+		<ul>
+			<li>Darkened color of the iris (the colored part of the eye surrounding the pupil)</li>
+			<li>Darkened color of the eyelid</li>
+			<li>Eyelash changes (increased length, thickness, color, or number of lashes)</li>
+		</ul>
+	</li>
+	<li>Diamox<sup>&reg;</sup> and Neptazane<sup>&reg;</sup> pills can cause the following side effects:
+		<ul>
+			<li>Loss of appetite</li>
+			<li>Nausea and vomiting</li>
+			<li>Diarrhea</li>
+			<li>Drowsiness</li>
+			<li>Bad taste in your mouth</li>
+			<li>Tingling in your hands or feet</li>
+			<li>Severe anemia</li>
+			<li>Ringing in your ears</li>
+			<li>Kidney stones</li>
+			<li>A rash</li>
+		</ul>
+	</li>
+</ul>
+&nbsp;
+<div class="report_highlight_box medium_box"><strong>The FDA warns that the pill medicines for glaucoma may have severe side effects or may cause allergic reactions.</strong> If you are taking high doses of aspirin or have liver, kidney, heart, or lung disease, you should check with your eye doctor before taking Diamox<sup>&reg;</sup> or Neptazane<sup>&reg;</sup>.</div>
+<div class="report_highlight_box medium_box"><strong>FDA warnings for Betagan<sup>&reg;</sup>, Betoptic S<sup>&reg;</sup>, Ocupress<sup>&reg;</sup>, OptiPranolol<sup>&reg;</sup>, and Timoptic<sup>&reg;</sup>:</strong>
+	<ul>
+		<li>People with breathing conditions such as asthma, chronic bronchitis, or emphysema should check with their eye doctor before using one of these medicines to treat their glaucoma.</li>
+		<li>These medicines can lower blood pressure and pulse, especially in people who take beta-blocker pills (medicine used to treat high blood pressure). People who take beta-blocker pills for high blood pressure should check with their eye doctor before using one of these medicines to treat their glaucoma.</li>
+		<li>People with insulin-dependent diabetes may not know or feel when their blood sugar is low while using one of these eye drop medicines. These people should check with their eye doctor and the doctor who treats their diabetes before using one of these medicines to treat their glaucoma.</li>
+	</ul>
+</div>
+<h4>What does research say about the possible side effects of glaucoma medicines?</h4>
+<ul>
+	<li>Eye redness is the most common side effect of glaucoma eye drop medicines.</li>
+	<li>Out of prostaglandin analogs, latanoprost (Xalatan<sup>&reg;</sup>) seems to cause less eye redness than bimatoprost (Lumigan<sup>&reg;</sup>) or travoprost (Travatan Z<sup>&reg;</sup>).</li>
+	<li>Timolol (Timoptic<sup>&reg;</sup>) appears to cause less eye redness than prostaglandin analogs. However, timolol (Timoptic<sup>&reg;</sup>) is more likely to cause side effects such as shortness of breath and a slow heart rate.</li>
+</ul>
+<h4>Laser Surgery</h4>
+<p><img alt="drawing of eye" src="/ehc/assets/Image/eye_icon.jpeg" style="width: 100px; height: 100px; float: right; " /></p>
+<p>Another option to treat glaucoma is laser surgery. Eye doctors can use a focused beam of light&mdash;a laser&mdash;to help your eyes drain better.</p>
+<p>Laser surgery can be done in an outpatient surgery center and does not require staying in a hospital. Usually each eye is done in a separate visit several days to weeks apart. The entire surgery may take only minutes to complete. Eye drops are used to numb your eye so you do not feel pain. You sit in a chair during the surgery, and the eye doctor uses a special microscope and lens to guide the laser beam into your eye.</p>
+<h5>What does research say about possible benefits of laser surgery?</h5>
+<ul>
+	<li>Researchers found that laser surgery works to lower eye pressure in people with glaucoma.</li>
+	<li>Laser surgery may reduce the need for glaucoma medicines, but there is not enough research to know this for certain. Some people who have laser surgery may need to keep using medicine to treat their glaucoma.</li>
+	<li>People who have laser surgery to treat their glaucoma are less likely to have optic nerve damage or lose their side vision than people who are not treated.</li>
+</ul>
+<h5>What are the possible side effects of laser surgery?</h5>
+<ul>
+	<li>Temporary eye redness, blurry vision, increased eye pressure, and swelling in the eye (these usually go away within 24 hours)</li>
+</ul>
+<div class="report_highlight_box medium_box"><strong>Note:</strong> Laser surgery does not cure glaucoma. Some people who have laser surgery may still need to use medicine to treat their glaucoma. The effects of laser surgery may wear off after several years, and your eye doctor may suggest another laser surgery or other treatment. After laser surgery, it is important to continue to see your eye doctor regularly for checkups.</div>
+<h4>Traditional Surgery</h4>
+<p><img alt="drawing of a surgeon" src="/ehc/assets/Image/surgery_icon.jpeg" style="width: 100px; height: 100px; float: right; " /></p>
+<p>Traditional surgery is a third option to treat glaucoma. Traditional surgery for glaucoma can be done by:</p>
+<ul>
+	<li>Redirecting fluid so it bypasses the part of the drainage system in your eyes that is not working properly</li>
+	<li>Creating new drainage pathways for the fluid in your eyes
+		<ul>
+			<li>Sometimes this is done by putting small drainage devices such as tubes in your eyes.</li>
+		</ul>
+	</li>
+</ul>
+<p>These surgeries are done in an operating room. Each eye is usually done in a separate visit 4 to 6 weeks apart. Before the surgery, medicines are used to numb your eye so you do not feel pain. You are also given medicine to help you relax.</p>
+<div class="report_highlight_box medium_box"><strong>Note:</strong> Traditional surgery does not cure glaucoma. Some people who have traditional surgery may still need to use medicine to treat their glaucoma. The effects of surgery may wear off after several years, and your eye doctor may suggest another surgery or other treatment. After surgery, it is important to continue to see your eye doctor regularly for checkups.</div>
+<h5>What does research say about possible benefits of traditional surgery?</h5>
+<ul>
+	<li>Researchers found that a type of surgery to create new drainage pathways called a &ldquo;trabeculectomy&rdquo; (pronounced trab-EK-you-lect-oh-me) works to lower eye pressure.</li>
+	<li>People who have a trabeculectomy to treat their glaucoma are less likely to have optic nerve damage or lose their side vision than people who are not treated.</li>
+	<li>There is not enough research comparing all types of traditional surgery to know for certain which works the best.</li>
+	<li>More research is needed to know whether traditional surgery works better or worse than medicines or laser surgery to help you keep your side vision or reduce the damage to your optic nerve in the long run.</li>
+</ul>
+<h5>What are the possible side effects and risks of traditional surgery?</h5>
+<ul>
+	<li>All glaucoma surgeries come with some risk of bleeding, infection, and vision loss, although these are rare.</li>
+	<li>Some surgeries increase your risk of developing cataracts.</li>
+</ul>
+<h4>Comparing Glaucoma Treatments</h4>
+<table class="styleOne">
+	<thead>
+		<tr class="bottom">
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Medicines</th>
+			<th scope="col">Laser Surgery</th>
+			<th scope="col">Traditional Surgery</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Description</td>
+			<td>Eye drops that are used or pills that are taken one or more times a day</td>
+			<td>
+				<p>Surgery with a laser that is done in an outpatient surgery center that only takes a few minutes</p>
+				<ul>
+					<li>The effects of this surgery may wear off after several years.</li>
+				</ul>
+			</td>
+			<td>
+				<p>Surgery done in an operating room.</p>
+				<ul>
+					<li>The effects of this surgery may wear off after several years.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Possible Benefits</td>
+			<td>
+				<ul>
+					<li>Lowers eye pressure
+						<ul>
+							<li>Prostaglandin analogs (Lumigan&reg;, Travatan Z&reg;, Xalatan&reg;) and a combination of the medicines dorzolamide and timolol (Cosopt&reg;) seem to lower eye pressure better than the other medicines.</li>
+						</ul>
+					</li>
+					<li>Helps prevent optic nerve damage and loss of side vision</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Lowers eye pressure</li>
+					<li>Helps prevent optic nerve damage and loss of side vision</li>
+					<li>My reduce the need for medicines to treat glaucoma, but there is not enough research to know this for certain
+						<ul>
+							<li>Some people who have laser surgery may still need to use medicine to treat their glaucoma.</li>
+						</ul>
+					</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Trabeculectomy lowers eye pressure</li>
+					<li>Trabeculectomy helps prevent optic nerve damage and loss of side vision
+						<ul>
+							<li>Some people who have traditional surgery may still need to use medicine to treat their glaucoma.</li>
+						</ul>
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Possible Side Efects</td>
+			<td>
+				<ul>
+					<li>Eye drops can cause eye redness, blurred vision, stinging, and itching.</li>
+					<li>Pills can cause nausea, vomiting, diarrhea, and drowsiness.</li>
+					<li>The pills may cause more severe side effects or allergic reactions than the eye drop medicines.</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Temporary eye redness, blurred vision, increased eye pressure, and swelling in the eye (all of these usually go away within 24 hours after surgery)</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Increased risk of bleeding, infection, and vision loss, although these are rare</li>
+					<li>Increased risk of developing cataracts</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp; 
+			<a name="7110"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should you think about?</h4>
+<p>There are many things to consider when deciding how best to treat your glaucoma. The treatment your eye doctor suggests will depend on:</p>
+<ul>
+	<li>How much damage, if any, has already happened to your optic nerve</li>
+	<li>Your other medical conditions</li>
+</ul>
+<p>When deciding how to treat your glaucoma, you should think about:</p>
+<ul>
+	<li>Possible benefits and side effects of each treatment option</li>
+	<li>How you feel about medicines, laser surgery, or traditional surgery</li>
+</ul>
+<h4>What is the cost of treatment?</h4>
+<p>The cost to you for treating glaucoma depends on:</p>
+<ul>
+	<li>Your health insurance</li>
+	<li>The type of surgery you have</li>
+	<li>Whether the medicine comes in a generic form (generic medicines cost less than brand-name medicines)</li>
+</ul>
+<h4>Wholesale Prices of Glaucoma Medicines</h4>
+<p>The wholesale prices of medicines for glaucoma are listed below. Wholesale prices are the prices paid by pharmacies. These prices are given here so you can compare the costs of different medicines to see which are more expensive and which are less expensive. The cost to you for each medicine depends on your health insurance and whether the medicine comes in a generic form.</p>
+<table>
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Brand Name</th>
+			<th scope="col">Strength</th>
+			<th scope="col">Taken How Often</th>
+			<th scope="col">Price per Month of Brand Name*</th>
+			<th scope="col">Drug Name</th>
+			<th scope="col">Price per Month of Generic*</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="6">* Prices are the average wholesale prices listed from <em>RED BOOK Online</em><sup>&reg;</sup> rounded to the nearest $5. Generic prices are the middle value in the range of prices listed from different manufacturers. The actual prices of the medicines may be higher or lower than the prices listed here, depending on the manufacturer used by your pharmacy.<br />
+				<br />
+				NA = price is not available; NG = no generic form</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td colspan="6"><em>Prostaglandin Analogs</em></td>
+		</tr>
+		<tr>
+			<td rowspan="2">Lumigan<sup>&reg;</sup></td>
+			<td>0.01%</td>
+			<td rowspan="2">Once a day</td>
+			<td>$115</td>
+			<td rowspan="2">Bimatoprost</td>
+			<td>NG</td>
+		</tr>
+		<tr>
+			<td>0.03%</td>
+			<td>$115</td>
+			<td>NG</td>
+		</tr>
+		<tr>
+			<td>Travatan Z<sup>&reg;</sup></td>
+			<td>0.004%</td>
+			<td>Once a day</td>
+			<td>$115</td>
+			<td>Travoprost</td>
+			<td>NG</td>
+		</tr>
+		<tr>
+			<td>Xalatan<sup>&reg;</sup></td>
+			<td>0.005%</td>
+			<td>Once a day</td>
+			<td>$120</td>
+			<td>Latanoprost</td>
+			<td>$90</td>
+		</tr>
+		<tr>
+			<td>Zioptan<sup>&reg;</sup></td>
+			<td>0.0015%</td>
+			<td>Once a day</td>
+			<td>$115</td>
+			<td>Tafluprost</td>
+			<td>NG</td>
+		</tr>
+		<tr>
+			<td colspan="6"><em>Beta-Adrenergic Antagonists</em></td>
+		</tr>
+		<tr>
+			<td rowspan="2">Betagan<sup>&reg;</sup></td>
+			<td>0.25%</td>
+			<td>Twice a day</td>
+			<td>$25</td>
+			<td rowspan="2">Levobunolol</td>
+			<td>$15</td>
+		</tr>
+		<tr>
+			<td>0.5%</td>
+			<td>Twice a day</td>
+			<td>$40</td>
+			<td>$20</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Betoptic S<sup>&reg;</sup></td>
+			<td>0.25%</td>
+			<td rowspan="2">Twice a day</td>
+			<td>$185</td>
+			<td rowspan="2">Betaxolol</td>
+			<td>NA</td>
+		</tr>
+		<tr>
+			<td>0.5%</td>
+			<td>NA</td>
+			<td>$125</td>
+		</tr>
+		<tr>
+			<td>Ocupress<sup>&reg;</sup></td>
+			<td>1%</td>
+			<td>Twice a day</td>
+			<td>NA</td>
+			<td>Carteolol</td>
+			<td>$20</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Timoptic<sup>&reg;</sup></td>
+			<td>0.25%</td>
+			<td rowspan="2">Twice a day</td>
+			<td>$125</td>
+			<td rowspan="2">Timolol</td>
+			<td>$15</td>
+		</tr>
+		<tr>
+			<td>0.5%</td>
+			<td>$135</td>
+			<td>$20</td>
+		</tr>
+		<tr>
+			<td colspan="6"><em>Carbonic Anhydrase Inhibitors</em></td>
+		</tr>
+		<tr>
+			<td>Azopt<sup>&reg;</sup></td>
+			<td>1%</td>
+			<td>Three times a day</td>
+			<td>$135</td>
+			<td>Brinzolamide</td>
+			<td>NG</td>
+		</tr>
+		<tr>
+			<td>Trusopt<sup>&reg;</sup></td>
+			<td>2%</td>
+			<td>Three times a day</td>
+			<td>$85</td>
+			<td>Dorzolamide</td>
+			<td>$70</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Diamox<sup>&reg;</sup></td>
+			<td>250 mg</td>
+			<td rowspan="2">Twice a day</td>
+			<td>NA</td>
+			<td rowspan="2">Acetazolamide</td>
+			<td>$266</td>
+		</tr>
+		<tr>
+			<td>500 mg (extended release)</td>
+			<td>$390</td>
+			<td>$260</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Neptazane<sup>&reg;</sup></td>
+			<td rowspan="2">50 mg</td>
+			<td>Twice a day</td>
+			<td>$210</td>
+			<td rowspan="2">Methazolamide</td>
+			<td>$180</td>
+		</tr>
+		<tr>
+			<td>Three times a day</td>
+			<td>$315</td>
+			<td>$270</td>
+		</tr>
+		<tr>
+			<td colspan="6"><em>Alpha-Adrenergic Agonists</em></td>
+		</tr>
+		<tr>
+			<td rowspan="2">Alphagan<sup>&reg;</sup> P</td>
+			<td>0.1%</td>
+			<td rowspan="2">Three times a day</td>
+			<td>$180</td>
+			<td rowspan="2">Brimonidine</td>
+			<td>NA</td>
+		</tr>
+		<tr>
+			<td>0.15%</td>
+			<td>$200</td>
+			<td>$180</td>
+		</tr>
+		<tr>
+			<td colspan="6"><em>Miotics</em></td>
+		</tr>
+		<tr>
+			<td rowspan="3">Isopto<sup>&reg;</sup> Carpine</td>
+			<td>1%</td>
+			<td rowspan="3">Up to 4 times a day</td>
+			<td>$85</td>
+			<td rowspan="3">Pilocarpine</td>
+			<td>$70</td>
+		</tr>
+		<tr>
+			<td>2%</td>
+			<td>$85</td>
+			<td>$75</td>
+		</tr>
+		<tr>
+			<td>4%</td>
+			<td>$90</td>
+			<td>$80</td>
+		</tr>
+		<tr>
+			<td colspan="6"><em>Combination Medicines</em></td>
+		</tr>
+		<tr>
+			<td>Combigan<sup>&reg;</sup> P</td>
+			<td>0.2-0.5%</td>
+			<td>Twice a day</td>
+			<td>$105</td>
+			<td>Brimonidine and timolol</td>
+			<td>NG</td>
+		</tr>
+		<tr>
+			<td>Cosopt<sup>&reg;</sup></td>
+			<td>0.2-0.5%</td>
+			<td>Twice a day</td>
+			<td>$80</td>
+			<td>Dorzolamide and timolol</td>
+			<td>$60</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Ask your eye doctor</h4>
+<ul>
+	<li>Can my glaucoma be treated with medicine, or do you think I will need laser surgery or traditional surgery?</li>
+	<li>What if I also have or later develop cataracts?</li>
+	<li>Which medicine is best for me?</li>
+	<li>How will we know if the medicine is not working?</li>
+	<li>What happens if I miss a dose of the medicine?</li>
+	<li>Are there ways to help me remember to take it?</li>
+	<li>Could my glaucoma medicine interact with other medicines I am taking?</li>
+	<li>If I need laser surgery or traditional surgery, how long will I be away from work or other activities?</li>
+	<li>If I have surgery, will I still need medicine?</li>
+	<li>Is it a one-time surgery, or will I need another surgery in the future?</li>
+	<li>What serious side effects should I look for, and when should I contact you about them?</li>
+	<li>How often should I have my eyes checked to make sure the treatment is working?</li>
+</ul> 
+			<a name="7112"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em>Treatment for Glaucoma: Comparative Effectiveness</em>, April 2012. The report was produced by the Johns Hopkins University Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the <a href="http://www.nlm.nih.gov/medlineplus/glaucoma.html">MedlinePlus<sup>&reg;</sup> Web site</a>, a service of the National Library of Medicine and the National Institutes of Health. These sites include more information on glaucoma: <a href="http://www.nei.nih.gov/health/glaucoma/glaucoma_facts.asp">www.nei.nih.gov/health/glaucoma/glaucoma_facts.asp</a> and <a href="http://www.nei.nih.gov/glaucoma">www.nei.nih.gov/glaucoma</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., Thomas Workman, Ph.D., Silvia Orengo-Nania, M.D., and Michael Fordis, M.D. Illustrations were created by Douglas Alexander. People with glaucoma reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

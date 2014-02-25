@@ -1,0 +1,931 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Therapies for Children With Autism Spectrum Disorders: A Review of the Research for Parents and Caregivers - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=709&amp;button=1&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fproductid%3D709%26button%3D1%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=106">
+					Comparative Effectiveness of Therapies for Children with Autism Spectrum Disorders 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=656">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Apr. 4, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=366">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Dec. 7, 2009 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=803">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Oct. 6, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1627">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1536">
+										Surveillance Report  (Update)
+									</a>
+							<span style="font-size:7pt;"> Jun. 11, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=708">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Jun. 30, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=872">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Dec. 5, 2011 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=651">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 4, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>CME/CE Activity</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=292&cmepage=cme_info">
+									
+									Comparative Effectiveness of Therapies for Children With Autism Spectrum Disorders 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Journal Publications</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://pediatrics.aappublications.org/cgi/content/abstract/peds.2011-0426v1">
+									
+									Warren Z, McPheeters ML, Sathe N, et al. A systematic review of early intensive intervention for autism spectrum disorders. Pediatrics 2011;127:e1303-11. 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+							<li>
+								<a href="http://pediatrics.aappublications.org/cgi/content/abstract/peds.2011-0428v1">
+									
+									Krishnaswami S, McPheeters ML, Veenstra-VanderWeele J. A systematic review of secretin for children with autism spectrum disorder. Pediatrics 2011;127:e1322-5. 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+							<li class="last">
+								<a href="http://pediatrics.aappublications.org/cgi/content/abstract/peds.2011-0427v1">
+									
+									McPheeters ML, Warren Z, Sathe N, et al. A systematic review of medical treatments for children with autism spectrum disorders. Pediatrics 2011;127:e1312-21. 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=94&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 11-EHC029-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d709%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d709%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d709%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d709%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d709%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d709%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d709%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d709%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d709%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d709%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=23982809-ABBD-2E6F-4123DC73CA23D066" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=709&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=709&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=709" title="Therapies for Children With Autism Spectrum Disorders: A Review of the Research for Parents and Caregivers"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/709.gif" alt="Therapies for Children With Autism Spectrum Disorders: A Review of the Research for Parents and Caregivers" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Therapies for Children With Autism Spectrum Disorders: A Review of the Research for Parents and Caregivers" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=709&amp;button=1&quot; title=&quot;Therapies for Children With Autism Spectrum Disorders: A Review of the Research for Parents and Caregivers&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/709.gif&quot; border=&quot;0&quot; alt=&quot;Therapies for Children With Autism Spectrum Disorders: A Review of the Research for Parents and Caregivers&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Jun. 30, 2011 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Therapies for Children With Autism Spectrum Disorders: A Review of the Research for Parents and Caregivers</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/106/709/aut_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							465 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/106/709/AUTISM.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.4 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=872" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#3123">Is This Guide Right for the Child in My Care?</a></li>
+					
+						<li><a href="#3124">Understanding Your Child’s Condition</a></li>
+					
+						<li><a href="#3125">Understanding Your Options</a></li>
+					
+						<li><a href="#3126">Making a Decision</a></li>
+					
+						<li><a href="#3127">Source</a></li>
+					
+			</ul>
+		
+			<a name="3123"></a>
+			
+
+			
+				<h3>Is This Guide Right for the Child in My Care?</h3>
+				<p><strong>Yes, if:</strong></p>
+<p>The child you care for is between 2 and 12 years old and has an Autism Spectrum Disorder (ASD), which includes:</p>
+<ul>
+	<li>Autistic Disorder.</li>
+	<li>Asperger Syndrome.</li>
+	<li>Pervasive Developmental Disorder&ndash;Not Otherwise Specified.</li>
+</ul>
+<p><strong>No, if:</strong><br />
+The child you care for is older than 12 years or has a different behavioral, emotional, developmental, or learning disorder.</p>
+<h4>What does this guide cover?</h4>
+<p>This guide describes research about the possible benefits and negative side effects of therapies for children who are between 2 and 12 years old and have an ASD. It was created to help you talk with your doctor, school administrator, social worker, and health insurance representative about programs and therapies.</p>
+<h4>Where does the information in this guide come from?</h4>
+<p>The information for this guide comes from a review by an independent research center of 159 studies in a report funded by the Agency for Healthcare Research and Quality, a government agency. The report was then reviewed by doctors, patients, and other researchers. You can read the full report at <a href="http://www.effectivehealthcare.ahrq.gov/autism1.cfm">www.effectivehealthcare.ahrq.gov/autism1.cfm</a>.</p> 
+			<a name="3124"></a>
+			
+
+			
+				<h3>Understanding Your Child’s Condition</h3>
+				<h4>What are Autism Spectrum Disorders?</h4>
+<p>Autism spectrum disorders (ASDs) are a group of complex disorders.</p>
+<p>The three core features of ASDs include:</p>
+<ul>
+	<li>Difficulty with social interaction.</li>
+	<li>Limits in communication and language.</li>
+	<li>Repetitive behaviors.</li>
+</ul>
+<p>ASDs include autism and other related disorders called Asperger syndrome and pervasive developmental disorder&ndash;not otherwise specified.</p>
+<h4>How common are ASDs?</h4>
+<p>Around 1 in every 110 children in the United States has 1 of these disorders. They can affect children of all races and social classes wherever they live. Researchers are not sure what causes ASDs.</p>
+<h4>No two childen with an ASD are alike</h4>
+<p>ASDs are called &ldquo;wide-spectrum disorders&rdquo; because the symptoms can be different for each child. Symptoms can range from mild to severe, and can change as the child grows. No two children with an ASD are alike. This makes understanding the condition and finding the best therapies difficult.</p> 
+			<a name="3125"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>How do I make sense of all the different treatments?</h4>
+<p>Some researchers group treatments for ASD into different categories (see figure below). Each category focuses on a type of treatment or on a specific set of symptoms and behaviors that it tries to help.</p>
+<p><img height="250" width="437" alt="Treatment categories: Behavior and development programs, education and learning programs, medications, and other treatments and therapies." src="/tasks/sites/ehc/assets/Image/autism_consumer_fig1(1).png" /></p>
+<p>Because every child with an ASD may show different types of symptoms, a family may need to choose from the available treatments, therapies, and programs based on the child&rsquo;s needs. The treatment plan for your child may have some of each of these treatment categories.</p>
+<h4>What can the research tell me?</h4>
+<p>There is a lot of research being done on how to treat the symptoms of ASD in children or to help children overcome the challenges of ASD. But to decide whether something helps or not (or works better than something else), researchers need to look at the results from many studies rather than just one. One study may find that something helped, while another study may find that it did not. The information in this section will tell you about each type of treatment and what researchers found when they looked at all the studies at once.</p>
+<h4>Behavior and Development Programs<img height="110" width="111" style="float: right;" alt="" src="/tasks/sites/ehc/assets/Image/behavior_therapy_graphic(1).png" /></h4>
+<p>These programs address social skills, attention, sleep, play, anxiety, parent interaction, challenging behaviors, and other activities. &ldquo;Early intensive behavioral intervention&rdquo; programs use specially trained clinicians who work with parents and young children for up to 25 hours every week. Early intensive behavioral intervention programs can last as long as 12 weeks to 3 years.</p>
+<p>Some of the programs that researchers have studied include the University of California Los Angeles (UCLA)/Lovaas Model and the Early Start Denver Model. The behavioral programs in your area may be based on these two models, although these local programs may use other names.</p>
+<p><em><strong>Do they help?</strong></em></p>
+<ul>
+	<li>There is a little bit of research that suggests early intensive behavioral and developmental interventions such as the UCLA/Lovaas Model may improve a very young child&rsquo;s reasoning skills, language skills, and ability to adapt in some groups.</li>
+	<li>Programs that use parent training and cognitive behavioral therapy to build social skills and manage &ldquo;challenging&rdquo; behaviors also show some promise, but researchers do not yet know if they work.</li>
+</ul>
+<p><em><strong>What are the costs?</strong></em></p>
+<p>Early intensive behavioral intervention programs can cost as much as $60,000 per year. Every provider may have different fees. Insurance may not cover this cost. You should check with your health plan administrator. Other assistance may be available in your community. Ask your doctor.</p>
+<p><em><strong>What else should I think about?</strong></em></p>
+<p>Because of the amount of time involved (4&ndash;20 hours per week), you may need to change your family&rsquo;s schedule or routine to participate.</p>
+<h4>Education and Learning Programs<img height="110" width="110" style="float: right;" alt="" src="/tasks/sites/ehc/assets/Image/education_programs_graphic.png" /></h4>
+<p>These programs are offered in schools or other learning centers. They focus on learning and reasoning skills and &ldquo;whole life&rdquo; approaches. Each school or school district may have a different name for its program, but many of these programs are based on the Treatment and Education of Autistic and Communication related handicapped CHildren (TEACCH) approach. Programs like TEACCH use visual supports and arrange the classroom in ways that are easier to manage for a child with ASD. Other programs are classroom- or center-based and use &ldquo;applied behavior analysis&rdquo; (commonly known as ABA) strategies like positive reinforcement.</p>
+<p><em><strong>Do they help?</strong></em></p>
+<ul>
+	<li>Some children in the TEACCH program showed improvement in motor skills (the ability to walk, run, hold items, or sit up straight), eye-hand coordination, and thinking and reasoning. There were not enough studies for researchers to say for sure, however, whether TEACCH was effective.</li>
+	<li>Other education programs have not been studied enough to know if they work.</li>
+</ul>
+<p><em><strong>What are the costs?</strong></em></p>
+<p>Usually, the services are included in the cost of the school or learning center, so there may not be any other costs to you if you are a resident of the school district or community.</p>
+<p><strong><em>What else should I think about?</em></strong></p>
+<p>Your school district or learning center may have other names for these educational approaches, so you may want to ask about the exact types of strategies they use. Schools or other public agencies may be able to help pay for these programs. If you are using other treatments, it is important to let the school know.</p>
+<h4>Medications<img height="110" width="109" style="float: right;" alt="" src="/tasks/sites/ehc/assets/Image/medication_graphic.png" /></h4>
+<p><em><strong>What medicines are used to treat ASD symptoms?</strong></em></p>
+<ul>
+	<li>Antipsychotics:
+	<ul>
+		<li>Risperidone (brand name: Risperdal&reg;).</li>
+		<li>Aripiprazole (brand name: Abilify&reg;).</li>
+	</ul>
+	</li>
+	<li>Serotonin-reuptake inhibitors or &ldquo;SRIs&rdquo;(antidepressants).
+	<ul>
+		<li>Examples include Prozac&reg;, Sarafem&reg;, Celexa&reg;, and Cipramil&reg;.</li>
+	</ul>
+	</li>
+	<li>Stimulants and other hyperactivity medicines.
+	<ul>
+		<li>Examples include Ritalin&reg;, Adderall&reg;, and Tenex&reg;.</li>
+	</ul>
+	</li>
+	<li>Secretin. This medicine is used for digestion problems but some researchers thought it might help children with ASDs as well.</li>
+	<li>Chelation. This therapy uses substances to remove heavy metals from the body, which some people think causes autism.</li>
+</ul>
+<p><em><strong>Do they help?</strong></em></p>
+<ul>
+	<li>Research found that two antipsychotic drugs &mdash; risperidone (Risperdal&reg;) and aripiprazole (Abilify&reg;) &mdash; can help reduce emotional distress, aggression, hyperactivity, and self-injury. Many people who take risperidone and aripiprazole report side effects such as weight gain, sleepiness, tremors, and abnormal movements. Because of this, these medicines may be best only for children who have more severe symptoms or have symptoms that might increase their risk of hurting themselves.</li>
+	<li>SRIs and a hyperactivity medicine called methylphenidate (Ritalin&reg;), have not been studied enough to know if they help treat ASD symptoms.</li>
+	<li>Research showed that secretin is not effective in improving autistic symptoms.</li>
+	<li>Research also does not support the use of chelation for ASD. According to the United States Food and Drug Administration, there are serious safety issues associated with chelation products. Even when used under the care of a doctor, these products can cause serious harm, including dehydration, kidney failure, and death.</li>
+</ul>
+<p><em><strong>What are the costs?</strong></em></p>
+<p>The cost to you for each type of medicine will depend on your health insurance, the amount (dose) your child needs to take, and whether a generic form of the medicine is available.</p>
+<h4>Other Treatments and Therapies<img height="111" width="110" alt="" style="float: right;" src="/tasks/sites/ehc/assets/Image/other_treatments_graphic.png" /></h4>
+<p>You may have heard or read of other types of treatments or therapies that have been used for children with ASD, such as:</p>
+<ul>
+	<li>Speech and language therapy.</li>
+	<li>Music therapy.</li>
+	<li>Occupational therapy.</li>
+	<li>Acupuncture.</li>
+	<li>Vitamins and mineral supplements.</li>
+	<li>Massage therapy.</li>
+	<li>The Picture Exchange Communication System.</li>
+	<li>Responsive Prelinguistic Milieu Teaching.</li>
+</ul>
+<p><em><strong>Do they help?</strong></em></p>
+<p>These other therapies have not been studied enough to know if they help or have any side effects. This does not mean that they do not work or are not safe, but that researchers do not have enough information to know for sure.</p>
+<p><em><strong>What else should I think about?</strong></em></p>
+<p>Because little is known about how well these treatments or therapies work, talking about them with your doctor, other health care or education professionals, your family, and other individuals that you trust may help you decide whether these would be useful. There may be other reasons for using these options based on your likes, dislikes, and what is of most value to you or your child.</p>
+<h4>Why is there so little known about ASD and these treatments?</h4>
+<p>Some research has been able to show that one type of treatment makes specific improvements in the way a child thinks or acts. But researchers do not have enough information to know whether one type of treatment works better than any other, because studies use different ways to measure how well a treatment works.</p>
+<p>This does not mean that any treatment, therapy, or program is not helpful for your child. It only means that researchers do not have enough information to say so with strong confidence.</p>
+<p>Researchers are still studying these treatments and therapies, so check with your doctor or a support group about new findings for all the options in this guide.</p> 
+			<a name="3126"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<p>There are many things for you to consider when choosing therapies or programs for your child. There are many people you should talk to including your doctor, social worker, school administrator, and health insurance representative. Here are some questions to ask:</p>
+<p><strong>What plan is best for my child?</strong></p>
+<ul>
+	<li>Do you think an early intensive intervention would help my child?</li>
+	<li>What other types of programs might be helpful?</li>
+	<li>Do you think my child would benefit from taking medicine?</li>
+</ul>
+<p><strong>What is available in my community?</strong></p>
+<ul>
+	<li>Are there any early intensive intervention programs in this community?</li>
+	<li>Do the schools in this district have programs for children with an ASD?</li>
+	<li>What support groups are available?</li>
+</ul>
+<p><strong>What are the costs?</strong></p>
+<ul>
+	<li>How much will it cost for us to participate in these programs?</li>
+	<li>Is help available from the schools or other public agencies?</li>
+	<li>Does my health insurance plan cover any costs?</li>
+</ul>
+<p><strong>What changes to our work schedules and life will we need to make?</strong></p>
+<ul>
+	<li>How much time does each option take?</li>
+	<li>What are ways that other families have fit these programs into their lives?</li>
+	<li>What else can we do to help our child?</li>
+</ul>
+<p><strong>Which medicine, if any, is best for MY child?</strong></p>
+<ul>
+	<li>How soon should I see changes in my child&rsquo;s symptoms?</li>
+	<li>What are the warning signs that my child may be having a harmful side effect?</li>
+	<li>What else is available if my child needs different medicine?</li>
+</ul> 
+			<a name="3127"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this guide comes from the report <em>Therapies for Children With Autism Spectrum Disorders</em>. It was produced by the Vanderbilt Evidence-based Practice Center with funds from the Agency for Healthcare Research and Quality (AHRQ). For a copy of the report, or for more information about AHRQ and the Effective Health Care Program, go to <a href="http://www.effectivehealthcare.ahrq.gov/autism1.cfm">http://www.effectivehealthcare.ahrq.gov/autism1.cfm</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Kim Farina, Ph.D., Thomas Workman, Ph.D., Carla Sharp, Ph.D., and Michael Fordis, M.D.&nbsp; Illustrations were created by Douglas Alexander. Parents and caregivers of children with autism reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

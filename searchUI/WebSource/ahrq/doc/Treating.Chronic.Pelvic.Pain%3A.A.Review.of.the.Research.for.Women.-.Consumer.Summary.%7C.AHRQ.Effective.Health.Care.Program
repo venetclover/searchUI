@@ -1,0 +1,905 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Treating Chronic Pelvic Pain: A Review of the Research for Women - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=1032&amp;pageaction=displayproduct&amp;mode=p&amp;pcem=en2" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://www.effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Fwww%2Eeffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3FproductID%3D1032%26pageaction%3Ddisplayproduct%26mode%3DP%26Pcem%3DEN2">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=195">
+					Noncyclic Chronic Pelvic Pain Therapies for Women: Comparative Effectiveness 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=808">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Jan. 31, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=550">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Oct. 19, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1118">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> May 31, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1569">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jul. 3, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1634">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 14, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1029">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 16, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1203">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Jul. 31, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=931">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Jan. 31, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=308&cmepage=cme_info">
+									
+									CME Activity: Noncyclic Chronic Pelvic Pain Therapies for Women 
+								</a>
+								
+								
+						</li>
+						
+							<li>
+								<a href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=1257&pageaction=displayproduct">
+									
+									Future Research Needs for Noncyclic Chronic Pelvic Pain Therapies for Women 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=136&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 11(12)-EHC088-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1032%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp%26amp%3bpcem%3den2"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1032%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp%26amp%3bpcem%3den2"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1032%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp%26amp%3bpcem%3den2"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1032%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp%26amp%3bpcem%3den2&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1032%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp%26amp%3bpcem%3den2&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1032%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp%26amp%3bpcem%3den2&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1032%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp%26amp%3bpcem%3den2"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1032%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp%26amp%3bpcem%3den2&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1032%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp%26amp%3bpcem%3den2&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2fwww%2eeffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1032%26amp%3bpageaction%3ddisplayproduct%26amp%3bmode%3dp%26amp%3bpcem%3den2&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://www.effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=26244BCA-DD6E-78DA-EE3CEFDC86E8BC98" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm/search-for-guides-reviews-and-reports/?Pcem=EN2&amp;mode=P&amp;pageaction=displayproduct&amp;productID=1032" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1032&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1032" title="Treating Chronic Pelvic Pain: A Review of the Research for Women"><img src="http://www.effectivehealthcare.ahrq.gov/ehc/images/buttons/1032.gif" alt="Treating Chronic Pelvic Pain: A Review of the Research for Women" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Treating Chronic Pelvic Pain: A Review of the Research for Women" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1032&amp;button=1&quot; title=&quot;Treating Chronic Pelvic Pain: A Review of the Research for Women&quot;&gt;&lt;img src=&quot;http://www.effectivehealthcare.ahrq.gov/ehc/images/buttons/1032.gif&quot; border=&quot;0&quot; alt=&quot;Treating Chronic Pelvic Pain: A Review of the Research for Women&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Apr. 16, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Treating Chronic Pelvic Pain: A Review of the Research for Women</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/195/1032/cpp_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							648 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/195/1032/CHRONIC PELVIC PAIN.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							6.2 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1203" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#5177">Is This Summary Right for Me?</a></li>
+					
+						<li><a href="#5178">Understanding Your Condition</a></li>
+					
+						<li><a href="#5179">Understanding Your Options</a></li>
+					
+						<li><a href="#5180">Making a Decision About Treating CPP</a></li>
+					
+						<li><a href="#5181">Source</a></li>
+					
+			</ul>
+		
+			<a name="5177"></a>
+			
+
+			
+				<h3>Is This Summary Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<p>A doctor* said you have chronic pelvic pain (pain in the area between your hips and below your belly button that has lasted 3 or more months).</p>
+<h4>No, if:</h4>
+<p>You sometimes have pain in your pelvis, but a doctor has not said it is chronic pelvic pain.</p>
+<p>The pain you feel in your pelvis only happens during your period, sexual intercourse, urination, or bowel movements.</p>
+<p>You are under 18 or male. This information is from research on adult women.</p>
+<h4>What will this summary cover?</h4>
+<p>This summary describes chronic pelvic pain and explains research about therapies for women with this condition. It can help you talk with your doctor about treating or managing chronic pelvic pain.</p>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government agency, reviewed 36 studies on therapies for chronic pelvic pain published between January 1990 and May 2011. You can read the report at <a href="http://www.effectivehealthcare.ahrq.gov/pelvicpain.cfm">www.effectivehealthcare.ahrq.gov/pelvicpain.cfm</a>.</p>
+<p>* In this summary, the term &ldquo;doctor&rdquo; refers to the health care professionals who may take&nbsp;care of you, including your physician, gynecologist, gastroenterologist, urologist, nurse practitioner, or physician assistant.</p> 
+			<a name="5178"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is chronic pelvic pain?</h4>
+<p>Chronic pelvic pain (CPP) is ongoing pain in your pelvic area (the area between your hips and below your belly button) that lasts for 3 or more months.</p>
+<ul>
+	<li>The pain may be dull, or it may be sharp and cramping.</li>
+	<li>It may be constant, or it may come and go.</li>
+	<li>The pain might not be in one specific spot and could be felt in your entire pelvic area.</li>
+	<li>You may also feel pressure in your pelvic area.</li>
+	<li>CPP can make it difficult to do daily activities or exercise.</li>
+</ul>
+<h4>What causes chronic pelvic pain?</h4>
+<p>CPP is a complex condition that can have many causes. It may be connected to other conditions. Some of these conditions include:</p>
+<ul>
+	<li><strong>Irritable bowel syndrome:</strong> A condition that affects your large intestine that can cause bloating, cramping, constipation, or diarrhea.</li>
+	<li><strong>Endometriosis (pronounced en-doh-mee-tree-OH-sis):</strong> The tissue from the lining of your uterus grows on the outside of that organ.</li>
+	<li><strong>Tense pelvic floor muscles:</strong> The muscles at the bottom of your pelvic area tense up or cramp.</li>
+	<li><strong>Painful bladder syndrome:</strong> Your bladder becomes sensitive and easily irritated.</li>
+	<li><strong>Scar tissue in the pelvic area:</strong> You may have scar tissue from an infection, an operation, or other treatment that now causes pain.</li>
+</ul>
+<p><img src="/tasks/sites/ehc/assets/Image/graphic_of_female_pelvis.png" alt="graphic of woman's pelvis" width="409" height="258" /></p>
+<h4>Finding the cause for your pelvic pain</h4>
+<p>There are treatments for specific causes of CPP. So it is very important to go to your doctor for a full workup to try to determine the cause of your CPP.</p>
+<ul>
+	<li>Your primary doctor will ask you questions about your pain and your medical history and will give you a thorough physical exam.</li>
+	<li>Your primary doctor may refer you to several different types of doctors: a gynecologist (a specialist in the female reproductive system), a gastroenterologist (pronounced gas-troh-en-tuh-ROL-uh-jist; a specialist in digestive tract diseases), or a urologist (a specialist in urinary tract diseases).
+	<ul>
+		<li>These specialists will determine if the cause of your pain might be endometriosis, irritable bowel syndrome, or painful bladder syndrome. These are three common causes of CPP.</li>
+	</ul>
+	</li>
+	<li>Your doctor may suggest a diagnostic laparoscopy (pronounced lah-par-OS-koh-pee).</li>
+</ul>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">What is a diagnostic laparoscopy? In a diagnostic laparoscopy, the doctor puts a thin tube with a tiny camera through a small cut in your belly to examine your pelvic area to see what might be causing your pain. <br />
+<br />
+Laparoscopy may also be used in surgeries to treat your CPP or the condition that is causing your pain. More information about CPP surgeries with a laparoscope can be found below.</div>
+<p style="text-align: center; "><img src="/tasks/sites/ehc/assets/Image/laparoscopy_graphic.png" alt="laparoscopy graphic" width="479" height="319" /></p>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">CPP is a complex condition. For many women, doctors are unable to find out what is causing their pelvic pain. Not knowing the cause can be frustrating and can affect your emotional well-being and relationships with others. It can even lead to depression. However, doctors may be able to help you manage your pain even if a cause is not found.</div> 
+			<a name="5179"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>Therapies for CPP</h4>
+<p>Very little is known about effective ways to treat CPP. Your doctor may try one or more ways to help relieve your pain or help you cope with it, but there is very little research to tell doctors which therapies work.</p>
+<p>When a cause cannot be found, doctors may recommend a medicine, hormonal therapy, or surgery to try to relieve your CPP symptoms. Your doctor may suggest a narcotic or non-narcotic pain reliever such as aspirin, Tylenol&reg;, Advil&reg;, Demerol&reg;, or OxyContin&reg; to help manage your pain. In addition, your doctor may also suggest counseling, physical therapy, changes in your diet, or exercise to help with your CPP.</p>
+<p>The table below tells what researchers have found out about how well medicines, hormonal therapies, and surgeries work to relieve CPP symptoms. Just because there is not enough research on many of the therapies listed does not mean that the therapies do not work for some people.</p>
+<table class="styleOne">
+	<caption>Research Findings on Therapies for CPP</caption>
+	<thead>
+		<tr>
+			<th scope="col">Type of Therapy</th>
+			<th scope="col">What the Research Says</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="col" colspan="2" class="section_title">Medicines</th>
+		</tr>
+		<tr>
+			<td>
+			<ul>
+				<li>Gabapentin (brand names: Fanatrex&reg;, Gabarone&reg;, Gralise&reg;, Horizant&reg;, and Neurontin&reg;).</li>
+				<li>Amitriptyline (brand names: Elavil&reg;, Endep&reg;, and Vanatrip&reg;).</li>
+				<li>Botulinum A toxin, commonly known as Botox&reg;, which is given as a shot.</li>
+			</ul>
+			</td>
+			<td>
+			<ul>
+				<li>There is not enough research to know if any of these medicines help relieve CPP symptoms.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="2" class="section_title">Hormonal Therapies</th>
+		</tr>
+		<tr>
+			<td>
+			<ul>
+				<li>Hormonal contraceptives (birth control), hormone shots, and medicines that act like hormones.</li>
+			</ul>
+			</td>
+			<td>
+			<ul>
+				<li>There is not enough research to know if any other hormonal therapies help relieve CPP symptoms.</li>
+				<li>In one study, women with endometriosis who took a hormone-like medicine called raloxifene (Evista&reg;) after having a diagnostic laparoscopy had their pain return quicker than women who did not take any medicine.</li>
+				<li>In one study, women who took a hormone-like medicine called depot leuprolide (Lupron Depot&reg;) felt less pain than women who did not take any medicine. Most of the women in the study had endometriosis.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="2" class="section_title">Surgeries</th>
+		</tr>
+		<tr>
+			<td>
+			<ul>
+				<li>Laparoscopic adhesiolysis (pronounced ad-HEES-ee-oh-lye-sis): scar tissue is removed in and around your bowel.</li>
+				<li>LUNA (laparoscopic utero-sacral nerve ablation): some of the nerves in or around your uterus are destroyed.</li>
+				<li>Utero-sacral ligament resection: some of the nerves and tissue around the uterus are removed.</li>
+				<li>Hysterectomy: a surgeon removes all or part of your uterus and ovaries.</li>
+			</ul>
+			</td>
+			<td>
+			<ul>
+				<li>A few studies showed that removing scar tissue through a laparoscope (called &ldquo;laproscopic adhesiolysis&rdquo;) had no effect on relieving pelvic pain or improving the quality of a woman&rsquo;s life.</li>
+				<li>A few studies showed that LUNA did not help pelvic pain any more than having a diagnostic laparoscopy.</li>
+				<li>There is not enough evidence to know how well utero-sacral ligament resection or hysterectomy work to help relieve CPP symptoms.</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h5>What else should I know about treating CPP?</h5>
+<ul>
+	<li>There is no quick solution for CPP. You and your doctor may need to try many different therapies before your symptoms start to improve.</li>
+	<li>Some therapy choices may take a long time before you start to feel better. It is important to not give up just because you do not see instant results.</li>
+	<li>It is also important to try to stay positive while working with your doctor to manage your CPP. Let your doctor, friends, and family know when you feel discouraged.</li>
+</ul> 
+			<a name="5180"></a>
+			
+
+			
+				<h3>Making a Decision About Treating CPP</h3>
+				<h4>What should I think about?</h4>
+<ul>
+	<li>When there is not much evidence to guide the decision you and your doctor need to make, your own wishes and values have an important role. You and your doctor should discuss:
+	<ul>
+		<li>The possible side effects of medicines and which side effects you are willing to tolerate if a medicine may help your pain.</li>
+		<li>If you should try non-surgery therapies before surgery, since there is not much evidence that surgery will help relieve your pain.</li>
+		<li>How you feel about a hysterectomy, if your doctor suggests this. You should think about how important becoming pregnant or not beginning menopause (if your ovaries are removed) is to you.</li>
+		<li>Other ways to keep CPP from affecting your work, relationships, and daily life.</li>
+	</ul>
+	</li>
+	<li>All therapies for CPP may be covered differently by your health insurance plan, and you may have out-of-pocket costs.</li>
+	<li>It is important to find additional support from friends, family, counselors, and others while you and your doctor work to find the right treatment.</li>
+</ul>
+<h5>Ask your doctor</h5>
+<p>Talk with your doctor about how much pain you feel and which treatment best fits your specific needs, wishes, and values. Ask your doctor:</p>
+<ul>
+	<li>How will we decide which therapies to try?</li>
+	<li>What are the side effects or risks of each therapy?</li>
+	<li>How long will it take until I start to feel better?</li>
+	<li>How will I know if surgery is really needed?</li>
+	<li>What resources are available for me to get support while we try to find the right treatment?</li>
+</ul> 
+			<a name="5181"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em><a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=808">Noncyclic Chronic Pelvic Pain Therapies for Women: Comparative Effectiveness</a></em>, January 2012.</p>
+<p>The report was produced by the Vanderbilt Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Geetha Achanta, Ph.D., Amelia Williamson Smith, M.S., Thomas Workman, Ph.D., Ronald Young, M.D., and Michael Fordis, M.D. Illustrations were created by Douglas Alexander. Women with chronic pelvic pain reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

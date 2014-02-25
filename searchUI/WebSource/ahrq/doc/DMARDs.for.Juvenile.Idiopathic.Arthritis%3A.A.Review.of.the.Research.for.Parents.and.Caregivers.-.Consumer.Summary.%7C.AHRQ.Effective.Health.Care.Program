@@ -1,0 +1,983 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>DMARDs for Juvenile Idiopathic Arthritis: A Review of the Research for Parents and Caregivers - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=753&amp;pageaction=displayproduct&amp;button=1" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fproductid%3D753%26pageaction%3Ddisplayproduct%26button%3D1">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=108">
+					Comparative Effectiveness of Disease-Modifying Antirheumatic Drugs (DMARDs) in Children With Juvenile Idiopathic Arthritis (JIA) 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=752">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Sept. 26, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=404">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Mar. 9, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=916">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Jan. 4, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1582">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jul. 3, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1658">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 20, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=754">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 26, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1020">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Apr. 3, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=705">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 26, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=321&cmepage=cme_info">
+									
+									CME Activity: Disease Modifying Antirheumatic Drugs in Children With Juvenile Idiopathic Arthritis 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=264&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 11-EHC039-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d753%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d753%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d753%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d753%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d753%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d753%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d753%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d753%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d753%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d753%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2398ADC0-DA00-DDFC-182E1DBA3CD7FE3F" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=753&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=753&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=753" title="DMARDs for Juvenile Idiopathic Arthritis: A Review of the Research for Parents and Caregivers"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/753.gif" alt="DMARDs for Juvenile Idiopathic Arthritis: A Review of the Research for Parents and Caregivers" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "DMARDs for Juvenile Idiopathic Arthritis: A Review of the Research for Parents and Caregivers" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=753&amp;button=1&quot; title=&quot;DMARDs for Juvenile Idiopathic Arthritis: A Review of the Research for Parents and Caregivers&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/753.gif&quot; border=&quot;0&quot; alt=&quot;DMARDs for Juvenile Idiopathic Arthritis: A Review of the Research for Parents and Caregivers&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Sept. 26, 2011 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">DMARDs for Juvenile Idiopathic Arthritis: A Review of the Research for Parents and Caregivers</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/108/753/juv_arth_consumer.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							291 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/108/753/DMARDS for JIA.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.0 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1020" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#3623">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#3624">Understanding Your Child’s Condition</a></li>
+					
+						<li><a href="#3625">Understanding Your Options</a></li>
+					
+						<li><a href="#3626">Making a Decision</a></li>
+					
+						<li><a href="#3627">Source</a></li>
+					
+			</ul>
+		
+			<a name="3623"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<ul>
+	<li>A doctor said your child has &ldquo;juvenile idiopathic arthritis&rdquo; (JIA) (formerly known as &ldquo;juvenile rheumatoid arthritis&rdquo; or JRA).
+	<ul style="margin-bottom: 0em !important:">
+		<li>Systemic arthritis</li>
+		<li>Oligoarthritis</li>
+		<li>Psoriatic arthritis</li>
+		<li>Enthesitis-related arthritis</li>
+		<li>Undifferentiated arthritis</li>
+		<li>Polyarthritis&mdash;rheumatoid factor negative</li>
+		<li>Polyarthritis&mdash;rheumatoid factor positive</li>
+	</ul>
+	</li>
+	<li>The doctor suggested a type of medicine called a &ldquo;disease-modifying anti-rheumatic drug&rdquo; (DMARD).</li>
+</ul>
+<h4>No, if:</h4>
+<ul>
+	<li>Your child is over the age of 16.</li>
+	<li>Your child has joint pain, but a doctor has not said that it is JIA.</li>
+	<li>The doctor has not suggested a DMARD.</li>
+</ul>
+<h4>What does this summary cover?</h4>
+<p>This summary describes the research about the effectiveness and safety of DMARDs to treat JIA. It explains what research shows about how DMARDs help children with JIA, their side effects, and how much they cost. It is written to help you talk with your doctor when deciding if a DMARD is best for your child.</p>
+<h4>Where does the information come from?</h4>
+<p>This information comes from a report that reviewed 56 research studies on DMARDs to treat JIA. The report was funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal government research agency, and reviewed by clinicians, researchers, experts, and the public.</p>
+<p></p> 
+			<a name="3624"></a>
+			
+
+			
+				<h3>Understanding Your Child’s Condition</h3>
+				<h4>What is JIA?</h4>
+<p>Juvenile Idiopathic Arthritis (JIA) is a chronic (ongoing) disease that causes children to have swelling, pain, and stiffness in their joints. The ankles, knees, hips, elbows, jaw, and joints in the wrists, hands, and feet are most often affected. JIA occurs before the age of 16.</p>
+<ul>
+	<li>JIA affects each child differently. Symptoms range from mild to severe, and the number of joints affected may be different for each child.</li>
+	<li>JIA can also cause fever, rash, swollen glands, and eye inflammation. Pain, sensitivity to light, or blurry vision can be signs of eye inflammation, but often it has no symptoms.</li>
+	<li>Rarely, JIA can also cause irritation around the heart and lungs.</li>
+	<li>Some children with JIA may develop destructive joint disease. JIA can cause life-long pain and disability.</li>
+	<li>The growth of some children with JIA may be delayed or slowed. Also, the bones around their joints may grow at different rates, causing their arms or legs to be different lengths.</li>
+</ul>
+<h5>How common is JIA?</h5>
+<p>Although JIA is rare, it is the most common childhood joint disease. About 1 in 1,000 children have JIA. It affects children of all races.</p>
+<h5>What causes JIA?</h5>
+<p>The immune system normally protects the body from disease by destroying bacteria or viruses. In children with JIA, the immune system targets and destroys healthy tissue in their joints. Doctors are not sure why this happens.</p>
+<h5>What else should I know about JIA?</h5>
+<ul>
+	<li>JIA is not usually life threatening. Although there is no cure for JIA, there are medicines that can control the symptoms of the disease and help prevent long-term disability.</li>
+	<li>Children with JIA may go through periods with no joint pain or swelling, called &ldquo;remission.&rdquo; While some children achieve long periods of remission, others will have their symptoms come back or &ldquo;flare.&rdquo; The goal of treatment is to keep children in remission and minimize flares.</li>
+	<li>Most children with JIA can play sports and exercise when their symptoms are not flaring.</li>
+	<li>Your child&rsquo;s primary care physician or pediatrician may suggest you take your child to a doctor who specializes in treating children with joint problems. This type of doctor is called a &ldquo;pediatric rheumatologist&rdquo; (pronounced roo-mah-TOL-o-jest).</li>
+</ul> 
+			<a name="3625"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>How is JIA treated?</h4>
+<p>Before any treatment is started, the doctor will ask many questions to understand your child&rsquo;s symptoms and activities. Sometimes doctors use questionnaires to collect this information. Doctors and nurses use this information to decide what kind of medicines will be best for your child and to measure the success of treatment.</p>
+<p>The doctor may recommend medicines that help your child by:</p>
+<ul>
+	<li>Lessening the pain and swelling when these symptoms &ldquo;flare.&rdquo;</li>
+	<li>Reducing the number of times the child has symptoms, with the goal of taking away all symptoms for long periods of time (&ldquo;remission&rdquo;).</li>
+	<li>Preventing long-term painful joint damage.</li>
+</ul>
+<p>The way JIA is treated depends on how severe your child&rsquo;s symptoms are and how well your child responds to the different treatments that are available. Most children with JIA will start with one or both of these medicines that treat pain and inflammation:</p>
+<ul>
+	<li>Nonsteroidal anti-inflammatory drugs (NSAIDs).</li>
+	<li>Corticosteroids injected into the painful joint or sometimes taken by mouth.</li>
+</ul>
+<p>For some children, NSAIDs and corticosteroids will be all that is needed to relieve the symptoms of JIA and to reduce the risk of long-term problems. Other children may need a third kind of drug called a &ldquo;disease-modifying anti-rheumatic drug,&rdquo; or DMARD.</p>
+<h4>What are DMARDs?</h4>
+<p>DMARDs are a family of medicines that slow or stop the immune system from destroying the joints. Several of these medicines have been approved by the United States Food and Drug Administration (FDA) for use in children with JIA.</p>
+<p>There are two types of DMARDs &mdash; nonbiologic and biologic. Nonbiologic DMARDs are produced from chemicals, like most drugs. Biologic DMARDs are antibodies that are similar to those made in the body, but these antibodies are created in laboratories.</p>
+<ul>
+	<li>The most common DMARD given to children with JIA is a nonbiologic called &ldquo;methotrexate&rdquo; (pronounced meth-oh- TREK-sate). Many doctors prescribe methotrexate as standard treatment for JIA.</li>
+	<li>Both nonbiologic and biologic DMARDs can be added to standard treatment for children with more severe symptoms of JIA or when they are not getting enough relief from their symptoms. DMARDs may be taken with each other and with NSAIDs and corticosteroids.</li>
+</ul>
+<h5>What&rsquo;s the difference between nonbiologic and biologic DMARDs?</h5>
+<ul>
+	<li>Nonbiologic DMARDs can be given as pills or as shots. Biologic DMARDs must be given through an IV (intravenous) tube or as a shot. The IV treatment must be given in a clinic or doctor&rsquo;s office, but the shot may be given in a clinic or doctor&rsquo;s office or at home.</li>
+	<li>Because nonbiologic and biologic DMARDs work in different ways, they have different safety concerns. There is not enough research yet to know what all of the differences may be or how important they are.</li>
+</ul>
+<table class="styleOne">
+<thead>
+		<tr>
+			<th scope="col">Generic Name</th>
+			<th scope="col">Brand Name</th>
+		</tr></thead>
+	<tbody>
+		<tr>
+			<th colspan="2" scope="col" class="section_title">Nonbiologic DMARDs</th>
+		</tr>
+		<tr>
+			<td>Azathioprine</td>
+			<td><ul>
+				<li>Azasan&reg;</li>
+				<li>Imuran&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Cyclosporine A</td>
+			<td><ul>
+				<li>Neoral&reg;</li>
+				<li>Gengraf&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Penicillamine</td>
+			<td><ul>
+				<li>Depen&reg;</li>
+				<li>Cuprimine&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Leflunomide</td>
+			<td><ul>
+				<li>Arava&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Methotrexate*</td>
+			<td><ul>
+				<li>Methotrexate LPF&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Sulfasalazine*</td>
+			<td><ul>
+				<li>Azulfidine&reg;</li>
+				<li>Sulfazine&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<th colspan="2" scope="col" class="section_title">Biologic DMARDs</th>
+		</tr>
+		<tr>
+			<td>Abatacept*</td>
+			<td><ul>
+				<li>Orencia&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Adalimumab*</td>
+			<td><ul>
+				<li>Humira&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Anakinra</td>
+			<td><ul>
+				<li>Kineret&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Etanercept*</td>
+			<td><ul>
+				<li>Enbrel&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Infliximab</td>
+			<td><ul>
+				<li>Remicade&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Intravenous<br />
+				immunoglobulin (IVIG)</td>
+			<td><ul>
+				<li>BayGam&reg;</li>
+				<li>Carimune&reg; NF</li>
+				<li>Flebogamma&reg; 5% DIF</li>
+				<li>Gammagard&reg; S/D</li>
+				<li>Gammagard&reg; Liquid 10%</li>
+				<li>Gammar-P&reg;</li>
+				<li>Gamunex&reg; 10%</li>
+				<li>Iveegam EN&reg;</li>
+				<li>Octagam&reg; 5%</li>
+				<li>Panglobulin&reg;</li>
+				<li>Polygam&reg; S/D</li>
+				<li>Privigen&reg; 10%</li>
+				<li>Vivaglobin&reg;</li>
+			</ul></td>
+		</tr>
+		<tr>
+			<td>Tocilizumab</td>
+			<td><ul>
+				<li>Actemra&reg;</li>
+			</ul></td>
+		</tr>
+	</tbody>
+</table>
+<p>All of the medicines in this list have been studied on children with JIA. Those followed by an * have been approved by the United States Food and Drug Administration (FDA) for treating JIA.</p>
+<p>This list of DMARDs may not include newer medicines that are being studied and used for JIA.</p>
+<p>Ask your doctor about the names of other DMARDs that may be available to you.</p>
+<h5>What does the research say about the benefits of DMARDs?</h5>
+<p>Researchers know much more about using DMARDs in adults than they know about using them in children. For this reason, researchers cannot say with much certainty how well these drugs work for children with JIA.</p>
+<p>Researchers found that:</p>
+<ul>
+	<li>Adding the nonbiologic DMARD methotrexate to treatment works better than NSAIDs and corticosteroids alone to improve the symptoms of JIA.</li>
+	<li>Biologic DMARDs can improve the symptoms of JIA and reduce flares in some children.</li>
+</ul>
+<p>A very small amount of research found:</p>
+<ul>
+	<li>Children who took DMARDs had some improvement to their quality of life and abilities, but there is not enough research to know this for sure.</li>
+	<li>Nonbiologic DMARDs may reduce symptoms and improve the health of children with JIA, but there is not enough research to know this for sure.</li>
+</ul>
+<p>There is not enough research to know if:</p>
+<ul>
+	<li>Any one of the nonbiologic or biologic DMARDs works better than any other to reduce pain and swelling or to protect against joint damage.</li>
+</ul>
+<h5>What does the research say about the side effects of DMARDs?</h5>
+<ul>
+	<li>The FDA warns that certain biologic DMARDs may rarely lead to the development of unusual infections like tuberculosis (called &ldquo;TB&rdquo;) and fungal infections like yeast. Children are usually tested for these infections before starting biologic DMARDs.</li>
+	<li>Serious infections were seen most often in children taking methotrexate and the biologic DMARD infliximab at the same time.</li>
+	<li>The FDA warns that certain biologic DMARDs called &ldquo;TNF-alpha blockers&rdquo; &mdash; adalimumab (Humira&reg;), etanercept (Enbrel&reg;), and infliximab (Remicade&reg;) &mdash; have been associated with cancer in children, but this is rare. The cancer that usually occurs is lymphoma (cancer in the lymph glands, which are part of the immune system).</li>
+	<li>There is not enough research to know if the side effects are different among DMARDs.</li>
+</ul> 
+			<a name="3626"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What else should be considered when making a decision? </h4>
+<ul>
+	<li>Your child&rsquo;s symptoms can help you decide what treatment is best. Be sure to talk about all of your child&rsquo;s symptoms and your concerns when answering the doctor&rsquo;s questions. Also tell the doctor about the activities your child wants to be able to do. </li>
+	<li>In reviewing all the treatment choices with your doctor, you may want to talk about the &ldquo;trade-offs&rdquo; between the benefits of certain treatments and the risks of possible side effects. In these discussions, you want to understand from your doctor the risk of crippling or destructive joint disease if your child is not treated or is not treated enough. </li>
+</ul>
+<h5>What are the costs of DMARDs? </h5>
+<p>The cost to you for these medicines depends on: </p>
+<ul>
+	<li>The type of health insurance you have. </li>
+	<li>The dose (amount) of medicine your child needs to take. </li>
+	<li>Whether the medicine comes in a generic form. </li>
+</ul>
+<p>The most commonly used nonbiologic DMARD is methotrexate. This drug comes in both generic and brand forms. </p>
+<p><strong>The cost of methotrexate</strong> can range widely, depending on the weight of your child. The average wholesale price of the medicine for a 65-pound child is around $60 a month for generic methotrexate (tablets), around $187 a month for the brand Rheumatrex&reg;, and around $76 a month for the brand Trexall&reg;. </p>
+<p><strong>The cost of biologic DMARDs</strong> can range widely, depending on the weight of your child and the type of DMARD. For a child who weighs about 88 pounds, the cost of a 1-month supply of a biologic DMARD is between $750 and $2,500.</p>
+<h5>Ask Your Doctor:</h5>
+<ul>
+	<li>What do you think about the research on DMARDs?</li>
+	<li>Given my child&rsquo;s symptoms, which treatment option is best?</li>
+	<li>What are the short-term and long-term side effects of the medicines?</li>
+	<li>Is my child at risk for developing infections or cancer if he or she takes these medicines?</li>
+	<li>What should I expect will happen to my child if no treatment is given?</li>
+</ul> 
+			<a name="3627"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em>Disease-Modifying Antirheumatic Drugs (DMARDs) in Children With Juvenile Idiopathic Arthritis (JIA)</em>. It was produced by the Duke University Evidence-based Practice Center with funding by the Agency for Healthcare Research and Quality (AHRQ). Additional information for this summary came from MedlinePlus&reg; Web site, a service of the U.S. National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Diane Markesich, Ph.D., Amelia Williamson Smith, M.S., Thomas Workman, Ph.D., Robert Warren, M.D., and Michael Fordis, M.D.&nbsp; Parents and caregivers of children with juvenile idiopathic arthritis reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

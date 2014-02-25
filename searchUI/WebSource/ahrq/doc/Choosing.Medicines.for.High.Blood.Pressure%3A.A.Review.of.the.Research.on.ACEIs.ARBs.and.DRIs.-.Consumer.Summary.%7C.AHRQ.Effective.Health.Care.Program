@@ -1,0 +1,1236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Choosing Medicines for High Blood Pressure: A Review of the Research on ACEIs, ARBs, and DRIs - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;productid=758&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26productid%3D758%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=164">
+					Comparative Effectiveness of Angiotensin Converting Enzyme Inhibitors (ACEIs), Angiotensin II Receptor Antagonists (ARBs), and Direct Renin Inhibitors for Treating Essential Hypertension – An Update of the 2007 Report 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=696">
+										Research Review  (Update)
+									</a>
+							<span style="font-size:7pt;"> Jun. 13, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=435">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> May 7, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=807">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Oct. 7, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1639">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 14, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=759">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Oct. 24, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=932">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Jan. 17, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=695">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Jun. 13, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>Related Products</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&productid=994">
+									
+									Future Research Needs for Angiotensin-Converting Enzyme Inhibitors (ACEIs), Angiotensin II Receptor Antagonists (ARBs), or Direct Renin Inhibitors (DRIs) for Treating Hypertension 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=299">
+									
+									CME Activity: ACEIs, ARBs, or DRI for Adults With Hypertension 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 11(12)-EHC063-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d758%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d758%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d758%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d758%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d758%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d758%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d758%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d758%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d758%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d758%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2398B7F1-01CE-42CB-1CD79CF6778AEBAF" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=758&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=758&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=758" title="Choosing Medicines for High Blood Pressure: A Review of the Research on ACEIs, ARBs, and DRIs"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/758.gif" alt="Choosing Medicines for High Blood Pressure: A Review of the Research on ACEIs, ARBs, and DRIs" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Choosing Medicines for High Blood Pressure: A Review of the Research on ACEIs, ARBs, and DRIs" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=758&amp;button=1&quot; title=&quot;Choosing Medicines for High Blood Pressure: A Review of the Research on ACEIs, ARBs, and DRIs&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/758.gif&quot; border=&quot;0&quot; alt=&quot;Choosing Medicines for High Blood Pressure: A Review of the Research on ACEIs, ARBs, and DRIs&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Oct. 24, 2011 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Choosing Medicines for High Blood Pressure: A Review of the Research on ACEIs, ARBs, and DRIs</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/164/758/aceis_arbs_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							447 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/164/758/BP_Meds.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							4.5 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=932" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#3730">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#3731">About Your Condition</a></li>
+					
+						<li><a href="#3732">About Your Options</a></li>
+					
+						<li><a href="#3733">Making a Decision</a></li>
+					
+						<li><a href="#3734">Source</a></li>
+					
+			</ul>
+		
+			<a name="3730"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<ul>
+	<li>Your doctor says you have high blood pressure.</li>
+	<li>Your doctor asked you to consider taking one or more of these medicines: <br />
+	<ul>
+		<li>Angiotensin-converting enzyme inhibitors (ACEIs).</li>
+		<li>Angiotensin II receptor blockers/antagonists (ARBs).</li>
+		<li>Direct renin inhibitor (DRI). Currently, there is only 1 DRI, a drug called aliskiren.</li>
+	</ul>
+	</li>
+</ul>
+<p>Some people are more likely to be given an ACEI, ARB, or a DRI for their high blood pressure. These include people who also have type 2 diabetes, congestive heart failure, or kidney disease.</p>
+<h4>No, if:</h4>
+<ul>
+	<li>Your blood pressure is not high enough for a doctor to suggest taking medicine to control it.</li>
+	<li>Your doctor suggests you take other medicines for your high blood pressure that are not ACEIs, ARBs, or DRI.</li>
+	<li>You are under 18. The research was only done with adults.</li>
+</ul>
+<h4>What does this summary cover?</h4>
+<p>You will learn what research says about three types of medicine for high blood pressure, how well they work, how they compare to each other, and their side effects. This information can help you talk with your doctor as you decide which ACEI, ARB, or DRI is best for you.</p>
+<h4>Where does the information come from?</h4>
+<p>The information comes from a report that looked at 110 studies on these medicines. The review was conducted by a research team at Duke University and paid for by the Agency for Healthcare Research and Quality, a Federal government research agency. You can read the full report at <a href="http://www.effectivehealthcare.ahrq.gov/acearbhbp.cfm">www.effectivehealthcare.ahrq.gov/acearbhbp.cfm</a>.</p>
+<table class="styleOne" style="width:auto !important;">
+	<caption>Names of ACEIs, ARBs, and DRI</caption>
+	<thead>
+		<tr>
+			<th scope="col">Type</th>
+			<th scope="col">Drug Name (Brand Name)</th>
+			<th scope="col">Available in Generic?</th>
+		</tr>
+	</thead>
+	<tfoot>
+	<tr>
+		<td colspan="3">* This ARB was not included in any of the studies.</td>
+	</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th rowspan="10" scope="row" class="section_title">ACEI</th>
+			<td>Benazepril (Lotensin&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Captopril (Capoten&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Enalapril (Vasotec&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Fosinopril (Monopril&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Lisinopril (Prinivil&reg; or Zestril&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Moexipril (Univasc&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Perindopril (Aceon&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Quinapril (Accupril&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Ramipril (Altace&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Trandolapril (Mavik&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<th rowspan="7" scope="row" class="section_title">ARB</th>
+			<td>Candesartan (Atacand&reg;)</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Eprosartan (Teveten&reg;)</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Irbesartan (Avapro&reg;)</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Losartan (Cozaar&reg;)</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Olmesartan medoxomil (Benicar&reg;)*</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Telemisartan (Micardis&reg;)</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Valsartan (Diovan&reg;)</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">DRI</th>
+			<td>Aliskiren (Tekturna&reg;)</td>
+			<td>No</td>
+		</tr>
+	</tbody>
+</table> 
+			<a name="3731"></a>
+			
+
+			
+				<h3>About Your Condition</h3>
+				<h4>What is high blood pressure?</h4>
+<p>&ldquo;Blood pressure&rdquo; is the force of blood in your arteries as the heart pumps blood. This pressure is measured by two numbers:</p>
+<ul>
+	<li>The top number, or &ldquo;systolic&rdquo; pressure, is the force when the heart beats.</li>
+	<li>The bottom number, or &ldquo;diastolic&rdquo; pressure, is the force when the heart relaxes between beats.</li>
+	<li>These numbers are usually given together.</li>
+</ul>
+<p>Your blood pressure rises and falls a small amount during the day, but doctors can tell from several readings over time if your average blood pressure is higher than normal. Normal blood pressure is less than 120/80. This means that the force of blood when your heart beats is 120, and the force is 80 when your heart is between beats.</p>
+<p>High blood pressure, or &ldquo;hypertension,&rdquo; usually refers to blood pressure that is 140/90 or higher.</p>
+<h5>How common is high blood pressure?</h5>
+<p>High blood pressure is one of the most common health problems in America. Although people of all ages can have high blood pressure, it is more common in people who are over 65 years old. The National Center for Health Statistics states that African Americans get high blood pressure more often, and at an earlier age, than other races. More African American women than men have the condition. High blood pressure is more common for people who are overweight, eat salty foods, drink a lot of alcohol, smoke tobacco, or do not exercise regularly.</p>
+<h5>Why treat high blood pressure?</h5>
+<p>High blood pressure makes the heart work too hard, can cause narrowing of the arteries, and can lead to heart disease, heart attack, kidney disease, and stroke.</p>
+<h5>Where can I learn more about high blood pressure?</h5>
+<p>To get more general information about the condition of high blood pressure, you can read <em>Your Guide to Lowering High Blood Pressure </em>at <a href="http://www.nhlbi.nih.gov/hbp/">www.nhlbi.nih.gov/hbp/</a>. That guide is published by the National Heart, Lung, and Blood Institute.</p> 
+			<a name="3732"></a>
+			
+
+			
+				<h3>About Your Options</h3>
+				<h4>How is high blood pressure treated?</h4>
+<p>In addition to exercising, eating a healthy diet, quitting smoking, and drinking less alcohol, your doctor may want you to take one or more medicines to help control your blood pressure.</p>
+<p>Many medicines help treat high blood pressure. Each type works differently to lower blood pressure.</p>
+<h5>ACEIs, ARBs, and DRI</h5>
+<p>Three types of high blood pressure medicine work in a similar way: They work on the &ldquo;renin angiotensin&rdquo; system. This system raises your blood pressure.</p>
+<ul>
+	<li>Angiotensin-converting enzyme inhibitors (ACEIs)</li>
+	<li>Angiotensin II receptor blockers/antagonists (ARBs)</li>
+	<li>Direct renin inhibitor (DRI)</li>
+</ul>
+<p>Some people are more likely to be given an ACEI, ARB, or DRI. These include people who have type 2 diabetes, congestive heart failure, or kidney disease.</p>
+<p>Each of these medicines are taken as pills. They require a prescription from your doctor. Many come in a generic form, which costs less.</p>
+<h5>Which is better?</h5>
+<p>The research review on these drugs found that:</p>
+<ul>
+	<li>All ACEIs and ARBs help lower blood pressure about the same amount.</li>
+	<li>All ACEIs and ARBs protect the kidneys about the same amount.</li>
+	<li>ACEIs and ARBs do not have any effect &mdash; good or bad &mdash; on blood sugar levels or cholesterol (fat) in your blood.</li>
+	<li>DRIs are new medications so there is not yet enough research on how they compare to ACEIs and ARBs.</li>
+</ul>
+<h5>What are the side effects of these medicines?</h5>
+<ul>
+	<li>The most common side effects from these medicines are a dry cough, headache, and dizziness. All three types of medicine cause about the same amount of headaches and dizziness.</li>
+	<li>People who take ACEIs are more likely to get a dry cough than people who take ARBs.</li>
+</ul>
+<p>About 9 out of 100 people taking an ACEI get a dry cough.</p>
+<p><img width="566" height="157" alt="" src="/tasks/sites/ehc/assets/Image/aceidrycough.png" /></p>
+<p>About 2 out of 100 people taking an ARB get a dry cough.</p>
+<p><img width="564" height="157" alt="" src="/tasks/sites/ehc/assets/Image/aceidrycough2.png" /></p>
+<ul>
+	<li>Although it is very rare, ACEIs, ARBs, and DRI can cause sudden swelling of the tongue, lips, throat, hands, or feet. This is called &ldquo;angioedema&rdquo; (pronounced an-gee-o-uh-DEE-mah). If this happens, call your doctor right away. This could be an emergency.</li>
+</ul>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>ACEIs, ARBs, and DRIs can cause serious birth defects. If you are or think you may become pregnant, tell your doctor and ask what you should do.</strong></div> 
+			<a name="3733"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<p>You and your doctor can decide together which ACEI, ARB, or DRI might be best for you. Talk about:</p>
+<ul>
+	<li>What research says about the benefits and side effects of these medicines.</li>
+	<li>How blood pressure medicine could affect other conditions you may have such as heart disease or diabetes.</li>
+	<li>The costs of the medicines.</li>
+	<li>How the side effects might affect your daily life.</li>
+	<li>How these medicines may interact with other medicines you are taking or certain foods.</li>
+</ul>
+<p>For the medicine to work, it is important to take it every day. Talk with your doctor or nurse about what time is best to take your medicine, and other ways to remember to take it every day.</p>
+<h5>What are the costs?</h5>
+<p>The amount you will have to pay will depend on:</p>
+<ul>
+	<li>Whether you take a generic or a brand-name medicine.</li>
+	<li>How much medicine you need to take.</li>
+	<li>Your insurance plan copay.</li>
+</ul>
+<table class="styleOne">
+	<thead>
+		<tr>
+			<th rowspan="2" scope="col">Generic Drug Name</th>
+			<th rowspan="2" scope="col">Brand Name</th>
+			<th class="align_center" rowspan="2" scope="col">Dose for High Blood Pressure<sup>1</sup></th>
+			<th class="align_center" colspan="2" scope="col">Price for 1-Month Supply</th>
+		</tr>
+		<tr class="align_center">
+			<th scope="col">Generic<sup>2</sup></th>
+			<th scope="col">Brand<sup>3</sup></th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="5"><sup>1</sup> Doses are similar to those used in the research studies.<br />
+				<br />
+				<sup>2</sup> Median average wholesale price for generic from <em>Red Book: Pharmacy&rsquo;s Fundamental Reference</em>, 2011.<br />
+				<br />
+				<sup>3</sup> Average wholesale price for brand, rounded to the nearest $5, from <em>Red Book: Pharmacy&rsquo;s Fundamental Reference</em>, 2011.<br />
+				<br />
+				Abbreviations: NA = not available</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td rowspan="3">Benazepril</td>
+			<td rowspan="3">Lotensin&reg;</td>
+			<td class="align_center">10 mg daily</td>
+			<td class="align_right">$30</td>
+			<td class="align_right">$65</td>
+		</tr>
+		<tr>
+			<td class="align_center">20 mg daily</td>
+			<td class="align_right">$50</td>
+			<td class="align_right">$65</td>
+		</tr>
+		<tr>
+			<td class="align_center">40 mg daily</td>
+			<td class="align_right">$40</td>
+			<td class="align_right">$65</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Captopril</td>
+			<td rowspan="2">Capoten&reg;</td>
+			<td class="align_center">25 mg twice a day</td>
+			<td class="align_right">$55</td>
+			<td class="align_right">$130</td>
+		</tr>
+		<tr>
+			<td class="align_center">50 mg twice a day</td>
+			<td class="align_right">$80</td>
+			<td class="align_right">$170</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Enalapril</td>
+			<td rowspan="4">Vasotec&reg;</td>
+			<td class="align_center">5 mg daily</td>
+			<td class="align_right">$45</td>
+			<td class="align_right">$90</td>
+		</tr>
+		<tr>
+			<td class="align_center">10 mg daily</td>
+			<td class="align_right">$50</td>
+			<td class="align_right">$100</td>
+		</tr>
+		<tr>
+			<td class="align_center">20 mg daily</td>
+			<td class="align_right">$65</td>
+			<td class="align_right">$140</td>
+		</tr>
+		<tr>
+			<td class="align_center">20 mg twice a day</td>
+			<td class="align_right">$135</td>
+			<td class="align_right">$280</td>
+		</tr>
+		<tr>
+			<td>Fosinopril</td>
+			<td>Monopril&reg;</td>
+			<td class="align_center">10 mg daily</td>
+			<td class="align_right">$80</td>
+			<td class="align_right">$55</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Lisinopril</td>
+			<td rowspan="3">Prinivil&reg;; Zestril&reg;</td>
+			<td class="align_center">10 mg daily</td>
+			<td class="align_right">$30</td>
+			<td class="align_right">$40; $50</td>
+		</tr>
+		<tr>
+			<td class="align_center">20 mg daily</td>
+			<td class="align_right">$40</td>
+			<td class="align_right">$40; $50</td>
+		</tr>
+		<tr>
+			<td class="align_center">40 mg daily</td>
+			<td class="align_right">$50</td>
+			<td class="align_right">$80; $75</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Moexipril</td>
+			<td rowspan="3">Univasc&reg;</td>
+			<td class="align_center">7.5 mg daily</td>
+			<td class="align_right">$45</td>
+			<td class="align_right">$75</td>
+		</tr>
+		<tr>
+			<td class="align_center">15 mg daily</td>
+			<td class="align_right">$50</td>
+			<td class="align_right">$80</td>
+		</tr>
+		<tr>
+			<td class="align_center">15 mg twice a day</td>
+			<td class="align_right">$100</td>
+			<td class="align_right">$160</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Perindopril</td>
+			<td rowspan="3">Aceon&reg;</td>
+			<td class="align_center">2 mg daily</td>
+			<td class="align_right">$60</td>
+			<td class="align_right">$70</td>
+		</tr>
+		<tr>
+			<td class="align_center">4 mg daily</td>
+			<td class="align_right">$70</td>
+			<td class="align_right">$80</td>
+		</tr>
+		<tr>
+			<td class="align_center">8 mg daily</td>
+			<td class="align_right">$85</td>
+			<td class="align_right">$100</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Quinapril</td>
+			<td rowspan="2">Accupril&reg;</td>
+			<td class="align_center">10 mg daily</td>
+			<td class="align_right">$40</td>
+			<td class="align_right">$60</td>
+		</tr>
+		<tr>
+			<td class="align_center">20 mg daily</td>
+			<td class="align_right">$40</td>
+			<td class="align_right">$60</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Ramipril</td>
+			<td rowspan="3">Altace&reg;</td>
+			<td class="align_center">2.5 mg daily</td>
+			<td class="align_right">$55</td>
+			<td class="align_right">$80</td>
+		</tr>
+		<tr>
+			<td class="align_center">5 mg daily</td>
+			<td class="align_right">$60</td>
+			<td class="align_right">$85</td>
+		</tr>
+		<tr>
+			<td class="align_center">10 mg daily</td>
+			<td class="align_right">$70</td>
+			<td class="align_right">$100</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Trandolapril</td>
+			<td rowspan="2">Mavik&reg;</td>
+			<td class="align_center">1 mg daily</td>
+			<td class="align_right">$35</td>
+			<td class="align_right">$50</td>
+		</tr>
+		<tr>
+			<td class="align_center">2 mg daily</td>
+			<td class="align_right">$35</td>
+			<td class="align_right">$50</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="5" scope="col">ARBs</th>
+		</tr>
+		<tr>
+			<td rowspan="3">Candesartan</td>
+			<td rowspan="3">Atacand&reg;</td>
+			<td class="align_center">4 mg daily</td>
+			<td class="align_right" rowspan="3">NA</td>
+			<td class="align_right">$80</td>
+		</tr>
+		<tr>
+			<td class="align_center">8 mg daily</td>
+			<td class="align_right">$80</td>
+		</tr>
+		<tr>
+			<td class="align_center">16 mg daily</td>
+			<td class="align_right">$80</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Eprosartan</td>
+			<td rowspan="3">Teveten&reg;</td>
+			<td class="align_center">400 mg daily</td>
+			<td class="align_right" rowspan="3">NA</td>
+			<td class="align_right">$100</td>
+		</tr>
+		<tr>
+			<td class="align_center">600 mg daily</td>
+			<td class="align_right">$115</td>
+		</tr>
+		<tr>
+			<td class="align_center">400 mg twice a day</td>
+			<td class="align_right">$195</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Irbesartan</td>
+			<td rowspan="2">Avapro&reg;</td>
+			<td class="align_center">150 mg daily</td>
+			<td class="align_right" rowspan="2">NA</td>
+			<td class="align_right">$95</td>
+		</tr>
+		<tr>
+			<td class="align_center">300 mg daily</td>
+			<td class="align_right">$115</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Losartan</td>
+			<td rowspan="3">Cozaar&reg;</td>
+			<td class="align_center">25 mg daily</td>
+			<td class="align_right">$50</td>
+			<td class="align_right">$65</td>
+		</tr>
+		<tr>
+			<td class="align_center">50 mg daily</td>
+			<td class="align_right">$70</td>
+			<td class="align_right">$85</td>
+		</tr>
+		<tr>
+			<td class="align_center">100 mg daily</td>
+			<td class="align_right">$95</td>
+			<td class="align_right">$115</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Olmesartan</td>
+			<td rowspan="2">Benicar&reg;</td>
+			<td class="align_center">20 mg daily</td>
+			<td class="align_right" rowspan="2">NA</td>
+			<td class="align_right">$90</td>
+		</tr>
+		<tr>
+			<td class="align_center">40 mg daily</td>
+			<td class="align_right">$125</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Telmisartan</td>
+			<td rowspan="3">Micardis&reg;</td>
+			<td class="align_center">20 mg daily</td>
+			<td class="align_right" rowspan="3">NA</td>
+			<td class="align_right">$110</td>
+		</tr>
+		<tr>
+			<td class="align_center">40 mg daily</td>
+			<td class="align_right">$110</td>
+		</tr>
+		<tr>
+			<td class="align_center">80 mg daily</td>
+			<td class="align_right">$110</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Valsartan</td>
+			<td rowspan="2">Diovan&reg;</td>
+			<td class="align_center">80 mg daily</td>
+			<td class="align_right" rowspan="2">NA</td>
+			<td class="align_right">$90</td>
+		</tr>
+		<tr>
+			<td class="align_center">160 mg daily</td>
+			<td class="align_right">$100</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="5" scope="col">DRIs</th>
+		</tr>
+		<tr>
+			<td rowspan="2">Aliskiren</td>
+			<td rowspan="2">Tekturna&reg;</td>
+			<td class="align_center">150 mg daily</td>
+			<td class="align_right" rowspan="2">NA</td>
+			<td class="align_right">$100</td>
+		</tr>
+		<tr>
+			<td class="align_center">300 mg daily</td>
+			<td class="align_right">$120</td>
+		</tr>
+	</tbody>
+</table>
+<h5>What else can I do to lower my blood pressure?</h5>
+<p>You can do other things to control your blood pressure in addition to taking medicine:</p>
+<ul>
+	<li>Lose weight.</li>
+	<li>Exercise regularly.</li>
+	<li>Drink less alcohol.</li>
+	<li>Do not smoke.</li>
+</ul>
+<p>Ask your doctor or nurse to help you start making changes.</p>
+<h5>Ask your doctor</h5>
+<ul>
+	<li>How will this medicine affect my work and daily life?</li>
+	<li>How will we know the medicine is lowering my blood pressure?</li>
+	<li>When should I tell you if I get a side effect from the medicine, and what can we do about it?</li>
+	<li>Will this medicine affect other medicines I take?</li>
+	<li>Are there foods I should not eat while on this medicine?</li>
+	<li>Could I choose an ACEI, ARB, or DRI that fits my budget, or are there reasons I should take a certain one?</li>
+</ul> 
+			<a name="3734"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information comes from the report <em>Angiotensin-Converting Enzyme Inhibitors (ACEIs), Angiotensin II Receptor Antagonists (ARBs), and Direct Renin Inhibitors for Treating Essential Hypertension: An Update</em>. It was produced by the Duke University Evidence-based Practice Center with funding by the Agency for Healthcare Research and Quality (AHRQ). Additional information came from the MedlinePlus&reg; Web site, a service of the U.S. National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Andrea Humphries, Ph.D., Amelia Williamson Smith, M.S., Thomas Workman, Ph.D., Vijay Nambi, M.D., and Michael Fordis, M.D.&nbsp; Patients with high blood pressure reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

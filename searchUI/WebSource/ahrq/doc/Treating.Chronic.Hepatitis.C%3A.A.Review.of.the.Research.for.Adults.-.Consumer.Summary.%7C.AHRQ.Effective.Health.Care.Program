@@ -1,0 +1,1156 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Treating Chronic Hepatitis C: A Review of the Research for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;pageaction=displayproduct&amp;productid=1288" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26pageaction%3Ddisplayproduct%26productid%3D1288">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=286">
+					Treatment for Hepatitis C Virus Infection in Adults 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1298">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Nov. 27, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=855">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Nov. 30, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1468">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Apr. 15, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1696">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Sept. 6, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1289">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Nov. 27, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1420">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Mar. 7, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1299">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Nov. 27, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>Education Resources for this Topic</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?&pageaction=displaycmeactivity&activityID=327&cmepage=cme_info">
+									
+									CME Activity: Treatment for Hepatitis C Virus Infection in Adults: Comparative Effectiveness 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Published Journal Articles</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://annals.org/article.aspx?articleid=1402433">
+									
+									Chou R, Hartung D, Rahman B, et al. Comparative effectiveness of antiviral treatment for hepatitis C virus infection in adults: a systematic review. Ann Intern Med 2012 Nov 27. [Epub ahead of print.] 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Future Research Needs</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayproduct&productid=1470">
+									
+									Treatment of Hepatitis C Virus Infection in Adults: Future Research Needs 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12(13)-EHC113-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1288"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1288"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1288"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1288&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1288&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1288&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1288"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1288&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1288&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1288&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=23982714-A168-1AA3-81CA8FCFE7E282C6" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1288&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1288&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1288" title="Treating Chronic Hepatitis C: A Review of the Research for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1288.gif" alt="Treating Chronic Hepatitis C: A Review of the Research for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Treating Chronic Hepatitis C: A Review of the Research for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1288&amp;button=1&quot; title=&quot;Treating Chronic Hepatitis C: A Review of the Research for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1288.gif&quot; border=&quot;0&quot; alt=&quot;Treating Chronic Hepatitis C: A Review of the Research for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Nov. 27, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Treating Chronic Hepatitis C: A Review of the Research for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/286/1288/hep_c_treat_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							7.6 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/286/1288/Treating_Chronic_Hep_C.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							11.6 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1420" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#6664">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#6665">Understanding Your Condition</a></li>
+					
+						<li><a href="#6666">Understanding Your Options</a></li>
+					
+						<li><a href="#6667">Making a Decision</a></li>
+					
+						<li><a href="#6668">Source</a></li>
+					
+			</ul>
+		
+			<a name="6664"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, this information is right for you if:</h4>
+<ul>
+	<li>Your doctor* has told you that you have chronic hepatitis C. Chronic hepatitis C is a long-term illness in which the hepatitis C virus stays in your body and does not go away.</li>
+	<li>You want to know about treatment options.</li>
+	<li>You are 18 or older. This information is from research on adults.</li>
+</ul>
+<p><br />
+	* In this summary, the term &ldquo;doctor&rdquo; refers to any of the health care professionals who may take care of you, including your hepatologist or other physician, nurse practitioner, or physician assistant.</p>
+<h4>What will this summary tell me?</h4>
+<p>This summary will discuss treatment options for chronic hepatitis C. It will tell you about research on how well medicines for chronic hepatitis C work. It will also tell you about research on the side effects of these medicines. It does <strong>not</strong> discuss screening and diagnosis of hepatitis C. This summary can help you talk with your doctor about which treatment might be best for you.</p>
+<h4>Where does the information come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 77 studies published between January 1947 and April 2012 about the effectiveness and side effects of treatments for chronic hepatitis C. The resulting report was reviewed by clinicians, researchers, experts, and the public. You can read the report at <a href="http://www.effectivehealthcare.ahrq.gov/hepctreatment.cfm">www.effectivehealthcare.ahrq.gov/hepctreatment.cfm</a>.</p>
+<div class="report_highlight_box medium_box"><strong>Note:</strong> People with HIV infection, people receiving dialysis, people who have had an organ transplant, and pregnant women were <strong>not</strong> included in the research for this summary.</div> 
+			<a name="6665"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is hepatitis C?</h4>
+<p>Hepatitis C is a disease caused by a virus that infects your liver. Your liver is an important organ in your body. It removes harmful chemicals from your body, aids digestion, and processes vitamins and nutrients from food. The liver also makes chemicals that help your blood clot when you have a cut. You cannot live without a liver.</p>
+<p><img alt="Diagram of Liver" src="/ehc/assets/Image/hepctreatmentliverdiagram.png" style="width: 659px; height: 649px; " /></p>
+<p>For some people with hepatitis C, the infection lasts only a short time and their body is able to get rid of the virus. However, most people infected with hepatitis C develop chronic hepatitis C. This is a long-term illness that happens when the hepatitis C virus stays in your body.</p>
+<p>If you do not receive treatment, over time (20 to 30 years) the infection can damage your liver and make it not work properly. It can cause scarring on your liver, liver cancer, liver failure, and death.</p>
+<p>There are six &ldquo;genotypes&rdquo; of hepatitis C&mdash;genotypes 1, 2, 3, 4, 5, and 6. Which genotype you have can affect the treatment your doctor suggests and how well the treatment works.</p>
+<p>Genotype 1 is the most common; 75 percent of people with hepatitis C have genotype 1. People with this genotype, however, do not respond as well to treatment as those with one of the other genotypes. Your doctor can do a blood test to find out which genotype you have.</p>
+<h4>What are the symptoms of hepatitis C?</h4>
+<p>Most people do not notice any symptoms of hepatitis C until the virus has started to damage their liver. Other people have symptoms right away.</p>
+<p>Symptoms of hepatitis C can include:</p>
+<ul>
+	<li>Feeling tired</li>
+	<li>Fever</li>
+	<li>Loss of appetite</li>
+	<li>Upset stomach</li>
+	<li>Nausea and vomiting</li>
+	<li>Joint pain</li>
+</ul>
+<p>Symptoms of advanced hepatitis C can include:</p>
+<ul>
+	<li>Yellowed eyes and skin, called &ldquo;jaundice&rdquo; (pronounced JAWN-dis)</li>
+	<li>Dark-colored urine</li>
+	<li>Light-colored stools</li>
+	<li>Easy bruising</li>
+	<li>Taking longer for bleeding to stop</li>
+</ul>
+<h4>How common is hepatitis C?</h4>
+<ul>
+	<li>Around 180 million people worldwide have chronic hepatitis C.</li>
+	<li>About 4 million people in the United States have chronic hepatitis C.</li>
+	<li>Two-thirds of Americans infected with the hepatitis C virus were born between 1945 and 1964 (Baby Boomers).</li>
+	<li>About 70 to 85 percent of people infected with the hepatitis C virus develop chronic hepatitis C.*</li>
+	<li>Hepatitis C is responsible for about 15,000 deaths in the United States each year.</li>
+	<li>Hepatitis C is the most common reason for liver transplants in the United States.</li>
+</ul>
+<p>* This information came from the Centers for Disease Control and Prevention Web site: <a href="http://www.cdc.gov/hepatitis/HCV">www.cdc.gov/hepatitis/HCV</a>.</p>
+<h4>How do you get hepatitis C?</h4>
+<p>Hepatitis C is spread through blood. Anyone who comes into contact with infected blood can catch the virus.</p>
+<p>People at risk for getting hepatitis C include people who:</p>
+<ul>
+	<li>Received a blood transfusion or an organ transplant before 1992</li>
+	<li>Received a blood product for blood clotting problems before 1987</li>
+	<li>Have gotten a tattoo or piercing with nonsterile tools</li>
+	<li>Shared drug needles with an infected person, even if it was only one time</li>
+	<li>Have been exposed to the hepatitis C virus at work (such as a health care worker coming into contact with infected blood)</li>
+	<li>Spent many years on dialysis for liver failure</li>
+	<li>Are infected with HIV</li>
+	<li>Used the toothbrush or razor of an infected person, although the risk is low</li>
+	<li>Had sex with an infected person, although the risk is low</li>
+</ul>
+<p>You <strong>cannot</strong> catch the hepatitis C virus from simply being around an infected person, shaking hands, or hugging.</p> 
+			<a name="6666"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>How is chronic hepatitis C treated?</h4>
+<p>Depending on the amount of damage to your liver, your medical history, and your preferences, you and your doctor may decide on one of the following treatment plans:</p>
+<ul>
+	<li><em><strong>Treatment right away.</strong></em> If your liver has a lot of damage, your doctor may suggest you have treatment right away.</li>
+	<li><em><strong>Waiting and followup.</strong></em> If your liver does not have a lot of damage and you do not need treatment right away, your doctor may suggest you wait. Some people wait years before starting treatment. If you decide to wait, your doctor will probably want to check your liver on a regular basis to see if and possibly when you might need treatment.</li>
+</ul>
+<p>Before deciding how to treat your chronic hepatitis C infection, some doctors may first suggest a liver biopsy. During a liver biopsy, the doctor removes a tiny piece of your liver to look for signs of damage or disease. The results of the biopsy help the doctor decide if you need treatment now or if treatment can wait.</p>
+<h4>What medicines treat chronic hepatitis C?</h4>
+<p>Chronic hepatitis C is treated with a combination of medicines. Some medicines work by helping your immune system fight the virus, and some medicines target the virus itself.</p>
+<table class="styleOne">
+	<caption>Medicines To Treat Chronic Hepatitis C</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Drug Name</th>
+			<th scope="col">Brand Name(s)</th>
+			<th scope="col">Generic Available?</th>
+			<th scope="col">How It Is Taken</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th class="section_title" colspan="4" scope="col">Interferons</th>
+		</tr>
+		<tr>
+			<td>Peginterferon alfa-2a</td>
+			<td>Pegasys&reg;</td>
+			<td>No</td>
+			<td rowspan="2">Weekly shot</td>
+		</tr>
+		<tr>
+			<td>Peginterferon alfa-2b</td>
+			<td>PegIntron&reg;</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="4" scope="col">Nucleoside Analogue Antiviral Medicine</th>
+		</tr>
+		<tr>
+			<td>Ribavirin</td>
+			<td>Copegus&reg;, Rebetol&reg;, Ribasphere&reg;</td>
+			<td>Yes</td>
+			<td>Pill</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="4" scope="col">Protease Inhibitor Antiviral Medicines</th>
+		</tr>
+		<tr>
+			<td>Boceprevir</td>
+			<td>Victrelis&reg;</td>
+			<td>No</td>
+			<td rowspan="2">Pill</td>
+		</tr>
+		<tr>
+			<td>Telaprevir</td>
+			<td>Incivek&reg;</td>
+			<td>No</td>
+		</tr>
+	</tbody>
+</table>
+<p>There are currently two therapies to treat people with chronic hepatitis C:</p>
+<ul>
+	<li>Dual therapy: An interferon + ribavirin</li>
+</ul>
+<p><strong>or</strong></p>
+<ul>
+	<li>Triple therapy: An interferon + ribavirin + boceprevir or telaprevir</li>
+</ul>
+<p>People with any of the six hepatitis C genotypes can take dual therapy. Triple therapy is approved by the U.S. Food and Drug Administration (FDA) only for people with genotype 1.</p>
+<p>Dual therapy became the standard treatment for chronic hepatitis C in the early 2000s. The FDA approved boceprevir (Victrelis&reg;) and telaprevir (Incivek&reg;) for triple therapy in people with genotype 1 in 2011.</p>
+<p>Treatment often lasts 6 to 12 months. It is important to take these medicines as prescribed by your doctor. Do not stop taking these medicines or change the dose (amount) you take without first talking with your doctor. Ask your doctor if these medicines might interact with other medicines you are taking.</p>
+<p>Always talk with your doctor before taking any herbal remedies or vitamin supplements. These could make the damage to your liver worse and could interact with your hepatitis C medicines.</p>
+<p>After you complete therapy, your doctor will check your blood to see if the hepatitis C virus has been cleared. Six months after the end of your treatment, if the hepatitis C virus is not found in your blood, the virus has been cleared. This means the virus will probably not come back. After successful treatment, you can still be reinfected with hepatitis C. It is important to take precautions to prevent becoming infected again.</p>
+<h4>What does the research say about how well medicines for treating chronic hepatitis C work?</h4>
+<p>Researchers found:</p>
+<ul>
+	<li>Dual therapy with peginterferon alfa-2a appears to work about as well as dual therapy with peginterferon alfa-2b.</li>
+	<li>For people with genotype 1, triple therapy appears to work better than dual therapy.</li>
+	<li>In people with genotype 1 who complete triple therapy, the hepatitis C virus is cleared from their blood around 60 to 75 percent of the time.</li>
+	<li>In people with genotype 1 who complete dual therapy, the hepatitis C virus is cleared from their blood around 40 to 50 percent of the time.</li>
+	<li>In people with genotype 2 or 3 who complete dual therapy, the hepatitis C virus is cleared from their blood around 60 to 80 percent of the time (depending on how long their treatment lasted).</li>
+	<li>There is not enough research to know how often the hepatitis C virus is cleared from the blood after dual therapy in people with genotype 4, 5, or 6.</li>
+</ul>
+<h4>What are the possible side effects of medicines for chronic hepatitis C?</h4>
+<p>The FDA lists the following side effects for the combination of an interferon and ribavirin.</p>
+<p>The most common:</p>
+<ul>
+	<li>Feeling tired</li>
+	<li>Headache</li>
+	<li>Muscle aches</li>
+	<li>Fever</li>
+	<li>Chills</li>
+	<li>Nausea and vomiting</li>
+	<li>Loss of appetite</li>
+	<li>Skin reaction at the injection site</li>
+	<li>Hair loss</li>
+</ul>
+<p>More severe, but less common:</p>
+<ul>
+	<li>Severe depression</li>
+	<li>Thoughts of suicide</li>
+	<li>A low number of white blood cells (cells that fight infection)</li>
+	<li>Thyroid problems</li>
+	<li>High blood sugar</li>
+	<li>Nerve problems</li>
+	<li>Serious eye problems</li>
+	<li>Anemia (a low number of red blood cells, which carry oxygen throughout the body)</li>
+	<li>Further damage to your liver</li>
+	<li>Inflammation of the pancreas or bowels</li>
+	<li>Lung problems</li>
+	<li>A rash or other serious skin reactions</li>
+	<li>Problems with your teeth or gums</li>
+	<li>Serious allergic reaction (swelling of the face, eyes, lips, tongue, or throat; trouble breathing; chest pain)</li>
+</ul>
+<div class="report_highlight_box medium_box"><strong>Warning:</strong> Ribavirin can cause birth defects or death in an unborn baby. Women should <strong>not</strong> take ribavirin if they may be or are planning to become pregnant. A woman should avoid becoming pregnant if her male partner is taking ribavirin. A woman should wait at least 6 months after she or her male partner has stopped taking ribavirin before becoming pregnant.<br />
+	<br />
+	People with a history of heart disease should be followed closely by their doctors during treatment with ribavirin. Ribavirin can produce severe anemia in some people, which can increase the risk of heart attacks.</div>
+<p>The FDA lists the following side effects for boceprevir (Victrelis&reg;):</p>
+<ul>
+	<li>Feeling tired</li>
+	<li>Anemia</li>
+	<li>Nausea</li>
+	<li>Headache</li>
+	<li>A bitter taste</li>
+</ul>
+<p>The FDA lists the following side effects for telaprevir (Incivek&reg;):</p>
+<ul>
+	<li>Feeling tired</li>
+	<li>Itching</li>
+	<li>Anemia</li>
+	<li>Nausea and vomiting</li>
+	<li>Rash (can be severe and even life threatening in rare cases)</li>
+	<li>Hemorrhoids</li>
+	<li>Diarrhea</li>
+	<li>Itching and discomfort around the anus</li>
+	<li>A bitter taste</li>
+</ul>
+<h4>What does research say about the side effects of chronic hepatitis C medicines?</h4>
+<p><em><strong>Dual Therapy</strong></em></p>
+<ul>
+	<li>People who take dual therapy with peginterferon alfa-2a have a higher risk of having a low number of white blood cells, a rash, and other serious side effects than those who take dual therapy with peginterferon alfa-2b.</li>
+</ul>
+<p><em><strong>Triple Therapy With Boceprevir (Victrelis&reg;)</strong></em></p>
+<p>In people who take this type of therapy:</p>
+<ul>
+	<li>50 percent develop anemia</li>
+	<li>Up to 5 percent develop severe anemia</li>
+	<li>25 percent develop a low number of white blood cells</li>
+	<li>Up to 15 percent develop a very low number of white blood cells</li>
+</ul>
+<p><em><strong>Triple Therapy With Telaprevir (Incivek&reg;)</strong></em></p>
+<p>In people who take this type of therapy:</p>
+<ul>
+	<li>25 percent to more than 75 percent develop anemia</li>
+	<li>Up to 10 percent develop severe anemia</li>
+	<li>33 to 66 percent develop a rash</li>
+	<li>Up to 10 percent develop a severe rash</li>
+</ul>
+<p><em><strong>Comparing Dual and Triple Therapy</strong></em></p>
+<p>In people who take this type of therapy:</p>
+<ul>
+	<li>People who take triple therapy have a higher risk of anemia than people who take dual therapy.</li>
+	<li>People who take triple therapy with telaprevir (Incivek&reg;) have a higher risk of rash than people who take dual therapy.</li>
+</ul>
+<h4>What if treatment does not work?</h4>
+<p>If you do not respond to any of the treatments currently available, there may be new therapies in the future that might help you. Scientists are always working to develop treatments that are more effective and have fewer side effects.</p>
+<h4>Will I need a liver transplant?</h4>
+<p>If your chronic hepatitis C causes liver failure, you may need a liver transplant. In this surgery, the surgeon replaces your failed liver with a healthy liver from an organ donor. You may still have to take medicine for chronic hepatitis C after a liver transplant because the hepatitis C in your body usually infects the new liver.</p>
+<p>People who need a new liver often have to wait a long time on a transplant list. Not everyone on the list will get a liver. If a liver does become available, liver transplant surgery can have serious risks, including death.</p>
+<h4>What else can I do to help protect my liver?</h4>
+<p>Your doctor may suggest other ways to help protect your liver, such as:</p>
+<ul>
+	<li>Avoiding alcohol or limiting the amount you drink</li>
+	<li>Eating a healthy diet</li>
+	<li>Maintaining a healthy weight</li>
+	<li>Getting enough exercise</li>
+</ul>
+<h4>How can I prevent infecting others?</h4>
+<p>Hepatitis C is spread through blood. You can prevent infecting others by not sharing items that come into contact with your blood, such as a toothbrush, a razor, or needles.</p>
+<h4>Where can I find more information?</h4>
+<p>More information about hepatitis C and treatment options is available at:</p>
+<ul>
+	<li>The Centers for Disease Control and Prevention Web site: <a href="http://www.cdc.gov/hepatitis/HCV/PDFs/HepCLivingWithChronic.pdf">www.cdc.gov/hepatitis/HCV/PDFs/HepCLivingWithChronic.pdf</a></li>
+	<li>The U.S. Department of Veterans Affairs Web site: <a href="http://www.hepatitis.va.gov">www.hepatitis.va.gov</a></li>
+</ul> 
+			<a name="6667"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about?</h4>
+<p>There are several things to consider when deciding on a treatment for your chronic hepatitis C.</p>
+<p>You and your doctor should discuss:</p>
+<ul>
+	<li>If your chronic hepatitis C needs to be treated right away or if treatment can wait</li>
+	<li>How well medicines might work to treat your genotype of hepatitis C</li>
+	<li>Which treatment plan might be best for you and how treatment may affect your lifestyle</li>
+	<li>Possible serious side effects from the medicines</li>
+	<li>What you will do if the side effects become too bad to continue taking the medicine</li>
+	<li>The cost of each medicine</li>
+</ul>
+<h4>What are the costs of medicines for chronic hepatitis C?</h4>
+<p>The wholesale prices of medicines for chronic hepatitis C are listed below. Wholesale prices are the prices paid by pharmacies.</p>
+<p>The cost to you for each medicine depends on your health insurance, the dose (amount) you need to take, and whether the medicine comes in a generic form.</p>
+<table class="styleOne">
+	<caption>Wholesale Prices of Interferons</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Drug Name</th>
+			<th scope="col">Dose</th>
+			<th scope="col">Brand Name</th>
+			<th scope="col">Price Per Month for Brand Name*</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="4">*The prices listed in this chart are the average wholesale prices from <em>RED BOOK Online</em>&reg;.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td>Peginterferon alfa-2a</td>
+			<td>180 mcg per week</td>
+			<td>Pegasys&reg;</td>
+			<td>$2,960</td>
+		</tr>
+		<tr>
+			<td>Peginterferon alfa-2b</td>
+			<td>80&ndash;150 mcg per week</td>
+			<td>PegIntron&reg;</td>
+			<td>$2,896&ndash;$3,194</td>
+		</tr>
+	</tbody>
+</table>
+<table class="styleOne">
+	<caption>Wholesale Prices of Ribavirin</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Drug Name</th>
+			<th scope="col">Dose</th>
+			<th scope="col">Price Per Month for Generic*</th>
+			<th scope="col">Brand Name</th>
+			<th scope="col">Price Per Month for Brand Name*</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="5">* The prices listed in this chart are the average wholesale prices from <em>RED BOOK Online</em>&reg;. Generic prices are the middle value in the range of prices listed from different manufacturers. The actual prices of the medicines may be higher or lower than the prices listed here, depending on the manufacturer used by your pharmacy.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td rowspan="3">Ribavirin</td>
+			<td rowspan="3">800&ndash;1,400 mg daily</td>
+			<td rowspan="3">800 mg: $1,192<br />
+				1,000 mg: $1,490<br />
+				1,200 mg: $1,787<br />
+				1,400 mg: $2,085</td>
+			<td>Copegus&reg;</td>
+			<td>800 mg:&nbsp;$2,166<br />
+				1,000 mg:&nbsp;$2,708<br />
+				1,200 mg:&nbsp;$3,249</td>
+		</tr>
+		<tr>
+			<td>Rebetol&reg;</td>
+			<td>800 mg:&nbsp;$1,272<br />
+				1,000 mg:&nbsp;$1,590<br />
+				1,200 mg:&nbsp;$1,908<br />
+				1,400 mg:&nbsp;$2,226</td>
+		</tr>
+		<tr>
+			<td>Ribasphere&reg;</td>
+			<td>1,000 mg:&nbsp;$705<br />
+				1,200 mg:&nbsp;$846</td>
+		</tr>
+	</tbody>
+</table>
+<table class="styleOne">
+	<caption>Wholesale Prices of Boceprevir and Telaprevir</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Drug Name</th>
+			<th scope="col">Dose</th>
+			<th scope="col">Brand Name</th>
+			<th scope="col">Price Per Month for Brand Name*</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="4">*The prices listed in this chart are the average wholesale prices from <em>RED BOOK Online</em>&reg;.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td>Boceprevir</td>
+			<td>800 mg three times a day</td>
+			<td>Victrelis&reg;</td>
+			<td>$6,052</td>
+		</tr>
+		<tr>
+			<td>Telaprevir</td>
+			<td>750 mg three times a day</td>
+			<td>Incivek&reg;</td>
+			<td>$7,520</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Ask your doctor</h4>
+<ul>
+	<li>Do I need to treat my chronic hepatitis C right away, or can I wait?</li>
+	<li>If I decide to wait, how long should I wait before I begin treatment? How will we know when to treat my chronic hepatitis C?</li>
+	<li>If I decide to treat now, which treatment option do you think would be best for me? Why?</li>
+	<li>How long will I have to take the medicine?</li>
+	<li>How will treatment affect my ability to work, travel, and do my daily activities?</li>
+	<li>What serious side effects should I watch for, and when should I call you about them?</li>
+	<li>Can I take other medicines to help some of the side effects?</li>
+	<li>What can we do if the side effects become too bad and I have to stop the hepatitis C medicine?</li>
+	<li>Will the hepatitis C medicines interact with any other medicines I take?</li>
+	<li>Will herbal remedies or over-the-counter medicines, such as pain medicines, interact with my treatment or hurt my liver?</li>
+	<li>Can I drink alcohol or will it hurt my liver?</li>
+	<li>What should I do to avoid becoming reinfected with hepatitis C or infected with other types of hepatitis? Should I get the hepatitis A or hepatitis B vaccine?</li>
+	<li>What should I discuss with my partner or family members? Do they need to be tested for hepatitis C?</li>
+	<li>Could a support group help me as I go through treatment?</li>
+	<li>Are there other treatments being developed for chronic hepatitis C that might help me in the future?</li>
+</ul> 
+			<a name="6668"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1298"><em>Treatment for Hepatitis C Virus Infection in Adults: A Comparative Effectiveness Review</em></a>. The report was produced by the Oregon Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>For a copy of the report or for more information about AHRQ and the Effective Health Care Program, go to <a href="http://www.effectivehealthcare.ahrq.gov/hepctreatment.cfm">www.effectivehealthcare.ahrq.gov/hepctreatment.cfm</a>. Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>. Additional information is available from the Centers of Disease Control and Prevention at <a href="http://www.cdc.gov/hepatitis/HCV/PDFs/HepCLivingWithChronic.pdf">www.cdc.gov/hepatitis/HCV/PDFs/HepCLivingWithChronic.pdf</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., Stephen Pappas, M.D., and Michael Fordis, M.D.&nbsp; People with hepatitis C reviewed this summary.</p>
+<p>Findings from this report were also published in the article &ldquo;Comparative Effectiveness of Antiviral Treatment for Hepatitis C Virus Infection in Adults: A Systematic Review&rdquo; in the <em>Annals of Internal Medicine</em> on November 27, 2012.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

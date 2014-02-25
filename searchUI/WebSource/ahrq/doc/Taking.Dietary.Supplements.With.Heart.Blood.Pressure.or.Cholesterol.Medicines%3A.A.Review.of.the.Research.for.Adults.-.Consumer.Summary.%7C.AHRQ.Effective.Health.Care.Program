@@ -1,0 +1,857 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Taking Dietary Supplements With Heart, Blood Pressure, or Cholesterol Medicines: A Review of the Research for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;productid=1455&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26productid%3D1455%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=223">
+					Dietary Supplements in Adults Taking Cardiovascular Drugs 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=748">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Apr. 30, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=596">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Dec. 21, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1584">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jul. 3, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1456">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 10, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1038">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 30, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://ce.effectivehealthcare.ahrq.gov/continuing-education/CER37/Dietary-Supplements-in-Adults-taking-Cardiovascular-Drugs:-A-Comparative-Effectiveness-Review">
+									
+									CME Activity: Dietary Supplements in Adults taking Cardiovascular Drugs: A Comparative Effectiveness Review 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=86&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12(13)-EHC021-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1455%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1455%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1455%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1455%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1455%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1455%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1455%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1455%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1455%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1455%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=23984CC4-D978-5717-63DBF73272BB0329" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1455&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1455&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1455" title="Taking Dietary Supplements With Heart, Blood Pressure, or Cholesterol Medicines: A Review of the Research for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1455.gif" alt="Taking Dietary Supplements With Heart, Blood Pressure, or Cholesterol Medicines: A Review of the Research for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Taking Dietary Supplements With Heart, Blood Pressure, or Cholesterol Medicines: A Review of the Research for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1455&amp;button=1&quot; title=&quot;Taking Dietary Supplements With Heart, Blood Pressure, or Cholesterol Medicines: A Review of the Research for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1455.gif&quot; border=&quot;0&quot; alt=&quot;Taking Dietary Supplements With Heart, Blood Pressure, or Cholesterol Medicines: A Review of the Research for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Apr. 10, 2013 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Taking Dietary Supplements With Heart, Blood Pressure, or Cholesterol Medicines: A Review of the Research for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/223/1455/dietary-supplements-130509.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							853 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li class="last" style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/223/1455/Dietary Supplements.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.4 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#7370">Is This Summary Right for Me?</a></li>
+					
+						<li><a href="#7371">Understanding Cardiovascular Disease</a></li>
+					
+						<li><a href="#7372">Understanding Your Options</a></li>
+					
+						<li><a href="#7373">Making a Decision</a></li>
+					
+						<li><a href="#7374">Source</a></li>
+					
+			</ul>
+		
+			<a name="7370"></a>
+			
+
+			
+				<h3>Is This Summary Right for Me?</h3>
+				<h4>Yes, this information is for you if:</h4>
+<ul>
+	<li>Your doctor* has suggested you take one of the following heart, blood vessel, blood pressure, cholesterol, or blood thinner medicines. These are called cardiovascular (CV) medicines.
+		<ul>
+			<li>Blood pressure medicines like ACE (angiotensin- converting enzyme) inhibitors, ARBs (angiotension II receptor blockers), beta-blockers, calcium channel blockers, and diuretics (sometimes called &ldquo;water pills&rdquo;)**</li>
+			<li>Medicines that help make the pumping of your heart stronger, like Lanoxicaps<sup>&reg;</sup> or Lanoxin<sup>&reg;</sup></li>
+			<li>Medicines that help control your cholesterol and triglyceride levels, like statins or fenofibrate</li>
+			<li>Blood thinners like warfarin (Coumadin<sup>&reg;</sup>)</li>
+			<li>Aspirin or other &ldquo;antiplatelet&rdquo; medicines like Plavix<sup>&reg;</sup>, Brilinta<sup>&reg;</sup>, or Pradaxa<sup>&reg;</sup></li>
+			<li>Medicines to treat or prevent chest pain from your heart, like nitrates such as Isordil<sup>&reg;</sup></li>
+		</ul>
+	</li>
+	<li>You are taking or thinking about taking one or more dietary supplements (vitamins, minerals, herbs, and other substances that add to the vitamins and minerals you get from food) in addition to your CV medicine.<sup>&dagger;</sup> Dietary supplements studied in the research for this summary include:
+		<ul>
+			<li>Niacin (vitamin B3)</li>
+			<li>Vitamin E</li>
+			<li>Vitamin K</li>
+			<li>Magnesium</li>
+			<li>Ginseng</li>
+			<li><em>Echinacea</em></li>
+			<li>Garlic supplements</li>
+			<li>Ginger supplements</li>
+			<li><em>Ginkgo biloba</em></li>
+			<li>Omega-3 fatty acids/fish oil</li>
+			<li>Coenzyme Q10</li>
+			<li>Hawthorn</li>
+		</ul>
+	</li>
+	<li>You want to know what research says about taking dietary supplements with CV medicine.</li>
+	<li>You are 18 years or older. The information for this summary is from research on adults.</li>
+</ul>
+<p>* In this summary, the term &ldquo;doctor&rdquo; refers to the health care professionals who may take care of you, including your physician, cardiologist, nurse practitioner, or physician assistant.<br />
+	** Examples of these types of blood pressure medicines taken by men and women are available at <a href="http://www.fda.gov/ForConsumers/ByAudience/ForWomen/ucm118594.htm">www.fda.gov/ForConsumers/ByAudience/ForWomen/ucm118594.htm</a>.<br />
+	<sup>&dagger;</sup> Not all dietary supplements and CV medicines were studied&mdash;only those listed in this summary.</p>
+<h4>What does this summary cover?</h4>
+<p>This summary explains that there is not enough research about taking dietary supplements along with CV medicines to know for sure if supplements are helpful or harmful. Dietary supplements can be taken for many reasons other than CV problems. This summary only talks about the research on taking certain dietary supplements at the same time as a CV medicine. This summary can help you talk with your doctor about taking dietary supplements.</p>
+<p><img alt="Woman looking at bottles of pills" src="/ehc/assets/Image/Screen Shot 2013-04-05 at 7_36_49 PM.png" style="width: 400px; height: 359px; " /></p>
+<h4>Where does the information in this summary come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 70 studies published through September 2011 on the effects of taking dietary supplements along with CV medicines. The report was reviewed by clinicians, researchers, experts, and the public.</p> 
+			<a name="7371"></a>
+			
+
+			
+				<h3>Understanding Cardiovascular Disease</h3>
+				<h4>What is cardiovascular disease?</h4>
+<p>Cardiovascular (CV) disease is any disease that affects your heart and blood vessels. A common form of CV disease happens when the blood vessels that supply blood to your heart become narrow or blocked. This is the main cause of heart attacks and heart failure. Having high blood pressure and/or high cholesterol can increase your risk of CV disease and could lead to a heart attack. Your doctor may prescribe medicines to treat your high blood pressure or high cholesterol to prevent you from getting CV disease.</p>
+<p>Other heart problems can happen when the valves in your heart do not work correctly or when your heart does not pump blood well enough. These problems can lead to heart failure.</p>
+<h5>How common is CV disease?</h5>
+<ul>
+	<li>About 1 out of 3 adults in the United States (around 81 million Americans) have some form of CV disease.</li>
+	<li>CV disease is the leading cause of death in the United States.</li>
+</ul>
+<h5>How is CV disease prevented or treated?</h5>
+<p>Lifestyle changes such as eating a healthy diet, exercising, and not smoking can improve blood pressure and cholesterol. This can help prevent CV disease or keep it from getting worse. There are also many medicines that treat CV problems. These include medicines that:</p>
+<ul>
+	<li>Lower blood pressure</li>
+	<li>Lower cholesterol and triglycerides (a type of fat in your blood)</li>
+	<li>Help the heart pump stronger</li>
+	<li>Prevent blood clots</li>
+</ul>
+<p>People with CV disease take an average of six medicines for this condition.</p> 
+			<a name="7372"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>What are dietary supplements?</h4>
+<p>Dietary supplements are vitamins, minerals, herbs, and other substances that &ldquo;supplement&rdquo; (add to) the vitamins and minerals you get from foods. These products come as pills, powders, drinks, and bars. They are sold at pharmacies, grocery stores, vitamin stores, and health food stores and on the Internet.</p>
+<p>Many supplements are advertised for specific health problems, like high blood pressure, high cholesterol, or CV disease. Some supplements that have been sold for these CV problems include:</p>
+<ul>
+	<li>Vitamins and minerals, such as:
+		<ul>
+			<li>Niacin (vitamin B3)</li>
+			<li>Vitamin E</li>
+			<li>Vitamin K</li>
+			<li>Magnesium</li>
+		</ul>
+	</li>
+	<li>Herbs or supplements made from plants, such as:
+		<ul>
+			<li>Ginseng</li>
+			<li><em>Echinacea</em></li>
+			<li>Garlic supplements</li>
+			<li>Ginger supplements</li>
+			<li><em>Ginkgo biloba</em></li>
+			<li>Hawthorn</li>
+		</ul>
+	</li>
+	<li>Other supplements, such as:
+		<ul>
+			<li>Omega-3 fatty acids/fish oil</li>
+			<li>Coenzyme Q10</li>
+		</ul>
+	</li>
+</ul>
+<p>Dietary supplements are very popular. You may have seen them advertised on TV, on the Internet, in newspapers, or in magazines. Or, you may have heard about supplements from a friend. One to two out of every three adults with CV problems takes a dietary supplement because they think it will give them some health benefit.</p>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">More information on dietary supplements is available at:
+	<ul>
+		<li>The U.S. Food and Drug Administration (FDA) Web site: <a href="http://www.fda.gov/Food/ResourcesForYou/Consumers/ucm109760.htm">www.fda.gov/Food/ResourcesForYou/Consumers/ucm109760.htm</a></li>
+		<li>The National Institutes of Health Web site: <a href="http://www.ods.od.nih.gov/pubs/DS_WhatYouNeedToKnow.pdf">www.ods.od.nih.gov/pubs/DS_WhatYouNeedToKnow.pdf</a></li>
+	</ul>
+</div>
+<h4>How are dietary supplements different from prescription and over-the-counter medicines?</h4>
+<p>Dietary supplements you can buy over the counter that claim to help conditions like high blood pressure, high cholesterol, or CV disease are not the same as medicine.* Supplements are not meant to treat, prevent, or cure diseases.</p>
+<p>Unlike prescription or over-the-counter medicines, dietary supplements do not have to be approved by the FDA.</p>
+<ul>
+	<li>Prescription and over-the-counter medicines must pass tests that show they work and are safe before they are advertised and sold to the public.</li>
+	<li>Dietary supplements, however, do not have to prove they work or are safe before they are advertised and sold. Supplements are thought to be safe because they have been used by people for many years.</li>
+</ul>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">Note: Talk with your doctor about the claimed benefits and safety of dietary supplements and if they may be helpful for you.</div>
+<p>* Some supplements have been made into medicines and are regulated by the FDA. These usually have higher doses and concentrations than are available over the counter. These include niacin (vitamin B3) and omega-3 fatty acids (Lovaza<sup>&reg;</sup>).</p>
+<h4>Can dietary supplements be harmful?</h4>
+<p>Although dietary supplements are advertised as being beneficialor helpful, there is not much research about how they may harm your health when taken with CV medicines. Supplements could cause side effects that may not be listed on the label. Dietary supplements may also interfere with certain medicines or other supplements. This could make the medicine or supplement not work as well or could cause other side effects.</p>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Note</strong>: It is important to always tell your doctor about any supplements you take. It is also important to continue taking your CV medicine and other medicines as directed by your doctor even if you also take a dietary supplement. Dietary supplements <strong>do not</strong> replace prescription medicines.</div>
+<div class="report_highlight_box large_box" style="background-color: rgb(255, 204, 229); margin-left: 40px; text-align: left;"><strong>Note</strong>: The FDA reports that too much vitamin K can stop warfarin (Coumadin<sup>&reg;</sup>) from working correctly. This may increase the risk for a blood clot, heart attack, or stroke. If you take warfarin, be sure to check with your doctor before taking vitamin K.</div>
+<h4>What does research say about taking dietary supplements with CV medicines?</h4>
+<p>There is not enough research to know for sure if supplements really help or if they cause harm when taken with CV medicines.</p>
+<ul>
+	<li>There is not enough research to know for sure if taking dietary supplements with CV medicines helps improve CV disease or helps prevent death from CV disease.</li>
+	<li>There is not enough research to know for sure if taking supplements with CV medicines helps improve conditions that increase the risk for CV disease, such as high blood pressure, high cholesterol, or high triglyceride levels.</li>
+	<li>There is not enough research to know for sure if taking dietary supplements with CV medicines causes any minor or serious side effects. Side effects could include nausea, diarrhea, constipation, seizures, difficulty breathing or swallowing, bleeding problems, kidney problems, or liver problems.</li>
+</ul> 
+			<a name="7373"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>There are several things to consider when deciding whether or not to add a dietary supplement to your CV medicine. Talk with your doctor about:</p>
+<ul>
+	<li>How much is known about the benefits and safety of the supplement you want to take</li>
+	<li>If dietary supplements could interfere with other medicines you take in addition to your CV medicine or affect other conditions you have</li>
+	<li>How to make sense of the claims being made about supplements in the media and on the Internet</li>
+	<li>The cost of adding dietary supplements to your CV medicine</li>
+</ul>
+<h4>What are the costs of dietary supplements?</h4>
+<p>The costs to you for dietary supplements vary a lot, depending on:</p>
+<ul>
+	<li>The type and brand of the supplements</li>
+	<li>The store or Web site you buy them from</li>
+	<li>How much you buy at one time</li>
+</ul>
+<h4>Ask your doctor</h4>
+<p>Be sure to tell your doctor if you are thinking about taking a dietary supplement before you begin. You should ask your doctor:</p>
+<ul>
+	<li>What do you think about adding dietary supplements to my CV medicine? Could supplements help me?</li>
+	<li>Could taking a dietary supplement be unsafe for me?</li>
+	<li>Which dietary supplements might interfere with the medicines I take?</li>
+	<li>If I do decide to take a supplement, how much should I take? How often? For how long?</li>
+	<li>What side effects should I look for?</li>
+</ul> 
+			<a name="7374"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report Dietary Supplement Use in Adults Taking Cardiovascular Drugs, April 2012. The report was produced by the University of Ottawa Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus<sup>&reg;</sup> Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., Thomas Workman, Ph.D., Salim Virani, M.D., and Michael Fordis, M.D. Patients taking CV medicines reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

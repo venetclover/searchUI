@@ -1,0 +1,840 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Depression After Brain Injury: A Guide for Patients and Their Caregivers - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?mode=p&amp;pcem=110413&amp;pageaction=displayproduct&amp;productid=647" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fmode%3DP%26PCem%3D110413%26pageaction%3Ddisplayproduct%26productID%3D647">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=77">
+					Traumatic Brain Injury and Depression 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=658">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Apr. 13, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=367">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Dec. 9, 2009 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1656">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 20, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1513">
+										Surveillance Report  (Update)
+									</a>
+							<span style="font-size:7pt;"> May 27, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=646">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 13, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=744">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Aug. 15, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=851">
+										Policymaker Summary 
+									</a>
+							<span style="font-size:7pt;"> Nov. 21, 2011 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=657">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 13, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?&pageaction=displaycmeactivity&activityID=290&cmepage=cme_info">
+									
+									CME Activity: Traumatic Brain Injury and Depression 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=210&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication No. 11-EHC017-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fmode%3dp%26amp%3bpcem%3d110413%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d647"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fmode%3dp%26amp%3bpcem%3d110413%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d647"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fmode%3dp%26amp%3bpcem%3d110413%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d647"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fmode%3dp%26amp%3bpcem%3d110413%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d647&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fmode%3dp%26amp%3bpcem%3d110413%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d647&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fmode%3dp%26amp%3bpcem%3d110413%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d647&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fmode%3dp%26amp%3bpcem%3d110413%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d647"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fmode%3dp%26amp%3bpcem%3d110413%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d647&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fmode%3dp%26amp%3bpcem%3d110413%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d647&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fmode%3dp%26amp%3bpcem%3d110413%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d647&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2632E8C9-BBB3-5FD7-22B87BB74FDF4F77" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm/search-for-guides-reviews-and-reports/?PCem=110413&amp;mode=P&amp;pageaction=displayproduct&amp;productID=647" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=647&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=647" title="Depression After Brain Injury: A Guide for Patients and Their Caregivers"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/647.gif" alt="Depression After Brain Injury: A Guide for Patients and Their Caregivers" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Depression After Brain Injury: A Guide for Patients and Their Caregivers" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=647&amp;button=1&quot; title=&quot;Depression After Brain Injury: A Guide for Patients and Their Caregivers&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/647.gif&quot; border=&quot;0&quot; alt=&quot;Depression After Brain Injury: A Guide for Patients and Their Caregivers&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Apr. 13, 2011 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Depression After Brain Injury: A Guide for Patients and Their Caregivers</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/77/647/TBI-Depression_ConsumerGuide_04-13-2011.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							619 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/77/647/Depression_After_TBI.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							5.0 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=744" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#2726">Is This Guide Right for Me?</a></li>
+					
+						<li><a href="#2727">Understanding Your Condition</a></li>
+					
+						<li><a href="#2728">Understanding Your Choices</a></li>
+					
+						<li><a href="#2729">Sources</a></li>
+					
+			</ul>
+		
+			<a name="2726"></a>
+			
+
+			
+				<h3>Is This Guide Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<ul>
+	<li>You have experienced a mild, moderate, or severe injury to your brain due to a sudden trauma. This guide is for you even if you did not see a doctor at the time of the injury.</li>
+	<li>A doctor or health care professional has told you that you have suffered a brain injury.</li>
+	<li>This guide is for you <em>even if you have not felt depressed</em> since your brain injury.</li>
+</ul>
+<h4>Where does the information for this guide come from?</h4>
+<p>The information in this guide comes from a review of many studies about traumatic brain injury and depression. The review was conducted by an independent research center and was paid for by the Agency for Healthcare Research and Quality, a research agency of the U.S. Government. You can read the full report at <a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=658">http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=658</a>.</p> 
+			<a name="2727"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is traumatic brain injury?</h4>
+<p>Traumatic brain injury (TBI) is the medical term for when your brain is injured by some force, such as:</p>
+<ul>
+	<li>A direct hit to your head by an object.</li>
+	<li>A fall to the ground or a hard surface.</li>
+	<li>A car, motorcycle, or bike crash.</li>
+	<li>An explosion or a blast very close to your head.</li>
+</ul>
+<p>Doctors can tell whether your injury is mild, moderate, or severe based on what happened at the time of your injury (if you were knocked out, if you had trouble seeing clearly, or lost some memory) and by other tests. Around 1.5 million people who are not in the military experience some form of TBI each year in the United States. It is likely that more people are affected, because many people with mild TBI do not go to the emergency room or report their injury. Most TBI cases (75 percent) are mild.</p>
+<h4>Problems Caused by TBI</h4>
+<p>Any injury to your brain&mdash;even if it is mild&mdash;can cause problems such as headaches, ringing in your ears, mood changes, or trouble remembering or thinking for long periods of time. You may have found that your sleeping habits are different or that you feel tired more often.</p>
+<p>Even several months or years after your brain injury, you may notice other difficulties, including depression or anxiety.</p>
+<h4>Depression and TBI</h4>
+<h5>What is depression?</h5>
+<p>Depression is more than feeling sad every now and then. It is normal for someone who has had a TBI to feel sad by the problems caused by this injury. But for some people, those feelings can extend beyond normal feelings of sadness. People with depression feel sad, lack energy or feel tired, or have difficulty enjoying routine events almost daily. Other symptoms include difficulty sleeping, loss of appetite, poor attention or concentration, feelings of guilt or worthlessness, or thoughts of suicide.</p>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Depression is a serious but treatable problem that should not be ignored. </strong>Many people require some form of treatment by a doctor or other health care professional to relieve their depression.</div>
+<h5>How common is depression for people with TBI?</h5>
+<p>Research has found that patients with TBI are more likely to experience depression than those who have not had a brain injury.</p>
+<p>For every 10 people who do <strong>NOT</strong> have a brain injury, approximately one person (<img height="15" width="16" src="/tasks/sites/ehc/assets/Image/redsmile(6).gif" alt="frown face" />) will have depression.</p>
+<p></p>
+<p><img height="56" width="407" alt="graphic illustrating that for every 10 people who do NOT have a brain injury, approximately one person will have depression." src="/tasks/sites/ehc/assets/Image/10smile1frown.png" /></p>
+<p>For every 10 people who <strong>DO</strong> have a brain injury, approximately three people (<img height="15" width="16" alt="frown face" src="/tasks/sites/ehc/assets/Image/redsmile(5).gif" />) will have depression.</p>
+<p><img height="55" width="407" alt="Graphic illustrating that for every 10 people who DO have a brain injury, approximately three people will have depression." src="/tasks/sites/ehc/assets/Image/7_smile_3_frown.png" /></p>
+<h5>What increases my risk of depression?</h5>
+<p>The risk of depression after a TBI increases whether the injury is mild, moderate, or severe. Researchers cannot say if age, gender, the part of the brain that was injured, or the type of injury makes depression more likely.</p>
+<h5>How soon after my injury might I become depressed?</h5>
+<p>Researchers do not know when depression is most likely to occur after TBI. Some people experience depression right after their injury, while others develop depression a year or more later. It is important to tell your doctor about any symptoms of depression you may be having even if it has been a while since your head injury. Your doctor or health care professional will ask you a series of questions or have you fill out a questionnaire or form to see if you have depression.</p>
+<h5>How can I tell if I am depressed?</h5>
+<p>There are ways to tell if you are depressed.</p>
+<ul>
+	<li>Feeling down, depressed, or sad most of the day.</li>
+	<li>Changes in your sleeping habits, such as sleeping poorly or sleeping more than usual.</li>
+	<li>Losing interest in usual activities such as favorite hobbies, time with family members, or activities with friends.</li>
+	<li>Increasing your use of alcohol, drugs, or tobacco.</li>
+	<li>Not eating as much or eating more, whether or not you are hungry.</li>
+	<li>Strong feelings of sadness, despair, or hopelessness.</li>
+	<li>Thoughts of suicide.</li>
+</ul>
+<p>You may not notice some of these symptoms, but people living and working around you may see them. You may want to ask the people close to you if they notice these signs in you.</p>
+<h5>What should I do if these symptoms start to occur?</h5>
+<p>Tell your doctor or health care professional as soon as you or others around you notice any symptoms.</p>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">If you have suicidal thoughts, call the National Suicide Prevention Lifeline at 1-800-273-8255 or go to <a href="http://www.suicidepreventionlifeline.org">www.suicidepreventionlifeline.org</a> <a href="/index.cfm/exit-disclaimer/"><img alt="Exit Disclaimer" src="/ehc/images/exit_disclaimer.png" /></a> for help.</div> 
+			<a name="2728"></a>
+			
+
+			
+				<h3>Understanding Your Choices</h3>
+				<h4>How is depression treated?</h4>
+<p>Depression is usually treated two ways:</p>
+<ul>
+	<li>Personal counseling with a special kind of health care professional. This is called &ldquo;psychotherapy&rdquo; (pronounced si-koh-THER-uh-pee).
+	<ul>
+		<li>In psychotherapy, you and a trained health care professional talk about your symptoms and how to develop ways to deal with them.</li>
+		<li>You might meet with your therapist weekly for several months or longer, depending on how you feel.</li>
+	</ul>
+	</li>
+	<li>Medicines called &ldquo;antidepressants&rdquo; (pronounced an-tee-dee-PRESS-uhnts).
+	<ul>
+		<li>Several types of antidepressants are used to treat depression and anxiety.</li>
+		<li>You might need to take these medicines for several months or longer, depending on how you feel.</li>
+	</ul>
+	</li>
+</ul>
+<p>Many times, people need both psychotherapy and medicines.</p>
+<p>Researchers do not know the specific benefits and harms or side effects of psychotherapy and antidepressants for people with TBI. However, both psychotherapy and antidepressants have helped people with depression.</p>
+<h4>Are there any side effects from antidepressants?</h4>
+<p>All antidepressants can cause side effects.</p>
+<p>Researchers do not know if the side effects are different for people with TBI than for other people who take antidepressants. However, research found that for some people antidepressants can cause:</p>
+<ul>
+	<li>Stomach or intestinal pain and diarrhea.</li>
+	<li>Weight gain or weight loss.</li>
+	<li>Nausea and vomiting.</li>
+	<li>Sexual problems.</li>
+	<li>Trouble sleeping or sleepiness during the day.</li>
+</ul>
+<p>Talk to your health care professional about the possible side effects of antidepressant medicines.</p>
+<p>One special concern for people with TBI is how antidepressants may affect other medicines they take for their brain injury. It is important to tell your doctor or health care professional about other medicines you take.</p>
+<h4>Your health care professional can help you decide</h4>
+<h5>Tell your health care professional:</h5>
+<p>It is important that you contact your health care professional when you experience:</p>
+<ol>
+	<li>Changes in sleeping or eating habits.</li>
+	<li>Frequent feelings of sadness, hopelessness, anxiety, or panic.</li>
+	<li>Disinterest in your favorite activities.</li>
+	<li>Thoughts about suicide.</li>
+</ol>
+<h5>Ask your health care professional:</h5>
+<p>Here are some questions you may want to ask your health care professional if you are going to be treated for depression or anxiety following your brain injury:</p>
+<ol>
+	<li>How often should we check to see if I am developing depression or an anxiety disorder?</li>
+	<li>How long do you think I will need psychotherapy or medications to treat these problems?</li>
+</ol> 
+			<a name="2729"></a>
+			
+
+			
+				<h3>Sources</h3>
+				<p>The information in this guide comes from the report <em>Traumatic Brain Injury and Depression</em>. It was produced by the Vanderbilt University Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ). Information about the side effects of antidepressants comes from the report <em>Comparative Effectiveness of Second-Generation Antidepressants in the Pharmacologic Treatment of Depression</em>. It was produced by the RTI International&ndash;University of North Carolina Evidence-based Practice Center through funding by AHRQ. For a copy of either of these reports or for more information about AHRQ and the Effective Health Care Program, go to www.effectivehealthcare.ahrq.gov. Additional information for this guide came from the Medline-Plus Web site, a service of the U.S. National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus/traumaticbraininjury.html">http://www.nlm.nih.gov/medlineplus/traumaticbraininjury.html</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Sarah Michel, M.P.H., Kim Farina, Ph.D., Thomas Workman, Ph.D., Nicholas Pastorek, M.D., and Michael Fordis, M.D.&nbsp; Illustrations were created by Douglas Alexander. Patients with traumatic brain injury reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

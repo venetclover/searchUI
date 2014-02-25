@@ -1,0 +1,830 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Thinking About Inducing Your Labor: A Guide for Pregnant Women - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;productid=353&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26productid%3D353%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=135">
+					Maternal and Neonatal Outcomes of Elective Induction of Labor 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=355">
+										Research Report 
+									</a>
+							<span style="font-size:7pt;"> Mar. 1, 2009 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=354">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Nov. 30, 2009 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=504">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Aug. 18, 2010 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 10-EHC004-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d353%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d353%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d353%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d353%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d353%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d353%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d353%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d353%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d353%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d353%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=239826F5-C4A9-A50C-8D8276AFFA357CCB" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=353&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=353&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=353" title="Thinking About Inducing Your Labor: A Guide for Pregnant Women"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/353.gif" alt="Thinking About Inducing Your Labor: A Guide for Pregnant Women" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Thinking About Inducing Your Labor: A Guide for Pregnant Women" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=353&amp;button=1&quot; title=&quot;Thinking About Inducing Your Labor: A Guide for Pregnant Women&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/353.gif&quot; border=&quot;0&quot; alt=&quot;Thinking About Inducing Your Labor: A Guide for Pregnant Women&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Dec. 14, 2009 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Thinking About Inducing Your Labor: A Guide for Pregnant Women</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/135/353/induction of labor consumer guide.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							894 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/135/353/IOL_consumer_20091214.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							11.5 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/135/353/IOL_consumer_20091214.swf" class="button-audio button-showtext">
+								Play Audio</a>
+							
+							(SWF)
+							70 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=504" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+				<p><p>The abstract and research report for this topic are available at: <a href="http://www.ahrq.gov/clinic/tp/eiltp.htm">http://www.ahrq.gov/clinic/tp/eiltp.htm</a> </p></p>
+			
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#932">Introduction</a></li>
+					
+						<li><a href="#933">Fast Facts</a></li>
+					
+						<li><a href="#934">About Elective Induction</a></li>
+					
+						<li><a href="#935">Possible Problems</a></li>
+					
+						<li><a href="#936">What Is Still Not Known?</a></li>
+					
+						<li><a href="#937">Things To Think About</a></li>
+					
+						<li><a href="#938">Questions To Ask Your Doctor or Midwife</a></li>
+					
+						<li><a href="#939">What is the Source of This Guide?</a></li>
+					
+						<li><a href="#940">Where Can I Get More Information?</a></li>
+					
+			</ul>
+		
+			<a name="932"></a>
+			
+
+			
+				<h3>Introduction</h3>
+				<h2>What Does This Guide Cover?</h2>
+<p>This guide can help you talk to your doctor or midwife about elective induction of labor. It helps answer these questions.</p>
+<p></p>
+<p>What is elective induction? <br />
+What are the possible problems with elective induction? <br />
+What don&rsquo;t we know yet about elective induction?</p>
+<p>This guide covers what research can and can&rsquo;t tell us about elective induction. It is based on a government-funded review of research reports about elective induction of labor.</p>
+<p></p>
+<h2>What Is Not Covered in This Guide?</h2>
+<p>This guide does not cover labor induction for medical reasons, like problems with blood sugar or high blood pressure. It does not cover induction of labor that is done when you are more than a week past your due date. It also does not talk about using medicines to keep labor going or to make labor stronger once it has started on its own.</p> 
+			<a name="933"></a>
+			
+
+			
+				<h3>Fast Facts</h3>
+				<ul>
+	<li>Elective induction of labor is starting labor near your due date but before your body has gone into labor on its own. Labor can be started using medicine or other ways to open your cervix (SUR-vix) and start contractions.</li>
+	<li>A cesarean section (C-section) might be needed if there are problems with labor. This is true for labor that is induced and for labor that starts on its own.</li>
+	<li>The more open and ready the cervix is when labor is induced, the less likely a C- section will be needed.  </li>
+	<li>The risk of C-section with elective induction depends on if you have ever had a baby before. </li>
+</ul>
+<p><span style="display: none;" id="1260909927978E">&nbsp;</span></p>
+<p></p> 
+			<a name="934"></a>
+			
+
+			
+				<h3>About Elective Induction</h3>
+				<h2>What is induction of labor?</h2>
+<p>Induction of labor is the use of medicine or other methods to get labor started. Induction is starting your contractions when they have not yet started on their own. The goal is to get the uterus to start contracting and the cervix to open up.</p>
+<ul>
+	<li>Oxytocin (Pitocin&reg;) is one medicine used to get contractions started. It is given by an IV.</li>
+	<li>Other ways to induce labor may include breaking the bag of water or using a balloon-like device that helps stretch the cervix and open it up.</li>
+	<li>Your doctor or midwife may suggest other medicines to help soften and open the cervix.</li>
+</ul>
+<h2>What is elective induction?</h2>
+<p>A woman and her doctor or midwife can decide to start labor near the woman&rsquo;s due date <em>by a choice made together</em>. &ldquo;Elective&rdquo; means that it is done for reasons other than a problem with the pregnancy.</p>
+<h2>What is <em>not</em> elective induction?</h2>
+<p>Inducing labor for a medical reason, like a problem with high blood pressure, is not an elective induction.</p>
+<p>Oxytocin (Pitocin&reg;) is sometimes given to women who are already in labor. It helps make contractions stronger. This is not elective induction, even though the medicine used is the same.</p>
+<h2>Why might women want to induce labor?</h2>
+<h2></h2>
+<ul>
+	<li>Physical discomforts in the last part of pregnancy.</li>
+	<li>Concern about being able to get to the hospital in time.</li>
+	<li>Having their own doctor or midwife at the delivery.</li>
+	<li>Having their spouse or partner at the delivery.</li>
+	<li>Scheduling issues with work or childcare.</li>
+</ul>
+<h2></h2>
+<h2>Why might women <em>not</em> want to induce labor?</h2>
+<p></p>
+<ul>
+	<li>Wanting to start labor without using medicine.</li>
+	<li>Concern that using medicines might make labor more painful.</li>
+	<li>Concern that the baby might be born premature (too early) because the due date is uncertain.</li>
+	<li>Not wanting to be in the hospital any longer than necessary.</li>
+	<li>Worry that there may be problems that have not been studied.</li>
+</ul>
+<h2></h2>
+<p><img height="579" width="512" src="/tasks/sites/ehc/assets/Image/iol_changes_during_labor.png" alt="During labor, the uterus gets hard and then relaxes again. This is called a contraction. The contractions get stronger and come closer together as labor continues. They help open the cervix and push the baby out of the uterus. The cervix is the opening of the uterus. During labor, it opens up (dilates). Your doctor or midwife will measure how dilated your cervix is. The opening is measured in centimeters. For example, early in labor your cervix may be dilated 3 centimeters. When your cervix is dilated 10 centimeters, it is open all the way. This is when a woman can usually begin to push." /></p>
+<p></p> 
+			<a name="935"></a>
+			
+
+			
+				<h3>Possible Problems</h3>
+				<h2>Problems with getting labor started</h2>
+<p>When labor is induced, it may take a long time to start or really get going. It might take a long time for the cervix to open up. If these problems happen, you may have options. It is okay to ask your doctor or midwife about taking a break and maybe going home. Labor might get going later. Once the bag of water breaks, there is a higher chance of infection. You can only go home if your water has not broken and if you and your baby are healthy.</p>
+<h2>Monitoring and pain</h2>
+<p>When labor is induced with medicines, a woman usually needs to wear a monitor that checks the baby&rsquo;s heart rate. This means you cannot get up and move around as much during labor.</p>
+<p>Using medicines to induce labor may cause a woman to have stronger and more painful contractions earlier in labor than if she started labor without these medicines.</p>
+<h2>When isn&rsquo;t it safe to induce labor?</h2>
+<p>It usually is not safe to induce labor before 39 weeks of pregnancy (1 week before your due date). If labor is induced much sooner than this, your baby could be born too early. Premature babies can have problems with breathing, feeding, or keeping a normal temperature. If you or your baby have a health problem, like very high blood pressure or diabetes, inducing your labor before 39 weeks can sometimes be the right thing to do. The risk of the baby being born too early is balanced by the dangers of the health problem.</p>
+<h2>Cesarean section</h2>
+<p>A cesarean section (C-section) is a major operation that delivers the baby through the mother&rsquo;s belly. A C-section can be done for the mother&rsquo;s or baby&rsquo;s health if there are problems during labor. A C-section can also be done if labor doesn&rsquo;t move along enough for the baby to be born naturally.</p>
+<p>A woman&rsquo;s chance for C-section is higher if:</p>
+<ul>
+	<li>Her cervix is not already starting to open when labor is induced.</li>
+	<li>She is having her very first baby.</li>
+	<li>She is very overweight before or during pregnancy.</li>
+</ul>
+<p>Research can&rsquo;t tell us if any one woman&rsquo;s chance of having a C-section is different if she chooses to be induced rather than waiting for labor to start on its own.</p>
+<p></p> 
+			<a name="936"></a>
+			
+
+			
+				<h3>What Is Still Not Known?</h3>
+				<p>Elective induction may help if you are having an uncomfortable pregnancy or want to schedule your birth. But research can&rsquo;t tell us if there are any medical benefits to elective induction.  Research also can&rsquo;t tell us if there are any benefits to the baby from elective induction.</p>
+<p>Research shows that inducing labor does not mean that babies have a higher chance for a newborn breathing problem, serious infections, seizures, low blood sugar, or jaundice. Research can&rsquo;t tell us about other newborn problems.</p>
+<p>Research doesn&rsquo;t have answers about the effect inducing labor can have on the use of pain medicines, length of hospital stay, breastfeeding problems, and problems for the baby during labor. <br />
+</p> 
+			<a name="937"></a>
+			
+
+			
+				<h3>Things To Think About</h3>
+				<p>Research can&rsquo;t tell us everything that may be important to you when thinking about elective induction. Research can&rsquo;t tell us much about benefits. So think about the possible problems, your situation, and your preferences.</p>
+<p><strong>Am I more likely to have a C-section if I have my labor induced?</strong><br />
+Research can&rsquo;t tell us if inducing labor makes having a C-section more likely than waiting for labor to start on its own. But your chances of C-section are higher if you have never had a baby vaginally before.</p>
+<p><strong>What if I have had a C-section before?</strong><br />
+A C-section leaves a scar on the uterus. This scar makes it more risky to have an elective induction. If you have had a C-section before, your doctor may talk to you about other choices besides elective induction.</p>
+<p><strong>Is having another induction different from having the first one?</strong><br />
+There is not much research on this. Use your past experience as a guide and talk with your doctor or midwife.</p>
+<p><strong>How can I improve my chances of having a vaginal birth?</strong><br />
+If your cervix is closed and you want to have your labor induced, ask about ways to improve your chances of having a vaginal birth. Your doctor or midwife might suggest a special type of cervical exam called membrane sweeping. Membrane sweeping can be done in the office. Also, there are medicines to soften and open the cervix. These medicines are put into your vagina. Usually they are started when you go to the hospital. Discuss with your doctor or midwife which option might be the best and most safe for you.</p>
+<p><strong>My doctor or midwife is suggesting an elective induction. Do I have a choice?</strong><br />
+Yes. With elective induction, there is always a choice. Be sure you talk with your doctor or midwife about what you want.<br />
+</p> 
+			<a name="938"></a>
+			
+
+			
+				<h3>Questions To Ask Your Doctor or Midwife</h3>
+				<p>I&rsquo;m thinking about elective induction. Do you do elective inductions?</p>
+<p>When would you schedule an induction?</p>
+<p>What methods do you use to get labor started?</p>
+<p>If my induction is going slowly and my baby is okay, can I take a break<br />
+or come back another day to have my baby?</p>
+<p>Are there things that we can do to get my body to go into labor on its own?</p>
+<p>Will my insurance cover an elective induction?<br />
+</p> 
+			<a name="939"></a>
+			
+
+			
+				<h3>What is the Source of This Guide?</h3>
+				<p>The information in this guide comes from a detailed review of 76 research reports. The review is called <em>Maternal and Neonatal Outcomes of Elective Induction of Labor: A Systematic Review and Cost-Effectiveness Analysis</em> (2008) and was written by the Stanford University-UCSF Evidence-based Practice Center.</p>
+<p>The Agency for Healthcare Research and Quality (AHRQ) created the Eisenberg Center at Oregon Health &amp; Science University to make research helpful for consumers.  This guide was written by Amanda Risser, M.D., Valerie King, M.D., Erin Davis, B.A., Martha Schechtel, R.N., and David Hickam, M.D., of the Eisenberg Center. Pregnant women and women who recently had a baby helped the Eisenberg Center develop this guide.<br />
+</p> 
+			<a name="940"></a>
+			
+
+			
+				<h3>Where Can I Get More Information?</h3>
+				<p>For an electronic copy of this guide and materials about choosing treatments and medicines for other conditions, visit this Web site:  www.effectivehealthcare.ahrq.gov.</p>
+<p>For a free print copy, call:<br />
+The AHRQ Publications Clearinghouse<br />
+(800) 358-9295<br />
+Ask for AHRQ Publication Number 10-EHC004-A</p>
+<p>For more information about childbirth, visit the MedlinePlus Web site: http://www.nlm.nih.gov/medlineplus/childbirth.html </p>
+<p>AHRQ Publication Number 10-EHC004-A<br />
+Revised December 2009<br />
+</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

@@ -1,0 +1,869 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Treatment Options When Your SSRI Antidepressant Is Not Working Well - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;button=1&amp;productid=1591" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fpageaction%3Ddisplayproduct%26button%3D1%26productid%3D1591">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=156">
+					Treatment for Depression After Unsatisfactory Response to SSRIs 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1037">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Apr. 26, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=455">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Jun. 15, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1574">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jul. 3, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1593">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Jul. 24, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1592">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Jul. 24, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1036">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 26, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>CME Activity</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=346&cmepage=cme_info">
+									
+									Treatment for Depression After Unsatisfactory Response to SSRIs in Adults and Adolescents 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=7&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12(13)-EHC050-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1591"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1591"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1591"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1591&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1591&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1591&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1591"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1591&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1591&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1591&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2398093B-A35F-161E-1BA3F4FC26A016F1" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1591&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1591&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1591" title="Treatment Options When Your SSRI Antidepressant Is Not Working Well"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1591.gif" alt="Treatment Options When Your SSRI Antidepressant Is Not Working Well" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Treatment Options When Your SSRI Antidepressant Is Not Working Well" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1591&amp;button=1&quot; title=&quot;Treatment Options When Your SSRI Antidepressant Is Not Working Well&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1591.gif&quot; border=&quot;0&quot; alt=&quot;Treatment Options When Your SSRI Antidepressant Is Not Working Well&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Jul. 24, 2013 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Treatment Options When Your SSRI Antidepressant Is Not Working Well</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/156/1591/depression-treatment-ssri-consumer-130723.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							417 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li class="last" style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/156/1591/SSRIs.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.5 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#7779">Is This Summary Right for Me?</a></li>
+					
+						<li><a href="#7780">Understanding Your Condition</a></li>
+					
+						<li><a href="#7781">Understanding Your Options</a></li>
+					
+						<li><a href="#7782">Making a Decision</a></li>
+					
+						<li><a href="#7783">Source</a></li>
+					
+			</ul>
+		
+			<a name="7779"></a>
+			
+
+			
+				<h3>Is This Summary Right for Me?</h3>
+				<h4>This information is right for you if:</h4>
+<ul>
+	<li>Your doctor* said you have major depressive disorder, a kind of depression that lasts longer than 2 weeks.</li>
+	<li>You have taken one of the following antidepressant medicines for at least 6 weeks<sup>&dagger;</sup> and your depression is not getting better. These medicines are a type of antidepressant called selective serotonin reuptake inhibitors (SSRIs). Please note that not all antidepressants are SSRIs.
+		<ul>
+			<li>Citalopram (Celexa<sup>&reg;</sup>)</li>
+			<li>Escitalopram (Lexapro<sup>&reg;</sup>)</li>
+			<li>Fluoxetine (Prozac<sup>&reg;</sup>, Prozac Weekly<sup>&reg;</sup>, Sarafem<sup>&reg;</sup>)</li>
+			<li>Fluvoxamine (Luvox<sup>&reg;</sup>, Luvox CR<sup>&reg;</sup>)</li>
+			<li>Paroxetine (Paxil<sup>&reg;</sup>, Paxil CR<sup>&reg;</sup>, Pexeva<sup>&reg;</sup>)</li>
+			<li>Sertraline (Zoloft<sup>&reg;</sup>)</li>
+		</ul>
+	</li>
+	<li>You want to know about other options to treat your depression to talk about with your doctor.</li>
+	<li>And you are over age 18. This information is from research on adults.</li>
+</ul>
+<p>* In this summary, the term &ldquo;doctor&rdquo; refers to the health care professionals who may take care of you, including your primary care physician, psychiatrist, therapist, nurse practitioner, or physician assistant.<br />
+	<sup>&dagger;</sup> <strong>SSRIs can take up to 6 weeks to start working.</strong></p>
+<h4>What does this summary cover?</h4>
+<p>This summary will tell you about options to treat your depression if your SSRI did not work or did not work well enough. There are many options that work to treat depression. But there is not enough research to know for sure which option might be best after an SSRI did not work or did not work well enough. This summary can help you talk with your doctor about which treatment to try next.</p>
+<h4>Where does the information come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 44 studies published between January 1980 and April 2011 on depression treatments after taking an SSRI. The report was reviewed by clinicians, researchers, experts, and the public. You can read the report at www.effectivehealthcare.ahrq.gov/ssri-depression.cfm.</p> 
+			<a name="7780"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is depression?</h4>
+<p>Depression is an illness that involves the brain. Around one out of every five people in the United States has depression sometime during their lifetime. Depression can be passed down in families. The chemistry in your brain or environmental factors like stress may also cause depression.</p>
+<p>Depression is different from feeling sad or down every now and then. People with depression feel sad, lack energy, feel tired, or have trouble enjoying activities almost every day.</p>
+<p>Not everyone with depression feels sad or down. Other symptoms of depression can include:</p>
+<ul>
+	<li>Changes in your sleeping habits such as sleeping poorly or sleeping more than usual</li>
+	<li>Less interest in activities you usually enjoy</li>
+	<li>Not eating as much or eating more, whether or not you are hungry</li>
+	<li>Strong feelings of despair</li>
+	<li>Feeling worthless or hopeless</li>
+	<li>Finding it hard to think or concentrate</li>
+	<li>Feeling overly guilty or guilty for no reason</li>
+	<li>Thoughts of suicide</li>
+</ul>
+<p>Depression is a serious but treatable problem that should not be ignored. There are many treatment options for people with depression.</p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">If at any time you have thoughts about harming yourself or thoughts of suicide, call your doctor right away. <strong>The National Suicide Prevention Lifeline</strong> is available at 1-800-273-TALK (8255), or go to www.suicidepreventionlifeline.org.</div>
+<h4>What is an SSRI and why am I taking it?</h4>
+<p>Selective serotonin reuptake inhibitors (SSRIs) are a type of antidepressant medicine. SSRIs are one of the most common types of medicine taken by people with depression. SSRIs work by affecting a chemical in your brain called serotonin. Serotonin helps to control your mood and make you feel content.</p>
+<h4>Why did an SSRI not work well for me?</h4>
+<p>Depression symptoms go away completely for about one out of every three people who take an SSRI. Doctors do not know why SSRIs work for some people and not for others. If an SSRI does not work for you, your doctor may suggest other treatments to try.</p>
+<p>Be sure to let your doctor know if anything interfered with you taking your SSRI (such as the cost being too high, trouble remembering to take it, or side effects). It is important to never stop taking your medicine or change the amount you take without first talking with your doctor.</p>
+<p><img alt="photo of a man sitting at a table. Text to the left, If your depression symptoms did not get better while talking an SSRI, you are not alone. There are other options to treat your depression. " src="/ehc/assets/Image/Screen Shot 2013-07-16 at 3_43_18 PM.png" style="width: 450px; height: 390px; " /></p> 
+			<a name="7781"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>What treatments are available when an SSRI does not work well?</h4>
+<p>There are many options a doctor may suggest for people whose depression symptoms do not improve enough from treatment with an SSRI:</p>
+<ul>
+	<li>Increase the dose (amount) of the SSRI you take.
+		<ul>
+			<li>It is important to never increase the amount of your medicine without your doctor telling you to do so.</li>
+		</ul>
+	</li>
+	<li>Switch to a different SSRI.</li>
+	<li>Switch to a different kind of antidepressant that is not an SSRI, such as bupropion (Wellbutrin<sup>&reg;</sup>), desvenlafaxine (Pristiq<sup>&reg;</sup>), duloxetine (Cymbalta<sup>&reg;</sup>), or venlafaxine (Effexor<sup>&reg;</sup>).</li>
+	<li>Add an antipsychotic medicine to your SSRI, such as aripiprazole (Abilify<sup>&reg;</sup>), olanzapine (Zyprexa<sup>&reg;</sup>), or quetiapine XR (Seroquel XR<sup>&reg;</sup>).
+		<ul>
+			<li>Antipsychotic medicines work by affecting the way certain chemicals act in your brain. Taking an antipsychotic medicine does not mean you have psychosis.</li>
+			<li>The U.S. Food and Drug Administration (FDA) has approved the following combinations of antipsychotic medicines and antidepressants to treat patients with depression:
+				<ul>
+					<li>Aripiprazole (Abilify<sup>&reg;</sup>) or quetiapine XR (Seroquel XR<sup>&reg;</sup>) added to any antidepressant</li>
+					<li>Olanzapine (Zyprexa<sup>&reg;</sup>) added to the SSRI fluoxetine (Prozac<sup>&reg;</sup>, Prozac Weekly<sup>&reg;</sup>, Sarafem<sup>&reg;</sup>)</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>Consider a nonmedicine treatment, such as:
+		<ul>
+			<li><strong>Talk therapy</strong>: In this type of therapy, a trained therapist* talks with you about how you think and feel about your depression. You might talk about specific symptoms or life events, ways to cope, or ways to address problems. Sometimes a therapist has talk therapy with a group of people (called &ldquo;group therapy&rdquo;).</li>
+			<li><strong>Exercise</strong>: Good exercises include those that get your heart rate up or strengthen or stretch your muscles, such as yoga.</li>
+		</ul>
+	</li>
+</ul>
+<p>* The term &ldquo;trained therapist&rdquo; refers to health care professionals who have a license, such as psychologists, social workers, marriage and family therapists, or psychiatrists.</p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Note</strong>: For severe depression that interferes with a person&rsquo;s daily activities, some doctors may suggest &ldquo;electroconvulsive therapy&rdquo; or &ldquo;repetitive transcranial magnetic stimulation.&rdquo; For descriptions of these treatments, see the consumer research summary <em>Therapies for Treatment-Resistant Depression</em>. For a free copy, call 800-358-9295 and ask for AHRQ Publication No. 11(12)-EHC056-A, or download and print a copy at www.effectivehealthcare.ahrq.gov/trd.cfm.</div>
+<h4>Can research tell us which of these treatments is best?</h4>
+<p>There are many options that work to treat depression. But there is not enough research to know for sure which option might be best after an SSRI did not work or did not work well enough. Talk with your doctor about your options and which treatment you should try next. Treatments work differently for each person. You may need to try several treatments to find the one that works for you.</p>
+<h4>What are the possible side effects of these treatments?</h4>
+<p>The FDA lists the following possible side effects for antidepressants and antipsychotic medicines. Not everyone who takes one of these medicines will have side effects. Many of these side effects are temporary. Your doctor can suggest ways to lessen any side effects you may have. Never stop taking your medicine without first talking with your doctor.</p>
+<h4>Antidepressants may cause:</h4>
+<ul>
+	<li>Headaches</li>
+	<li>Dry mouth</li>
+	<li>Dizziness or light-headedness</li>
+	<li>Sexual problems</li>
+	<li>Anxiety</li>
+	<li>Feelings of dullness or lack of sensation</li>
+	<li>Weight gain</li>
+	<li>Sleep problems</li>
+	<li>Feeling tired or having low energy</li>
+	<li>Upset stomach</li>
+	<li>Thinking about or attempting suicide</li>
+</ul>
+<h4>Antipsychotic medicines may cause:</h4>
+<ul>
+	<li>Weight gain</li>
+	<li>High cholesterol or diabetes, which could be caused by weight gain</li>
+	<li>Uncontrollable movements, such as tics and tremors</li>
+	<li>Low blood pressure</li>
+	<li>Difficulty swallowing</li>
+	<li>Seizures</li>
+	<li>Drowsiness</li>
+	<li>Dizziness</li>
+	<li>Headaches</li>
+	<li>Dry mouth</li>
+	<li>Constipation</li>
+	<li>An increased amount of a hormone in the body called prolactin, which can cause problems with sexual function and enlarged breasts in both men and women</li>
+</ul> 
+			<a name="7782"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>There are several things to think about when deciding with your doctor how to treat your depression when your SSRI is not working well.</p>
+<ul>
+	<li>The possible benefits and side effects of each treatment</li>
+	<li>Which treatment best fits your lifestyle and values</li>
+	<li>The cost to you for each treatment</li>
+</ul>
+<p>Talk with your doctor about what is important to you when choosing how to treat your depression. You may want to talk about:</p>
+<ul>
+	<li>Which symptoms did not get better while you were taking an SSRI</li>
+	<li>Any concerns you have about the possible side effects of medicines</li>
+	<li>If a nonmedicine treatment might help your depression</li>
+	<li>What aspects of your life or schedule may make one treatment option easier or more difficult for you than another</li>
+</ul>
+<h4>What are the costs of treatment?</h4>
+<p>The cost to you for medicines to treat your depression depends on:</p>
+<ul>
+	<li>Your health insurance</li>
+	<li>The dose (amount) you need to take</li>
+	<li>Whether the medicine is available in a generic form</li>
+</ul>
+<h4>Ask your doctor</h4>
+<ul>
+	<li>Which treatment do you think I should try next? Why?</li>
+	<li>How long should we wait to see if this new treatment is working?</li>
+	<li>If I decide to take a medicine for my depression, how long will I need to take it?</li>
+	<li>Will the medicine for my depression interact with any of the other medicines I am taking?</li>
+	<li>What are the chances that I will have any side effects from the medicine for my depression?</li>
+	<li>If I am pregnant or planning to become pregnant, can I still take medicine for my depression?</li>
+	<li>What side effects should I be most concerned about?</li>
+	<li>When should I tell you about any side effects that I am having?</li>
+	<li>What will we do if the treatment you are suggesting does not make me feel better?</li>
+</ul> 
+			<a name="7783"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em>Treatment for Depression After Unsatisfactory Response to SSRIs</em>, April 2012. The report was produced by the McMaster University Evidence-based Practice Center for the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from U.S. Food and Drug Administration medication labels and the MedlinePlus<sup>&reg;</sup> Web site, a service of the National Library of Medicine and the National Institutes of Health. The MedlinePlus<sup>&reg;</sup> Web site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., Mark E. Kunik, M.D., M.P.H., and Michael Fordis, M.D. Patients with depression reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

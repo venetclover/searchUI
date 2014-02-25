@@ -1,0 +1,849 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Diabetes gestacional: Guía para la mujer embarazada - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;productid=510&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26productid%3D510%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=107">
+					Therapeutic Management, Delivery, and Postpartum Risk Assessment and Screening in Gestational Diabetes 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=163">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Aug. 5, 2009 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=162">
+										Consumer Summary 
+									</a>
+							<span style="font-size:7pt;"> Aug. 5, 2009 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+				<div class="moreinfo">
+					<h4>Gestational Diabetes Related Products</h4>
+					<ul>
+						
+							<li>
+								
+								
+								
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=527">
+										Future Research Needs: Prioritizing Research Needs in Gestational Diabetes Mellitus 
+									</a>
+								
+							</li>
+						
+							<li>
+								
+								
+								
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=162">
+										Gestational Diabetes: A Guide for Pregnant Women 
+									</a>
+								
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 09(10)-EHC014-B
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d510%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d510%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d510%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d510%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d510%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d510%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d510%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d510%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d510%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d510%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2396BDE1-E34E-8AFF-04F6630DBB40A596" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=510&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=510&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=510" title="Diabetes gestacional: Guía para la mujer embarazada"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/510.gif" alt="Diabetes gestacional: Guía para la mujer embarazada" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copia este c&oacute;digo para del bot&oacute;n "Diabetes gestacional: Guía para la mujer embarazada"
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=510&amp;button=1&quot; title=&quot;Diabetes gestacional: Guía para la mujer embarazada&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/510.gif&quot; border=&quot;0&quot; alt=&quot;Diabetes gestacional: Guía para la mujer embarazada&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Aug. 25, 2010 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Diabetes gestacional: Guía para la mujer embarazada</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/107/510/Diabetes Spanish.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							361 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=162" class="button-html button-showtext">In English</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+				<p><p>
+	The abstract and&nbsp;final research&nbsp;review&nbsp;for this topic&nbsp;are available at <a href="http://www.ahrq.gov/clinic/tp/gestdiabtp.htm">http://www.ahrq.gov/clinic/tp/gestdiabtp.htm</a>.</p></p>
+			
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#1794">Hechos resumidos</a></li>
+					
+						<li><a href="#1795">¿Qué cubre esta guía?</a></li>
+					
+						<li><a href="#1796">Aprenda sobre la diabetes gestacional</a></li>
+					
+						<li><a href="#1797">¿Por qué debe tratarse la diabetes gestacional?</a></li>
+					
+						<li><a href="#1798">Opciones para el parto</a></li>
+					
+						<li><a href="#1799">Cómo puedo tratar la diabetes gestacional?</a></li>
+					
+						<li><a href="#1800">Aprenda sobre el azúcar en la sangre</a></li>
+					
+						<li><a href="#1801">Cómo cuidarse de la diabetes tipo 2 después del parto</a></li>
+					
+						<li><a href="#1802">Preguntas que puede tener</a></li>
+					
+						<li><a href="#1803">Dónde puedo obtener más información?</a></li>
+					
+						<li><a href="#1804">¿Cuál es la fuente de esta guía?</a></li>
+					
+			</ul>
+		
+			<a name="1794"></a>
+			
+
+			
+				<h3>Hechos resumidos</h3>
+				<ul>
+	<li>La diabetes gestacional es un tipo de diabetes que puede ocurrir durante el embarazo. Por lo general desaparece despu&eacute;s del parto.</li>
+	<li>La diabetes gestacional se trata controlando el az&uacute;car en la sangre. Algunas mujeres logran controlarla siguiendo una dieta especial para diabetes y manteni&eacute;ndose activas. Otras necesitan inyectarse insulina o tomar pastillas contra la diabetes.</li>
+	<li>La insulina y dos tipos de pastillas contra la diabetes pueden bajar el az&uacute;car en la sangre en las mujeres con diabetes gestacional.</li>
+	<li>Muchas mujeres que tienen diabetes gestacional tendr&aacute;n diabetes tipo 2 m&aacute;s adelante en la vida. El control del aumento de peso durante el embarazo puede evitar que ocurra la diabetes tipo 2 m&aacute;s adelante.</li>
+	<li>Es importante seguir haci&eacute;ndose regularmente la prueba de diabetes tipo 2 despu&eacute;s del embarazo.</li>
+</ul>
+<p><br />
+<strong>La diabetes gestacional</strong> es un tipo de diabetes que puede ocurrir durante el embarazo. Significa que usted nunca ha tenido diabetes antes. Tener diabetes gestacional significa que usted tiene un problema de az&uacute;car alta en la sangre durante el embarazo. El tratamiento consiste en controlar el az&uacute;car en la sangre. Ese control ayuda a evitar un parto dif&iacute;cil. Ayuda tambi&eacute;n a mantener a su beb&eacute; saludable.<br />
+</p> 
+			<a name="1795"></a>
+			
+
+			
+				<h3>¿Qué cubre esta guía?</h3>
+				<p>Esta gu&iacute;a le ayudar&aacute; a hablar con su m&eacute;dico o partera sobre la diabetes gestacional. Le ayuda a responder las siguientes preguntas:</p>
+<ul>
+	<li>&iquest;Qu&eacute; es la diabetes gestacional?</li>
+	<li>&iquest;C&oacute;mo se trata?</li>
+	<li>&iquest;C&oacute;mo hay que cuidarse despu&eacute;s del embarazo?</li>
+</ul>
+<p><br />
+Esta gu&iacute;a se basa en una revisi&oacute;n, financiada por el gobierno, de la investigaci&oacute;n sobre la diabetes gestacional.</p>
+<h4>&iquest;Qu&eacute; no cubre esta gu&iacute;a?</h4>
+<p>Esta gu&iacute;a no incluye el tratamiento de la diabetes tipo 1 &oacute; 2 durante el embarazo. Las diabetes tipo 1 y 2 son diferentes de la diabetes gestacional.<br />
+</p> 
+			<a name="1796"></a>
+			
+
+			
+				<h3>Aprenda sobre la diabetes gestacional</h3>
+				<h4>&iquest;Qu&eacute; es la diabetes?</h4>
+<p>La diabetes ocurre cuando el cuerpo tiene un problema con la insulina. La insulina es una hormona. Ayuda al organismo a convertir el az&uacute;car de la sangre en energ&iacute;a.</p>
+<p>Cuando usted tiene diabetes, el cuerpo no elabora la insulina suficiente o no la aprovecha como deber&iacute;a. Entonces se acumula glucosa (az&uacute;car) en la sangre porque el organismo no puede utilizar el az&uacute;car sin ayuda de la insulina. Esto causa que el az&uacute;car en la sangre se mantenga elevada.</p>
+<p>Existen diferentes tipos de diabetes:</p>
+<ul>
+	<li>Diabetes tipo 1: la mayor&iacute;a de los casos se diagnostican durante la ni&ntilde;ez o la adolescencia. El tratamiento consiste siempre en la inyecci&oacute;n de insulina.</li>
+	<li>Diabetes tipo 2: por lo general se diagnostica durante la edad adulta. En algunos casos se trata simplemente con dieta. Pueden necesitarse tambi&eacute;n pastillas para la diabetes o insulina.</li>
+	<li>Diabetes gestacional: es un tipo de diabetes que ocurre durante el embarazo. Por lo general desaparece despu&eacute;s del parto.</li>
+</ul>
+<h4><br />
+&iquest;Qu&eacute; es la diabetes gestacional?</h4>
+<p>En la diabetes gestacional, el cuerpo tiene un problema con la insulina durante el embarazo. Cuando una mujer est&aacute; embarazada, su cuerpo necesita m&aacute;s insulina para mantener el az&uacute;car de la sangre en el nivel correcto. El cuerpo de la mujer produce m&aacute;s insulina durante el embarazo. Cuando esa insulina adicional no es suficiente para mantener el az&uacute;car de la sangre en un nivel normal, el az&uacute;car en la sangre se eleva. Eso es lo que llamamos diabetes gestacional. Por lo general, el az&uacute;car en la sangre vuelve a su nivel normal despu&eacute;s del parto.</p>
+<h4>&iquest;Qui&eacute;n puede padecer de diabetes gestacional?</h4>
+<p>Cerca de 7 de cada 100 mujeres embarazadas padecen de diabetes gestacional.</p>
+<p>La diabetes gestacional es m&aacute;s frecuente en:</p>
+<ul>
+	<li>Mujeres con sobrepeso.</li>
+	<li>Mujeres con familiares que han tenido diabetes gestacional.</li>
+	<li>Mujeres con familiares que tienen diabetes tipo 2.</li>
+	<li>Mujeres estadounidenses de ascendencia africana, ind&iacute;gena e hispana/latina.</li>
+</ul>
+<h4><br />
+&iquest;C&oacute;mo s&eacute; si tengo diabetes gestacional?</h4>
+<p>La diabetes gestacional comienza durante el segundo trimestre. Por lo general, los m&eacute;dicos y parteras hacen la prueba para detectarla en el quinto o sexto mes del embarazo. La prueba consiste en darle a tomar a la mujer una bebida azucarada especial y hacerle despu&eacute;s el examen de az&uacute;car en la sangre.</p> 
+			<a name="1797"></a>
+			
+
+			
+				<h3>¿Por qué debe tratarse la diabetes gestacional?</h3>
+				<p>El tener el az&uacute;car alta en la sangre puede hacer que el beb&eacute; crezca demasiado; es decir 9 libras o m&aacute;s. &Eacute;ste es el problema m&aacute;s frecuente en la diabetes gestacional. Se conoce como macrosom&iacute;a. Un beb&eacute; demasiado grande puede causar complicaciones en el parto. Al nacer, el beb&eacute; tambi&eacute;n puede tener problemas para respirar o tener el az&uacute;car en la sangre demasiado baja. </p>
+<p>Las mujeres con diabetes gestacional pueden dar a luz beb&eacute;s sanos. Mantener controlada el az&uacute;car en la sangre puede ayudar a evitar problemas.<br />
+</p> 
+			<a name="1798"></a>
+			
+
+			
+				<h3>Opciones para el parto</h3>
+				<p>Si usted tiene diabetes gestacional, su m&eacute;dico o partera pueden conversar con usted sobre distintas opciones de parto. La finalidad es lograr un parto seguro y un beb&eacute; sano.</p>
+<p>Cuando la mujer tiene diabetes gestacional, es com&uacute;n que el m&eacute;dico o partera induzcan (provoquen) el parto antes del t&eacute;rmino del embarazo. Esto se hace a veces para que el beb&eacute; no crezca tanto. La investigaci&oacute;n no ha aclarado qu&eacute; es mejor para la madre y el beb&eacute;, si adelantar el parto o esperar a que ocurra espont&aacute;neamente.</p>
+<p>A veces los m&eacute;dicos o las parteras proponen hacer una operaci&oacute;n ces&aacute;rea. Es otra opci&oacute;n para evitar los problemas del parto de un beb&eacute; grande. La ces&aacute;rea es una operaci&oacute;n que se hace para que el beb&eacute; nazca por el abdomen de la madre. La investigaci&oacute;n tampoco ha aclarado si la ces&aacute;rea es mejor, para la mam&aacute; y el beb&eacute;, que inducir el parto o esperar a que ocurra espont&aacute;neamente.</p> 
+			<a name="1799"></a>
+			
+
+			
+				<h3>Cómo puedo tratar la diabetes gestacional?</h3>
+				<h4>Comiendo sanamente y manteni&eacute;ndose activa </h4>
+<p>Una dieta sana y mantenerse activa son dos de las medidas m&aacute;s importantes para controlar el az&uacute;car en la sangre y tratar la diabetes gestacional. Actividades como caminar y nadar son muy &uacute;tiles. La actividad no tiene que ser dif&iacute;cil. La idea es levantarse y ponerse en movimiento. Hable con su m&eacute;dico o partera para preparar un plan de ejercicio que a usted le funcione. </p>
+<p>Todas las mujeres con diabetes gestacional necesitan seguir un plan de alimentaci&oacute;n especial para diabetes. Su m&eacute;dico o partera pueden pedirle que visite a un dietista o educador en diabetes. El dietista o educador en diabetes le ayudar&aacute; a crear un plan apropiado para usted. </p>
+<p>El plan de alimentaci&oacute;n para la diabetes se basa en reglas sencillas, como: </p>
+<ul>
+	<li>Cuidar el tama&ntilde;o de las porciones.</li>
+	<li>Comer alimentos variados, como frutas frescas, verduras y cereales de grano entero.</li>
+	<li>Limitar las calor&iacute;as de grasas a 30 por ciento o menos cada d&iacute;a. </li>
+</ul>
+<p><br />
+Para controlar la diabetes gestacional es muy importante tambi&eacute;n cuidar el aumento de peso durante el embarazo. Pregunte a su m&eacute;dico o partera cu&aacute;l ser&iacute;a el aumento de peso correcto para usted. </p>
+<p>Para aprender m&aacute;s sobre el plan de alimentaci&oacute;n para la diabetes, visite la p&aacute;gina web de la National Diabetes Information Clearinghouse (Centro Coordinador Nacional de Informaci&oacute;n sobre la Diabetes): <a href="http://www.diabetes.niddk.nih.gov/index_sp.htm">www.diabetes.niddk.nih.gov/index_sp.htm</a>.</p>
+<h4>Medicamentos</h4>
+<p>La mayor&iacute;a de las mujeres pueden controlarse la diabetes gestacional siguiendo un plan de alimentaci&oacute;n para diabetes y siendo m&aacute;s activas. Otras necesitar&aacute;n tambi&eacute;n insulina o pastillas contra la diabetes para controlar su az&uacute;car en la sangre. Para tratar la diabetes gestacional se usan la insulina y dos tipos de pastillas contra la diabetes. Todos estos medicamentos tienen el efecto de disminuir el az&uacute;car en la sangre. Hasta ahora, la investigaci&oacute;n indica que pueden usarse sin riesgo durante el embarazo. </p>
+<p><strong>Insulina</strong></p>
+<p>La insulina necesita inyectarse (con una peque&ntilde;a jeringa). La insulina que se inyecta es como la que produce el cuerpo, excepto que se hace en un laboratorio. Hay muchos tipos de insulina. </p>
+<h4>Pastillas contra la diabetes </h4>
+<p>Se han utilizado dos tipos de pastillas para tratar la diabetes gestacional. La gliburida (Diabeta&reg;, Glynase PresTab&reg;, Micronase&reg;) es una pastilla que ayuda a aumentar la cantidad de insulina en el cuerpo. La metformina (Glucophage&reg;) bloquea la elaboraci&oacute;n de glucosa (az&uacute;car) en el h&iacute;gado. </p>
+<p>Los dos tipos de pastillas que se usan para tratar la diabetes gestacional se usan tambi&eacute;n en la diabetes tipo 2. Si su m&eacute;dico le receta pastillas para la diabetes gestacional, tal vez quiera conocer tambi&eacute;n otra gu&iacute;a. Se llama <em>Pastillas para la diabetes tipo 2: Gu&iacute;a para adultos</em> (2007), y puede obtenerse en esta p&aacute;gina web: <a href="/index.cfm/informacion-en-espanol">www.effectivehealthcare.ahrq.gov/index.cfm/informacion-en-espanol</a>.<br />
+</p> 
+			<a name="1800"></a>
+			
+
+			
+				<h3>Aprenda sobre el azúcar en la sangre</h3>
+				<h4>&iquest;C&oacute;mo se mide el az&uacute;car en la sangre?</h4>
+<p>Puede medirla en su casa, mediante un leve pinchazo en un dedo. Para esta prueba se usa un medidor de glucosa que indica el nivel de az&uacute;car en la sangre. Su m&eacute;dico o partera puede ense&ntilde;arle a usar el medidor. Probablemente le pidan medirse el az&uacute;car a diferentes horas del d&iacute;a.</p>
+<p>El diagrama siguiente indica los valores normales de az&uacute;car en la sangre en diferentes horas del d&iacute;a. Pregunte a su m&eacute;dico o partera cu&aacute;les son los valores ideales para usted.</p>
+<table  cellspacing="0">
+	<thead>
+		<tr>
+			<th scope="col">Hora en que se mide el az&uacute;car en la sangre</th>
+			<th scope="col">Valor ideal del az&uacute;car en la sangre</th>
+		</tr></thead>
+	<tbody>
+		<tr>
+			<td>Antes de comer</td>
+			<td>Menos de 95</td>
+		</tr>
+		<tr>
+			<td>Una hora despu&eacute;s de comer</td>
+			<td>Menos de 130</td>
+		</tr>
+		<tr>
+			<td>Dos horas despu&eacute;s de comer</td>
+			<td>Menos de 120</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+<p>Es importante que anote los valores de sus pruebas de az&uacute;car en la sangre. Los resultados le ayudar&aacute;n al m&eacute;dico o partera a decidir en su pr&oacute;xima cita si debe usted empezar a usar medicamentos para controlar el az&uacute;car en la sangre. Si ya est&aacute; usted usando insulina o pastillas, los resultados le ayudar&aacute;n a decidir si deben hacerse ajustes a su medicamento.</p>
+<h4>Cuide que su az&uacute;car en la sangre no baje demasiado</h4>
+<p>Una disminuci&oacute;n excesiva del az&uacute;car en la sangre es lo que se llama hipoglucemia. Puede causarle mareos, sudoraci&oacute;n, confusi&oacute;n, temblores, hambre y debilidad.</p>
+<p>Tanto la insulina como las pastillas para la diabetes gestacional pueden hacer que el az&uacute;car baje demasiado.</p>
+<p>La disminuci&oacute;n excesiva del az&uacute;car es m&aacute;s com&uacute;n en las mujeres que usan insulina que en las que toman metformina (Glucophage&reg;).</p>
+<p>Advertencia: Si cree que su az&uacute;car est&aacute; baja, coma o beba inmediatamente algo con az&uacute;car. Su m&eacute;dico o partera pueden sugerirle opciones como caramelos, jugos o tabletas de glucosa.</p> 
+			<a name="1801"></a>
+			
+
+			
+				<h3>Cómo cuidarse de la diabetes tipo 2 después del parto</h3>
+				<p>La diabetes gestacional suele desaparecer despu&eacute;s de dar a luz. El az&uacute;car en la sangre vuelve a la normalidad despu&eacute;s del parto. Tal vez pueda dejar de medirse en casa el az&uacute;car por medio del pinchazo. Sin embargo, debe tener presentes algunos aspectos importantes. </p>
+<p>Las mujeres que han tenido diabetes gestacional est&aacute;n propensas a tener diabetes tipo 2 m&aacute;s adelante. Tienen m&aacute;s probabilidad que las mujeres que no han tenido diabetes gestacional. La probabilidad de tener diabetes tipo 2 m&aacute;s adelante es mayor tambi&eacute;n en las mujeres que suben de peso m&aacute;s de lo normal durante el embarazo.</p>
+<p>Hay medidas que ayudan a reducir el riesgo de tener diabetes m&aacute;s adelante. Es &uacute;til mantener el peso saludable, llevar una dieta sana y mantenerse activa. Estas simples medidas son importantes <em>durante</em> el embarazo y <em>despu&eacute;s</em>. </p>
+<p>No olvide decirles a todos sus m&eacute;dicos y enfermeras que tuvo diabetes gestacional durante su embarazo. Es muy importante que de vez en cuando le midan el az&uacute;car en la sangre en el consultorio o cl&iacute;nica. La prueba le permitir&aacute; cerciorarse de que no ha desarrollado diabetes tipo 2. Su m&eacute;dico o enfermera podr&aacute; indicarle cada cu&aacute;nto debe hacerse la prueba de az&uacute;car en la sangre. </p>
+<p>Aproximadamente 60 de cada 100 mujeres que tienen diabetes gestacional tendr&aacute;n diabetes tipo 2 unos 10 a&ntilde;os despu&eacute;s del embarazo. <em>La buena noticia</em> es que usted puede reducir ese riesgo. Mantenga un peso adecuado, lleve una dieta sana, mant&eacute;ngase activa y mida su az&uacute;car regularmente. <br />
+</p> 
+			<a name="1802"></a>
+			
+
+			
+				<h3>Preguntas que puede tener</h3>
+				<h4>&iquest;Puedo controlar mi diabetes gestacional comiendo sanamente y manteni&eacute;ndome activa? </h4>
+<p>S&iacute;, la mayor&iacute;a de las mujeres con diabetes gestacional pueden controlar su az&uacute;car en la sangre con el plan de alimentaci&oacute;n para la diabetes y ejercicio. Tambi&eacute;n es importante cuidar el aumento de peso durante el embarazo. Busque con su m&eacute;dico o partera un plan que le funcione. </p>
+<h4>Si necesito medicamentos, &iquest;puedo tomar una pastilla o tengo que inyectarme? </h4>
+<p>Muchas mujeres pueden controlar su az&uacute;car simplemente tomando una pastilla. Otras mujeres necesitan comenzar a tratarse con insulina. Pregunte a su m&eacute;dico o partera cu&aacute;l es el plan de tratamiento para usted.  </p>
+<h4>&iquest;Cada cu&aacute;nto necesito medirme el az&uacute;car en la sangre?</h4>
+<p>Algunas mujeres necesitan medirse el az&uacute;car en la sangre varias veces al d&iacute;a. Esto por lo general se hace por la ma&ntilde;ana antes del desayuno y despu&eacute;s de cada comida. Su m&eacute;dico o partera podr&aacute; decirle a qu&eacute; horas debe usted medirse. </p>
+<h4>Despu&eacute;s del parto, &iquest;cu&aacute;nto tiempo se deja pasar para hacerse la prueba de la diabetes tipo 2? &iquest;Cada cu&aacute;nto tiempo necesito hacerme la prueba?  </h4>
+<p>La investigaci&oacute;n no indica exactamente cu&aacute;ndo y con qu&eacute; frecuencia necesita hacerse la prueba. Lo importante es que se haga la prueba regularmente. El tener diabetes gestacional significa que usted tiene un mayor riesgo de padecer de diabetes tipo 2 m&aacute;s adelante.<br />
+</p> 
+			<a name="1803"></a>
+			
+
+			
+				<h3>Dónde puedo obtener más información?</h3>
+				<p>Si desea obtener una copia electr&oacute;nica de esta gu&iacute;a u otro material para conocer tratamientos y medicamentos para otras enfermedades, visite esta p&aacute;gina web: <a href="/index.cfm/informacion-en-espanol">www.effectivehealthcare.ahrq.gov/index.cfm/informacion-en-espanol</a>.</p>
+<p>Si desea un ejemplar impreso gratuito, llame a:<br />
+AHRQ Publications Clearinghouse (800) 358-9295<br />
+Pida la Publicaci&oacute;n de AHRQ N&uacute;mero 09(10)-EHC014-B.</p>
+<p>Si desea m&aacute;s informaci&oacute;n sobre la diabetes gestacional, visite la p&aacute;gina web de MedlinePlus: <a href="http://www.nlm.nih.gov/medlineplus/spanish/diabetesandpregnancy.html">www.nlm.nih.gov/medlineplus/spanish/diabetesandpregnancy.html</a>.<br />
+</p> 
+			<a name="1804"></a>
+			
+
+			
+				<h3>¿Cuál es la fuente de esta guía?</h3>
+				<p>La informaci&oacute;n de esta gu&iacute;a deriva de una revisi&oacute;n detallada de 45 informes de investigaci&oacute;n. La revisi&oacute;n se titula <em>Therapeutic Management, Delivery, and Postpartum Risk Assessment and Screening in Gestational Diabetes</em> (Control terap&eacute;utico, parto, evaluaci&oacute;n de riesgos de posparto y detecci&oacute;n en la diabetes gestacional) (2008) y fue escrita por el Johns Hopkins University Evidence-based Practice Center (Centro de Pr&aacute;ctica Basada en la Evidencia Johns Hopkins University). La revisi&oacute;n se actualiz&oacute; en la revista especializada Obstetrics &amp; Gynecology (Obstetricia y Ginecolog&iacute;a) de 2009. </p>
+<p>La Agency for Healthcare Research and Quality (Agencia para la Investigaci&oacute;n y la Calidad de la Atenci&oacute;n M&eacute;dica, AHRQ, por sus siglas en ingl&eacute;s) cre&oacute; el Eisenberg Center (Centro Eisenberg), en la Oregon Health &amp; Science University (Universidad de la Salud y Ciencia de Oregon), con el fin de lograr que la investigaci&oacute;n sea &uacute;til para los consumidores. Esta gu&iacute;a fue escrita por Erin Davis, B.A., Martha Schechtel, R.N., Bruin Rugge, M.D., Valerie King, M.D., y David Hickam, M.D., del Centro Eisenberg. Para crear esta gu&iacute;a, el Centro Eisenberg recibi&oacute; la ayuda de mujeres con diabetes gestacional. <br />
+</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

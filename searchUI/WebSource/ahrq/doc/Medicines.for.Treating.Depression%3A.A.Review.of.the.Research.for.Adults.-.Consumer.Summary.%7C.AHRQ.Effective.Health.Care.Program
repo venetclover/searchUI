@@ -1,0 +1,1329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Medicines for Treating Depression: A Review of the Research for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=1142&amp;button=1&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fproductid%3D1142%26button%3D1%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=210">
+					Second-Generation Antidepressants in the Pharmacologic Treatment of Adult Depression: An Update of the 2007 Comparative Effectiveness Review 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=863">
+										Research Review  (Update)
+									</a>
+							<span style="font-size:7pt;"> Dec. 5, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=727">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Jul. 13, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1093">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> May 16, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1652">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 20, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1143">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Jul. 30, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1292">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Oct. 22, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=862">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Dec. 5, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.annals.org/content/155/11/772.abstract">
+									
+									Gartlehner G, Hansen RA, Morgan LC, et al. Comparative benefits and harms of second-generation antidepressants for treating major depressive disorder: an updated meta-analysis. Ann Intern Med 2011 Dec 6;155(11):772-85. 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Related Links</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=317&cmepage=cme_info">
+									
+									CME Activity: Second-Generation Antidepressants for Treating Adult Depression--An Update 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Web Conference</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://effectivehealthcare.ahrq.gov/index.cfm/tools-and-resources/ehc-program-webcasts/depression/">
+									
+									What Works for Depression? An Evidence-based Comparison of Treatment Options 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12-EHC012-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1142%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1142%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1142%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1142%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1142%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1142%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1142%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1142%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1142%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d1142%26amp%3bbutton%3d1%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=239874E1-ACE6-A130-D5F0E98AADBC78BE" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1142&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1142&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1142" title="Medicines for Treating Depression: A Review of the Research for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1142.gif" alt="Medicines for Treating Depression: A Review of the Research for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Medicines for Treating Depression: A Review of the Research for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1142&amp;button=1&quot; title=&quot;Medicines for Treating Depression: A Review of the Research for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1142.gif&quot; border=&quot;0&quot; alt=&quot;Medicines for Treating Depression: A Review of the Research for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Jul. 30, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Medicines for Treating Depression: A Review of the Research for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/210/1142/sec_gen_anti_dep_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							459 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/210/1142/ANTI-DEPRESSANTS.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							7.1 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1292" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#5956">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#5957">Understanding My Condition</a></li>
+					
+						<li><a href="#5958">Understanding Your Choices</a></li>
+					
+						<li><a href="#5970">Making a Decision</a></li>
+					
+						<li><a href="#5971">Source</a></li>
+					
+			</ul>
+		
+			<a name="5956"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<p>A doctor or other health care professional has told you that you have depression. Your doctor may call this condition major depressive disorder (MDD).</p>
+<p>Your doctor or other health care professional has suggested taking a specific kind of medicine for your depression called an &ldquo;antidepressant.&rdquo;</p>
+<p>You are over age 18. This information is from research on adults.</p>
+<h5>What will this summary tell me?</h5>
+<p>This summary will tell you what research found about the possible benefits and side effects of antidepressants. You can use this information to talk with your doctor about which medicine may be best for you.</p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">Antidepressants are only one kind of medicine used to treat depression. They are the most common medicine used for this condition. Your doctor may prescribe other types of medicines to treat depression. This summary will review only the research on antidepressants. It does <strong>not</strong> review research on non-medicine therapies. The research studies also did <strong>not</strong> look at patients with bipolar disorder, substance abuse, bulimia nervosa, or schizophrenia.</div>
+<h5>Where does the information come from?</h5>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 248 studies published between January 1980 and January 2011 on second-generation antidepressants. This report updates research first reported in 2007 and includes newer medicines. You can read the report at <a href="http://www.effectivehealthcare.ahrq.gov/secondgenantidep.cfm">www.effectivehealthcare.ahrq.gov/secondgenantidep.cfm</a>.</p> 
+			<a name="5957"></a>
+			
+
+			
+				<h3>Understanding My Condition</h3>
+				<h4>What is depression?</h4>
+<p>Depression is a medical illness that involves the brain. It is a very common condition that affects around one in every five people in the United States. Many factors can cause depression, including your genes (DNA), the chemistry in your brain, or environmental factors like stress.</p>
+<p>Depression is different from feeling sad or down every now and then. People with depression feel sad, lack energy, feel tired, or have difficulty enjoying routine activities almost every day.</p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">
+	<div><strong>Depression is a serious but treatable problem that should not be ignored.</strong> Many people require some form of treatment by a doctor or other health care professional for their depression.</div>
+</div>
+<p>Not everyone with depression feels sad or down. Other symptoms of depression include:</p>
+<ul>
+	<li>Changes in your sleeping habits such as sleeping poorly or sleeping more than usual.</li>
+	<li>Losing interest in usual activities such as favorite hobbies, time with family members, or evenings out with friends.</li>
+	<li>Not eating as much or eating more, whether or not you are hungry.</li>
+	<li>Strong feelings of despair, worthlessness, or hopelessness.</li>
+	<li>Finding it hard to think or concentrate.</li>
+	<li>Feelings of excessive or inappropriate guilt.</li>
+	<li>Thoughts of suicide.</li>
+</ul>
+<p>You may not notice some of these symptoms, but people living and working around you may see them.</p> 
+			<a name="5958"></a>
+			
+
+			
+				<h3>Understanding Your Choices</h3>
+				<h4>How is depression treated?</h4>
+<p>Depression is treated with medicines, talk therapy (where a person talks with a trained professional about his or her thoughts and feelings; sometimes called &quot;psychotherapy&quot; or &quot;counseling&quot;), or a combination of the two.</p>
+<p>This summary looks at research only on the medicines used to treat depression called antidepressants. Your doctor may have you see a talk therapist in addition to taking medicine. Ask your doctor about the benefits and risks of adding talk therapy to your treatment.</p>
+<table class="styleOne">
+	<caption><strong>Antidepressant Medicines*</strong></caption>
+	<thead>
+		<tr>
+			<th scope="col">Brand Name</th>
+			<th scope="col">Generic Available?</th>
+			<th scope="col">Drug Name</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="3">* Your doctor may use a medicine that is not included in this list to treat your depression. The listed medicines were the ones studied in the review of research used for this summary.<br />
+				<br />
+				** The brand name Serzone&reg; is not available in&nbsp;the United States. Only the generic form of this&nbsp;medicine is available.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td>Wellbutrin&reg;;&nbsp;Wellbutrin SR&reg;; Wellbutrin XL&reg;</td>
+			<td>Yes, for some doses</td>
+			<td>Bupropion</td>
+		</tr>
+		<tr>
+			<td>Celexa&reg;</td>
+			<td>Yes</td>
+			<td>Citalopram</td>
+		</tr>
+		<tr>
+			<td>Pristiq&reg;</td>
+			<td>No</td>
+			<td>Desvenlafaxine</td>
+		</tr>
+		<tr>
+			<td>Cymbalta&reg;</td>
+			<td>No</td>
+			<td>Duloxetine</td>
+		</tr>
+		<tr>
+			<td>Lexapro&reg;</td>
+			<td>No</td>
+			<td>Escitalopram</td>
+		</tr>
+		<tr>
+			<td>Prozac&reg;; Prozac Weekly&reg;</td>
+			<td>Yes</td>
+			<td>Fluoxetine</td>
+		</tr>
+		<tr>
+			<td>Luvox&reg;</td>
+			<td>Yes</td>
+			<td>Fluvoxamine</td>
+		</tr>
+		<tr>
+			<td>Remeron&reg;; Remeron SolTab&reg;</td>
+			<td>Yes, for some doses</td>
+			<td>Mirtazapine</td>
+		</tr>
+		<tr>
+			<td>Serzone&reg;**</td>
+			<td>Yes</td>
+			<td>Nefazodone</td>
+		</tr>
+		<tr>
+			<td>Paxil&reg;; Paxil CR&reg;</td>
+			<td>Yes</td>
+			<td>Paroxetine</td>
+		</tr>
+		<tr>
+			<td>Zoloft&reg;</td>
+			<td>Yes</td>
+			<td>Sertraline</td>
+		</tr>
+		<tr>
+			<td>Desyrel&reg;</td>
+			<td>Yes</td>
+			<td>Trazodone</td>
+		</tr>
+		<tr>
+			<td>Effexor&reg;; Effexor XR&reg;</td>
+			<td>Yes, for some doses</td>
+			<td>Venlafaxine</td>
+		</tr>
+	</tbody>
+</table>
+<h5>What do the letters SR, CR, XR, and XL after the brand name mean?</h5>
+<p>Medicines with these letters are forms of the medicine that delay or extend the release of the medicine in your body. This means that the medicine stays in your body for longer periods of time and you may be able to take the medicine less often.</p>
+<ul>
+	<li>Wellbutrin SR&reg; is a <em>sustained-release</em> medicine. You take this medicine twice a day.</li>
+	<li>Paxil CR&reg; is a <em>controlled-release</em> medicine. You take this medicine once a day.</li>
+	<li>Effexor XR&reg;, Wellbutrin XL&reg;, and Prozac Weekly&reg; are <em>extended-release</em> medicines. You take Wellbutrin XL&reg; and Effexor XR&reg; once a day. You take Prozac Weekly&reg; once a week.</li>
+</ul>
+<h5>How do these medicines work?</h5>
+<ul>
+	<li>Antidepressant medicines help improve the way your brain uses certain chemicals that control mood or stress.</li>
+</ul>
+<h5>What does research say about how well these medicines help people with depression?</h5>
+<ul>
+	<li>All of the antidepressant medicines work about as well as each other to improve the symptoms of depression and the quality of life for people with depression.</li>
+	<li>All of the antidepressant medicines work about as well as each other in keeping depression symptoms from coming back.</li>
+</ul>
+<div class="report_highlight_box medium_box">
+	<h5>How well do these medicines work?</h5>
+	<p>Although all the antidepressant medicines work about as well as each other, it is important to remember that some people will not feel better with the first medicine they try. They may need to try several medicines before finding one that works for them. Others may find that although the medicine helped for a while, their symptoms came back. It is important to follow carefully your doctor&rsquo;s directions for taking your medicine for it to work.</p>
+	<p><strong>Only three people out of five will see their depression improve the first time they start taking an antidepressant.&nbsp;</strong></p>
+	<p><strong><img alt="" src="/ehc/assets/Image/3green2bluepeople.png" style="width: 237px; height: 45px; " /></strong></p>
+</div>
+<h5>What did research find about specific antidepressants?</h5>
+<p>Research has found some specific information about the benefits of a few medicines:</p>
+<ul>
+	<li>People who took mirtazapine (Remeron&reg;) started feeling better faster than they did on other antidepressants. Remeron&reg; took about 1 to 2 weeks to start working. All of the other antidepressants showed signs that they were working by 4 weeks.</li>
+	<li>Prozac Weekly&reg; and Paxil CR&reg; worked as well as regular Prozac&reg; and Paxil&reg;.</li>
+	<li>Fewer people stopped taking venlafaxine (Effexor&reg;, Effexor XR&reg;) because it was not working, compared with other antidepressants. People who did stop taking venlafaxine stopped it because of side effects such as nausea and vomiting.</li>
+</ul>
+<h5>Can antidepressants help with other problems related to depression?</h5>
+<ul>
+	<li><strong>Anxiety.</strong> People with depression saw improvements in their anxiety. The medicines studied all showed about the same amount of improvement.</li>
+	<li><strong>Pain.</strong> Paroxetine (Paxil&reg;) and duloxetine (Cymbalta&reg;) both helped people with depression and chronic pain about the same amount.</li>
+	<li><strong>Insomnia</strong> (when you cannot fall or stay asleep). Fluoxetine (Prozac&reg;), mirtazapine (Remeron&reg;), paroxetine (Paxil&reg;), and sertraline (Zoloft&reg;) helped people with insomnia about the same amount, but there is not enough research to know this for certain.</li>
+</ul>
+<h5>What are the side effects of antidepressants?</h5>
+<p>The number of people who have some kind of side effect from taking an antidepressant is about the same for all the antidepressant medicines. However, the side effects of each medicine may be different, and some medicines are likely to cause some side effects more often than others.</p>
+<p>The most common side effects listed by the U.S. Food and Drug Administration (FDA) for the antidepressants discussed in this summary are:</p>
+<ul>
+	<li>Nausea and vomiting</li>
+	<li>Weight gain</li>
+	<li>Diarrhea</li>
+	<li>Sleepiness</li>
+	<li>Sexual problems</li>
+</ul>
+<p>Other more serious but much less common side effects listed by the FDA for the antidepressant medicines discussed in this summary can include seizures, heart problems, an imbalance of salt in your blood, liver damage, suicidal thoughts, or serotonin syndrome (a life-threatening reaction where your body makes too much serotonin). Serotonin syndrome can cause shivering, diarrhea, fever, seizures, and stiff or rigid muscles.</p>
+<div class="report_highlight_box medium_box">
+	<p><strong>If you are having suicidal thoughts or other serious side effects like seizures or heart problems while taking antidepressant medicines, contact your doctor immediately. </strong></p>
+	<p><strong>The National Suicide Prevention Lifeline is available at 1-800-273-TALK (8255) or go to <a href="http://www.suicidepreventionlifeline.org">www.suicidepreventionlifeline.org</a> <a href="/index.cfm/exit-disclaimer/"><img alt="Exit Disclaimer" src="/ehc/images/exit_disclaimer.png" /></a>.</strong></p>
+</div>
+<h5>Medicines Most Likely To Cause Certain Side Effects</h5>
+<p>Although all antidepressants can cause side effects, some are more likely to cause certain side effects than others.</p>
+<table class="styleOne">
+	<thead>
+		<tr>
+			<th scope="col">Side Effect</th>
+			<th scope="col">Medicines Most Likely To Cause This Side Effect</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Nausea/vomiting</td>
+			<td>
+				<ul>
+					<li>Venlafaxine (Effexor&reg;, Effexor XR&reg;)</li>
+					<li>Paroxetine (Paxil&reg;)</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Weight gain</td>
+			<td>
+				<ul>
+					<li>Mirtazapine (Remeron&reg;, Remeron SolTab&reg;)
+						<ul>
+							<li>Between 2 and 7 pounds in 6 to 8 weeks</li>
+						</ul>
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Diarrhea</td>
+			<td>
+				<ul>
+					<li>Sertraline (Zoloft&reg;)</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Sleepiness</td>
+			<td>
+				<ul>
+					<li>Trazodone (Desyrel&reg;)</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Sexual problems (such as decreased sex drive or difficulty getting an erection)</td>
+			<td>
+				<ul>
+					<li>Paroxetine (Paxil&reg;, Paxil CR&reg;)</li>
+					<li>Escitalopram (Lexapro&reg;), fluoxetine (Prozac&reg;, Prozac Weekly&reg;), paroxetine (Paxil&reg;, Paxil CR&reg;), or sertraline (Zoloft&reg;) had more sexual side effects than bupropion (Wellbutrin&reg;, Wellbutrin SR&reg;, Wellbutrin XL&reg;)</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h5>What happens if I stop taking my antidepressant?</h5>
+<ul>
+	<li>Some people have symptoms after they stop taking certain antidepressant medicines. These are called &ldquo;withdrawal symptoms.&rdquo; Withdrawal symptoms include headache, dizziness, light-headedness, nausea, and anxiety. You should never stop taking your medicine without first talking with your doctor.
+		<ul>
+			<li>More people had these symptoms after they stopped taking paroxetine (Paxil&reg;, Paxil CR&reg;) and venlafaxine (Effexor&reg;, Effexor XR&reg;).</li>
+			<li>Fewer people had withdrawal symptoms after they stopped taking fluoxetine (Prozac&reg;, Prozac Weekly&reg;).</li>
+		</ul>
+	</li>
+</ul> 
+			<a name="5970"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about?</h4>
+<p>You and your doctor can decide if taking a certain medicine for your depression is worth the risk of possible side effects. There are several things you may want to think about and discuss with your doctor:</p>
+<ul>
+	<li>The types of depression symptoms you have and how much they are bothering you.</li>
+	<li>The effect that <strong>not</strong> taking medicine for depression may have on your life, work, and relationships.</li>
+	<li>Certain side effects and how they might affect your daily life or work.</li>
+	<li>Which form of the medicine (immediate, sustained [SR], controlled [CR], or extended [ER] release) might be best for you.</li>
+	<li>Other health problems you may be facing and how these medicines interact with others that you are taking.</li>
+	<li>Whether some kind of talk therapy would be helpful while you are taking medicine.</li>
+	<li>The cost of the medicine.</li>
+</ul>
+<p>You may need to try several different antidepressant medicines before finding the one that improves your symptoms and has side effects that you can manage. It is important to talk with your doctor about:</p>
+<ul>
+	<li>The length of time it may take to try a medicine before knowing if it is helping you or if it causes a side effect.</li>
+	<li>When you need to let your doctor know about a side effect from the medicine.</li>
+	<li>What role your family and friends might take to support you while you are treating your depression.</li>
+</ul>
+<h5>What are the costs of these medicines?</h5>
+<p>The following chart lists the wholesale price (the cost to the pharmacy) for each of the antidepressants discussed in this summary. The actual cost to you may be different, depending on:</p>
+<ul>
+	<li>Your health insurance co-payment.</li>
+	<li>The dose (amount) that you need to take.</li>
+	<li>Whether a generic form of the medicine is available.</li>
+</ul>
+<table class="styleOne">
+	<caption><strong>Wholesale Prices of Prescription Antidepressants</strong></caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col" style="width:20%;">Brand Name</th>
+			<th class="align_center" scope="col" style="width:20%;">Doses Available</th>
+			<th class="align_center" scope="col" style="width:20%;">Price per Month for Brand Name</th>
+			<th class="align_center" scope="col" style="width:20%;">Generic Name</th>
+			<th class="align_center" scope="col" style="width:20%;">Price per Month for Generic</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="5">N/A = not available<br />
+				<br />
+				SR, XL, CR, and XR are all extended-release formulas.<br />
+				<br />
+				* Prices are the average wholesale prices listed from RED BOOK Online&reg;. Generic prices are the middle value in the range of prices listed from different manufacturers. The actual prices of the medicines may be higher or lower than the prices listed here, depending on the manufacturer used by your pharmacy.<br />
+				<br />
+				** The brand name Serzone&reg; is not available in the United States. Only the generic form of this medicine is available.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td rowspan="3">Celexa&reg;</td>
+			<td class="align_center">10 mg</td>
+			<td class="align_center">$126</td>
+			<td class="align_center" rowspan="3">Citalopram</td>
+			<td class="align_center">$72</td>
+		</tr>
+		<tr>
+			<td class="align_center">20 mg</td>
+			<td class="align_center">$131</td>
+			<td class="align_center">$75</td>
+		</tr>
+		<tr>
+			<td class="align_center">40 mg</td>
+			<td class="align_center">$137</td>
+			<td class="align_center">$78</td>
+		</tr>
+		<tr>
+			<td>Cymbalta&reg;</td>
+			<td class="align_center">60 mg</td>
+			<td class="align_center">$150</td>
+			<td class="align_center">Duloxetine</td>
+			<td class="align_center">N/A</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Desyrel&reg;</td>
+			<td class="align_center">50 mg</td>
+			<td class="align_center">$60</td>
+			<td class="align_center" rowspan="2">Trazodone</td>
+			<td class="align_center">$5</td>
+		</tr>
+		<tr>
+			<td class="align_center">100 mg</td>
+			<td class="align_center">$113</td>
+			<td class="align_center">$6</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Effexor&reg;</td>
+			<td class="align_center">25 mg</td>
+			<td class="align_center">$54</td>
+			<td class="align_center" rowspan="4">Venlafaxine</td>
+			<td class="align_center" rowspan="4">N/A (all doses)</td>
+		</tr>
+		<tr>
+			<td class="align_center">50 mg</td>
+			<td class="align_center">$69</td>
+		</tr>
+		<tr>
+			<td class="align_center">75 mg</td>
+			<td class="align_center">$75</td>
+		</tr>
+		<tr>
+			<td class="align_center">100 mg</td>
+			<td class="align_center">$81</td>
+		</tr>
+		<tr>
+			<td>Effexor XR&reg;</td>
+			<td class="align_center">37.5 mg</td>
+			<td class="align_center">$171</td>
+			<td class="align_center">N/A</td>
+			<td class="align_center">N/A</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Lexapro&reg;</td>
+			<td class="align_center">5 mg</td>
+			<td class="align_center">$138</td>
+			<td class="align_center" rowspan="3">Escitalopram</td>
+			<td class="align_center" rowspan="3">N/A (all doses)</td>
+		</tr>
+		<tr>
+			<td class="align_center">10 mg</td>
+			<td class="align_center">$146</td>
+		</tr>
+		<tr>
+			<td class="align_center">20 mg</td>
+			<td class="align_center">$152</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Luvox&reg;</td>
+			<td class="align_center">25 mg</td>
+			<td class="align_center">$89</td>
+			<td class="align_center" rowspan="3">Fluvoxamine</td>
+			<td class="align_center">$69</td>
+		</tr>
+		<tr>
+			<td class="align_center">50 mg</td>
+			<td class="align_center">$100</td>
+			<td class="align_center">$78</td>
+		</tr>
+		<tr>
+			<td class="align_center">100 mg</td>
+			<td class="align_center">$102</td>
+			<td class="align_center">$79</td>
+		</tr>
+		<tr>
+			<td rowspan="4">Paxil&reg;</td>
+			<td class="align_center">10 mg</td>
+			<td class="align_center">$133</td>
+			<td class="align_center" rowspan="7">Paroxetine</td>
+			<td class="align_center">$79</td>
+		</tr>
+		<tr>
+			<td class="align_center">20 mg</td>
+			<td class="align_center">$139</td>
+			<td class="align_center">$80</td>
+		</tr>
+		<tr>
+			<td class="align_center">30 mg</td>
+			<td class="align_center">$143</td>
+			<td class="align_center">$85</td>
+		</tr>
+		<tr>
+			<td class="align_center">40 mg</td>
+			<td class="align_center">$151</td>
+			<td class="align_center">$90</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Paxil CR&reg;</td>
+			<td class="align_center">12.5 mg</td>
+			<td class="align_center">$137</td>
+			<td class="align_center">$109</td>
+		</tr>
+		<tr>
+			<td class="align_center">25 mg</td>
+			<td class="align_center">$143</td>
+			<td class="align_center">$114</td>
+		</tr>
+		<tr>
+			<td class="align_center">37.5 mg</td>
+			<td class="align_center">$147</td>
+			<td class="align_center">$117</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Pristiq&reg;</td>
+			<td class="align_center">50 mg</td>
+			<td class="align_center">$163</td>
+			<td class="align_center" rowspan="2">Desvenlafaxine</td>
+			<td class="align_center" rowspan="2">N/A (all doses)</td>
+		</tr>
+		<tr>
+			<td class="align_center">100 mg</td>
+			<td class="align_center">$163</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Prozac&reg;</td>
+			<td class="align_center">10 mg</td>
+			<td class="align_center">$90</td>
+			<td class="align_center" rowspan="3">Fluoxetine</td>
+			<td class="align_center">$78</td>
+		</tr>
+		<tr>
+			<td class="align_center">20 mg</td>
+			<td class="align_center">$120</td>
+			<td class="align_center">$80</td>
+		</tr>
+		<tr>
+			<td>Prozac Weekly&reg;</td>
+			<td class="align_center">40 mg</td>
+			<td class="align_center">$165</td>
+			<td class="align_center">$160</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Remeron&reg;</td>
+			<td class="align_center">25 mg</td>
+			<td class="align_center">$138</td>
+			<td class="align_center" rowspan="6">Mirtazapine</td>
+			<td class="align_center">$82</td>
+		</tr>
+		<tr>
+			<td class="align_center">50 mg</td>
+			<td class="align_center">$142</td>
+			<td class="align_center">$84</td>
+		</tr>
+		<tr>
+			<td class="align_center">100 mg</td>
+			<td class="align_center">$145</td>
+			<td class="align_center">$86</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Remeron SolTab&reg;</td>
+			<td class="align_center">15 mg</td>
+			<td class="align_center">$110</td>
+			<td class="align_center" rowspan="3">N/A (all doses)</td>
+		</tr>
+		<tr>
+			<td class="align_center">30 mg</td>
+			<td class="align_center">$113</td>
+		</tr>
+		<tr>
+			<td class="align_center">45 mg</td>
+			<td class="align_center">$120</td>
+		</tr>
+		<tr>
+			<td rowspan="5">Serzone&reg;**</td>
+			<td class="align_center">50 mg</td>
+			<td class="align_center" rowspan="5">N/A (all doses)</td>
+			<td class="align_center" rowspan="5">Nefazodone</td>
+			<td class="align_center">$54</td>
+		</tr>
+		<tr>
+			<td class="align_center">100 mg</td>
+			<td class="align_center">$56</td>
+		</tr>
+		<tr>
+			<td class="align_center">150 mg</td>
+			<td class="align_center">$57</td>
+		</tr>
+		<tr>
+			<td class="align_center">200 mg</td>
+			<td class="align_center">$58</td>
+		</tr>
+		<tr>
+			<td class="align_center">250 mg</td>
+			<td class="align_center">$59</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Wellbutrin&reg;</td>
+			<td class="align_center">75 mg</td>
+			<td class="align_center">$80</td>
+			<td class="align_center" rowspan="7">Bupropion</td>
+			<td class="align_center">$22</td>
+		</tr>
+		<tr>
+			<td class="align_center">100 mg</td>
+			<td class="align_center">$107</td>
+			<td class="align_center">$51</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Wellbutrin SR&reg;</td>
+			<td class="align_center">100 mg</td>
+			<td class="align_center">$123</td>
+			<td class="align_center">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center">150 mg</td>
+			<td class="align_center">$132</td>
+			<td class="align_center">$58</td>
+		</tr>
+		<tr>
+			<td class="align_center">200 mg</td>
+			<td class="align_center">$246</td>
+			<td class="align_center">$115</td>
+		</tr>
+		<tr>
+			<td rowspan="2">Wellbutrin XL&reg;</td>
+			<td class="align_center">150 mg</td>
+			<td class="align_center">$248</td>
+			<td class="align_center">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center">300 mg</td>
+			<td class="align_center">$327</td>
+			<td class="align_center">N/A</td>
+		</tr>
+		<tr>
+			<td rowspan="3">Zoloft&reg;</td>
+			<td class="align_center">25 mg</td>
+			<td class="align_center">$153</td>
+			<td class="align_center" rowspan="3">Sertraline</td>
+			<td class="align_center" rowspan="3">N/A (all doses)</td>
+		</tr>
+		<tr>
+			<td class="align_center">50 mg</td>
+			<td class="align_center">$153</td>
+		</tr>
+		<tr>
+			<td class="align_center">100 mg</td>
+			<td class="align_center">$153</td>
+		</tr>
+	</tbody>
+</table>
+<h5>Ask your doctor</h5>
+<ul>
+	<li>Which antidepressant medicine do you think might be best to treat my depression?</li>
+	<li>What side effects should I be looking for, and when should I tell you about them?</li>
+	<li>How will we know if it is time to try a different amount of medicine or a different medicine?</li>
+	<li>Do any of my other health problems or medicines affect how well the antidepressant might work?</li>
+	<li>Should I also see a talk therapist or counselor?</li>
+</ul> 
+			<a name="5971"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em><a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=863">Second-Generation Antidepressants in the Pharmacologic Treatment of Adult Depression: An Update of the 2007 Comparative Effectiveness Review</a></em>, December 2011.</p>
+<p>The report was produced by the RTI International&ndash;University of North Carolina Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>For a copy of the report or for more information about AHRQ and the Effective Health Care Program, go to <a href="http://www.effectivehealthcare.ahrq.gov/secondgenantidep.cfm">www.effectivehealthcare.ahrq.gov/secondgenantidep.cfm</a>. Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.&nbsp;</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Andrea Humphries, Ph.D., Amelia Smith, M.S., Thomas Workman, Ph.D., Rayan Al Jurdi, M.D., and Michael Fordis, M.D.&nbsp; People with depression reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

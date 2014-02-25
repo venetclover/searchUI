@@ -1,0 +1,1006 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Options for Treating Restless Legs Syndrome - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;pageaction=displayproduct&amp;productid=1673" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26pageaction%3Ddisplayproduct%26productid%3D1673">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=334">
+					Treatment for Restless Legs Syndrome 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1327">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Nov. 27, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=897">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Dec. 16, 2011 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1465">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Apr. 12, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1675">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 30, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1760">
+										CME Activity 
+									</a>
+							<span style="font-size:7pt;"> Nov. 22, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1674">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Aug. 30, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1328">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Nov. 27, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>Related Topic</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1399">
+									
+									Treatment for Restless Legs Syndrome: Future Research Needs 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=215&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12(13)-EHC147-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1673"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1673"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1673"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1673&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1673&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1673&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1673"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1673&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1673&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1673&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2398702F-F01A-1C33-70B35E5E2FB1EC00" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1673&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1673&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1673" title="Options for Treating Restless Legs Syndrome"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1673.gif" alt="Options for Treating Restless Legs Syndrome" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Options for Treating Restless Legs Syndrome" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1673&amp;button=1&quot; title=&quot;Options for Treating Restless Legs Syndrome&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1673.gif&quot; border=&quot;0&quot; alt=&quot;Options for Treating Restless Legs Syndrome&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Aug. 30, 2013 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Options for Treating Restless Legs Syndrome</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/334/1673/restless-legs-130904.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							759 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li class="last" style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/334/1673/RLS.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							9.2 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#8005">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#8006">Understanding Your Condition</a></li>
+					
+						<li><a href="#8007">Understanding Your Options</a></li>
+					
+						<li><a href="#8008">Making a Decision</a></li>
+					
+						<li><a href="#8009">Sources</a></li>
+					
+			</ul>
+		
+			<a name="8005"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, this information is for you if:</h4>
+<ul>
+	<li>Your doctor* has told you that you have restless legs syndrome (RLS), also called Willis-Ekbom disease, and you want to know what researchers have found about treatment options.</li>
+	<li>You are age 18 or older. This information is from research on adults.</li>
+</ul>
+<h4>What will this summary cover?</h4>
+<p>This summary will cover:</p>
+<ul>
+	<li>What RLS is</li>
+	<li>Treatment options for RLS</li>
+	<li>What researchers have found about RLS treatments</li>
+</ul>
+<p>This summary can help you talk with your doctor about what treatment might be best for you.</p>
+<h4>Where does the information come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 53 studies on treatments for RLS published through June 2012. The report was reviewed by clinicians, researchers, experts, and the public. You can read the report by clicking on the link for &quot;Research Review&quot; on the right side of this page.</p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">
+	<p><strong>Note</strong>: The people in the research for this summary had long-term moderate to severe RLS. In people with moderate to severe RLS, the RLS interferes with their ability to do daily activities and/or sleep. This information may not apply to people with mild RLS.</p>
+	<p>Pregnant women, people on dialysis for kidney disease, and older people with other health problems were not included in the research for this summary. These groups of people have an increased risk for RLS and may have an increased risk for side effects from RLS medicines.</p>
+	<p>The studies included in the research for this summary are &ldquo;randomized controlled trials.&rdquo; This type of study is considered high-quality research. Not all treatments for RLS have been studied in a randomized controlled trial.</p>
+</div>
+<p>* In this summary, the term &ldquo;doctor&rdquo; refers to your health care professional, including your physician, nurse practitioner, or physician assistant.</p> 
+			<a name="8006"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is restless legs syndrome?</h4>
+<p>Restless legs syndrome (RLS) is a disorder of the nervous system (the system consisting of your brain, spinal cord, and nerves).</p>
+<p>For a doctor to diagnose RLS, you must have the following:</p>
+<ul>
+	<li>A very strong urge to move your legs. Often, RLS also causes unpleasant or painful feelings in your legs.
+		<ul>
+			<li>Your legs may feel itchy or tingly, or you may feel creeping, burning, pulling, aching, or throbbing.</li>
+			<li>Your legs may jerk or twitch.</li>
+			<li>These feelings can also happen in other parts of your body, such as your arms.</li>
+		</ul>
+	</li>
+	<li>Symptoms get worse when sitting or lying down.</li>
+	<li>Symptoms get better or go away when you move, but come back once you sit or lie down again.</li>
+	<li>Symptoms are worse in the evening or at night.
+		<ul>
+			<li>This can make it hard to fall asleep or to stay asleep.</li>
+		</ul>
+	</li>
+</ul>
+<p>RLS symptoms can range from mild to severe. RLS can make you feel tired during the day and can affect your daily activities. It can also affect your emotional well-being and can lead to anxiety and depression. People of all ages can have RLS, but symptoms may get worse as you get older.</p>
+<p>As many as 7 out of every 100 people in the United States have RLS.</p>
+<h4>What causes RLS?</h4>
+<p>Doctors are not sure what causes RLS. It may be passed down in families. Several things can trigger or worsen RLS symptoms, including:</p>
+<ul>
+	<li>Sitting for long periods of time (such as in a car, airplane, or theater)</li>
+	<li>Some conditions such as iron deficiency, kidney failure, diabetes, nerve problems, or pregnancy</li>
+	<li>Taking certain medicines such as some antihistamines (allergy medicines) or antidepressants</li>
+	<li>Drinking alcohol or caffeine</li>
+	<li>Smoking or using other tobacco products</li>
+	<li>Not getting enough sleep</li>
+</ul> 
+			<a name="8007"></a>
+			
+
+			
+				<h3>Understanding Your Options</h3>
+				<h4>How is RLS treated?</h4>
+<p>Currently, there is no cure for RLS. However, lifestyle changes, nonmedicine treatments, and medicines may relieve symptoms and help you sleep better. Below are details about each of these types of treatment and what researchers have found about them.</p>
+<h5><img alt="drawing of person walking" src="/ehc/assets/Image/walking.png" style="width: 75px; height: 74px; float: right; " />Lifestyle Changes</h5>
+<p>Several lifestyle changes have been tried to help RLS symptoms. Some examples are listed below.</p>
+<ul>
+	<li>Limit or avoid caffeine, alcohol, and smoking.</li>
+	<li>Switch or stop any medicines that might be making your RLS worse (such as some antihistamines and antidepressants).
+		<ul>
+			<li>Never stop taking any medicine without first talking with your doctor.</li>
+		</ul>
+	</li>
+	<li>Exercise a few times a week (such as walking on a treadmill and doing exercises to strengthen your lower body).
+		<ul>
+			<li>However, too much exercise can make RLS symptoms worse. Talk with your doctor about how much exercise is right for you.</li>
+		</ul>
+	</li>
+	<li>Try to go to bed around the same time each night and wake up around the same time each morning.</li>
+</ul>
+<p><strong>What does research say about lifestyle changes to treat RLS?</strong></p>
+<p>Researchers found that:</p>
+<ul>
+	<li>Exercise (treadmill walking and strength exercises for the lower body) three times a week may help lessen RLS symptoms, but more research is needed to know this for sure.</li>
+	<li>There is not enough research to know how well other lifestyle changes work to treat RLS.</li>
+</ul>
+<h5><img alt="Image of hand on knee" src="/ehc/assets/Image/knee.png" style="width: 75px; height: 74px; float: right; " />Nonmedicine Treatments</h5>
+<p>Several nonmedicine treatments have been tried for RLS, including those listed below.</p>
+<ul>
+	<li>Hot or cold baths</li>
+	<li>Massage</li>
+	<li>Compression stockings: stockings made of strong elastic that gently squeeze your legs</li>
+	<li>Pneumatic (pronounced new-MAT-ik) compression devices: leg coverings that inflate and deflate with an air pump to squeeze your legs during the night</li>
+	<li>Near-infrared light therapy: treatments with a device that uses near-infrared light (the red part of the light spectrum) to help increase the circulation in your legs</li>
+</ul>
+<p><strong>What does research say about nonmedicine treatments for RLS?</strong></p>
+<p>Researchers found that:</p>
+<ul>
+	<li>Pneumatic compression devices work to lessen RLS symptoms.</li>
+	<li>Near-infrared light therapy may help lessen RLS symptoms, but more research is needed to know this for sure.</li>
+	<li>There is not enough research (and in some cases no research) to know how well other nonmedicine treatments work to treat RLS.</li>
+</ul>
+<h5><img alt="drawing of pills" src="/ehc/assets/Image/medicine.png" style="width: 75px; height: 74px; float: right; " />Medicines</h5>
+<p>Several types of medicines have been used to treat RLS, including those listed below.</p>
+<ul>
+	<li><strong>Dopamine agonists</strong>: These medicines work by affecting the level of a chemical called dopamine in your brain. Dopamine agonists studied in the research for this summary include:
+		<ul>
+			<li>Pramipexole (Mirapex<sup>&reg;</sup>)*</li>
+			<li>Ropinirole (Requip<sup>&reg;</sup>)*</li>
+			<li>Rotigotine (Neupro<sup>&reg;</sup>) skin patch*</li>
+		</ul>
+	</li>
+	<li><strong>Antiseizure medicines</strong>: These medicines are usually used to stop seizures and nerve pain. You do not have to have seizures to take this type of medicine. Antiseizure medicines studied in the research for this summary include:
+		<ul>
+			<li>Pregabalin (Lyrica<sup>&reg;</sup>)</li>
+			<li>Gabapentin (Neurontin<sup>&reg;</sup>)</li>
+			<li>Gabapentin enacarbil (Horizant<sup>&reg;</sup>)*</li>
+		</ul>
+	</li>
+	<li><strong>Iron</strong>: Iron is usually given to people who have too little iron in their body. Iron can be taken as a pill or given through an intravenous (IV) tube in your arm.
+		<ul>
+			<li>Taking too much iron can be dangerous, so it is important to talk with your doctor before taking iron.</li>
+		</ul>
+	</li>
+</ul>
+<p>* The U.S. Food and Drug Administration (FDA) has approved these medicines to treat moderate to severe RLS.</p>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">
+	<p><strong>Note</strong>: The following medicines have been taken by some people for RLS. But, there is not enough research to know if these medicines work or if they are safe to treat RLS.</p>
+	<ul>
+		<li><strong>Opioids</strong> (strong pain relievers that can become addictive) such as codeine, hydrocodone (Vicodin<sup>&reg;</sup>, Lortab<sup>&reg;</sup>), morphine (DepoDur<sup>&reg;</sup>), or oxycodone (Tylox<sup>&reg;</sup>, Percodan<sup>&reg;</sup>, Oxycontin<sup>&reg;</sup>)</li>
+		<li><strong>Sedatives</strong> (medicines that relax your muscles and help you sleep) such as clonazepam (Klonopin<sup>&reg;</sup>), oxazepam (Serax<sup>&reg;</sup>), or temazepam (Restoril<sup>&reg;</sup>)</li>
+	</ul>
+</div>
+<p><strong>What does research say about medicines to treat RLS?</strong></p>
+<p>Researchers found that:</p>
+<ul>
+	<li>Dopamine agonists work to lessen RLS symptoms, improve quality of life, and improve sleep.</li>
+	<li>The antiseizure medicine gabapentin encarbil (Horizant<sup>&reg;</sup>) works to improve sleep. It may also improve quality of life, but more research is needed to know this for sure.</li>
+	<li>The antiseizure medicine pregabalin (Lyrica<sup>&reg;</sup>) works to lessen RLS symptoms. It does not appear to improve quality of life, but more research is needed to know this for sure.</li>
+	<li>There is not enough research to know how well the antiseizure medicine gabapentin (Neurontin<sup>&reg;</sup>) works to treat RLS.</li>
+	<li>Intravenous (IV) iron works to lessen RLS symptoms and improve quality of life. It may also improve sleep, but more research is needed to know this for sure.</li>
+	<li>Iron pills may help lessen RLS symptoms in people who have too little iron in their body, but more research is needed to know this for sure.</li>
+</ul>
+<table class="styleOne">
+	<caption>What are the possible side effects of RLS medicines?</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col">&nbsp;</th>
+			<th scope="col">Medicines</th>
+			<th scope="col">Possible Side Effects</th>
+			<th scope="col">More Information About Possible Side Effects</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="4">
+				<p>* The possible side effects listed here are from the FDA.<br />
+					<sup>&dagger;</sup> Iron is a dietary supplement. Unlike prescription or over-the-counter medicines, dietary supplements do not have to be approved by the FDA. The possible side effects of iron listed here are from the National Institutes of Health Office of Dietary Supplements Web site available at <em>http://ods.od.nih.gov/factsheets/Iron-HealthProfessional/</em>.</p>
+			</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th class="section_title" scope="row">Dopamine agonists*</th>
+			<td>
+				<ul>
+					<li>Pramipexole (Mirapex<sup>&reg;</sup>)</li>
+					<li>Ropinirole (Requip<sup>&reg;</sup>)</li>
+					<li>Rotigotine (Neupro<sup>&reg;</sup>) skin patch</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Nausea and vomiting</li>
+					<li>Drowsiness</li>
+					<li>Tiredness</li>
+					<li>Headache</li>
+					<li>Hallucinations (seeing things that are not there)</li>
+					<li>Intense urges (such as intense urges to gamble or to have sex)</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>In some people, dopamine agonists may cause RLS symptoms to start happening earlier in the day, to worsen, or to spread to other parts of the body such as the arms. This is called &ldquo;augmentation.&rdquo;</li>
+					<li>The rotigotine (Neupro<sup>&reg;</sup>) skin patch can also cause redness, swelling, and itching where the patch is placed on the skin.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Antiseizure medicines*</th>
+			<td>
+				<ul>
+					<li>Gabapentin enacarbil (Horizant<sup>&reg;</sup>)</li>
+					<li>Gabapentin (Neurontin<sup>&reg;</sup>)</li>
+					<li>Pregabalin (Lyrica<sup>&reg;</sup>)</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Dizziness</li>
+					<li>Drowsiness</li>
+					<li>Tiredness</li>
+					<li>Swelling of the feet or ankles</li>
+					<li>Trouble thinking or concentrating</li>
+					<li>Trouble with balance</li>
+					<li>Increased risk of suicidal thoughts</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>The antiseizure medicine pregabalin (Lyrica<sup>&reg;</sup>) can also cause the following side effects. If you have any of these side effects, call your doctor right away.
+						<ul>
+							<li>Dry mouth</li>
+							<li>Blurred vision</li>
+							<li>Weight gain</li>
+							<li>Difficulty concentrating</li>
+							<li>Swelling of the throat, head, and neck</li>
+							<li>An allergic reaction (hives, shortness of breath, or wheezing)</li>
+						</ul>
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Iron<sup>&dagger;</sup></th>
+			<td>
+				<ul>
+					<li>Iron pills</li>
+					<li>Intravenous (IV) iron</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Nausea and vomiting</li>
+					<li>Constipation</li>
+					<li>Diarrhea</li>
+					<li>Stomach discomfort</li>
+					<li>Dark-colored stool (waste)</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Taking too much iron can lead to iron poisoning. It is important to talk with your doctor before taking iron.</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">
+	<p><strong>Note</strong>: If you are pregnant, talk with your doctor before taking a dopamine agonist or antiseizure medicine. These medicines may harm the unborn baby.</p>
+	<p>Dopamine agonists and antiseizure medicines can cause drowsiness. Talk with your doctor about whether it is safe to drive while taking your RLS medicine.</p>
+</div>
+<p><strong>What are the costs of RLS medicines?</strong></p>
+<p>The costs to you for medicines to treat your RLS depend on your health insurance, the dose (amount) of the medicine you need, whether the medicine comes in a generic form, and the pharmacy where you buy the medicine.</p>
+<ul>
+	<li>The dopamine agonists pramipexole (Mirapex<sup>&reg;</sup>) and ropinirole (Requip<sup>&reg;</sup>) and the antiseizure medicine gabapentin (Neurontin<sup>&reg;</sup>) all come in a generic form.</li>
+	<li>The average wholesale prices for dopamine agonists and antiseizure medicines to treat RLS range from $80 to $185* per month.</li>
+</ul>
+<p>* Prices are the average wholesale prices listed from RED BOOK Online<sup>&reg;</sup> rounded to the nearest $5. Average wholesale prices are the prices paid by pharmacies.</p> 
+			<a name="8008"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>There are many things to think about when deciding what RLS treatment might be best for you. You and your doctor may want to talk about:</p>
+<ul>
+	<li>How severe your RLS symptoms are and how much they are affecting your sleep or daily activities</li>
+	<li>The possible benefits and side effects of each treatment</li>
+	<li>Which treatment best fits your preferences and lifestyle (some people may want to try lifestyle changes like exercise, and others would rather take a medicine)</li>
+	<li>The cost of each treatment</li>
+</ul>
+<h4>Ask your doctor</h4>
+<ul>
+	<li>What lifestyle changes might help my RLS?</li>
+	<li>Am I taking any medicines that might be making my RLS worse?</li>
+	<li>Would a nonmedicine treatment help my RLS?</li>
+	<li>Would a medicine help my RLS? If so, which type of medicine might be best for me?</li>
+	<li>Will the medicine interfere with any other medicines I take?</li>
+	<li>If I take a dopamine agonist, how likely am I to have augmentation (symptoms start happening earlier in the day, worsen, or spread to other parts of the body)?</li>
+	<li>How will I know if my medicine is causing augmentation?</li>
+	<li>Is there anything I can do to help prevent augmentation?</li>
+	<li>Is there anything else I can do to help improve my RLS symptoms and help me sleep?</li>
+</ul> 
+			<a name="8009"></a>
+			
+
+			
+				<h3>Sources</h3>
+				<p>The information in this summary comes from the report <em>Treatment for Restless Legs Syndrome</em>, November 2012. The report was produced by the Minnesota Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus<sup>&reg;</sup> Web site, a service of the National Library of Medicine and the National Institutes of Health. This service is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., Joohi Jimenez-Shahed, M.D., and Michael Fordis, M.D. People who have restless legs syndrome reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

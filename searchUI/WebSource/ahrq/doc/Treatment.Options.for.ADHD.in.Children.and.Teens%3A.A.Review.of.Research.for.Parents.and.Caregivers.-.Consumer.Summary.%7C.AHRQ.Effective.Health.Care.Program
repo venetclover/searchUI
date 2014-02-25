@@ -1,0 +1,1457 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Treatment Options for ADHD in Children and Teens: A Review of Research for Parents and Caregivers - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;button=1&amp;productid=1148" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fpageaction%3Ddisplayproduct%26button%3D1%26productid%3D1148">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=191">
+					Attention Deficit Hyperactivity Disorder: Effectiveness of Treatment in At-Risk Preschoolers; Long-Term Effectiveness in All Ages; and Variability in Prevalence, Diagnosis, and Treatment 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=818">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Oct. 21, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=498">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Aug. 10, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1082">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> May 10, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1568">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jul. 3, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1626">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1767">
+										CME Activity 
+									</a>
+							<span style="font-size:7pt;"> Nov. 23, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1149">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Jun. 26, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1278">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Oct. 12, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=814">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Oct. 21, 2011 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>Related Projects</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayproduct&productid=924">
+									
+									Future Research Needs for Attention Deficit Hyperactivity Disorder: Effectiveness of Treatment in At-Risk Preschoolers; Long-Term Effectiveness in All Ages; and Variability in Prevalence, Diagnosis, and Treatment 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12-EHC003-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1148"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1148"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1148"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1148&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1148&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1148&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1148"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1148&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1148&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bbutton%3d1%26amp%3bproductid%3d1148&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=23980E6D-0D18-38CC-DC91849AC365806C" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1148&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1148&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1148" title="Treatment Options for ADHD in Children and Teens: A Review of Research for Parents and Caregivers"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1148.gif" alt="Treatment Options for ADHD in Children and Teens: A Review of Research for Parents and Caregivers" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Treatment Options for ADHD in Children and Teens: A Review of Research for Parents and Caregivers" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1148&amp;button=1&quot; title=&quot;Treatment Options for ADHD in Children and Teens: A Review of Research for Parents and Caregivers&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1148.gif&quot; border=&quot;0&quot; alt=&quot;Treatment Options for ADHD in Children and Teens: A Review of Research for Parents and Caregivers&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Jun. 26, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Treatment Options for ADHD in Children and Teens: A Review of Research for Parents and Caregivers</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/191/1148/adhd_con_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							603 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/191/1148/ADHD_GUIDE.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							9.4 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1278" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#5772">Is This Summary Right for Me?</a></li>
+					
+						<li><a href="#5773">Understanding Your Child’s Condition</a></li>
+					
+						<li><a href="#5774">Understanding Your Options </a></li>
+					
+						<li><a href="#5775">Making a Decision</a></li>
+					
+						<li><a href="#5776">Source</a></li>
+					
+			</ul>
+		
+			<a name="5772"></a>
+			
+
+			
+				<h3>Is This Summary Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<ul>
+	<li>A doctor said that your child or teen has &ldquo;attention deficit  hyperactivity disorder&rdquo; (ADHD).</li>
+	<li>You want to know what research says about ADHD treatments  for children and teens.</li>
+</ul>
+<h4>What does this summary cover?</h4>
+<p>This summary discusses the different types of treatment for ADHD.  It explains what research says about how each treatment improves  symptoms and the risks involved with each treatment. It can help  you talk with the doctor about ADHD and your child.</p>
+<h4>Where does the information in this summary come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research  and Quality (AHRQ), a Federal Government research agency,  reviewed 223 studies on ADHD treatments published from  January 1980 through May 2010. The report was reviewed by  clinicians, researchers, experts, and the public. You can read the  report at <a href="http://www.effectivehealthcare.ahrq.gov/adhdtreatment.cfm">www.effectivehealthcare.ahrq.gov/adhdtreatment.cfm</a>.</p> 
+			<a name="5773"></a>
+			
+
+			
+				<h3>Understanding Your Child’s Condition</h3>
+				<h4>What is attention deficit hyperactivity disorder (ADHD)?</h4>
+<p>ADHD is a disorder that has three different types of symptoms:</p>
+<ul>
+	<li>Difficulty paying attention or focusing on certain tasks</li>
+	<li>Being overactive (or hyperactive)</li>
+	<li>Acting on impulse (without thinking)</li>
+</ul>
+<p>Children or teens with ADHD may:</p>
+<ul>
+	<li>Get distracted easily and  forget things often</li>
+	<li>Switch too quickly from  one activity to the next</li>
+	<li>Have trouble following  directions</li>
+	<li>Daydream too much</li>
+	<li>Have trouble finishing tasks like homework or chores</li>
+	<li>Lose toys, books, and school supplies often</li>
+	<li>Fidget and squirm a lot</li>
+	<li>Talk nonstop and interrupt  people</li>
+	<li>Run around a lot</li>
+	<li>Touch and play with  everything they see</li>
+	<li>Be very impatient</li>
+	<li>Blurt out inappropriate  comments</li>
+	<li>Have trouble controlling  their emotions</li>
+</ul>
+<p>Children may first develop ADHD symptoms at an early age (between 3 and 6 years old). However, ADHD is most often found and treated in elementary school (between 7 and 9 years old).</p>
+<p>ADHD symptoms like hyperactivity may get better as a child gets older. However, symptoms may not disappear completely and may continue into adulthood.</p>
+<h5>How do doctors know if a child or teen has ADHD?</h5>
+<p>There is no one medical or physical test that tells if someone has ADHD. Usually, a parent, teacher, or other adult tells the doctor about the behaviors they see. Your pediatrician or family doctor may suggest you take your child to see a qualified specialist with training and expertise in childhood development and mental health disorders.</p>
+<p>Sometimes a child may have ADHD at the same time as other problems, such as anxiety, a learning disability, oppositional defiant&nbsp;disorder (a condition where children or teens argue, talk back, disobey, and defy parents, teachers, and other adults), or problems with alcohol and drugs. The doctor may check for other medical problems that might explain your child&rsquo;s symptoms.</p>
+<h5>How common is ADHD?</h5>
+<ul>
+	<li>ADHD is now found more often in preschool children, teens, and adults than in the past.</li>
+	<li>About 5 percent of children worldwide show signs of inattention and hyperactivity.</li>
+	<li>About twice as many boys have ADHD as girls.</li>
+	<li>ADHD affects children of all races and social classes.</li>
+</ul> 
+			<a name="5774"></a>
+			
+
+			
+				<h3>Understanding Your Options </h3>
+				<h4>How is ADHD treated?</h4>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">It is common for children to have more than one learning and/or emotional problem. ADHD may be just one of these problems. It is important to get a full evaluation from your doctor before deciding on treatment.</div>
+<p>There is no cure for ADHD, but there are treatments that can help improve symptoms. You may have heard about some treatments, such as changes in diet, use of supplements or vitamins, and others. There is not much research to say how well these treatments work, and they are not included in this summary. The two treatments below have much more research:</p>
+<p><img src="/tasks/sites/ehc/assets/Image/adhdcons_nonmedandmedbuttons.png" alt="Images showing treatment options for ADHD: Non-medicine Treatments and Medicines" width="258" height="164" /></p>
+<ul>
+	<li>Non-medicine treatments: Parental behavior training, psychosocial therapy, and school-based programs</li>
+	<li>Medicines</li>
+</ul>
+<p>Families may use both non-medicine treatments and medicines together.</p>
+<h4>Non-medicine Treatments<img style="float:right; padding:5px" src="/tasks/sites/ehc/assets/Image/nonmedicinesicon.png" alt="" width="136" height="136" /></h4>
+<p>Several types of non-medicine treatments have been used for children with ADHD. Sometimes the whole family takes part in these treatments.</p>
+<h5>Parental Behavior Training</h5>
+<ul>
+	<li>Parental behavior training programs teach parents better ways to help their child or teen.</li>
+	<li>Often, parents and their child attend behavior training sessions together.</li>
+	<li>Usually one of the first things the programs focus on is creating a healthy bond between the parents and the child.</li>
+	<li>Programs teach parents how to understand their child&rsquo;s behavior. Parents learn skills to help their child avoid behavior problems before they start.</li>
+	<li>Parents can learn how to organize tasks in a way that makes it easier for their child or teen to complete them.</li>
+	<li>Parental behavior training programs teach parents how to create a system of rewards and consequences.</li>
+	<li>Program sessions usually take place in an office, and there may be weekly sessions for several weeks or months.</li>
+	<li>These programs usually charge a fee. Some of these costs may be covered by your insurance.</li>
+</ul>
+<h5>Psychosocial Therapy</h5>
+<ul>
+	<li>A trained therapist can talk with your child and other family members about controlling behaviors and emotions and improving social skills.</li>
+	<li>Therapy sessions usually take place in an office. The therapist may suggest weekly sessions for several weeks, months, or years, depending on the child&rsquo;s needs.</li>
+	<li>Therapists usually charge a fee for each hour of therapy. Some of these costs may be covered by your insurance.</li>
+</ul>
+<h5>School-Based Programs</h5>
+<ul>
+	<li>The Individuals with Disabilities Education Act (IDEA) requires public schools to offer special education services to the children who qualify. Children with ADHD are often included.</li>
+	<li>Education specialists at schools help students with ADHD succeed in learning and academics. They can work with the child, the parents, and teachers to make adjustments to the classroom, learning activities, or homework assignments.</li>
+	<li>An individual education plan (IEP) is created with education specialists, teachers, and parents. The IEP outlines the actions taken at the school to help the child succeed. These plans are reviewed at the end of the year and should be passed on to the child&rsquo;s next teacher.</li>
+	<li>These services may be free of charge for families living within the school district.</li>
+</ul>
+<h4>What does research say about non-medicine treatments?</h4>
+<p>Researchers found that:</p>
+<ul>
+	<li>Helping parents acquire new skills to help improve their child&rsquo;s behavior (parental behavior training) reduces ADHD symptoms and disruptive behavior disorders in children under 6 with ADHD.
+	<ul>
+		<li>Improvements in disruptive behavior lasted as long as 2 years in some studies.</li>
+		<li>Parents who attend more parental behavior training sessions see more improvement in their child&rsquo;s behavior.</li>
+	</ul>
+	</li>
+</ul>
+<p>There is not enough research to know:</p>
+<ul>
+	<li>If combining more than one type of non-medicine treatment helps treat preschoolers with disruptive behavior disorders or ADHD.</li>
+	<li>If behavioral or psychosocial therapy alone works beyond 12 months to improve ADHD in children 6 and older.</li>
+	<li>If parental behavior training or school-based programs improve ADHD symptoms for more than 12 months in children 6 and older.</li>
+</ul>
+<h4>Medicines<img style="float:right" src="/tasks/sites/ehc/assets/Image/medicinesicon2.png" alt="" width="137" height="137" /></h4>
+<p>Two types of medicines treat ADHD symptoms: stimulants and nonstimulants. There are many different types and brands of these medicines. All ADHD medicines come with possible side effects. It is believed that these medicines work by changing the amount of certain chemicals in the brain.</p>
+<table class="styleOne">
+	<caption><strong>Medicines for ADHD</strong></caption>
+	<thead>
+		<tr class="valign-bottom">
+			<th scope="col">Type of Medicine</th>
+			<th scope="col">Brand Name</th>
+			<th scope="col">How Taken?</th>
+			<th scope="col">Generic Available?</th>
+		</tr>
+	</thead>
+	<tfoot>
+	<tr>
+		<td colspan="4">CD, ER, LA, SR, and XR all refer to extended-release formulas of the medicine. This means that the medicine lasts longer, and your child may not need to take as many pills each day.<br />
+		*Good-quality studies for this medicine were not available. <br />
+		&dagger;Research on this medication in skin patch form was not available</td>
+	</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th scope="col" colspan="4" class="section_title">Stimulants</th>
+		</tr>
+		<tr>
+			<td rowspan="2">Mixed amphetamine salts</td>
+			<td>Adderall&reg;</td>
+			<td>Pill</td>
+			<td>Yes, for some doses</td>
+		</tr>
+		<tr>
+			<td>Adderall XR&reg;</td>
+			<td>Pill</td>
+			<td>Yes, for some doses</td>
+		</tr>
+		<tr>
+			<td>Dextroamphetamine</td>
+			<td>Dexedrine&reg;</td>
+			<td>Pill</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Lisdexamfetamine*</td>
+			<td>Vyvanse&reg;*</td>
+			<td>Pill</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td rowspan="11">Methylphenidate</td>
+			<td>Concerta&reg;</td>
+			<td>Pill</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Daytrana&reg;&dagger;</td>
+			<td>Skin patch</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Focalin&reg;*</td>
+			<td>Pill</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Focalin XR&reg;*</td>
+			<td>Pill</td>
+			<td>Yes, for some doses</td>
+		</tr>
+		<tr>
+			<td>Metadate ER&reg;</td>
+			<td>Pill</td>
+			<td>Yes, for some doses</td>
+		</tr>
+		<tr>
+			<td>Metadate CD&reg;</td>
+			<td>Pill</td>
+			<td>Yes, for some doses</td>
+		</tr>
+		<tr>
+			<td>Methylin&reg;</td>
+			<td>Pill</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Methylin ER&reg;</td>
+			<td>Pill</td>
+			<td>Yes, for some doses</td>
+		</tr>
+		<tr>
+			<td>Ritalin&reg;</td>
+			<td>Pill</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Ritalin LA&reg;</td>
+			<td>Pill</td>
+			<td>Yes, for some doses</td>
+		</tr>
+		<tr>
+			<td>Ritalin SR&reg;</td>
+			<td>Pill</td>
+			<td>Yes, for some doses</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="4" class="section_title">Nonstimulants</th>
+		</tr>
+		<tr>
+			<td>Atomoxetine</td>
+			<td>Strattera&reg;</td>
+			<td>Pill</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Clonidine hydrochloride</td>
+			<td>Kapvay&reg;*</td>
+			<td>Pill</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Guanfacine ER</td>
+			<td>Intuniv&reg;</td>
+			<td>Pill</td>
+			<td>Yes</td>
+		</tr>
+	</tbody>
+</table>
+<h5>Stimulants</h5>
+<ul>
+	<li>Stimulants can be short-acting (work for 4 to 6 hours) or long-acting (work for 8 to 12 hours).</li>
+	<li>Children and teens usually tolerate these medicines well.</li>
+	<li>They can be taken by mouth or through a skin patch.</li>
+	<li>There are several different types of stimulants available. Your doctor may need to try several to find one that works best for your child.</li>
+	<li>Stimulants have been studied very little in children under 6. Your doctor should check the U.S. Food and Drug Administration (FDA) label for these medicines to see if they can be used in children under 6.</li>
+</ul>
+<h5>Nonstimulants</h5>
+<p><em><strong>Atomoxetine (brand name Strattera&reg;)</strong></em></p>
+<ul>
+	<li>Atomoxetine may work by increasing a chemical called norepinephrine in the brain.</li>
+	<li>Atomoxetine is approved by the FDA for children 6 and older and is taken by mouth.</li>
+</ul>
+<p><em><strong>Guanfacine ER (brand name Intuniv&reg;)</strong></em></p>
+<ul>
+	<li>Extended-release guanfacine interacts with the part of the brain that controls attention and impulse.</li>
+	<li>It is approved by the FDA for children 6 and older. It is taken by mouth.</li>
+</ul>
+<h4>What does research say about how these medicines compare to one another?</h4>
+<p>A few studies found:</p>
+<ul>
+	<li>All stimulants seem to improve ADHD symptoms in children 6 and older for months to years at a time with few side effects, but there is not enough research to know for certain.</li>
+	<li>The stimulant methylphenidate (Ritalin&reg; and Concerta&reg;, among others) works and is generally safe for treating ADHD symptoms, but there is not enough research to know if it is safe for preschool children (under age 6) for longer than 1 year.</li>
+	<li>Atomoxetine (Strattera&reg;) is safe and appears to work well to treat ADHD symptoms in children 6 and older for several years, but there is not enough research to know for certain.</li>
+</ul>
+<p>There is not enough research to know:</p>
+<ul>
+	<li>How well extended-release guanfacine (Intuniv&reg;) works over several years to treat ADHD symptoms in children 6 and older.</li>
+</ul>
+<h4>Common Side Effects of ADHD Medicines</h4>
+<p>These side effects are listed on the FDA labels of each medicine and in the medical research studied for this summary.</p>
+<table class="styleOne">
+	<thead>
+		<tr>
+			<th scope="col">Medicine</th>
+			<th scope="col">Side Effects</th>
+			<th scope="col">Additional Information</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">All Stimulants (regular or extended-release formulas)</th>
+		</tr>
+		<tr>
+			<td>
+			<ul>
+				<li>Adderall&reg;</li>
+				<li>Concerta&reg;</li>
+				<li>Daytrana&reg;</li>
+				<li>Dexedrine&reg;</li>
+				<li>Focalin&reg;</li>
+				<li>Metadate&reg;</li>
+				<li>Methylin&reg;</li>
+				<li>Ritalin&reg;</li>
+				<li>Vyvance&reg;</li>
+			</ul>
+			</td>
+			<td>
+			<ul>
+				<li>Less appetite</li>
+				<li>Worsened tic (uncontrollable movement)</li>
+				<li>Difficulty falling asleep</li>
+				<li>Headaches, stomach aches, and irritability</li>
+				<li>Increased heart rate</li>
+			</ul>
+			</td>
+			<td>
+			<ul>
+				<li>Children or teens with heart problems of any kind should be followed by their doctor for side effects.</li>
+				<li>Every child reacts a bit differently to stimulants, and these side effects may be mild or strong.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<th scope="col" colspan="3" class="section_title">Nonstimulants (regular or extended-release formulas)</th>
+		</tr>
+		<tr>
+			<td>Atomoxetine<br />
+			(Strattera&reg;)</td>
+			<td>
+			<ul>
+				<li>Increased thoughts of suicide (more than in children not taking the medicine)</li>
+				<li>Less appetite</li>
+				<li>Increased heart rate</li>
+				<li>Headaches, stomach aches, and irritability</li>
+			</ul>
+			</td>
+			<td>
+			<ul>
+				<li>Parents should watch for signs of suicidal thoughts.</li>
+				<li>This medicine has been associated with heart problems and may not be safe in children or teens with a history of severe heart problems.</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Guanfacine<br />
+			(Intuniv&reg;)</td>
+			<td>
+			<ul>
+				<li>Drowsiness, fatigue, and sleepiness</li>
+				<li>Headaches, stomach aches, and irritability</li>
+				<li>Possible heart side effects include low blood pressure, slow heart rate, or other changes in heart rhythm. These side effects may need to be followed by your doctor.</li>
+			</ul>
+			</td>
+			<td>
+			<ul>
+				<li>This medicine should not be stopped suddenly, as doing so can increase blood pressure.</li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h4>What does research say about using non-medicine treatments and medicine together?</h4>
+<p>A few studies found:</p>
+<ul>
+	<li>Stimulants, whether taken alone or while in behavioral therapy, may help children 6 and older with ADHD, but there is not enough research to know for certain.</li>
+</ul> 
+			<a name="5775"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>There are several things to consider when deciding on medicine or non-medicine treatments for your child or teen with ADHD.</p>
+<ul>
+	<li>If you choose to use non-medicine treatment, you will need to think about how to schedule or participate in treatment sessions with your child.</li>
+	<li>You will also need to consider the costs of ongoing non-medicine treatments and the commitment to stay in therapy sessions or parental behavior training for a long period of time.</li>
+	<li>When deciding whether your child should take a medicine, only you and the doctor can decide whether the benefits of any medicine are worth the risk of having a side effect.</li>
+	<li>Each person responds differently to different medicines, and the doctor may try several medicines and doses (amounts) before finding the right one.</li>
+</ul>
+<p>You and the doctor should discuss:</p>
+<ul>
+	<li>If non-medicine treatments might be helpful for your child or teen.</li>
+	<li>What kinds of non-medicine treatments are available in your area.</li>
+	<li>The benefits and side effects of taking a medicine.</li>
+	<li>The ways in which the doctor can help you notice any side effects so that they can be treated or so the medicine can be changed.</li>
+	<li>The cost of each treatment option.</li>
+</ul>
+<div class="report_highlight_box medium_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">The National Resource Center on ADHD, a program of Children and Adults with Attention Deficit/Hyperactivity Disorder (CHADD&reg;) supported by the Centers for Disease Control and Prevention (CDC), has information and many resources. You can reach this center online or by phone.<br />
+<strong><a href="http://www.help4adhd.org"><br />
+www.help4adhd.org</a>&nbsp;<a href="/index.cfm/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>&nbsp; 1-800-233-4050</strong></div>
+<h5>What are the costs of treatment?</h5>
+<p>The cost of non-medicine treatment programs can range between $300 and $2,000, depending on the individual therapist or program and the amount of time needed. There are some services available through schools and the Federal Government. The cost to you for ADHD medicines depends on:</p>
+<ul>
+	<li>Your health insurance.</li>
+	<li>The dose (amount) of medicine your child or teen needs to take.</li>
+	<li>Whether the medicine is available in generic form.</li>
+</ul>
+<table class="styleOne">
+	<caption><strong>Wholesale Prices of Prescription ADHD Medicines</strong></caption>
+	<thead>
+		<tr class="valign-bottom">
+			<th scope="col">Brand Name</th>
+			<th scope="col" class="align_center">Dose</th>
+			<th scope="col" class="align_center">Price per<br />
+			Month<br />
+			for Brand*</th>
+			<th scope="col">Generic<br />
+			Name</th>
+			<th scope="col" class="align_center">Price per<br />
+			Month<br />
+			for Generic*</th>
+		</tr>
+	</thead>
+	<tfoot>
+	<tr>
+		<td colspan="5">CD, ER, LA, SR, and XR all refer to extended-release formulas of the medicine.<br />
+		<br />
+		N/A = Price or generic product is not available.<br />
+		<br />
+		* Prices are the average wholesale prices listed from <em>RED BOOK Online</em>&reg;. <br />
+		Generic prices are the middle value in the range of prices listed from different manufacturers. The actual price of the medicines may be higher or lower than the prices listed here, depending on the manufacturer used by your pharmacy.</td>
+	</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th scope="col" colspan="5" class="section_title">Stimulants</th>
+		</tr>
+		<tr>
+			<td rowspan="4" style="text-align: left; ">Adderall&reg;</td>
+			<td class="align_center" style="text-align: left; ">5 mg</td>
+			<td class="align_center" style="text-align: left; ">$113</td>
+			<td rowspan="7" style="text-align: left; ">Mixed amphetamine salts</td>
+			<td class="align_center" style="text-align: left; ">$45</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td class="align_center" style="text-align: left; ">$113</td>
+			<td class="align_center" style="text-align: left; ">$45</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">20 mg</td>
+			<td class="align_center" style="text-align: left; ">$113</td>
+			<td class="align_center" style="text-align: left; ">$45</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">30 mg</td>
+			<td class="align_center" style="text-align: left; ">$113</td>
+			<td class="align_center" style="text-align: left; ">$45</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="text-align: left; ">Adderall XR&reg;</td>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td class="align_center" style="text-align: left; ">$236</td>
+			<td class="align_center" style="text-align: left; ">$184</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">20 mg</td>
+			<td class="align_center" style="text-align: left; ">$236</td>
+			<td class="align_center" style="text-align: left; ">$184</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">30 mg</td>
+			<td class="align_center" style="text-align: left; ">$236</td>
+			<td class="align_center" style="text-align: left; ">$184</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="text-align: left; ">Concerta&reg;</td>
+			<td class="align_center" style="text-align: left; ">18 mg</td>
+			<td class="align_center" style="text-align: left; ">$197</td>
+			<td rowspan="4" style="text-align: left; ">Methylphenidate hydrochloride</td>
+			<td class="align_center" style="text-align: left; ">$186</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">27 mg</td>
+			<td class="align_center" style="text-align: left; ">$202</td>
+			<td class="align_center" style="text-align: left; ">$191</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">36 mg</td>
+			<td class="align_center" style="text-align: left; ">$208</td>
+			<td class="align_center" style="text-align: left; ">$197</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">54 mg</td>
+			<td class="align_center" style="text-align: left; ">$226</td>
+			<td class="align_center" style="text-align: left; ">$214</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="text-align: left; ">Daytrana&reg; Patch<br />
+			(9 hour per dose)</td>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td rowspan="4" class="align_center" style="text-align: left; ">$212<br />
+			(all doses)</td>
+			<td rowspan="4" style="text-align: left; ">Methylphenidate</td>
+			<td rowspan="4" class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td style="text-align: left; ">15 mg</td>
+		</tr>
+		<tr>
+			<td style="text-align: left; ">20 mg</td>
+		</tr>
+		<tr>
+			<td style="text-align: left; ">30 mg</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="text-align: left; ">Dexedrine&reg;</td>
+			<td class="align_center" style="text-align: left; ">5 mg</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+			<td rowspan="4" style="text-align: left; ">Dextroamphetamine</td>
+			<td class="align_center" style="text-align: left; ">$206</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+			<td class="align_center" style="text-align: left; ">$206</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">20 mg</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+			<td class="align_center" style="text-align: left; ">$412</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">30 mg</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+			<td class="align_center" style="text-align: left; ">$412</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="text-align: left; ">Focalin&reg;</td>
+			<td class="align_center" style="text-align: left; ">2.5 mg</td>
+			<td class="align_center" style="text-align: left; ">$22</td>
+			<td rowspan="7" style="text-align: left; ">Dexmethylphenidate hydrochloride</td>
+			<td class="align_center" style="text-align: left; ">$20</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">5 mg</td>
+			<td class="align_center" style="text-align: left; ">$32</td>
+			<td class="align_center" style="text-align: left; ">$29</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td class="align_center" style="text-align: left; ">$46</td>
+			<td class="align_center" style="text-align: left; ">$42</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="text-align: left; ">Focalin XR&reg;</td>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td class="align_center" style="text-align: left; ">$200</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">20 mg</td>
+			<td class="align_center" style="text-align: left; ">$206</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">30 mg</td>
+			<td class="align_center" style="text-align: left; ">$216</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">40 mg</td>
+			<td class="align_center" style="text-align: left; ">$227</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td rowspan="6" style="text-align: left; ">Metadate CD&reg;</td>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td class="align_center" style="text-align: left; ">$171</td>
+			<td rowspan="20" style="text-align: left; ">Methylphenidate hydrochloride</td>
+			<td class="align_center" style="text-align: left; ">$15</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">20 mg</td>
+			<td class="align_center" style="text-align: left; ">$171</td>
+			<td class="align_center" style="text-align: left; ">$26</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">30 mg</td>
+			<td class="align_center" style="text-align: left; ">$171</td>
+			<td class="align_center" style="text-align: left; ">$138</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">40 mg</td>
+			<td class="align_center" style="text-align: left; ">$234</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">50 mg</td>
+			<td class="align_center" style="text-align: left; ">$288</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">60 mg</td>
+			<td class="align_center" style="text-align: left; ">$288</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td style="text-align: left; ">Metadate ER&reg;</td>
+			<td class="align_center" style="text-align: left; ">20 mg</td>
+			<td class="align_center" style="text-align: left; ">$53</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="text-align: left; ">Methylin&reg;</td>
+			<td class="align_center" style="text-align: left; ">2.5 mg</td>
+			<td class="align_center" style="text-align: left; ">$105</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">5 mg</td>
+			<td class="align_center" style="text-align: left; ">$150</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td class="align_center" style="text-align: left; ">$214</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="text-align: left; ">Methylin ER&reg;</td>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">20 mg</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="text-align: left; ">Ritalin&reg;</td>
+			<td class="align_center" style="text-align: left; ">5 mg</td>
+			<td class="align_center" style="text-align: left; ">$18</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td class="align_center" style="text-align: left; ">$30</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">20 mg</td>
+			<td class="align_center" style="text-align: left; ">$53</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td rowspan="4" style="text-align: left; ">Ritalin LA&reg;</td>
+			<td class="align_center" style="text-align: left; ">10 mg</td>
+			<td class="align_center" style="text-align: left; ">$165</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">20 mg</td>
+			<td class="align_center" style="text-align: left; ">$165</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">30 mg</td>
+			<td class="align_center" style="text-align: left; ">$169</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">40 mg</td>
+			<td class="align_center" style="text-align: left; ">$173</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td style="text-align: left; ">Ritalin SR&reg;</td>
+			<td class="align_center" style="text-align: left; ">20 mg</td>
+			<td class="align_center" style="text-align: left; ">$80</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<td style="text-align: left; ">Vyvanse&reg;</td>
+			<td class="align_center" style="text-align: left; ">20-70 mg</td>
+			<td class="align_center" style="text-align: left; ">$205<br />
+			(all doses)</td>
+			<td style="text-align: left; ">Lisdexamfetamine dimesylate</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+		<tr>
+			<th colspan="5" scope="col" class="section_title">Nonstimulants</th>
+		</tr>
+		<tr>
+			<td rowspan="4" style="text-align: left; ">Intuniv&reg;</td>
+			<td class="align_center" style="text-align: left; ">1 mg</td>
+			<td rowspan="4" class="align_center" style="text-align: left; ">$194<br />
+			(all doses)</td>
+			<td rowspan="4" style="text-align: left; ">Guanfacine</td>
+			<td rowspan="4" class="align_center" style="text-align: left; ">$27 (1 mg)<br />
+			$40 (2 mg)</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">2 mg</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">3 mg</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">4 mg</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="text-align: left; ">Kapvay&reg;</td>
+			<td class="align_center" style="text-align: left; ">1 mg</td>
+			<td class="align_center" style="text-align: left; ">$104</td>
+			<td rowspan="3" style="text-align: left; ">Clonidine hydrochloride</td>
+			<td class="align_center" style="text-align: left; ">$8</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">2 mg</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+			<td class="align_center" style="text-align: left; ">$9</td>
+		</tr>
+		<tr>
+			<td class="align_center" style="text-align: left; ">3 mg</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+			<td class="align_center" style="text-align: left; ">$16</td>
+		</tr>
+		<tr>
+			<td style="text-align: left; ">Strattera&reg;</td>
+			<td class="align_center" style="text-align: left; ">By child&rsquo;s<br />
+			weight</td>
+			<td class="align_center" style="text-align: left; ">$206&ndash;<br />
+			$241</td>
+			<td style="text-align: left; ">Atomoxetine</td>
+			<td class="align_center" style="text-align: left; ">N/A</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Ask your doctor</h4>
+<ul>
+	<li>In your opinion, would my child or teen benefit from non-medicine treatments, medicine, or both?</li>
+	<li>What kind of changes can I expect? How long will they take to occur?</li>
+	<li>What non-medicine treatment programs are available locally?</li>
+	<li>Is there a therapist or program that you recommend? Why?</li>
+	<li>How will I know if my child or teen is having a serious side effect and needs to change medicines?</li>
+	<li>Are there any local support groups that might be able to help me?</li>
+</ul> 
+			<a name="5776"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em><a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=818">Attention Deficit Hyperactivity Disorder: Effectiveness of Treatment in At-Risk Preschoolers; Long-term Effectiveness in All Ages; and Variability in Prevalence, Diagnosis, and Treatment</a></em>, October 2011.</p>
+<p>The report was produced by the McMaster University Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Emily White, M.S., Amelia Williamson Smith, M.S., Thomas Workman, Ph.D., Adiaha Spinks-Franklin, M.D., M.P.H, and Michael Fordis, M.D.&nbsp; Caregivers of children with ADHD reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

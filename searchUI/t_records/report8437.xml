@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report>
+<checksum>20070912HP-bkKPPG8Cj4Kd-848-157413249</checksum>
+<subtype>GIM HP</subtype>
+<type>HP</type>
+<chief_complaint>DKA</chief_complaint>
+<admit_diagnosis>250.10</admit_diagnosis>
+<discharge_diagnosis>250.13,276.51,276.2,008.8,285.9,536.3,401.9,621.9,</discharge_diagnosis>
+<year>2007</year>
+<downlaod_time>2009-08-18</downlaod_time>
+<update_time/>
+<deid>v.6.22.07.0</deid>
+<report_text>[Report de-identified (Safe-harbor compliant) by De-ID v.6.22.07.0]
+
+
+ 
+**INSTITUTION
+GENERAL MEDICINE
+HISTORY AND PHYSICAL EXAMINATION
+PATIENT NAME:  **NAME[AAA, BBB M]
+ACCOUNT #:  **ID-NUM
+**ROOM
+ATTENDING PHYSICIAN:  **NAME[YYY]  **NAME[ZZZ]
+ADMISSION DATE:  **DATE[Sep 12 2007]
+CHIEF COMPLAINT:  
+HISTORY OF PRESENT ILLNESS:  
+This is a **AGE[in 50s]-year-old female with a history of insulin-dependent diabetes 
+mellitus, type 1 with a history of being noncompliant with doctors' visits 
+and noncompliance with taking her blood pressure and diabetes medication.  
+She was complaining of nausea yesterday times one day with vomiting and fever 
+and diarrhea.  She was hyperglycemic and initially went to the emergency 
+department on **DATE[Sep 09 2007] and was treated with IV fluids and insulin and went 
+home.  She came back yesterday with more nausea and vomiting and blood sugar 
+in excess of 600 accompanied by metabolic acidosis.  She was admitted to the 
+intensive care unit and was treated with IV fluids and IV insulin.  Her anion 
+gap metabolic acidosis has resolved and her glucoses are down into the 100 
+range.  Currently, she denies fevers, chills, sweats, dizziness, nausea, 
+vomiting, diarrhea, abdominal pain.  She complains of sternal chest 
+discomfort with meals, not with exertion.  No shortness of breath.  Also 
+complains of mid to low bilateral paraspinal back discomfort.   
+REVIEW OF SYSTEMS:
+Notable for carpal tunnel syndrome and is as above and otherwise negative. 
+PAST MEDICAL HISTORY:
+Insulin-dependent diabetes, hypertension, carpal tunnel syndrome.
+SOCIAL HISTORY:
+Positive cigarette use, occasional alcohol use.  Denies significant alcohol 
+use.  Denies drug use.   
+FAMILY HISTORY:
+Positive for diabetes.  
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Temperature is 36.9, blood pressure 160/80, pulse 96, 
+respiratory rate 16. 
+GENERAL:  Mentation normal.  
+HEENT:  Sclerae white.  Conjunctivae pink.  Moist mucosa.  No oral lesions.  
+NECK:  Supple.  No adenopathy, goiter, JVD, or bruits.
+LUNGS:  Clear without wheeze, rhonchi, rales.
+HEART:  S1 and S2 regular rate and rhythm.  No murmurs, rubs, or gallops. 
+ABDOMEN:  Soft and nontender.  No organomegaly.  
+EXTREMITIES:  No cyanosis, clubbing, or edema.
+DATA:
+Chest x-ray shows no infiltrates.  CT scan of the abdomen and pelvis shows no 
+acute inflammatory process.  Nonobstructing left renal calculi.  Tox screen 
+was negative.  Troponins are negative.   
+EKG INTERPRETATION: 
+EKG shows normal sinus rhythm with voltage criteria for left ventricular 
+hypertrophy.  No ischemic changes.   
+ASSESSMENT AND PLAN:
+Diabetic ketoacidosis, probably precipitated by viral syndrome, proved.  
+Continue Lantus insulin currently at 26 units daily.  Lispro insulin with 
+meals and at bedtime 8 units and sliding scale insulin.  Continue lisinopril 
+and hydrochlorothiazide for hypertension.  I discussed the case with Dr. 
+**NAME[XXX] from the CCM team. She is stable to be transferred to the floor 
+today.   
+ 
+___________________________________
+**NAME[YYY ZZZ], M.D.
+ 
+Dictator:  **NAME[YYY ZZZ], M.D.
+AS/crl
+D:  **DATE[Sep 13 2007] 11:15:31
+T:  **DATE[Sep 14 2007] 08:25:36
+R:  **DATE[Sep 14 2007] 08:25:36/crl
+Job ID:  345241/**ID-NUM
+ 
+*** Dictated By: -**NAME[ZZZ, WWW] ***
+Electronically Signed by **NAME[YYY ZZZ]  **DATE[Sep 22 2007] 09:12:22 PM
+ 
+
+
+
+</report_text>
+</report>

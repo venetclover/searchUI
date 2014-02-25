@@ -1,0 +1,1365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Non-surgical Treatments for Urinary Incontinence: A Review of the Research for Women - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;productid=1030&amp;pageaction=displayproduct" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26productid%3D1030%26pageaction%3Ddisplayproduct">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=169">
+					Nonsurgical Treatments for Urinary Incontinence in Adult Women: Diagnosis and Comparative Effectiveness 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=834">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Apr. 9, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=497">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Aug. 6, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1126">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Jul. 9, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1581">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jul. 3, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1633">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 14, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1031">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 9, 2012 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1225">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Aug. 17, 2012 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1021">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 9, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li>
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=309&cmepage=cme_info">
+									
+									CME Activity: Non-surgical Treatments for Urinary Incontinence in Adult Women: Diagnosis and Comparative Effectiveness 
+								</a>
+								
+								
+						</li>
+						
+							<li>
+								<a href="http://www.annals.org/content/early/2012/04/09/0003-4819-156-12-201206190-00436.abstract">
+									
+									Shamliyan T, Wyman JF, Ramakrishnan R, et al. Systematic review: benefits and harms of pharmacologic treatment for urinary incontinence in women. Ann Intern Med 2012 Apr 9 [Epub ahead of print]. 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+				<div class="moreinfo">
+					<h4>Original Nomination</h4>
+					<ul>
+						
+							<li class="last">
+								<a href="/submit-a-suggestion-for-research/read-suggested-topics-for-research/?pageAction=view&topicID=262&source=current">View Topic Nomination</a>
+							</li>
+						
+					</ul>
+				</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 11(12)-EHC074-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1030%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1030%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1030%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1030%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1030%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1030%26amp%3bpageaction%3ddisplayproduct&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1030%26amp%3bpageaction%3ddisplayproduct"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1030%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1030%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bproductid%3d1030%26amp%3bpageaction%3ddisplayproduct&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=239865D6-F9DE-43F5-4E8BBBAB5ACBF6A9" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1030&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1030&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1030" title="Non-surgical Treatments for Urinary Incontinence: A Review of the Research for Women"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1030.gif" alt="Non-surgical Treatments for Urinary Incontinence: A Review of the Research for Women" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Non-surgical Treatments for Urinary Incontinence: A Review of the Research for Women" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1030&amp;button=1&quot; title=&quot;Non-surgical Treatments for Urinary Incontinence: A Review of the Research for Women&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1030.gif&quot; border=&quot;0&quot; alt=&quot;Non-surgical Treatments for Urinary Incontinence: A Review of the Research for Women&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Apr. 9, 2012 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Non-surgical Treatments for Urinary Incontinence: A Review of the Research for Women</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/169/1030/ui_cons_fin_to_post.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							433 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/169/1030/UI_treatments.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							10.2 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1225" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#5163">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#5164">Understanding Your Condition</a></li>
+					
+						<li><a href="#5165">Understanding Your Choices</a></li>
+					
+						<li><a href="#5166">Making a Decision</a></li>
+					
+						<li><a href="#5167">Source</a></li>
+					
+			</ul>
+		
+			<a name="5163"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, if:</h4>
+<ul>
+	<li>You are a woman who is older than 18.</li>
+	<li>You are having trouble holding your urine until you get to the bathroom, and you have a strong urge to urinate.</li>
+	<li>You leak urine when exercising, sneezing, or coughing.</li>
+	<li>Your doctor or nurse practitioner has told you that you have &ldquo;urinary incontinence,&rdquo; a condition that makes you feel you have to urinate right away, makes you unable to hold your urine, or makes you leak urine without warning.</li>
+	<li>You are looking at treatments for this problem that do not involve having an operation.</li>
+</ul>
+<h4>What decision needs to be made?</h4>
+<p>Which type of treatment should I choose to make my incontinence become less or go away&mdash;exercises, devices, or medicine?</p>
+<ul>
+	<li>If exercises, which ones should I do?</li>
+	<li>If devices, which one should I use?</li>
+	<li>If medicines, which one should I take?</li>
+</ul>
+<h4>What are the goals of treatment?</h4>
+<ul>
+	<li>&ldquo;Continence&rdquo; or the ability to hold your urine until you go to the bathroom.</li>
+	<li>Having fewer times when you feel you have to go to the bathroom right away.</li>
+	<li>Having fewer times when you leak urine by accident.</li>
+</ul>
+<h4>How can this summary help me decide?</h4>
+<p>The information in this summary is from a report that reviewed 905 studies between January 1990 and December 2011 on treatments without surgery for urinary incontinence. You can use the information from research to understand what is known about the possible benefits and side effects of each treatment option. This information will help you talk with your doctor about what option may be best for you.</p> 
+			<a name="5164"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is urinary incontinence?</h4>
+<p>Urinary incontinence or UI is a condition where urine leaks by accident.</p>
+<p>There are two types of UI that are common in women, depending on the symptoms:</p>
+<ul>
+	<li><strong>Stress incontinence:</strong> You are unable to &ldquo;hold&rdquo; urine when coughing, sneezing, exercising, or lifting something. The result is leaking or wetting.</li>
+	<li><strong>Urgency incontinence:</strong> You often have a strong urge to urinate and cannot make it to the bathroom before your urine leaks. A similar problem is called &ldquo;overactive bladder,&rdquo; when you have a sudden strong urge to urinate, or you have to urinate often. You are able to hold your urine, however, with overactive bladder.</li>
+</ul>
+<p>Some women have both kinds of incontinence. Doctors call this &ldquo;mixed incontinence.&rdquo;</p>
+<h4>Why do I have this condition?</h4>
+<ul>
+	<li>Many things may have caused the muscles that you use to hold urine (called &ldquo;pelvic floor muscles&rdquo;) to get weak, or have caused you to lose control of these muscles. Some of these causes include:
+	<ul>
+		<li>Older age</li>
+		<li>Being overweight</li>
+		<li>Pregnancy</li>
+		<li>Hysterectomy</li>
+		<li>Frequent urinary tract infections</li>
+		<li>Having a C-section (an operation to deliver a baby)</li>
+	</ul>
+	</li>
+	<li>The small ring of muscles that hold the bladder closed (the &ldquo;bladder sphincter&rdquo;) has become weak and allows urine to leak out.</li>
+	<li>If you have overactive bladder, it may be because the nerves that control the muscles of the bladder cause those muscles to spasm. Or, the bladder muscles cannot relax enough to allow the bladder to expand to hold more urine.</li>
+	<li>Some medicines can increase the chance of having trouble controlling urination. These include the blood pressure medicines and antipsychotics (medicines used for mental health conditions).</li>
+</ul>
+<h5>Why treat UI?</h5>
+<p>For most women, having UI affects how they feel about themselves and limits their ability to enjoy work or their favorite activities. Untreated UI can lead to skin rashes and urinary tract infections. The good news is that many women are able to improve or completely end their incontinence with treatment.</p> 
+			<a name="5165"></a>
+			
+
+			
+				<h3>Understanding Your Choices</h3>
+				<h4>How is UI treated?</h4>
+<p>There are several types of treatments for UI:</p>
+<ul>
+	<li>Special exercises</li>
+	<li>Medicines</li>
+	<li>Bladder training</li>
+	<li>Medical devices</li>
+</ul>
+<p>The type of exercise, device, or medicine you use depends on whether you are treating stress, urgency, or mixed UI.</p>
+<p>The goal of your treatment may be continence (when urinating is under your control) and/or reducing the amount of urgency or leaking.</p>
+<table class="styleOne">
+	<caption>Treatments for Urinary Incontinence</caption>
+	<tbody>
+		<tr>
+			<th colspan="2" scope="col">Stress Incontinence</th>
+		</tr>
+		<tr>
+			<td>Exercises</td>
+			<td>
+				<ul>
+					<li>Pelvic floor muscle training (PFMT)</li>
+					<li>PFMT with biofeedback</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Medical Devices</td>
+			<td>
+				<ul>
+					<li>Electric stimulation</li>
+					<li>Magnetic stimulation</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Medicines</td>
+			<td>
+				<ul>
+					<li>Topical estrogen</li>
+					<li>Duloxetine (Cymbalta&reg;)</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="2" scope="col">Urgency Incontinence</th>
+		</tr>
+		<tr>
+			<td>Bladder Training</td>
+			<td>
+				<ul>
+					<li>Scheduling urination</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Medical Devices</td>
+			<td>
+				<ul>
+					<li>Percutaneous tibial nerve stimulation</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Medicines</td>
+			<td>
+				<ul>
+					<li>Oxybutynin (Ditropan&reg;)</li>
+					<li>Tolterodine (Detrol&reg;)</li>
+					<li>Darifenacin (Enablex&reg;)</li>
+					<li>Solifenacin (VESIcare&reg;)</li>
+					<li>Fesoterodine (Toviaz&reg;)</li>
+					<li>Trospium (Sanctura&reg;)</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="2" scope="col">Mixed Incontinence</th>
+		</tr>
+		<tr>
+			<td colspan="2">Treatments for stress and urgency incontinence are combined to treat mixed incontinence.</td>
+		</tr>
+	</tbody>
+</table>
+<h5>Exercises</h5>
+<ul>
+	<li>Pelvic floor muscle training (PFMT), also called Kegel exercises.
+		<ul>
+			<li>These exercises involve squeezing and releasing the muscles that you use to stop urinating.</li>
+			<li>Your doctor can tell you how many times you should squeeze and release and how long you will need to keep doing these exercises.</li>
+			<li>PFMT is sometimes done with biofeedback to help women learn how to do the exercises. Biofeedback uses electronic recorders or other instruments, and sometimes written diaries, to record contractions of your pelvic floor muscles or bladder muscles.</li>
+		</ul>
+	</li>
+</ul>
+<h5>Bladder training</h5>
+<ul>
+	<li>This method involves building up the ability to hold your urine for longer and longer periods by following a schedule.</li>
+	<li>The goal is to have a schedule that has you go only once every 3 or 4 hours.</li>
+	<li>Even if you don&rsquo;t feel the need to urinate, you empty your bladder on the planned schedule.</li>
+	<li>Every time you feel the urge to urinate outside of that schedule, you try and hold it for more and more minutes each time until you can keep to your schedule.</li>
+	<li>Your doctor can help you set a schedule based on your own body.</li>
+</ul>
+<h5>Medical devices</h5>
+<ul>
+	<li><strong>Electric stimulation</strong>
+		<ul>
+			<li>A soft, silicone rubber tube about the size of a tampon is inserted into the vagina. It is attached to a battery-operated unit that sends a small amount of electricity into the tube and the muscles surrounding it.</li>
+			<li>This therapy can be done at home after a therapist or nurse explains how to use the device and sets a level that tightens the muscles but is still comfortable.</li>
+		</ul>
+	</li>
+	<li><strong>Magnetic stimulation</strong>
+		<ul>
+			<li>The patient sits down on a chair that has magnetic coils in the seat or under the seat. An electric current is sent into the coils, creating a magnetic field that tenses and relaxes the muscles of the pelvis.</li>
+			<li>This therapy must be done in a doctor&rsquo;s office or clinic. The patient can remain clothed during therapy.</li>
+		</ul>
+	</li>
+	<li><strong>Percutaneous tibial nerve stimulation (PTNS)</strong>
+		<ul>
+			<li>PTNS uses a fine needle that is inserted near the ankle.</li>
+			<li>Pulses of electricity are sent into the needle to travel through the tibial nerve, a nerve that runs up your leg and connects to nerves that control your bladder muscles.</li>
+			<li>This therapy must be done in a doctor&rsquo;s office or clinic.</li>
+		</ul>
+	</li>
+</ul>
+<h5>Medicine</h5>
+<p>Doctors can use several different kinds of medicines to help improve UI, depending on the kind of UI you have.</p>
+<p><strong>Medicines for stress incontinence</strong></p>
+<ul>
+	<li><strong>Estrogen.</strong> Estrogen is a female hormone. Your body makes less of this hormone as you age. Topical estrogen is used as skin patches or as a cream, tablet, or ring that you place in your vagina. Topical estrogen is sold under many different brand names.</li>
+	<li><strong>Duloxetine (Cymbalta&reg;).</strong> This medicine helps people with depression, anxiety, and fibromyalgia (chronic muscle pain and tiredness), but some doctors may use it for stress incontinence as well.</li>
+</ul>
+<p><strong>Medicines for urgency incontinence:</strong></p>
+<ul>
+	<li>All the medicines used to treat urgency incontinence were made for that purpose. All the medicines studied improved urgency incontinence, for example, by reducing the number of times leakage occurred or by reducing the amount of leakage. Some medicines helped women to completely prevent leakage.</li>
+	<li>Because mixed incontinence means a woman has both stress and urgency incontinence, these medicines can also be used for mixed incontinence.</li>
+</ul>
+<h5>What does the research say about treatments for UI?</h5>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>How do I make sense of this information? </strong><br />
+	<br />
+	This chart shows the research on how likely a treatment for stress or urgency incontinence may work to improve symptoms or make someone continent. The women in green will have the benefit, the women in red are the ones who will have the side effect, and the women in blue are those who will not have either a benefit or a side effect. For example:<br />
+	<br />
+	<img alt="Treatments for UI graphic" height="72" src="/tasks/sites/ehc/assets/Image/treatmentsforUIgraphic.png" style="float:left" width="126" />5 out of 10 women means that the chances are about 50/50 that you will see the same result.<br />
+	1 out of 10 women means that you have a smaller chance to see the same result.<br />
+	<br />
+	The higher the number of women out of 10 that saw a result, the more likely you are to see the same result.<br />
+	<br />
+	These are general estimates of how likely a treatment may work or cause a side effect. Every person may respond differently. You may need to try several treatments before finding what works for you.</div>
+<table class="styleOne">
+	<caption>Non-medicine Options for Treating Stress Incontinence</caption>
+	<thead>
+		<tr>
+			<th colspan="2" scope="col">Non-drug Treatments: Exercises</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th class="section_title" scope="row">Pelvic floor muscle training (PFMT)</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>3 out of 10 women became continent using this treatment.<br />
+						<img alt="three out of ten women" height="24" src="/tasks/sites/ehc/assets/Image/3-10(1).png" width="111" /></li>
+					<li>4 out of 10 women improved their symptoms using this treatment.<br />
+						<img alt="four out of ten women" height="23" src="/tasks/sites/ehc/assets/Image/4-10.png" width="111" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>Not known, but most researchers think there are few if any.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">PFMT with biofeedback</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>4 to 5 out of 10 women became continent using this treatment but more research could change this finding.<br />
+						<img alt="four to five out of ten women" height="23" src="/tasks/sites/ehc/assets/Image/4.5-10(5).png" width="112" /></li>
+					<li>4 out of 10 women improved their symptoms using this treatment.<br />
+						<img alt="four out of ten women" height="23" src="/tasks/sites/ehc/assets/Image/4-10(2).png" width="111" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>Not known, but most researchers think there are few if any.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="2" scope="col">Non-drug Treatments: Medical Devices</th>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Electric stimulation</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>2 out of 10 women became continent using this treatment.<br />
+						<img alt="two out of ten women" height="22" src="/tasks/sites/ehc/assets/Image/2-10.png" width="110" /></li>
+					<li>2 out of 10 women improved their symptoms using this treatment.<br />
+						<img alt="two out of ten women" height="22" src="/tasks/sites/ehc/assets/Image/2-10(1).png" width="110" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>Not known, but most researchers think there are few if any.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Magnetic stimulation</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>Did not help women become continent, but more research could change this finding.</li>
+					<li>3 out of 10 women improved their symptoms using this treatment, but research is limited.<br />
+						<img alt="three out of ten women" height="24" src="/tasks/sites/ehc/assets/Image/3-10(2).png" width="111" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				&nbsp;
+				<ul>
+					<li>Not known, but most researchers think there are few if any.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="2" scope="col">Medicines for Treating Stress Incontinence</th>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Topical estrogen</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>There is not enough research to know if estrogen helped UI.</li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>There is not enough research to know if estrogen taken for UI causes side effects.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Duloxetine<br />
+				(Cymbalta&reg;)</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>Less than 1 out of 10 women improved their symptoms using this medicine.<br />
+						<img alt="less than one out of ten" src="/ehc/assets/Image/5-10.png" style="width: 110px; height: 24px;" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>About 2 out of 10 women had nausea using this medicine.<br />
+						<img alt="two out of ten" height="22" src="/tasks/sites/ehc/assets/Image/2-10red.png" width="111" /></li>
+					<li>1 out of 10 women had dry mouth using this medicine.<br />
+						<img alt="one out of ten" height="23" src="/tasks/sites/ehc/assets/Image/1-10red.png" width="110" /></li>
+					<li>About 1/2 to 1 out of 10 women had constipation, extreme sleepiness, insomnia (inability to fall asleep or stay asleep), and dizziness using this medicine.</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table class="styleOne">
+	<caption>Options for Treating Urgency Incontinence</caption>
+	<thead>
+		<tr>
+			<th colspan="2" scope="col">Non-drug Treatments: Lifestyle changes</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th class="section_title" scope="row">Bladder training</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>The number of women who became continent was not reported.</li>
+					<li>4 out of 10 women improved their symptoms using bladder-control exercises.<br />
+						<img alt="four out of ten" height="23" src="/tasks/sites/ehc/assets/Image/4-10(5).png" width="111" /></li>
+					<li>Combining PFMT with bladder training improved continence in women with urgency incontinence.</li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>Not known, but most researchers think there are few if any.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="2" scope="col">Non-drug Treatments: Medical Devices</th>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Percutaneous tibial nerve stimulation</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>The number of women who became continent was not reported.</li>
+					<li>3 out of 10 women improved their symptoms using this device.<br />
+						<img alt="three out of ten" height="24" src="/tasks/sites/ehc/assets/Image/3-10(4).png" width="111" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>There were no differences in the number of women who reported side effects from using this device than those who reported side effects from using a &ldquo;sham&rdquo; treatment (no electrical pulse was given, but women were told they were getting the treatment).</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="2" scope="col">Medicines for Treating Urgency Incontinence</th>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Darifenacin<br />
+				(Enablex&reg;)</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>About 1 out of 10 women improved their symptoms using this medicine.<br />
+						<img alt="one out of ten" height="22" src="/tasks/sites/ehc/assets/Image/1-10.png" width="111" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>About 2 out of 10 women had dry mouth using this medicine.<br />
+						<img alt="two out of ten" height="22" src="/tasks/sites/ehc/assets/Image/2-10red(1).png" width="111" /></li>
+					<li>About 1 out of 10 women had constipation using this medicine.<br />
+						<img alt="one out of ten" height="23" src="/tasks/sites/ehc/assets/Image/1-10red(1).png" width="110" /></li>
+					<li>Less than 1 out of 10 women had an upset stomach using this medicine.<br />
+						<img alt="less than one out of ten" src="/ehc/assets/Image/5-10red.png" style="width: 110px; height: 24px;" /></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Fesoterodine<br />
+				(Toviaz&reg;)</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>About 1 out of 10 women became continent using this medicine.<br />
+						<img alt="one out of ten" height="22" src="/tasks/sites/ehc/assets/Image/1-10(1).png" width="111" /></li>
+					<li>About 1 out of 10 women improved their symptoms using this medicine.<br />
+						<img alt="one out of ten" height="22" src="/tasks/sites/ehc/assets/Image/1-10(2).png" width="111" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>About 2 out of 10 women had dry mouth using this medicine.<br />
+						<img alt="two out of ten" height="22" src="/tasks/sites/ehc/assets/Image/2-10red(2).png" width="111" /></li>
+					<li>Less than 1 out of 10 women had constipation using this medicine.<br />
+						<img alt="less than one out of ten" src="/ehc/assets/Image/5-10red(1).png" style="width: 110px; height: 24px;" /></li>
+					<li>Less than 1 out of 10 women had dry eyes using this medicine.<br />
+						<img alt="less than one out of ten" src="/ehc/assets/Image/5-10red(2).png" style="width: 110px; height: 24px;" /></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Oxybutynin<br />
+				(Ditropan&reg;)</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>About 1 out of 10 women became continent using this medicine.<br />
+						<img alt="one out of ten" height="22" src="/tasks/sites/ehc/assets/Image/1-10(3).png" width="111" /></li>
+					<li>About 2 out of 10 women improved their symptoms using this medicine.<br />
+						<img alt="two out of ten" height="22" src="/tasks/sites/ehc/assets/Image/2-10(2).png" width="110" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>About 3 to 4 out of 10 women had dry mouth using this medicine.<br />
+						<img alt="three to four out of ten" height="22" src="/tasks/sites/ehc/assets/Image/3.5-10red.png" width="111" /></li>
+					<li>About 1 out of 10 women had an upset stomach using this medicine.<br />
+						<img alt="one out of ten" height="23" src="/tasks/sites/ehc/assets/Image/1-10red(3).png" width="110" /></li>
+					<li>Constipation: No difference from women taking a placebo (sugar pill).</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Solifenacin<br />
+				(VESIcare&reg;)</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>About 1 out of 10 women became continent using this medicine.<br />
+						<img alt="one out of ten" height="22" src="/tasks/sites/ehc/assets/Image/1-10(4).png" width="111" /></li>
+					<li>About 2 out of 10 women improved their symptoms using this medicine.<br />
+						<img alt="two out of ten" height="22" src="/tasks/sites/ehc/assets/Image/2-10(3).png" width="110" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>About 1 to 2 out of 10 women had dry mouth using this medicine.<br />
+						<img alt="one to two out of ten" height="23" src="/tasks/sites/ehc/assets/Image/1.5-10red.png" width="111" /></li>
+					<li>About 1 out of 10 women had constipation using this medicine.<br />
+						<img alt="one out of ten" height="23" src="/tasks/sites/ehc/assets/Image/1-10red(4).png" width="110" /></li>
+					<li>Less than 1 out of 10 women had blurred vision using this medicine.<br />
+						<img alt="less than one out of ten" src="/ehc/assets/Image/5-10red(3).png" style="width: 110px; height: 24px;" /></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Tolterodine<br />
+				(Detrol&reg;)</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>About 1 out of 10 women became continent using this medicine.<br />
+						<img alt="one out of ten" height="22" src="/tasks/sites/ehc/assets/Image/1-10(5).png" width="111" /></li>
+					<li>About 1 out of 10 women improved their symptoms using this medicine.<br />
+						<img alt="one out of ten" height="22" src="/tasks/sites/ehc/assets/Image/1-10(6).png" width="111" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>About 1 out of 10 women had dry mouth using this medicine.<br />
+						<img alt="one out of ten" height="23" src="/tasks/sites/ehc/assets/Image/1-10red(5).png" width="110" /></li>
+					<li>Less than 1 out of 10 women had constipation using this medicine.<br />
+						<img alt="less than one out of ten" src="/ehc/assets/Image/5-10red(4).png" style="width: 110px; height: 24px;" /></li>
+					<li>Less than 1 out of 10 women had upset stomach using this medicine.<br />
+						<img alt="less than one out of ten" src="/ehc/assets/Image/5-10red(5).png" style="width: 110px; height: 24px;" /></li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Trospium<br />
+				(Sanctura&reg;)</th>
+			<td><strong>Benefits</strong>
+				<ul>
+					<li>About 1 out of 10 women became continent using this medicine.<br />
+						<img alt="one out of ten" height="22" src="/tasks/sites/ehc/assets/Image/1-10(7).png" width="111" /></li>
+				</ul>
+				<br />
+				<strong>Side Effects</strong>
+				<ul>
+					<li>About 1 out of 10 women had dry mouth using this medicine.<br />
+						<img alt="one out of ten" height="23" src="/tasks/sites/ehc/assets/Image/1-10red(6).png" width="110" /></li>
+					<li>Less than 1 out of 10 women had constipation using this medicine.<br />
+						<img alt="less than one out of ten" src="/ehc/assets/Image/5-10red(6).png" style="width: 110px; height: 24px;" /></li>
+					<li>Less than 1 out of 10 women had dry eyes using this medicine.<br />
+						<img alt="less than one out of ten" src="/ehc/assets/Image/5-10red(7).png" style="width: 110px; height: 24px;" /></li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;"><strong>Warning:</strong> Doctors and patients have also reported some serious side effects that can occur with these medicines. Although they do not happen very often, they are more dangerous than the common side effects listed above. These side effects include rapid irregular heart rate, hallucinations, problems with thinking, and rarely death. The chance of having a serious side effect is greater for elderly patients, for patients who take many different medicines at the same time, and for patients who take some antihistamines (allergy medicines) and antibiotics along with these UI medicines. Ask your doctor about these more serious side effects.</div>
+<h5>How do UI medicines compare with one another?</h5>
+<ul>
+	<li>Fesoterodine (Toviaz&reg;)&nbsp;is better than tolterodine (Detrol&reg;) at decreasing the strength and number of urges to urinate, but it might also be more likely to cause negative side effects than tolterodine. Fesoterodine (Toviaz&reg;)&nbsp;might also be better at completely stopping any leaking, but there wasn&rsquo;t enough research to know for sure.</li>
+	<li>Oxybutynin (Ditropan&reg;)&nbsp;was not better at preventing any leaking than tolterodine (Detrol&reg;), but it might be more likely to cause negative side effects than tolterodine.</li>
+	<li>There isn&rsquo;t enough research to say for sure how medicines that are taken together compare with medicines taken alone.</li>
+	<li>More than half of all people taking medicines for UI stop taking them after 1 year of treatment, usually because of side effects.</li>
+	<li>Oxybutynin (Ditropan&reg;), trospium (Sanctura&reg;), and darifenacin (Enablex&reg;) work in women of all ages, including those 65 years of age and older.</li>
+	<li>Trospium (Sanctura&reg;) works in women who are obese (very overweight). There is not enough research to know how being very overweight affects other medicines.</li>
+	<li>If you are taking seven or more medicines (of any kind) at the same time, you are more likely to have side effects from trospium (Sanctura&reg;).</li>
+	<li>Solifenacin (VESIcare&reg;) is likely to work even if you have not had benefits from other medicines.</li>
+	<li>Higher doses of medicine are effective for people who do not see results the first time they try a medicine except for solifenacin (VESIcare&reg;), but higher doses also increase the chances for having side effects.</li>
+</ul>
+<h5>Comparing exercises with devices and medicines</h5>
+<p>No research studies compared the results of exercises with devices and with medicines. However, exercises and medical devices seem to have better results for improving UI symptoms and helping women become continent than do medicines, with fewer negative side effects.</p>
+<h5>Lifestyle changes</h5>
+<p>Some research found that women who are very overweight were able to improve their UI symptoms by losing weight and exercising.</p>
+<h5>Managing UI symptoms</h5>
+<p>While you are treating UI, you can manage incontinence by:</p>
+<ul>
+	<li>Scheduling regular bathroom breaks.</li>
+	<li>Requesting that you be allowed to work close to a bathroom.</li>
+	<li>Wearing pads inside your underwear.</li>
+</ul>
+&nbsp; 
+			<a name="5166"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>There are several things to consider when choosing a treatment for UI:</p>
+<ul>
+	<li>Whether your incontinence is bothering you enough to seek treatment.</li>
+	<li>Which treatment is best for your particular kind of UI.</li>
+	<li>The trade-offs between the benefits and possible side effects for each treatment.</li>
+	<li>Which treatment best fits your personal preferences and values.</li>
+	<li>How many treatments you are willing to try until finding one that is best for you.</li>
+</ul>
+<h5>How long will I need to use the treatments?</h5>
+<p>You may need to use treatments even after your UI improves, and even if it goes away completely.</p>
+<h5>What are the costs of treatment?</h5>
+<p>The costs to you for treatment depends on a number of factors, including:</p>
+<ul>
+	<li>Your health insurance plan. Some stimulation devices may not be covered by Medicare, Medicaid, or private insurance companies. Your medicine co-pay will also depend on your drug plan.</li>
+	<li>Exercise and bladder training may not cost anything unless you work with a nurse or physical therapist.</li>
+	<li>The length of time you need to use medical devices or medicine.</li>
+	<li>The amount (dose) of medicine you need to take.</li>
+	<li>Whether the medicine comes in a generic form. Most UI medicines do not come in generic form.</li>
+</ul>
+<table class="styleOne">
+	<caption>Wholesale prices of prescription UI medicines</caption>
+	<thead>
+		<tr>
+			<th scope="col">Generic Name</th>
+			<th scope="col">Dose</th>
+			<th scope="col">Cost of<br />
+			1-Month<br />
+			Supply*</th>
+			<th scope="col">Brand Name</th>
+			<th scope="col">Cost of<br />
+			1-Month<br />
+			Supply*</th>
+		</tr>
+	</thead>
+	<tfoot>
+	<tr>
+		<td colspan="5">* Wholesale prices are from <em>RED BOOK Online</em>&reg;. Generic prices are the middle value in the range of prices listed from&nbsp;different manufacturers. The actual prices of the medicines may be higher or lower than the prices listed here, depending on the&nbsp;manufacturer used by your pharmacy.<br />
+		<br />
+		NA = not available</td>
+	</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<td>Darifenacin</td>
+			<td>15 mg daily</td>
+			<td>N/A</td>
+			<td>Enablex&reg;</td>
+			<td>$170</td>
+		</tr>
+		<tr>
+			<td>Fesoterodine</td>
+			<td>4 mg daily</td>
+			<td>N/A</td>
+			<td>Toviaz&reg;</td>
+			<td>$151</td>
+		</tr>
+		<tr>
+			<td>Oxybutynin</td>
+			<td>10 mg daily</td>
+			<td>$90</td>
+			<td>Ditropan&reg;</td>
+			<td>$152</td>
+		</tr>
+		<tr>
+			<td>Solifenacin</td>
+			<td>10 mg daily</td>
+			<td>N/A</td>
+			<td>VESIcare&reg;</td>
+			<td>$180</td>
+		</tr>
+		<tr>
+			<td>Tolterodine</td>
+			<td>2 mg twice daily</td>
+			<td>N/A</td>
+			<td>Detrol&reg;</td>
+			<td>$189</td>
+		</tr>
+		<tr>
+			<td>Trospium</td>
+			<td>20 mg twice daily</td>
+			<td>$170</td>
+			<td>Sanctura&reg;</td>
+			<td>$193</td>
+		</tr>
+	</tbody>
+</table>
+<h5>Ask your doctor</h5>
+<ul>
+	<li>What do you think about the research on different UI treatments?</li>
+	<li>Given my UI symptoms, which of these options is most likely to work for me?</li>
+	<li>How long will it take to see a difference, and when do I see you to try something different?</li>
+	<li>How will I know if I am having a serious side effect from the medicine, and when should I call you?</li>
+</ul> 
+			<a name="5167"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em><a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=834">Nonsurgical Treatments for Urinary Incontinence in Adult Women: Diagnosis and Comparative Effectiveness</a></em>, April 2012.</p>
+<p>The report was produced by the Minnesota Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus&reg; Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Diane Markesich, Ph.D., Aimee Roundtree, Ph.D., Thomas Workman, Ph.D., Ursula Braun, M.D., and Michael Fordis, M.D. &nbsp;Patients with urinary incontinence reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

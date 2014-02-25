@@ -1,0 +1,965 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Reduzca el riesgo de cáncer del seno con medicamentos: Guía para la mujer - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productid=507&amp;button=1" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fpageaction%3Ddisplayproduct%26productid%3D507%26button%3D1">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=50">
+					Comparative Effectiveness of Medications To Reduce Risk of Primary Breast Cancer in Women 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Reports</h4>
+						
+				<ul>
+					
+						<li>
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=178">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Sept. 14, 2009 </span>
+						</li>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=180">
+										Appendixes 
+									</a>
+							<span style="font-size:7pt;"> Sept. 14, 2009 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=410">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Mar. 10, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1543">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jun. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=390">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Jan. 13, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=389">
+										Consumer Summary 
+									</a>
+							<span style="font-size:7pt;"> Jan. 13, 2010 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=179">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Sept. 14, 2009 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>AHRQ's Healthcare 411 Audio/Video Features</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.healthcare411.ahrq.gov/radiocastseg.aspx?id=1144&type=seg">
+									
+									Reducing the Risk of Breast Cancer with Medicines 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Related Topics</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayproduct&productid=523">
+									
+									Future Research Needs: Reducing the Risk of Primary Breast Cancer 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 10-EHC028-B
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d507%26amp%3bbutton%3d1"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d507%26amp%3bbutton%3d1"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d507%26amp%3bbutton%3d1"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d507%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d507%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d507%26amp%3bbutton%3d1&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d507%26amp%3bbutton%3d1"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d507%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d507%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fpageaction%3ddisplayproduct%26amp%3bproductid%3d507%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=239663B7-D416-5F85-0A054214A90A2536" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=507&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=507&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=507" title="Reduzca el riesgo de cáncer del seno con medicamentos: Guía para la mujer"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/507.gif" alt="Reduzca el riesgo de cáncer del seno con medicamentos: Guía para la mujer" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copia este c&oacute;digo para del bot&oacute;n "Reduzca el riesgo de cáncer del seno con medicamentos: Guía para la mujer"
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=507&amp;button=1&quot; title=&quot;Reduzca el riesgo de cáncer del seno con medicamentos: Guía para la mujer&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/507.gif&quot; border=&quot;0&quot; alt=&quot;Reduzca el riesgo de cáncer del seno con medicamentos: Guía para la mujer&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Aug. 24, 2010 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Reduzca el riesgo de cáncer del seno con medicamentos: Guía para la mujer</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/50/507/breast cancer spanish.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							629 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=389" class="button-html button-showtext">In English</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#1783">Hechos resumidos</a></li>
+					
+						<li><a href="#1784">¿Qué cubre esta guía?</a></li>
+					
+						<li><a href="#1785">El riesgo de tener cáncer del seno</a></li>
+					
+						<li><a href="#1786">Aprenda sobre el cáncer del seno</a></li>
+					
+						<li><a href="#1787">Sobre los medicamentos</a></li>
+					
+						<li><a href="#1788">Posibles beneficios</a></li>
+					
+						<li><a href="#1789">Problemas posibles</a></li>
+					
+						<li><a href="#1790">Piense sobre la decisión</a></li>
+					
+						<li><a href="#1791">Preguntas para su médico o enfermera</a></li>
+					
+						<li><a href="#1792">Dónde puede obtener más información?</a></li>
+					
+						<li><a href="#1793">¿Cuál es la fuente de esta guía?</a></li>
+					
+			</ul>
+		
+			<a name="1783"></a>
+			
+
+			
+				<h3>Hechos resumidos</h3>
+				<ul>
+	<li>La mayor&iacute;a de las mujeres jam&aacute;s tendr&aacute; c&aacute;ncer del seno.</li>
+	<li>El riesgo de que una mujer tenga c&aacute;ncer del seno aumenta con la edad.</li>
+	<li>Existen dos medicamentos diferentes capaces de reducir el riesgo de padecer algunos tipos de c&aacute;ncer del seno.</li>
+	<li>Ambos medicamentos tienen efectos secundarios y a veces causan problemas graves.</li>
+</ul> 
+			<a name="1784"></a>
+			
+
+			
+				<h3>¿Qué cubre esta guía?</h3>
+				<p>Esta gu&iacute;a puede ayudarle a hablar con su m&eacute;dico o enfermera acerca de los medicamentos para reducir su riesgo de contraer c&aacute;ncer del seno. Esta gu&iacute;a trata acerca de dos medicamentos diferentes y contiene informaci&oacute;n sobre los beneficios, efectos secundarios y costos.</p>
+<p>Esta gu&iacute;a se basa en una revisi&oacute;n, financiada por el gobierno, de los informes de investigaci&oacute;n sobre el uso de medicamentos para reducir el riesgo de c&aacute;ncer del seno. </p>
+<h4>&iquest;Qu&eacute; no cubre esta gu&iacute;a?</h4>
+<p>Esta gu&iacute;a no cubre otras formas de reducir su riesgo de tener c&aacute;ncer del seno. No trata sobre el hacerse cirug&iacute;a para reducir el riesgo de c&aacute;ncer del seno. Tampoco incluye c&oacute;mo reducir el riesgo de contraer c&aacute;ncer del seno en hombres, ya que estos medicamentos no han sido estudiados en hombres.</p>
+<p>Esta gu&iacute;a no incluye informaci&oacute;n acerca de los ex&aacute;menes de detecci&oacute;n del c&aacute;ncer del seno. Tampoco incluye los tratamientos para mujeres que ya tengan c&aacute;ncer del seno.<br />
+</p> 
+			<a name="1785"></a>
+			
+
+			
+				<h3>El riesgo de tener cáncer del seno</h3>
+				<p>La mayor&iacute;a de las mujeres jam&aacute;s tendr&aacute; c&aacute;ncer del seno. El riesgo de que una mujer tenga c&aacute;ncer del seno depende de su edad y de otros factores de riesgo. No existen otros factores de riesgo para la mayor&iacute;a de mujeres con c&aacute;ncer del seno, excepto el avanzar en edad. Adem&aacute;s, muchas mujeres con factores de riesgo, no relacionados con la edad, nunca llegan a tener c&aacute;ncer del seno.</p>
+<p>El gr&aacute;fico a continuaci&oacute;n muestra cu&aacute;ntas mujeres (de cada 100) tendr&aacute;n c&aacute;ncer del seno a lo largo de los pr&oacute;ximos 10 a&ntilde;os. El riesgo de tener c&aacute;ncer del seno aumenta con la edad. Al encontrar su edad actual, podr&aacute; saber cu&aacute;l es el riesgo que tiene alguien en su rango <br />
+de edad.</p>
+<table cellspacing="0" style="width:60%;">
+	<caption>Cantidad de mujeres que contraer&aacute;n c&aacute;ncer del seno durante los  pr&oacute;ximos 10 a&ntilde;os</caption>
+	<thead>
+		<tr>
+			<th scope="col">Edad</th>
+			<th scope="col">Riesgo estimado</th>
+		</tr>
+	</thead>
+	<tfoot>
+	<tr>
+		<td colspan="2">Riesgo estimado para las  mujeres en los Estados Unidos. <br />
+		Esta informaci&oacute;n deriva del Surveillance, Epidemiology and End Results  (Vigilancia, epidemiolog&iacute;a y resultados finales, SEER por sus siglas en ingl&eacute;s)  de la revisi&oacute;n de estad&iacute;sticas del c&aacute;ncer, 1975-2005, del National Cancer  Institute (Instituto Nacional del C&aacute;ncer).</td>
+	</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th scope="row" class="section_title">30 a 39</th>
+			<td>Menos de 1 de cada 100</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">40 a 49</th>
+			<td>Aproximadamente 1 de cada 100</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">50 a 59</th>
+			<td>Aproximadamente 2 de cada 100</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">60 a 69</th>
+			<td>Aproximadamente 3 de cada 100</td>
+		</tr>
+		<tr>
+			<th scope="row" class="section_title">70 a 79</th>
+			<td>Aproximadamente 4 de cada 100</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Factores de riesgo del c&aacute;ncer del seno</h4>
+<p><strong>Edad</strong><br />
+El riesgo de contraer c&aacute;ncer de seno aumenta con la edad.</p>
+<p><strong>Antecedentes familiares</strong><br />
+El tener una madre, hermana o hija que haya tenido c&aacute;ncer del seno aumenta su riesgo.</p>
+<p><strong>Antecedentes de biopsias del seno</strong><br />
+El tener un resultado anormal en una biopsia del seno anterior aumenta el riesgo de contraer c&aacute;ncer del seno.</p>
+<p><strong>Antecedentes menstruales</strong><br />
+El tener la primera menstruaci&oacute;n a una edad temprana (antes de los 12 a&ntilde;os), aumenta su riesgo. Entrar en la menopausia a una edad tard&iacute;a (despu&eacute;s de los 55), aumenta su riesgo.</p>
+<p><strong>Antecedentes reproductivos</strong><br />
+Tener el primer hijo a una edad m&aacute;s avanzada aumenta su riesgo de c&aacute;ncer del seno. No tener hijos tambi&eacute;n aumenta su riesgo.</p>
+<p><strong>Terapia de hormonas para la menopausia</strong><br />
+Tomar hormonas para la menopausia (estr&oacute;geno solo o estr&oacute;geno con progestina) aumenta su riesgo.</p>
+<p><strong>Obesidad</strong><br />
+El ser obeso (tener mucho sobrepeso) aumenta el riesgo de contraer c&aacute;ncer del seno.</p>
+<p><strong>Consumo de bebidas alcoh&oacute;licas</strong><br />
+Tomar m&aacute;s de una o dos bebidas al d&iacute;a aumenta su riesgo.</p>
+<p><strong>Otros factores de riesgo</strong><br />
+Es poco frecuente, pero algunas mujeres nacen con un gen que aumenta su riesgo de tener c&aacute;ncer del seno. El recibir tratamientos de radiaci&oacute;n a una temprana edad tambi&eacute;n aumenta su riesgo.</p> 
+			<a name="1786"></a>
+			
+
+			
+				<h3>Aprenda sobre el cáncer del seno</h3>
+				<p>El c&aacute;ncer del seno es un tumor maligno que comienza en las c&eacute;lulas del seno. Maligno significa que las c&eacute;lulas son cancerosas y pueden esparcirse a otros tejidos en el seno. A veces, las c&eacute;lulas cancerosas se esparcen fuera del seno, a otras partes del cuerpo. Esto quiere decir que hacen met&aacute;stasis.</p>
+<p>Los conductos del seno llevan la leche al pez&oacute;n. La mayor&iacute;a de los c&aacute;nceres comienza en las c&eacute;lulas que conforman los conductos galact&oacute;foros. Algunos c&aacute;nceres del seno empiezan en los lobulillos (gl&aacute;ndulas donde se produce la leche materna).</p>
+<p><img width="384" height="370" src="/tasks/sites/ehc/assets/Image/breast_cancer_medication_spanish_1.png" alt="Diagrama del seno" /></p>
+<p>Una biopsia del seno es la &uacute;nica forma de saber si las c&eacute;lulas del seno son anormales o cancerosas. En una biopsia del seno, el m&eacute;dico extrae una peque&ntilde;a porci&oacute;n de tejido del seno. El tejido se observa con un microscopio para verificar que no haya cambios. Si las c&eacute;lulas son anormales o cancerosas, una biopsia puede mostrarle si est&aacute;n en un solo lugar o si ya han comenzado a esparcirse.</p>
+<h4>C&aacute;ncer del seno no invasivo</h4>
+<p>Un c&aacute;ncer del seno no invasivo es un crecimiento de c&eacute;lulas anormales situado en el seno. En este caso, las c&eacute;lulas no se han esparcido a otros tejidos en el seno o al resto del cuerpo.</p>
+<ul>
+	<li>Carcinoma lobulillar in situ (LCIS por sus siglas en ingl&eacute;s) - En el caso de LCIS, las c&eacute;lulas anormales crecen dentro de los lobulillos. &ldquo;In situ&rdquo; significa &ldquo;en el lugar.&rdquo; Las c&eacute;lulas anormales se han quedado en un solo lugar. El LCIS rara vez se transforma en un c&aacute;ncer invasivo. Sin embargo, las mujeres con LCIS tienen un riesgo mayor de tener c&aacute;ncer del seno invasivo.</li>
+	<li>Carcinoma ductal in situ (DCIS por sus siglas en ingl&eacute;s) - En el caso de DCIS, las c&eacute;lulas anormales crecen dentro de los conductos galact&oacute;foros. Se le llama &ldquo;in situ&rdquo; porque las c&eacute;lulas anormales se encuentran en un solo lugar. El DCIS es el tipo m&aacute;s com&uacute;n de c&aacute;ncer del seno no invasivo. Existe la posibilidad de que el DCIS se transforme en c&aacute;ncer invasivo con el tiempo.</li>
+</ul>
+<h4>C&aacute;ncer del seno invasivo</h4>
+<p>En el caso del c&aacute;ncer del seno invasivo, las c&eacute;lulas anormales se han esparcido m&aacute;s all&aacute; del lugar en el que comenzaron. El c&aacute;ncer del seno invasivo puede originarse en los conductos galact&oacute;foros o en los lobulillos. &ldquo;Invasivo&rdquo; quiere decir que las c&eacute;lulas cancerosas se han esparcido a otros tejidos del seno.</p> 
+			<a name="1787"></a>
+			
+
+			
+				<h3>Sobre los medicamentos</h3>
+				<p>Existen dos medicamentos distintos capaces de reducir el riesgo de contraer c&aacute;ncer del seno en mujeres que nunca lo han tenido.</p>
+<ul>
+	<li>Raloxifeno. Su uso est&aacute; aprobado &uacute;nicamente despu&eacute;s de la menopausia.</li>
+	<li>Tamoxifeno. Su uso est&aacute; aprobado antes y despu&eacute;s de la menopausia.</li>
+</ul>
+<p>Se debe tomar el tamoxifeno o raloxifeno una vez al d&iacute;a durante no m&aacute;s de 5 a&ntilde;os para reducir el riesgo de c&aacute;ncer del seno.</p>
+<h4>C&oacute;mo funcionan</h4>
+<p>El estr&oacute;geno es una hormona natural del cuerpo. Algunos c&aacute;nceres del seno utilizan el estr&oacute;geno para crecer. Hay un lugar en algunas c&eacute;lulas del c&aacute;ncer del seno, llamado receptor, donde puede adherirse el estr&oacute;geno. A este tipo de c&aacute;ncer del seno se le llama c&aacute;ncer positivo para receptores de estr&oacute;genos.</p>
+<p>El tamoxifeno y el raloxifeno bloquean el estr&oacute;geno. Se adhieren al receptor, para evitar que el estr&oacute;geno lo haga. Este tipo de c&eacute;lula de c&aacute;ncer del seno no puede multiplicarse ni crecer sin el estr&oacute;geno.</p>
+<p>Algunos c&aacute;nceres del seno no tienen receptores de estr&oacute;geno. A este tipo de c&aacute;ncer del seno se le llama c&aacute;ncer negativo para receptores de estr&oacute;genos. No es tan com&uacute;n, pero es m&aacute;s dif&iacute;cil de tratar.</p>
+<ul>
+	<li>El raloxifeno y el tamoxifeno reducen el riesgo de tener c&aacute;nceres del seno con receptores de estr&oacute;geno.</li>
+	<li>No reducen el riesgo de c&aacute;nceres del seno sin receptores de estr&oacute;geno.</li>
+</ul> 
+			<a name="1788"></a>
+			
+
+			
+				<h3>Posibles beneficios</h3>
+				<p>Tanto el tamoxifeno como el raloxifeno reducen el riesgo de tener c&aacute;ncer del seno invasivo en un 50 por ciento en las mujeres que nunca lo han tenido. </p>
+<p>Este gr&aacute;fico, por ejemplo, muestra el riesgo total para las mujeres en los Estados Unidos desde los 50 hasta los 59 a&ntilde;os. Su riesgo de tener c&aacute;ncer del seno invasivo a lo largo de los pr&oacute;ximos 10 a&ntilde;os es de aproximadamente 2 de 100. Esto quiere decir que de cada 100 mujeres, aproximadamente 2 tendr&aacute;n c&aacute;ncer del seno. Si todas esas 100 mujeres tomaran medicamentos para reducir su riesgo de contraer c&aacute;ncer del seno, s&oacute;lo la mitad (1 mujer) tendr&iacute;a c&aacute;ncer del seno.</p>
+<p><img height="376" width="399" src="/tasks/sites/ehc/assets/Image/breast_cancer_medication_spanish_2.png" alt="Este gr&aacute;fico, por ejemplo, muestra el riesgo total para las mujeres en los Estados Unidos desde los 50 hasta los 59 a&ntilde;os. Su riesgo de tener c&aacute;ncer del seno invasivo a lo largo de los pr&oacute;ximos 10 a&ntilde;os es de aproximadamente 2 de 100. Esto quiere decir que de cada 100 mujeres, aproximadamente 2 tendr&aacute;n c&aacute;ncer del seno. Si todas esas 100 mujeres tomaran medicamentos para reducir su riesgo de contraer c&aacute;ncer del seno, s&oacute;lo la mitad (1 mujer) tendr&iacute;a c&aacute;ncer del seno. = cantidad de mujeres que tendr&aacute;n c&aacute;ncer del seno invasivo sin tomar medicamentos (2 de 100). = cantidad de mujeres que tendr&aacute;n c&aacute;ncer del seno invasivo cuando todas toman medicamentos (1 de 100)." /></p>
+<p></p>
+<p>El raloxifeno no reduce el riesgo de c&aacute;nceres del seno no invasivos (LCIS y DCIS). Las investigaciones todav&iacute;a no pueden determinar el efecto del tamoxifeno en los c&aacute;nceres no invasivos.</p> 
+			<a name="1789"></a>
+			
+
+			
+				<h3>Problemas posibles</h3>
+				<p>Tanto el tamoxifeno como el raloxifeno tienen efectos secundarios comunes. Ambos pueden causar sofocos. El tamoxifeno puede causar s&iacute;ntomas vaginales, como picaz&oacute;n, sequedad o secreciones. El raloxifeno puede causar calambres en las piernas.</p>
+<p>Algunas mujeres que han tomado tamoxifeno o raloxifeno han tenido un derrame. Los estudios de investigaci&oacute;n indican que la cantidad de derrames en las mujeres que toman estos medicamentos es muy similar a la cantidad en mujeres que no toman estos medicamentos. Hable con su m&eacute;dico o enfermera sobre su riesgo de tener un derrame.</p>
+<p>Tambi&eacute;n puede tener otros efectos secundarios graves y que pongan en peligro a su vida. </p>
+<ul>
+	<li><strong>Co&aacute;gulos de sangre en los pulmones y las piernas. </strong></li>
+</ul>
+<p>El tamoxifeno y el raloxifeno aumentan el riesgo de que se produzca un co&aacute;gulo de sangre. Los co&aacute;gulos de sangre son m&aacute;s comunes con el tamoxifeno que con el raloxifeno. </p>
+<ul>
+	<li><strong>C&aacute;ncer endometrial (c&aacute;ncer en las paredes del &uacute;tero). </strong></li>
+</ul>
+<p>El tamoxifeno aumenta el riesgo de c&aacute;ncer endometrial. <br />
+El raloxifeno no lo aumenta. </p>
+<p>De cada 100 mujeres que toman tamoxifeno o raloxifeno durante 5 a&ntilde;os, el medicamento causar&aacute; un co&aacute;gulo de sangre o c&aacute;ncer endometrial en aproximadamente 1 mujer.</p>
+<p>Tomar raloxifeno o tamoxifeno reduce el riesgo en la mujer de algunos tipos de c&aacute;ncer del seno. Algunas mujeres que toman estos medicamentos tendr&aacute;n c&aacute;ncer del seno de todos modos.</p>
+<p>El tomar estos medicamentos no reduce el riesgo de muerte por c&aacute;ncer del seno. Tampoco significa que una mujer vivir&aacute; m&aacute;s. A&uacute;n no est&aacute; claro por qu&eacute; esto es as&iacute;. Puede deberse a que los medicamentos reducen los tipos de c&aacute;ncer del seno que son m&aacute;s f&aacute;ciles de tratar.<br />
+</p> 
+			<a name="1790"></a>
+			
+
+			
+				<h3>Piense sobre la decisión</h3>
+				<p>La mayor&iacute;a de las mujeres jam&aacute;s tendr&aacute; c&aacute;ncer del seno.</p>
+<p>Sin embargo, algunas mujeres tienen un riesgo m&aacute;s alto que otras. Hable con su m&eacute;dico o enfermera sobre su riesgo de tener c&aacute;ncer del seno.</p>
+<p>El tamoxifeno y el raloxifeno pueden reducir su riesgo de tener ciertos tipos de c&aacute;ncer del seno. Estos medicamentos pueden tambi&eacute;n aumentar su riesgo de tener problemas graves. Hable con su m&eacute;dico o enfermera sobre su riesgo de tener problemas graves a causa de estos medicamentos.</p>
+<p>Piense sobre estas preguntas.</p>
+<ul>
+	<li><strong>&iquest;Tengo un riesgo alto o bajo de tener c&aacute;ncer del seno? &iquest;Tengo un riesgo alto o bajo de tener problemas graves por el medicamento?</strong><br />
+	El riesgo de efectos secundarios no deber&iacute;a ser m&aacute;s alto que el beneficio de los medicamentos.</li>
+	<li><strong>&iquest;Puedo ser constante? </strong><br />
+	Estos medicamentos deben ser tomados todos los d&iacute;as durante no m&aacute;s de 5 a&ntilde;os.  Pueden causar sofocos con frecuencia.</li>
+	<li><strong>&iquest;Afecta el costo de los medicamentos mi decisi&oacute;n?</strong><br />
+	El costo de los medicamentos puede ser importante para usted. Necesitan ser tomados por un largo tiempo, por lo que el costo puede  aumentar. Averig&uuml;e si su seguro cubre el uso de estos medicamentos para reducir el riesgo de c&aacute;ncer del seno. El gr&aacute;fico siguiente le da una idea del costo.</li>
+</ul>
+<table cellspacing="0">
+	<caption>Precio del raloxifeno y del tamoxifeno</caption>
+	<thead>
+		<tr class="bottom">
+			<th>Nombre del medicamento</th>
+			<th scope="col" class="align_center">Nombre comercial</th>
+			<th scope="col" class="align_center">Dosis<sup>1</sup></th>
+			<th scope="col" class="align_center">Con qu&eacute; frecuencia, por cu&aacute;nto tiempo</th>
+			<th scope="col" class="align_center">C&oacute;mo se toma</th>
+			<th scope="col" class="align_center">Precio por <u>mes&sup2;</u><br />
+			<em>Nombre gen&eacute;rico</em></th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="6"><sup>1</sup>Las dosis son para reducir el riesgo de contraer c&aacute;ncer del seno.<br />
+<sup>2</sup>Precio de venta promedio seg&uacute;n el Red Book, 2009. <br />
+<sup>3</sup>No se sabe a&uacute;n por cu&aacute;nto tiempo se debe tomar el raloxifeno para prevenir  el c&aacute;ncer del seno.   <br />
+ND = no disponible en forma gen&eacute;rica.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th class="section_title" scope="row">Raloxifeno</th>
+			<td class="align_center">Evista&reg;</td>
+			<td class="align_center">60 mg</td>
+			<td class="align_center">Una vez al d&iacute;a&sup3;</td>
+			<td class="align_center">Comprimido</td>
+			<td class="align_center">ND/ $115</td>
+		</tr>
+		<tr>
+			<th class="section_title" scope="row">Tamoxifeno</th>
+			<td class="align_center">Nolvadex&reg;</td>
+			<td class="align_center">20 mg</td>
+			<td class="align_center">Una vez al d&iacute;a por 5 a&ntilde;os</td>
+			<td class="align_center">Comprimido</td>
+			<td class="align_center">$115/ $245</td>
+		</tr>
+	</tbody>
+</table> 
+			<a name="1791"></a>
+			
+
+			
+				<h3>Preguntas para su médico o enfermera</h3>
+				<p></p>
+<ul>
+	<li>&iquest;Cu&aacute;l es mi riesgo de contraer c&aacute;ncer del seno? &iquest;Mi riesgo es mayor o menor al de otras mujeres de mi edad?</li>
+	<li>&iquest;Qu&eacute; pasa si no quiero empezar a medicarme a la edad que tengo ahora? &iquest;Puedo tomar la decisi&oacute;n de comenzar m&aacute;s adelante?</li>
+	<li>&iquest;Mi riesgo de que se produzcan co&aacute;gulos de sangre es m&aacute;s alto que lo normal?</li>
+	<li>&iquest;Es alguno de estos medicamentos una mejor opci&oacute;n para m&iacute;? &iquest;Por qu&eacute;?</li>
+	<li>&iquest;C&oacute;mo se pueden disminuir los efectos secundarios como los sofocos?</li>
+	<li>&iquest;Hay algo m&aacute;s que pueda hacer para reducir mi riesgo de contraer c&aacute;ncer del seno?</li>
+</ul> 
+			<a name="1792"></a>
+			
+
+			
+				<h3>Dónde puede obtener más información?</h3>
+				<p>Visite <a href="http://www.effectivehealthcare.ahrq.gov">www.effectivehealthcare.ahrq.gov</a>. </p>
+<p>Pulse en la gu&iacute;as para pacientes y consumidores si desea imprimir una copia y aprender sobre otras condiciones.</p>
+<p>Si desea ejemplares impresos gratuitos de esta gu&iacute;a, llame al 800-358-9295. Pida a la AHRQ Publications Clearinghouse la Publicaci&oacute;n AHRQ N&uacute;mero 10-EHC028-B.</p>
+<p>Para aprender m&aacute;s sobre el c&aacute;ncer del seno, visite la p&aacute;gina web de MedlinePlus:<br />
+<a href="http://www.nlm.nih.gov/medlineplus/spanish/breastcancer.html">http://www.nlm.nih.gov/medlineplus/spanish/breastcancer.html</a>.</p>
+<p>Si desea m&aacute;s informaci&oacute;n sobre la prevenci&oacute;n del c&aacute;ncer del seno, visite la p&aacute;gina web del Instituto Nacional del C&aacute;ncer:<br />
+<a href="http://www.cancer.gov/espanol/tipos/seno">http://www.cancer.gov/espanol/tipos/seno</a>.<br />
+</p> 
+			<a name="1793"></a>
+			
+
+			
+				<h3>¿Cuál es la fuente de esta guía?</h3>
+				<p>La informaci&oacute;n de esta gu&iacute;a deriva de una revisi&oacute;n detallada de 123 informes de investigaci&oacute;n. La revisi&oacute;n se titula <em>Comparative Effectiveness of Medications to Reduce the Risk of Primary Breast Cancer in Women</em> (Comparaci&oacute;n de la efectividad de medicamentos para reducir el riesgo de contraer c&aacute;ncer del seno primario en mujeres) (2009) y fue escrita por el Oregon Evidence-based Practice Center (Centro de Pr&aacute;ctica Basada en la Evidencia de Oregon).</p>
+<p>La Agency for Healthcare Research and Quality (Agencia para la Investigaci&oacute;n y la Calidad de la Atenci&oacute;n M&eacute;dica, AHRQ, por sus siglas en ingl&eacute;s) cre&oacute; el Eisenberg Center (Centro Eisenberg), en la Oregon Health &amp; Science University (Universidad de la Salud y Ciencia de Oregon), con el fin de lograr que la investigaci&oacute;n sea &uacute;til para los consumidores. Esta gu&iacute;a fue escrita por Erin Davis, B.A., Martha Schechtel, R.N., Bruin Rugge, M.D.,  y David Hickam, M.D., del Centro Eisenberg. Para crear esta gu&iacute;a, el Centro Eisenberg recibi&oacute; la ayuda de mujeres con un riesgo alto de c&aacute;ncer del seno.  </p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

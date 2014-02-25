@@ -1,0 +1,1139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Antipsychotic Medicines for Treating Schizophrenia and Bipolar Disorder: A Review of the Research for Adults and Caregivers - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?button=1&amp;pageaction=displayproduct&amp;productid=1458" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fbutton%3D1%26pageaction%3Ddisplayproduct%26productid%3D1458">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=146">
+					First-Generation Versus Second-Generation Antipsychotics in Adults: Comparative Effectiveness 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Report</h4>
+						
+				<ul>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1054">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Aug. 14, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=583">
+										Research Protocol 
+									</a>
+							<span style="font-size:7pt;"> Dec. 1, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1651">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 20, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1457">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Apr. 10, 2013 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1053">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Aug. 14, 2012 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+						<h4>Education Resources for this Topic</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displaycmeactivity&activityID=337&cmepage=cme_info">
+									
+									CME Activity: First-Generation Versus Second-Generation Antipsychotics in Adults: Comparative Effectiveness 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Published Journal Article</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://annals.org/article.aspx?articleid=1309704">
+									
+									Hartling L, Abou-Setta AM, Dursun S, et al. Antipsychotics in adults with schizophrenia: comparative effectiveness of first-generation versus second-generation medications: a systematic review and meta-analysis. Ann Intern Med 2012 Aug 14. [Epub ahead of print.] 
+								</a>
+								
+								
+									<a href="/exit-disclaimer/"><img src="/ehc/images/exit_disclaimer.png" alt="Exit Disclaimer" /></a>
+							
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 12(13)-EHC054-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1458"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1458"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1458"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1458&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1458&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1458&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1458"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1458&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1458&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fbutton%3d1%26amp%3bpageaction%3ddisplayproduct%26amp%3bproductid%3d1458&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2398BE34-A9E7-B1D7-3C4C12FEECF3EA1A" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=1458&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=1458&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1458" title="Antipsychotic Medicines for Treating Schizophrenia and Bipolar Disorder: A Review of the Research for Adults and Caregivers"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1458.gif" alt="Antipsychotic Medicines for Treating Schizophrenia and Bipolar Disorder: A Review of the Research for Adults and Caregivers" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Antipsychotic Medicines for Treating Schizophrenia and Bipolar Disorder: A Review of the Research for Adults and Caregivers" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1458&amp;button=1&quot; title=&quot;Antipsychotic Medicines for Treating Schizophrenia and Bipolar Disorder: A Review of the Research for Adults and Caregivers&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/1458.gif&quot; border=&quot;0&quot; alt=&quot;Antipsychotic Medicines for Treating Schizophrenia and Bipolar Disorder: A Review of the Research for Adults and Caregivers&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Apr. 10, 2013 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Antipsychotic Medicines for Treating Schizophrenia and Bipolar Disorder: A Review of the Research for Adults and Caregivers</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/146/1458/antipsychotics-adults-130410.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							734 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li class="last" style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/146/1458/Anti-psychotic Medicines.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							11.1 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#7407">Is This Information Right for Me?</a></li>
+					
+						<li><a href="#7408">Understanding Your Condition</a></li>
+					
+						<li><a href="#7409">Understanding Antipsychotics</a></li>
+					
+						<li><a href="#7410">Making a Decision</a></li>
+					
+						<li><a href="#7411">Source</a></li>
+					
+			</ul>
+		
+			<a name="7407"></a>
+			
+
+			
+				<h3>Is This Information Right for Me?</h3>
+				<h4>Yes, this information is right for you if:</h4>
+<ul>
+	<li>A doctor has told you that you or someone you care for has schizophrenia or bipolar disorder.</li>
+	<li>A doctor has suggested one of the medicines listed below.* These medicines are called &ldquo;antipsychotics&rdquo; because they were made to treat severe mental illnesses such as psychosis. Antipsychotics are now used for many mental health conditions and symptoms, not just psychosis. There are two generations of antipsychotics&mdash;older and newer.<br />
+		<br />
+		<em>Older Antipsychotics</em>:
+		<ul>
+			<li>Chlorpromazine (Thorazine<sup>&reg;</sup>)</li>
+			<li>Fluphenazine (Prolixin<sup>&reg;</sup>)</li>
+			<li>Haloperidol (Haldol<sup>&reg;</sup>)</li>
+			<li>Perphenazine (Trilafon<sup>&reg;</sup>)</li>
+			<li>Thioridazine (Mellaril<sup>&reg;</sup>)</li>
+			<li>Trifluoperazine (Stelazine<sup>&reg;</sup>)</li>
+		</ul>
+		<br />
+		<em>Newer Antipsychotics</em>:
+		<ul>
+			<li>Aripiprazole (Abilify<sup>&reg;</sup>)</li>
+			<li>Asenapine (Saphris<sup>&reg;</sup>)</li>
+			<li>Clozapine (Clozaril<sup>&reg;</sup>, FazaClo<sup>&reg;</sup>)</li>
+			<li>Olanzapine (Zyprexa<sup>&reg;</sup>)</li>
+			<li>Quetiapine (Seroquel<sup>&reg;</sup>)</li>
+			<li>Risperidone (Risperdal<sup>&reg;</sup>)</li>
+			<li>Ziprasidone (Geodon<sup>&reg;</sup>)</li>
+		</ul>
+	</li>
+	<li>You are age 18 or older. The information in this summary is from research on adults.</li>
+</ul>
+<p>* There are other antipsychotic medicines than those listed here. These are the ones that were studied in the research for this summary.</p>
+<h4>What will this summary tell me?</h4>
+<p>This summary talks about one type of medicine&mdash;antipsychotics&mdash; used to treat schizophrenia and bipolar disorder. It will tell you what research says about how older and newer antipsychotics compare for treating schizophrenia and bipolar disorder in adults. Please note that the research on antipsychotics as treatment for bipolar disorder is limited, and more research is needed. This summary will also tell you about the possible side effects of antipsychotics. It can help you talk with your doctor about whether or not one of these antipsychotic medicines might be right for you.</p>
+<p>This summary does not talk about medicines other than antipsychotics for schizophrenia or bipolar disorder, such as mood stabilizers or antidepressants. This summary also does <strong>not</strong> discuss nonmedicine treatments, such as psychotherapy.</p>
+<h4>Where does the information come from?</h4>
+<p>Researchers funded by the Agency for Healthcare Research and Quality (AHRQ), a Federal Government research agency, reviewed 114 studies of antipsychotics for schizophrenia and 12 studied of antipsychotics for bipolar disorder published up to July 2011. The report was reviewed by clinicians, researchers, experts, and the public. You can read the report at www.effectivehealthcare.ahrq.gov/antipsychotics-adult.cfm.</p> 
+			<a name="7408"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is schizophrenia?</h4>
+<p>Schizophrenia is a severe brain disorder in which people may hear voices or see things that are not real. Scientists are not sure what causes schizophrenia, but the disorder may be passed down in families. A person&rsquo;s brain structure or chemistry and the environment they live in may also play a role in developing schizophrenia. Out of 100 people in the United States, about 1 person has schizophrenia.</p>
+<p>Although symptoms can vary from person to person, common symptoms of schizophrenia include:</p>
+<ul>
+	<li>Hallucinations: Seeing or hearing things that are not there</li>
+	<li>Delusions: Believing things that are irrational or not true
+		<ul>
+			<li>Examples of delusions include thinking others can read your mind, believing others are trying to control your mind, or constantly worrying that others are trying to hurt you.</li>
+		</ul>
+	</li>
+	<li>Trouble communicating and saying things that do not make sense</li>
+	<li>Movement problems: Repeating motions over and over or not moving at all</li>
+	<li>Trouble showing emotions: Talking with a flat voice and not showing any facial expressions, like a smile or a frown</li>
+	<li>Trouble interacting with other people</li>
+	<li>Trouble paying attention and making decisions</li>
+	<li>Thoughts of suicide</li>
+</ul>
+<h4>How is schizophrenia treated?</h4>
+<ul>
+	<li>Schizophrenia can be treated with medicine and psychotherapy (talking with a trained therapist). Antipsychotic medicines are often used to treat the symptoms of schizophrenia. These medicines do not cure schizophrenia, but they can help improve your ability to function and your quality of life. Each person responds differently to different antipsychotic medicines. You may need to try several medicines before finding the one that works best for you.</li>
+	<li>Your doctor may also suggest other nonmedicine treatments that can help you cope with your illness and symptoms. Such treatments can include counseling, self-help groups, and programs to learn how to manage your illness.</li>
+	<li>Sometimes, doctors may suggest staying in a hospital to help people with schizophrenia get their symptoms under control.</li>
+</ul>
+<p><strong>Note</strong>: This summary only discusses antipsychotic medicines used to treat schizophrenia. It does not discuss nonmedicine treatments or hospital stays.</p>
+<h4>What is bipolar disorder?</h4>
+<p>Bipolar disorder, also known as manic-depressive illness, is a severe brain disorder that causes intense mood swings. People with bipolar disorder go from feeling very happy and full of energy to feeling very depressed and hopeless and back again. These ups (called &ldquo;mania,&rdquo; pronounced MAY-nee-uh) and downs (called depression) are much more intense than the normal ups and downs that everyone feels from time to time. Scientists think bipolar disorder may be passed down in families. A person&rsquo;s brain structure may also play a role in developing bipolar disorder.</p>
+<p>Out of 100 people in the United States, less than 1 to as many as 3 have bipolar disorder.</p>
+<p>Although symptoms vary from person to person, common examples of mania and depression symptoms are listed below.</p>
+<h5>Symptoms of mania include:</h5>
+<ul>
+	<li>Feeling &ldquo;up&rdquo; or &ldquo;high&rdquo;</li>
+	<li>Feeling jittery, agitated, or irritable</li>
+	<li>Feeling invincible&mdash;like nothing can hurt you</li>
+	<li>Easily flying into a rage</li>
+	<li>Being overactive</li>
+	<li>Talking fast and switching between topics quickly</li>
+	<li>Feeling little need for sleep</li>
+	<li>Acting reckless or taking risks (for example, taking drugs, having unprotected sex, or spending a lot of money)</li>
+</ul>
+<h5>Symptoms of depression include:</h5>
+<ul>
+	<li>Feeling &ldquo;down&rdquo; or sad</li>
+	<li>Feeling very worried, hopeless, or worthless</li>
+	<li>Having trouble concentrating and remembering things</li>
+	<li>No longer being interested in activities you usually enjoy</li>
+	<li>Feeling tired and becoming much less active</li>
+	<li>Eating a lot more or a lot less than usual</li>
+	<li>Having trouble sleeping</li>
+	<li>Thinking about death often or considering suicide</li>
+</ul>
+<h4>How is bipolar disorder treated?</h4>
+<ul>
+	<li>Bipolar disorder can be treated with medicine and psychotherapy (talking with a trained therapist). Medicines to treat bipolar disorder include mood stabilizers (such as lithium), antipsychotic medicines, and antidepressant medicines. Each person responds differently to different antipsychotic medicines. You may need to try several medicines or combinations of medicines before finding what works best for you.</li>
+	<li>Your doctor may also suggest other nonmedicine treatments that can help you cope with your illness and symptoms. Such treatments can include counseling or support groups.</li>
+	<li>Sometimes, doctors may suggest a stay in the hospital to help people with bipolar disorder stabilize their mood.</li>
+</ul>
+<p><strong>Note</strong>: This summary only discusses antipsychotic medicines to treat bipolar disorder. It does not discuss other medicines, nonmedicine treatments, or hospital stays.</p> 
+			<a name="7409"></a>
+			
+
+			
+				<h3>Understanding Antipsychotics</h3>
+				<h4>What are antipsychotic medicines?</h4>
+<p>Antipsychotic medicines were made to help people who have serious mental illnesses such as psychosis. Antipsychotic medicines are now used for many mental health conditions and symptoms, not just psychosis. They work by affecting the way certain chemicals act in the brain. Antipsychotic medicines do not cure mental illnesses, but they are used to help improve symptoms and quality of life.</p>
+<p>Antipsychotic medicines are divided into two &ldquo;generations.&rdquo; Doctors often refer to these as &ldquo;older&rdquo; (also called &ldquo;typical&rdquo;) antipsychotics and &ldquo;newer&rdquo; (also called &ldquo;atypical&rdquo;) antipsychotics. Antipsychotic medicines come as pills you take every day. Some antipsychotics also come as a shot that you get at the doctor&rsquo;s office or the hospital.</p>
+<table class="styleOne">
+	<caption>Antipsychotic Medicines</caption>
+	<thead>
+		<tr>
+			<th scope="col">Brand Name</th>
+			<th scope="col">Drug Name</th>
+			<th scope="col">Generic Available</th>
+		</tr></thead>
+	<tfoot>
+		<tr>
+			<td colspan="3">* These medicines were not studied in the research for this summary.</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th class="section_title" colspan="3" scope="col">Older Antipsychotic Medicines</th>
+		</tr>
+		<tr>
+			<td>Haldol<sup>&reg;</sup></td>
+			<td>Haloperidol</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Mellaril<sup>&reg;</sup></td>
+			<td>Thioridazine</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Navane<sup>&reg;</sup>*</td>
+			<td>Thiothixene*</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Prolixin<sup>&reg;</sup></td>
+			<td>Fluphenazine</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Stelazine<sup>&reg;</sup></td>
+			<td>Trifluoperazine</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Thorazine<sup>&reg;</sup></td>
+			<td>Chlorpromazine</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Trilafon<sup>&reg;</sup></td>
+			<td>Perphenazine</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="3" scope="col">Newer Antipsychotic Medicines</th>
+		</tr>
+		<tr>
+			<td>Abilify<sup>&reg;</sup></td>
+			<td>Aripiprazole</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Clozaril<sup>&reg;</sup>; FazaClo<sup>&reg;</sup></td>
+			<td>Clozapine</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Fanapt<sup>&reg;</sup>*</td>
+			<td>Iloperidone*</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Geodon<sup>&reg;</sup></td>
+			<td>Ziprasidone</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Invega<sup>&reg;</sup>*</td>
+			<td>Paliperidone*</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Latuda<sup>&reg;</sup>*</td>
+			<td>Lurasidone*</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Risperdal<sup>&reg;</sup></td>
+			<td>Risperidone</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Saphris<sup>&reg;</sup></td>
+			<td>Asenapine</td>
+			<td>No</td>
+		</tr>
+		<tr>
+			<td>Seroquel<sup>&reg;</sup></td>
+			<td>Quetiapine</td>
+			<td>Yes</td>
+		</tr>
+		<tr>
+			<td>Zyprexa<sup>&reg;</sup></td>
+			<td>Olanzapine</td>
+			<td>Yes</td>
+		</tr>
+	</tbody>
+</table>
+<h4>What does research say about how older and newer antipsychotic medicines compare with each other?</h4>
+<p>Older and newer antipsychotics both work to treat symptoms of schizophrenia and bipolar disorder. However, research studies that compared newer antipsychotic medicines with the older antipsychotic haloperidol (Haldol<sup>&reg;</sup>)* only found a few differences in benefits.</p>
+<h5><em>Schizophrenia</em></h5>
+<p>For treating the schizophrenia symptoms of hallucinations, delusions, trouble communicating, and movement problems:</p>
+<ul>
+	<li>The newer antipsychotic olanzapine (Zyprexa<sup>&reg;</sup>) works about the same as the older antipsychotic haloperidol (Haldol<sup>&reg;</sup>).</li>
+</ul>
+<p>For treating the schizophrenia symptoms of trouble showing emotion and trouble interacting with others:</p>
+<ul>
+	<li>The newer antipsychotics aripiprazole (Abilify<sup>&reg;</sup>), olanzapine (Zyprexa<sup>&reg;</sup>), and risperidone (Risperdal<sup>&reg;</sup>) work better than the older antipsychotic haloperidol (Haldol<sup>&reg;</sup>).</li>
+</ul>
+<p>For treating general mental health symptoms (such as anxiety, guilt, tension, poor attention, and poor judgment) in people with schizophrenia:??</p>
+<ul>
+	<li>The newer antipsychotic olanzapine (Zyprexa<sup>&reg;</sup>) works better than the older antipsychotic haloperidol (Haldol<sup>&reg;</sup>).</li>
+</ul>
+<h5><em>Bipolar Disorder</em></h5>
+<p>For treating mania symptoms of bipolar disorder:</p>
+<ul>
+	<li>The newer antipsychotics aripiprazole (Abilify<sup>&reg;</sup>), olanzapine (Zyprexa<sup>&reg;</sup>), and risperidone (Risperdal<sup>&reg;</sup>) appear to work the same as the older antipsychotic haloperidol (Haldol<sup>&reg;</sup>), but more research is needed to know this for certain.</li>
+</ul>
+<p>* Haloperidol (Haldol<sup>&reg;</sup>) may not be representative of all older antipsychotics. There is not enough research to know for certain how other older antipsychotics compare with newer antipsychotics.</p>
+<h4>What are the possible side effects of antipsychotic medicines?</h4>
+<p>The U.S. Food and Drug Administration (FDA) lists the following possible side effects of antipsychotic medicines.*</p>
+<p>Both older and newer antipsychotic medicines can cause:</p>
+<ul>
+	<li>Uncontrollable movements, such as tics and tremors (the risk is higher with older antipsychotic medicines)</li>
+	<li>Drowsiness</li>
+	<li>Dizziness</li>
+	<li>Restlessness</li>
+	<li>Weight gain (the risk is higher with newer antipsychotic medicines)</li>
+	<li>Dry mouth</li>
+	<li>Constipation</li>
+	<li>Nausea</li>
+	<li>Vomiting</li>
+	<li>Blurred vision</li>
+	<li>Low blood pressure</li>
+	<li>Seizures</li>
+	<li>A low number of white blood cells (the cells in your body that fight infection)</li>
+</ul>
+<p>All the antipsychotic medicines in this summary, except for aripiprazole (Abilify<sup>&reg;</sup>) and clozapine (Clozaril<sup>&reg;</sup> or FazaClo<sup>&reg;</sup>), can cause an increased amount of a hormone in the body called prolactin. Increased prolactin can cause problems with sexual function and enlarged breasts in both men and women.</p>
+<p>* For information on how likely certain side effects are for various newer antipsychotic medicines, see the consumer research summary <em>Medicines for Treating Mental Health Conditions, A Review of the Research for Adults and Caregivers.</em> For a free copy, call 800-358-9295 and ask for AHRQ Publication No. 11(12)-EHC087-A, or download and print a copy at www.effectivehealthcare.ahrq.gov/mental-health-medicines.cfm.</p>
+<div class="report_highlight_box large_box" style="background-color: rgb(247, 248, 222); margin-left: 40px; text-align: left;">
+	<h5>Possible Serious Side Effects of Antipsychotic Medicines</h5>
+	<ul>
+		<li>Both older and newer antipsychotics can cause a condition that causes uncontrollable muscle movements. Sometimes the condition goes away after stopping the medicine, but sometimes it is permanent. Older antipsychotics may be associated with a higher risk of developing this condition than newer antipsychotics.</li>
+		<li>Both older and newer antipsychotics can cause a possibly life-threatening reaction called &ldquo;neuroleptic malignant syndrome,&rdquo; although this is rare. Symptoms include a high fever, sweating, wide changes in blood pressure, and muscle stiffness.</li>
+		<li>The newer antipsychotic clozapine (Clozaril<sup>&reg;</sup> or FazaClo<sup>&reg;</sup>) can cause a serious blood condition involving a severely lowered white blood cell count in some people. Your doctor will need to take blood tests often to monitor for this condition. Clozapine can also cause the heart muscle to become inflamed.</li>
+		<li>Researchers do not known if taking antipsychotics while pregnant can harm the unborn baby. If you are pregnant or are planning to become pregnant, talk with your doctor before taking an antipsychotic medicine.</li>
+	</ul>
+</div> 
+			<a name="7410"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<h4>What should I think about when deciding?</h4>
+<p>There are several things to consider when deciding if an antipsychotic medicine is right for you or someone you care for. Only you and your doctor can decide whether any medicine&rsquo;s ability to help is worth the risk of a serious side effect. Each person responds differently to different antipsychotic medicines. The doctor may try several medicines before finding the right one. The most important thing is to find the medicine that works best for you.</p>
+<p>You and your doctor should discuss:</p>
+<ul>
+	<li>The possible benefits of taking an antipsychotic medicine</li>
+	<li>Which antipsychotic medicine might work best for you or someone you care for</li>
+	<li>The possible side effects from taking an antipsychotic medicine and what they mean to you</li>
+	<li>The risk for a serious side effect</li>
+	<li>Ways to help you notice side effects so they can be treated or so the medicine can be changed</li>
+	<li>Which treatment best fits your values and preferences</li>
+	<li>The cost of each medicine</li>
+</ul>
+<h4>What are the costs of the medicines?</h4>
+<p>The wholesale prices of prescription antipsychotic medicines are listed below. Wholesale prices are the prices paid by pharmacies. These prices are given here so you can compare the costs of different medicines to see which are more expensive and which are less expensive. The cost to you for each medicine depends on your health insurance, the dose (amount) of medicine you need, and whether the medicine comes in a generic form.</p>
+<table class="styleOne">
+	<caption>Wholesale Prices of Prescription Antipsychotics</caption>
+	<thead>
+		<tr class="bottom">
+			<th scope="col">Brand Name</th>
+			<th scope="col">Daily Dose</th>
+			<th scope="col">Form</th>
+			<th scope="col">Price per Month for Brand Name*</th>
+			<th scope="col">Drug Name</th>
+			<th scope="col">Price per Month for Generic*</th>
+		</tr>
+	</thead>
+	<tfoot>
+		<tr>
+			<td colspan="6">* Prices are the average wholesale prices from <em>RED BOOK Online<sup>&reg;</sup></em> rounded to the nearest $5. Generic prices are the middle value in the range of prices listed from different manufacturers. The actual prices of the medicines may be higher or lower than the prices listed here, depending on the manufacturer used by your pharmacy.<br />
+				NA = not available; NB = brand name no longer manufactured; NG = no generic form</td>
+		</tr>
+	</tfoot>
+	<tbody>
+		<tr>
+			<th class="section_title" colspan="6" scope="col">Older Antipsychotics</th>
+		</tr>
+		<tr>
+			<td>Haldol<sup>&reg;</sup></td>
+			<td>1&ndash;30 mg</td>
+			<td>Tablet</td>
+			<td>NB</td>
+			<td>Haloperidol</td>
+			<td>NA</td>
+		</tr>
+		<tr>
+			<td>Mellaril<sup>&reg;</sup></td>
+			<td>200&ndash;800 mg</td>
+			<td>Tablet</td>
+			<td>NB</td>
+			<td>Thioridazine</td>
+			<td>NA</td>
+		</tr>
+		<tr>
+			<td>Prolixin<sup>&reg;</sup></td>
+			<td>1&ndash;5 mg</td>
+			<td>Tablet</td>
+			<td>NB</td>
+			<td>Fluphenazine</td>
+			<td>$6&ndash;$12</td>
+		</tr>
+		<tr>
+			<td>Stelazine<sup>&reg;</sup></td>
+			<td>10&ndash;20 mg</td>
+			<td>Tablet</td>
+			<td>NB</td>
+			<td>Trifluoperazine</td>
+			<td>$65&ndash;$95</td>
+		</tr>
+		<tr>
+			<td>Thorazine<sup>&reg;</sup></td>
+			<td>50&ndash;800 mg</td>
+			<td>Tablet</td>
+			<td>NB</td>
+			<td>Chlorpromazine</td>
+			<td>$60&ndash;$350</td>
+		</tr>
+		<tr>
+			<td>Trilafon<sup>&reg;</sup></td>
+			<td>8&ndash;32 mg</td>
+			<td>Tablet</td>
+			<td>NB</td>
+			<td>Perphenazine</td>
+			<td>NA</td>
+		</tr>
+		<tr>
+			<th class="section_title" colspan="6" scope="col">Newer Antipsychotics</th>
+		</tr>
+		<tr>
+			<td>Abilify<sup>&reg;</sup></td>
+			<td>10&ndash;15 mg</td>
+			<td>Tablet</td>
+			<td>$760</td>
+			<td>Aripiprazole</td>
+			<td>NG</td>
+		</tr>
+		<tr>
+			<td>Clozaril<sup>&reg;</sup>; FazaClo<sup>&reg;</sup></td>
+			<td>300&ndash;600 mg</td>
+			<td>Tablet</td>
+			<td>$975&ndash;$1,950; $645&ndash;$1,290</td>
+			<td>Clozapine</td>
+			<td>$300&ndash;$595</td>
+		</tr>
+		<tr>
+			<td>Geodon<sup>&reg;</sup></td>
+			<td>40&ndash;160 mg</td>
+			<td>Capsule</td>
+			<td>$600&ndash;$725</td>
+			<td>Ziprasidone</td>
+			<td>$530&ndash;$645</td>
+		</tr>
+		<tr>
+			<td>Risperdal<sup>&reg;</sup></td>
+			<td>1&ndash;6 mg</td>
+			<td>Tablet</td>
+			<td>$210&ndash;$835</td>
+			<td>Risperidone</td>
+			<td>$140&ndash;$270</td>
+		</tr>
+		<tr>
+			<td>Saphris<sup>&reg;</sup></td>
+			<td>10&ndash;20 mg</td>
+			<td>Sublingual Tablet</td>
+			<td>$750</td>
+			<td>Asenapine</td>
+			<td>NG</td>
+		</tr>
+		<tr>
+			<td>Seroquel<sup>&reg;</sup></td>
+			<td>150&ndash;300 mg</td>
+			<td>Tablet</td>
+			<td>$690&ndash;$720</td>
+			<td>Quetiapine</td>
+			<td>$590&ndash;$620</td>
+		</tr>
+		<tr>
+			<td>Zyprexa<sup>&reg;</sup></td>
+			<td>10&ndash;15 mg</td>
+			<td>Tablet</td>
+			<td>$665&ndash;$995</td>
+			<td>Olanzapine</td>
+			<td>$600&ndash;$900</td>
+		</tr>
+	</tbody>
+</table>
+<h4>Ask your doctor</h4>
+<ul>
+	<li>Which antipsychotic medicine are you considering for me or for someone I care for? Why?</li>
+	<li>How long will it take for the medicine to start working?</li>
+	<li>How long will I need to keep taking the medicine?</li>
+	<li>Which symptoms might the medicine improve?</li>
+	<li>What serious side effects should I look for, and when should I call you about them?</li>
+	<li>How much weight might I gain from taking an antipsychotic medicine? When should I call you about my weight gain?</li>
+	<li>Am I at risk for having high cholesterol or getting diabetes if I take a newer antipsychotic medicine?</li>
+	<li>What will we do if the medicine does not work? What if the medicine stops working after a while and my symptoms come back?</li>
+	<li>Will an antipsychotic medicine interact with other medicines I may be taking?</li>
+	<li>Are there other medicines or nonmedicine treatments that might help me?</li>
+</ul> 
+			<a name="7411"></a>
+			
+
+			
+				<h3>Source</h3>
+				<p>The information in this summary comes from the report <em>First-Generation Versus Second-Generation Antipsychotics in Adults: Comparative Effectiveness.</em> The report was produced by the University of Alberta Evidence-based Practice Center through funding by the Agency for Healthcare Research and Quality (AHRQ).</p>
+<p>Additional information came from the MedlinePlus<sup>&reg;</sup> Web site, a service of the National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus">www.nlm.nih.gov/medlineplus</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Amelia Williamson Smith, M.S., John Coverdale, M.D., and Michael Fordis, M.D. Patients with schizophrenia or bipolar disorder or their caregivers reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>

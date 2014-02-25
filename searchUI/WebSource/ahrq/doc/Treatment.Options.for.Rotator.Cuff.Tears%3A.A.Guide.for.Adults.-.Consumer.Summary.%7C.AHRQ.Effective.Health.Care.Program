@@ -1,0 +1,852 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" dir="ltr">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="type" />
+	
+	
+	
+
+	
+
+	<meta name="description" content="Find guides, reviews and reports from the Effective Health Care Program." />
+	<meta name="keywords" content="guides, reviews, reports, methods, technical brief, effective health care, evidence-based, medicine, health condition, benefits, harms, compare, comparative effectiveness, patients, clinicians, policymakers, researchers" />
+
+	<title>Treatment Options for Rotator Cuff Tears: A Guide for Adults - Consumer Summary | AHRQ Effective Health Care Program</title>
+
+
+	<link rel="canonical" href="http://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?productid=545&amp;pageaction=displayproduct&amp;button=1" />
+
+	<link rel="icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="/ehc/images/favicon.ico" type="image/x-icon" />
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/forms3.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/style.css?19" type="text/css" media="all" />
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.cluetip.css?19" type="text/css" media="all" />
+	
+
+
+	
+	
+
+
+
+
+
+
+
+	
+
+
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/print.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/jquery.css?19" type="text/css" media="print" />
+	<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds.css?19" type="text/css" media="all" />
+	<link rel="stylesheet" href="/ehc/js/jquery/themes/base/ui.all.css?19" type="text/css" media="all" />
+	<!--[if lt IE 7]>
+		<link rel="stylesheet" href="/ehc/includes/themes/EHC/css/dragablefeeds/css/dragablefeeds-ie.css?19" type="text/css" media="all" />
+	<![endif]-->
+
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" href="/ehc/css/ie.css" type="text/css" media="all" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link rel="stylesheet" href="/ehc/css/ie6.css" type="text/css" media="all" />
+	<![endif]-->
+
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Sub-pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=65B5F4A9-BD62-52EE-20BA9D752796A20B" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - About Eisenberg Center Subpages HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=8526CAD1-9455-BE41-96D541E7B7BC6C57" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Front Page News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F9D281B1-0148-D968-8D17A0CB5CE7E175" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - HCP Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D5A4B51-A181-9F7B-46336AE1BE9711D4" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Health Care Professionals Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3BD3D10A-CA7D-F98F-FAA6CEED137AACE2" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - News" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F4D88EF1-E885-38B5-2123ED9C0FD104B5" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - PC Site Wide Pages" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=3D46ECBB-E3BA-5656-B99194099FFFB6C6" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F457E1A7-CBE5-C192-A56EE93FBD70C078" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Press Releases HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=E165793B-B7E1-5E96-BEB68678B10886E9" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=F458C2DE-B072-D263-F77EB48DD71A7404" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Product Announcements HCP" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=852F7088-9BB7-6345-6311E8C46424A089" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AHRQ Effective Health Care Program - Pt &amp; Consumer Front Page Feature" href="http://effectivehealthcare.ahrq.gov/tasks/feed/?feedID=37C13C6B-F4C0-3263-7A299F889F54CACF" />
+	
+
+	<script type="text/javascript">
+		//<![CDATA[
+		var glossaryURL = "/ehc/includes/display_objects/custom/extensions/glossary/glossary.cfm?pageaction=gettooltip&id=";
+		//]]>
+	</script>
+
+	
+	<script type="text/javascript" src="/ehc/js/jquery/jquery.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.scripts.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.hoverIntent.minified.js"></script>
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/jquery.cluetip.js"></script>
+	
+	<script type="text/javascript" src="/ehc/includes/themes/EHC/js/switcher.js"></script>
+	
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+ <script type="text/javascript">
+	var dtExample="11/10/2018";
+	var dtCh="/";
+	var dtFormat =[0,1,2];
+	var dtLocale="en-US";
+	</script> 	
+<script type="text/javascript" src="/ehc/js/global.js"></script>
+<script type="text/javascript">
+var loginURL="/index.cfm/login/?display=login";
+var siteid="ehc"; 
+var siteID="ehc"; 
+var context=""; 
+var jslib="jquery";
+</script></head>
+
+<body id="searchforguidesreviewsandreports" class="twoColSL">
+
+<div id="container" class="sysSearchForResearchSummariesReviewsAndReports">
+	
+<div id="ahrqbanner">
+	<a href="#skipNavigation" class="skipnav">Skip Navigation</a>
+	<div class="hhsportion">
+		<a href="http://www.hhs.gov/" title="U.S. Department of Health and Human Services" class="hhsleft"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_banner.gif" alt="Department of Health and Human Services" /></a>
+		<a href="http://www.hhs.gov/" title="www.hhs.gov" class="hhsright"><img src="/ehc/includes/themes/EHC/images/ahrq/hhs_link.gif" alt="www.hhs.gov" width="127" height="41" /></a>
+	</div>
+	<div class="ahrqportion">
+		<a href="http://www.ahrq.gov/" title="Agency for Healthcare Research Quality" class="ahrqleft"><img src="/ehc/includes/themes/EHC/images/ahrq/ahrq_banner.gif" alt="Agency for Healthcare Research Quality" /></a>
+		<a href="http://www.ahrq.gov/" class="ahrqright">www.ahrq.gov</a>
+	</div>
+	<div class="ahrqlinks">
+			<a href="http://www.ahrq.gov/">AHRQ Home</a>
+			| <a href="/help-and-support/">Questions?</a>
+			| <a href="/contact-the-effective-health-care-program/">Contact Us</a>
+			| <a href="/site-map/">Site Map</a>
+			| <a href="/news-and-announcements/product-announcements/">What's New</a>
+			| <a href="/">Browse</a>
+			| <a href="/guides-for-patients-and-consumers/informacion-en-espanol/">Informaci&oacute;n en espa&ntilde;ol</a>
+		| <a href="https://subscriptions.ahrq.gov/service/multi_subscribe.html?code=USAHRQ"><img src="/ehc/includes/themes/EHC/images/ahrq/envelope1.jpg" alt="E-mail Updates" />E-mail Updates</a>
+	</div>
+</div>
+
+	<div id="header">
+		<a href="/" id="siteLogo">Effective Health Care</a>
+		<div id="siteFunctionsWrapper">
+			<div id="userToolsHeader">
+				<ul>
+					
+						<li><a href="/index.cfm/login/?display=login&nocache=1&amp;returnURL=http%3A%2F%2Feffectivehealthcare%2Eahrq%2Egov%2Fsearch%2Dfor%2Dguides%2Dreviews%2Dand%2Dreports%2F%3Fproductid%3D545%26pageaction%3Ddisplayproduct%26button%3D1">Log In</a> or <a href="/index.cfm/edit-profile/?display=editProfile">Create a New Account</a></li>
+					
+				</ul>
+			</div> 
+			<div id="searchFormWrapper" style="clear: right; float: right; width: 80%; margin-top: 10px; margin-right: 5px;">
+				<form action="/search/" id="searchForm" style="float:right;">
+				<fieldset>
+						<label for="txtKeywords" style="display:none;">Search Effective Health Care</label>
+						<input maxlength="65" name="keywords" id="txtKeywords" value="Search Effective Health Care" onfocus="this.value=(this.value=='Search Effective Health Care') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search Effective Health Care' : this.value;" style="width: 200px; height: 18px; margin-top: ; border: solid 2px #f7eab8; margin-right: 3px; color: #252525; float: left;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+				<button type="submit" style="margin-top:0px;margin-right:9px" title="Search"></button>
+				</fieldset>
+			</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="primary">
+		<div id="primary_nest">
+			<ul id="crumbs">
+						
+							
+									<li class="first"><a href="/index.cfm"  title="Home">Home</a></li>
+								
+										<li class="last">
+											
+											
+											Search for Research Summaries, Reviews, and Reports
+										</li>
+									
+
+					</ul><div class="break"></div>
+		
+	
+			
+			<div class="leftNav">
+				
+		<div id="left" class="clearfix">
+		<a name="h1" id="h1"></a>
+					<div id="leftnavTop">
+				<ul  class="navSecondary" id="leftNavList">
+					
+					
+					<li class="first">
+						<a href="/index.cfm"  title="Home">Home</a>
+					</li>
+					
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/tools-and-resources/"  title="Tools and Resources">Tools and Resources</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-summaries-for-consumers-clinicians-and-policymakers/"  title="Research Summaries for Consumers, Clinicians, and Policymakers">Research Summaries for Consumers, Clinicians, and Policymakers</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="current">
+							
+								
+								
+										<a href="/index.cfm/search-for-guides-reviews-and-reports/" class="current" title="Search for Research Summaries, Reviews, and Reports">Search for Research Summaries, Reviews, and Reports</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/research-available-for-comment/"  title="Research Available for Comment">Research Available for Comment</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-a-suggestion-for-research/"  title="Submit a Suggestion for Research">Submit a Suggestion for Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/submit-scientific-information-packets/"  title="Submit Scientific Information Packets">Submit Scientific Information Packets</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/comparative-effectiveness-research-grant-and-arra-awards/"  title="Comparative Effectiveness Research Grant and ARRA Awards">Comparative Effectiveness Research Grant and ARRA Awards</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/news-and-announcements/"  title="News and Announcements">News and Announcements</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/what-is-comparative-effectiveness-research1/"  title="What Is Comparative Effectiveness Research">What Is Comparative Effectiveness Research</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li>
+							
+								
+								
+										<a href="/index.cfm/who-is-involved-in-the-effective-health-care-program1/"  title="Who Is Involved in the Effective Health Care Program">Who Is Involved in the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+							
+							<li class="last">
+							
+								
+								
+										<a href="/index.cfm/what-is-the-effective-health-care-program1/"  title="What Is the Effective Health Care Program">What Is the Effective Health Care Program</a>
+									
+								 
+								
+							
+							</li>
+							
+						
+				</ul>
+				<div id="leftnavBottom"></div>
+			</div> 
+						
+						<div style="clear:left;">&nbsp;</div>
+						
+						
+								<div class="sitewidenav_wrapper">
+									<div class="sitewidenav_top"></div>
+									<div class="sitewidenav_middle"><ul>
+				
+							<li><a href="/index.cfm/site-map/">Site Map</a></li>
+				
+							<li><a href="/index.cfm/glossary-of-terms/">Glossary of Terms</a></li>
+				
+							<li><a href="/index.cfm/contact-the-effective-health-care-program/">Contact the Effective Health Care Program</a></li>
+				
+							<li><a href="/index.cfm/join-the-email-list1/">Join the E-mail List</a></li>
+				
+							<li><a href="/index.cfm/help-and-support/">Help and Support</a></li>
+				
+							<li><a href="/index.cfm/personalization-and-social-media-tools/">Personalization and Social Media Tools</a></li>
+				
+							<li><a href="/index.cfm/viewers-players-and-plugins/">Viewers, Players, and Plug-ins</a></li>
+				
+				</ul>
+<div style="clear:left;font-size:1px;">&nbsp;</div></div>
+									<div class="sitewidenav_bottom"></div>
+								</div>
+							 
+						
+			
+		</div>
+
+			</div>
+
+			<div id="content_wrapper">
+				
+				<div id="content_top"><span style="font-size:1px">&nbsp;</span></div>
+	
+				<div id="content_fill">
+					<div class="subnav">
+						
+					</div>
+					<div style="clear:left;">&nbsp;</div>
+					<a name="skipNavigation"></a>
+					<div class="moreinfo-wrapper">
+
+		<div class="moreinfo">
+			<h4>EHC Component</h4>
+			<ul>
+				<li class="last">EPC Project</li>
+			</ul>
+		</div>
+
+		<div class="moreinfo">
+			<h4>Topic Title</h4>
+			<ul>
+				<li class="last">
+					
+					
+						<a href="/search-for-guides-reviews-and-reports/?pageaction=displaytopic&amp;topicid=67">
+					Comparative Effectiveness of Nonoperative and Operative Treatments for Rotator Cuff Tears 
+						</a>
+					
+				</li>
+			</ul>
+		</div>
+		
+			
+			<div class="moreinfo">
+						
+						<h4>Full Reports</h4>
+						
+				<ul>
+					
+						<li>
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=467">
+										Research Review 
+									</a>
+							<span style="font-size:7pt;"> Jul. 5, 2010 </span>
+						</li>
+					
+						<li class="last">
+							<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=468">
+										Appendixes 
+									</a>
+							<span style="font-size:7pt;"> Jul. 5, 2010 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+				<h4>Related Products for this Topic</h4>
+				<ul>
+					
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=539">
+										Disposition of Comments Report 
+									</a>
+							<span style="font-size:7pt;"> Oct. 5, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1547">
+										Surveillance Report 
+									</a>
+							<span style="font-size:7pt;"> Jun. 13, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1662">
+										Slide Presentation 
+									</a>
+							<span style="font-size:7pt;"> Aug. 20, 2013 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=544">
+										Clinician Summary 
+									</a>
+							<span style="font-size:7pt;"> Oct. 29, 2010 </span>
+						</li>
+					
+						<li>
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=712">
+										La Guías Sumaria de los Consumidores 
+									</a>
+							<span style="font-size:7pt;"> Jun. 22, 2011 </span>
+						</li>
+					
+						<li class="last">
+							
+									<a href="/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=474">
+										Executive Summary 
+									</a>
+							<span style="font-size:7pt;"> Jul. 5, 2010 </span>
+						</li>
+					
+				</ul>
+			</div>
+		
+			<div class="moreinfo">
+					
+				<h4>Related Links for this Topic</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://www.effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-reports/?&pageaction=displaycmeactivity&activityID=285">
+									
+									CME Activity: Comparative Effectiveness of Nonoperative and Operative Treatments for Rotator Cuff Tears 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+			<div class="moreinfo">
+					
+						<h4>Related Topic</h4>
+					
+				<ul>
+						
+							<li class="last">
+								<a href="http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=1394">
+									
+									Nonoperative and Operative Treatments for Rotator Cuff Tears: Future Research Needs 
+								</a>
+								
+								
+						</li>
+						
+				</ul>
+			</div>
+			
+		<div class="moreinfo">
+			For free print copies of this summary, call 800-358-9295. Ask the Publications Clearinghouse for AHRQ Publication 10(11)-EHC050-A
+		</div>
+	
+	
+	
+	
+				<div class="addthis_toolbox addthis_default_style" style="padding:0px;clear:right;float:right;margin-right:12px;width:210px;">
+					
+	<dl>
+	<dd>
+		<a rel="external nofollow" href="http://www.facebook.com/sharer.php?u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d545%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/facebook.png" alt="Save this page in Facebook.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?l=3&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d545%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/myspace.png" alt="Save this page in Myspace.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://twitter.com/home?status=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d545%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/twitter.png" alt="Save this page in Twitter.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d545%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/google.png" alt="Save this page on your Google Home Page" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d545%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;top=1"><img src="/ehc/images/WindowsLive.png" alt="Save this page in Windows Live" width="16" height="16" /></a>
+	</dd>
+	<dd>
+		<a rel="external nofollow" href="http://myweb.yahoo.com/myresults/bookmarklet? t=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;u=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d545%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;ei=UTF"><img src="/ehc/images/yahoo.png" alt="Save this page in Yahoo" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://myjeeves.ask.com/mysearch/QuickWebSave?v=1.2&amp;t=webpages&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d545%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1"><img src="/ehc/images/AskJeeves.png" alt="Save this page in Ask.com" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d545%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/stumble.png" alt="Stumble this page." width="16" height="16" /></a>&nbsp;
+				<a rel="external nofollow" href="http://delicious.com/save?v=5&amp;noui&amp;jump=close&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d545%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Delicious.png" alt="Save this page in del.ico.us" width="16" height="16" /></a>&nbsp;
+		<a rel="external nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3a%2f%2feffectivehealthcare%2eahrq%2egov%2fsearch%2dfor%2dguides%2dreviews%2dand%2dreports%2f%3fproductid%3d545%26amp%3bpageaction%3ddisplayproduct%26amp%3bbutton%3d1&amp;title=search+for+research+summaries,+reviews,+and+reports+-+ahrq+effective+health+care+program"><img src="/ehc/images/Digg.png" alt="Digg this page." width="16" height="16" /></a>&nbsp;
+	</dd>
+	</dl>
+
+					<div class="break"></div>
+					
+	<br />
+	
+	
+	<p style="margin:0 0 1em 0 !important;">
+			<img src="/ehc/images/email_link.png" alt="E-mail"> <a href="http://effectivehealthcare.ahrq.gov/ehc/index.cfm/recommend-a-link/?sessionid=2398035E-C723-6AC5-AE459C8E9E551695" title="E-mail a link to this page" rel="external nofollow">E-mail</a> &nbsp; 
+			<img src="/ehc/images/printer.png" alt="Print"> <a href="/index.cfm?button=1&amp;pageaction=displayproduct&amp;productid=545&amp;mode=P" rel="external nofollow" onclick="javascript:window.print();" title="print this page">Print</a>
+	</p>
+	
+					
+
+				<div class="break"></div>
+
+
+					<p style="margin:0 0 1em 0 !important;">
+					<img src="/ehc/images/folder-horizontal-open.png" alt="" width="16" height="16" />	<a href="/collections/?pageAction=addToFavorites&amp;itemID=545&amp;itemType=2">Add to My Collections</a>
+					
+				</p>
+
+				</div>
+				<br />
+				<br />
+
+
+
+				
+						<div class="getWidget" style="width:200px;floant:right;margin-top:20px;">
+				<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=545" title="Treatment Options for Rotator Cuff Tears: A Guide for Adults"><img src="http://effectivehealthcare.ahrq.gov/ehc/images/buttons/545.gif" alt="Treatment Options for Rotator Cuff Tears: A Guide for Adults" /></a>
+							<form>
+								<label for="code">
+								
+                                    Copy this code for this "Treatment Options for Rotator Cuff Tears: A Guide for Adults" button
+                                
+                                </label>
+					<textarea name="code" id="code" cols="1" rows="4" onclick="javascript:this.focus();this.select();"  >&lt;a href=&quot;http://effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=545&amp;button=1&quot; title=&quot;Treatment Options for Rotator Cuff Tears: A Guide for Adults&quot;&gt;&lt;img src=&quot;http://effectivehealthcare.ahrq.gov/ehc/images/buttons/545.gif&quot; border=&quot;0&quot; alt=&quot;Treatment Options for Rotator Cuff Tears: A Guide for Adults&quot; /&gt;&lt;/a&gt;</textarea>
+							</form>
+						</div>
+
+				
+
+		</div>
+
+		<p class="title-info">
+			Consumer Summary &ndash; Oct. 29, 2010 
+		</p>
+
+		<h3 style="margin:0 250px 16px 24px;">Treatment Options for Rotator Cuff Tears: A Guide for Adults</h3>
+
+			
+
+		<div class="productContent">
+			
+			<h4>Formats</h4>
+			<ul style="margin-left: 8px !important; padding-left: 0 !important;">
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/67/545/rotatorcuff_consumer.pdf" class="button-pdf button-showtext">
+								View PDF</a>
+							
+							(PDF)
+							279 kB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+									<a href="/ehc/products/67/545/ROTATOR_CUFF.mp3" class="button-audio button-showtext">
+								Download Audio</a>
+							
+							(MP3)
+							5.8 MB
+							
+							&nbsp;
+							
+							
+							
+						</li>
+					
+						<li style="list-style-type:none !important; margin-bottom:6px !important;">
+							
+								<a href="/search-for-guides-reviews-and-reports/?pageaction=displayProduct&productID=712" class="button-html button-showtext">En Espa&ntilde;ol</a>
+							
+							
+							&nbsp;
+						</li>
+					
+				<br />
+				<li style="list-style-type:none !important;font-size:8pt;"><a href="/viewers-players-and-plugins/" class="link-generic">Help with Viewers, Players, and Plug-ins</a></li>
+			</ul>
+			</ul>
+		
+	<a name="toc"></a>
+		
+			<h4>Table of Contents</h4>
+			<ul class="contentMenu">
+				
+						<li><a href="#2003">Is This Guide for Me?</a></li>
+					
+						<li><a href="#2005">Understanding Your Condition</a></li>
+					
+						<li><a href="#2006">Understanding Your Treatment Options</a></li>
+					
+						<li><a href="#2007">Making a Decision</a></li>
+					
+						<li><a href="#2008">Sources</a></li>
+					
+			</ul>
+		
+			<a name="2003"></a>
+			
+
+			
+				<h3>Is This Guide for Me?</h3>
+				<ul>
+	<li><strong>YES,</strong> if your doctor has told you that you have a rotator cuff tear, which is an injury to one or more of the muscles and tendons in your shoulder.</li>
+	<li><strong>NO,</strong> if you have any other type of shoulder or upper back injury, or an injury that is not related to the rotator cuff. Talk to your doctor to learn if this guide is right for you.</li>
+</ul>
+<p>This guide will tell you about what research has found regarding the different choices for treating your rotator cuff tear. You can use it to help you and your doctor or other health care provider (nurse practitioner, physician&rsquo;s assistant, physical therapist) discuss and decide what treatments are best for you.</p>
+<h4>Where does the information for this guide come from?</h4>
+<p>The information in this guide comes from a <span title="70" class="glossaryTerm">review</span> of the many different studies on treatments for rotator cuff tears. It is not based on a single <span title="68" class="glossaryTerm">study</span> but on many studies looked at together by a team of researchers, doctors, and other experts.</p> 
+			<a name="2005"></a>
+			
+
+			
+				<h3>Understanding Your Condition</h3>
+				<h4>What is a rotator cuff?</h4>
+<p>Your rotator cuff is a group of four muscles on your shoulder blade with tendons that attach to the &ldquo;ball&rdquo; of your humerus (upper arm bone).</p>
+<p>These muscles and tendons help you to lift and rotate your arms. They also help hold the ball of your humerus firmly in your shoulder socket.</p>
+<p><img height="280" width="325" src="/tasks/sites/ehc/assets/Image/rotator-cuff-con_ill-1.png" alt="rotator cuff tear" /></p>
+<h4>What is a rotator cuff tear?</h4>
+<p>The tendons of your rotator cuff can tear much like a piece of leather. Sometimes, the tendon is only slightly damaged or irritated. Sometimes, the tendon has a complete tear, which means that the tendon has torn away from the bone.</p>
+<h4>What causes rotator cuff tears?</h4>
+<p>The tendons of your rotator cuff can tear for a variety of reasons:</p>
+<ul>
+	<li>An injury, such as falling or being hit in the shoulder.</li>
+	<li>Overuse over time from repeated actions, such as lifting, painting, cleaning windows, or throwing.</li>
+	<li>Natural wear and tear from aging.</li>
+</ul>
+<h4>How rotator cuff tears affect your life</h4>
+<p>Tears in your rotator cuff are not life-threatening, but they can limit movement and cause pain.</p>
+<h5>Limited movement</h5>
+<p>Even small shoulder and arm movements, like combing your hair, putting on a coat, or lifting groceries, may be difficult and can hurt.</p>
+<h5>Pain</h5>
+<p>The pain can range from mild, to moderate, to sharp. You may feel pain on top of and in front of your injured shoulder. The pain may spread down the outside of your upper arm. You may feel more pain at night, especially when you are lying on the injured shoulder.</p>
+<h5>Swelling</h5>
+<p>Swelling from inflammation is your body&rsquo;s natural response to injury. Sometimes this swelling is inside of your body and you cannot see it. This swelling is the most common cause of your pain.</p>
+<h5>Cracking and stiffness</h5>
+<p>You may hear clicking, cracking, or popping sounds when you move your shoulder, especially when lifting something heavy.</p> 
+			<a name="2006"></a>
+			
+
+			
+				<h3>Understanding Your Treatment Options</h3>
+				<h4>Two types of treatments</h4>
+<p>There are two types of treatments for your rotator cuff tear. Patients get better with both of these kinds of treatments.</p>
+<ul>
+	<li>Non-surgical treatments (see below). This includes physical therapy and other treatments. These treatments are often used first, before considering surgery.</li>
+	<li>Surgical treatments (see <a href="#three_types">&quot;Three types of surgery&quot;</a> below). There are different kinds of surgery used. All surgery comes with specific <span title="58" class="glossaryTerm">risks</span>.</li>
+</ul>
+<p>Your doctor or health care provider may advise you to have one or both of these types of treatments for your rotator cuff tear. This advice will depend on the type and size of your injury.</p>
+<p>The amount of damage to the tendon of your rotator cuff will help your doctors decide what treatments you may need and how long treatment may take.</p>
+<h4>Treating your rotator cuff tear without surgery</h4>
+<p>Rotator cuff tears are treated without surgery in these ways:</p>
+<ul>
+	<li>Undergoing physical or occupational therapy. A skilled therapist assists you with a variety of exercises and stretches to strengthen your shoulder muscles.</li>
+	<li>Taking oral medicines. These medicines may include either acetaminophen or &ldquo;nonsteroidal anti-inflammatory drugs&rdquo; (also called &ldquo;NSAIDs&rdquo;), such as ibuprofen or naproxen.</li>
+	<li>Taking a steroid as a pill or an injection.</li>
+</ul>
+<h5>Which treatment should I choose?</h5>
+<p>Many of these non-surgical treatments have been shown to help improve pain, weakness, and arm movement. However, there is not much information about which treatment type is better than the other.</p>
+<p>Your doctor or health care provider may use several of these treatments at the same time to help you.</p>
+<p>There is also not enough research to know how these treatments compare with surgery in improving the use of your rotator cuff.</p>
+<h5>Your role in treatment</h5>
+<p>You play an important role in your recovery. Be sure to follow the instructions from your doctor or other health care provider, keep your therapy appointments, and do your home exercises. Talk to your doctor about what to expect during treatment and when you should start feeling better.</p>
+<h4>Repairing your rotator cuff tear with surgery</h4>
+<h5>How long do I wait before choosing surgery?</h5>
+<p>There is not enough information from <span title="68" class="glossaryTerm">studies</span> to answer this question. Your doctor or health care provider may explore your options with you based on the type and size of your tear and how long you have had the injury. Physical therapy may be enough to help improve the pain and weakness, or surgery may be a better treatment choice. In some cases, surgery is used when physical therapy does not improve symptoms.</p>
+<h5>How is the rotator cuff repaired during surgery?</h5>
+<p>In most cases, a surgeon uses stitches to connect the torn edges of the muscle or tendon back together or to connect the tendon back to the ball of your humerus. This is called &ldquo;rotator cuff repair.&rdquo;</p>
+<p>In addition, your doctor may consider two other surgical treatments:</p>
+<ul>
+	<li>Removing loose fragments of tendon or damaged bone or cartilage that may be lodged in the joint. This is called &ldquo;debridement&rdquo; (pronounced dee-BREED-ment).</li>
+	<li>Removing some of the bone underneath the shoulder blade, or some of the tissue between the bones (called &ldquo;ligaments&rdquo;) in your shoulder joint to give the tendon more room to move your arm freely. This is called &ldquo;acromioplasty&rdquo; (pronounced ah-KROM-ee-o-plast-ee).</li>
+</ul>
+<h5><a name="three_types"></a>Three types of surgery</h5>
+<ul>
+	<li><strong>Arthroscopic surgery:</strong> The surgeon makes very small openings (cuts) into the muscles of your shoulder and uses a device called an &ldquo;arthroscope&rdquo; (a small tube attached to a camera and tiny surgical instruments) to repair the tear.</li>
+	<li><strong>Open surgery:</strong> The surgeon makes a larger opening into the muscles of your shoulder and repairs the tear with regular surgical instruments.</li>
+	<li><strong>Mini-open surgery:</strong> The surgeon uses an arthroscope for the first part of the surgery, and then makes an opening large enough to use other surgical instruments for the repair. The opening does not have to be as big or affect the muscle as much as with open surgery.</li>
+</ul>
+<p><br />
+<img height="363" width="325" alt="arthroscopic surgery" src="/tasks/sites/ehc/assets/Image/rotator-cuff-con_ill-2.png" /></p>
+<h5>What type of surgery should I choose?</h5>
+<p>Research found that:</p>
+<ul>
+	<li>There is no difference between the open, mini-open, and arthroscopic types of surgery in the improvement of shoulder function. They all work about the same. However, arthroscopic surgery usually requires less recovery time.</li>
+	<li>A few studies found that:
+	<ul type="circle">
+		<li>Some patients who had mini-open surgery returned to work or sports about 1 month sooner than those who had open surgery.</li>
+		<li>Some patients who had open repair surgery had better improvement of their shoulder function than those who had arthroscopic debridement (removing loose tendon, bone, or cartilage fragments that are lodged in the joint) without repair of the tear.</li>
+		<li>The results for the patients who had arthroscopic surgery with or without acromioplasty (creating more space in the joint by removing some bone or tissue) were about the same.</li>
+	</ul>
+	</li>
+</ul>
+<h5>Is surgery safe?</h5>
+<p>All surgeries come with some <span title="58" class="glossaryTerm">risk</span>. You and your doctor can decide what <span title="58" class="glossaryTerm">risks</span> may exist for you based on your overall health. Rotator cuff surgery is safe for most people. The most common problems are infection and re-tears.</p>
+<h5>What type of treatment should I have after my surgery?</h5>
+<p>Although most doctors agree that you should have rehabilitation therapy after your surgery, there is not enough evidence to tell you which type is best. Talk to your doctor or health care provider about what kind of rehabilitation therapy is best for you.</p> 
+			<a name="2007"></a>
+			
+
+			
+				<h3>Making a Decision</h3>
+				<p><strong>Ask your doctor</strong></p>
+<ol>
+	<li>Given my tear, what benefits and harms for using non-surgical or surgical treatments should I consider?</li>
+	<li>If I need surgery, given my tear and my other medical conditions, which surgery (open, mini-open, or arthroscopic) do you think would be best for me?</li>
+	<li>What type of treatment will I need after surgery?</li>
+	<li>How long do you think it will take me after treatment to return to my activities?</li>
+	<li>Will these treatments help my rotator cuff for many years?</li>
+	<li>When should I expect my pain and other symptoms to feel better?</li>
+</ol> 
+			<a name="2008"></a>
+			
+
+			
+				<h3>Sources</h3>
+				<p>The information in this guide comes from the report <a href="/index.cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=467"><em><span class="glossaryTerm" title="118">Comparative Effectiveness</span> of Nonoperative and Operative Treatments for Rotator Cuff Tears</em></a>. It was produced by the University of Alberta <span class="glossaryTerm" title="24">Evidence-based Practice</span> Center through funding by the Agency for Healthcare Research and Quality (AHRQ). For a copy of the report, or for more information about AHRQ and the Effective Health Care Program, go to <a href="http://www.effectivehealthcare.ahrq.gov">www.effectivehealthcare.ahrq.gov</a>. Additional information came from the Medline-Plus&reg; Web site, a service of the U.S. National Library of Medicine and the National Institutes of Health. This site is available at <a href="http://www.nlm.nih.gov/medlineplus/">www.nlm.nih.gov/medlineplus/</a>.</p>
+<p>This summary was prepared by the John M. Eisenberg Center for Clinical Decisions and Communications Science at Baylor College of Medicine, Houston, TX. It was written by Andrea Humphries, Ph.D., Thomas Workman, Ph.D., Chantele Singleton M.S., CHES, Laura Petersen, M.D., Charles Reitman, M.D., and Michael Fordis, M.D.&nbsp; Illustrations were created by Douglas Alexander. Patients with rotator cuff injury reviewed this summary.</p> 
+		<a href="#toc" class="link-generic"><u>Return to Top of Page</u> </a>
+
+	
+			
+		</div> 
+					
+				</div>	
+				<div id="content_bottom"></div>
+			</div>
+			<div class="clear:left;">&nbsp;</div>
+		</div>
+	</div>
+
+<div id="contentarea_lowerleftcorner">&nbsp;</div>
+<div id="contentarea_lowerfiller">&nbsp;</div>
+<div id="contentarea_lowerrightcorner">&nbsp;</div>
+
+<div class="break"></div>
+
+ 
+	<!-- Footer links section -->
+	<div class="footer">
+			<a href="http://www.ahrq.gov/" rel="external"><img alt="www.ahrq.gov" src="/ehc/includes/themes/EHC/images/ahrq/ahrq_footer.gif" width="943" height="33" style="margin-top:10px;" /></a>
+			<a href="http://www.ahrq.gov/" rel="external">AHRQ  Home</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/contact/index.html" rel="external">Contact AHRQ</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/item40291.html" rel="external">Site Map</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" rel="external">Accessibility</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" rel="external">Privacy Policy</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/foia/index.html" rel="external">Freedom of Information Act</a> <span class="dash">|</span>
+			<a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" rel="external">Disclaimers</a>
+			<br />
+			<a href="http://www.hhs.gov/" rel="external">U.S. Department of Health &amp; Human Services</a> <span class="dash">|</span>
+			<a href="http://www.whitehouse.gov/" rel="external">The White House</a> <span class="dash">|</span>
+			<a href="http://www.usa.gov/" rel="external">USA.gov: The U.S. Government's Official Web Portal</a>
+			<br /><br />
+			Agency for Healthcare Research and Quality &#149; 540 Gaither Road Rockville, MD 20850 &#149; Telephone: (301) 427-1364
+			
+	</div>
+	<!-- End of Footer links section -->
+
+	
+	
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-2001829-16']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	
+		<div id="gradientBkgnd"></div>
+ 
+				
+					
+ 
+</div>
+
+</body>
+</html>
