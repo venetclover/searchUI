@@ -225,7 +225,7 @@ public class EHRMetaMapExtractor {
 	}
 
 	void test_ExtractUMLS4Docs() {
-		String path = "/home/auroral/q_generation/raw_txt/qa_text/";
+		String path = "/home/auroral/q_generation/raw_txt/questions/qa_text/";
 		String type = "questions";
 		extractTermbyPathName(path, type);
 	}
