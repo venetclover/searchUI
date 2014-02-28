@@ -25,7 +25,7 @@ import org.apache.log4j.Logger;
 public class EHRMetaMapExtractor {
 
 	private final String host = "10.1.1.3";
-//	private MetaMapApi api = new MetaMapApiImpl(host);
+	private MetaMapApi api = new MetaMapApiImpl(host);
 	private HashMap<String, ArrayList<String>> type2term = new HashMap<String, ArrayList<String>>();
 	private HashMap<String, ArrayList<String>> term2type = new HashMap<String, ArrayList<String>>();
 	private static final Logger LOGGER = Logger
@@ -156,8 +156,7 @@ public class EHRMetaMapExtractor {
 	public void printSemanticTypes(String text) throws Exception {
 		String finalText = "";
 		String phraseText = "";
-//		List<Result> resultList = api.processCitationsFromString(text);
-		List<Result> resultList = null;
+		List<Result> resultList = api.processCitationsFromString(text);
 		Result result = resultList.get(0);
 		// System.out.println("****\nResult:\t");
 		for (Utterance utterance : result.getUtteranceList()) {
@@ -231,7 +230,7 @@ public class EHRMetaMapExtractor {
 		}
 	}
 
-	void test_ExtractUMLS4Docs() {
+	void test_ExtractMetaMapS4Docs() {
 		String root;
 		
 		/*
@@ -278,6 +277,6 @@ public class EHRMetaMapExtractor {
 	public static void main(String[] args) {
 		EHRMetaMapExtractor extractor = new EHRMetaMapExtractor();
 		// extractor.test_ExtractingNotes();
-		extractor.test_ExtractUMLS4Docs();
+		extractor.test_ExtractMetaMapS4Docs();
 	}
 }
