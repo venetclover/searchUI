@@ -12,6 +12,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.PrintWriter;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 
 import org.apache.log4j.Logger;
 
@@ -23,12 +25,15 @@ import org.apache.log4j.Logger;
 public class EHRMetaMapExtractor {
 
 	private final String host = "10.1.1.3";
-	private MetaMapApi api = new MetaMapApiImpl(host);
+//	private MetaMapApi api = new MetaMapApiImpl(host);
 	private HashMap<String, ArrayList<String>> type2term = new HashMap<String, ArrayList<String>>();
 	private HashMap<String, ArrayList<String>> term2type = new HashMap<String, ArrayList<String>>();
 	private static final Logger LOGGER = Logger
 			.getLogger(EHRMetaMapExtractor.class);
 
+	String in_path;
+	String out_path;
+	
 	public void close() {
 
 	}
@@ -37,7 +42,7 @@ public class EHRMetaMapExtractor {
 		List<String> theOptions = new ArrayList<String>();
 		theOptions.add("-y"); // turn on Word Sense Disambiguation
 		if (theOptions.size() > 0) {
-			api.setOptions(theOptions);
+//			api.setOptions(theOptions);
 		}
 	}
 
@@ -101,7 +106,7 @@ public class EHRMetaMapExtractor {
 
 				String line = "";
 				while ((line = br.readLine()) != null) {
-					printSemanticTypes(line);
+				//	printSemanticTypes(line);
 				}
 
 			} catch (Exception e) {
@@ -109,9 +114,10 @@ public class EHRMetaMapExtractor {
 			}
 
 			TermTypeHashFile ttmap = new TermTypeHashFile(type2term, term2type);
+			Path pn = Paths.get(path);
 			ObjSerializer<Object, Object> serializer = new ObjSerializer<Object, Object>();
 			serializer.serialize(ttmap,
-					"persist/" + docType + "/" + pf.getPath());
+					"persist/" + docType + "/" + pn.getFileName());
 		}
 	}
 
@@ -150,7 +156,8 @@ public class EHRMetaMapExtractor {
 	public void printSemanticTypes(String text) throws Exception {
 		String finalText = "";
 		String phraseText = "";
-		List<Result> resultList = api.processCitationsFromString(text);
+//		List<Result> resultList = api.processCitationsFromString(text);
+		List<Result> resultList = null;
 		Result result = resultList.get(0);
 		// System.out.println("****\nResult:\t");
 		for (Utterance utterance : result.getUtteranceList()) {
@@ -225,9 +232,44 @@ public class EHRMetaMapExtractor {
 	}
 
 	void test_ExtractUMLS4Docs() {
-		String path = "/home/auroral/q_generation/raw_txt/questions/qa_text/";
-		String type = "questions";
-		extractTermbyPathName(path, type);
+		String root;
+		
+		/*
+		 * In Windows, the source files are with eclipse project
+		 * For notes:
+		 * 		Input: C:/Users/aurora/git/searchUI/raw_txt/notes/
+		 * 		Output: C:/Users/aurora/git/searchUI/persist/notes/
+		 * 		Output: C:/Users/aurora/git/searchUI/raw_extend/notes/
+		 * 
+		 * For questions:
+		 * 		Input: C:/Users/aurora/git/searchUI/raw_txt/questions/qa_text/
+		 * 		Output: C:/Users/aurora/git/searchUI/persist/questions/qa_json/
+		 * 		Output: C:/Users/aurora/git/searchUI/raw_extend/questions/qa_text/
+		 * 
+		 * In Linux, the sourse files are in other directory
+		 * For notes:
+		 * 		Input: /home/auroral/q_generation/raw_txt/notes/
+		 * 		Output: /home/auroral/q_generation/persist/notes/
+		 * 		Output: /home/auroral/q_generation/raw_extend/notes/
+		 * 
+		 * For questions:
+		 * 		Input: /home/auroral/q_generation/raw_txt/questions/qa_text/
+		 * 		Output: /home/auroral/q_generation/persist/questions/qa_json/
+		 * 		Output: /home/auroral/q_generation/raw_extend/questions/qa_text/
+		 */
+		String inputType = "questions";
+		
+		if(System.getProperty("os.name").toLowerCase().indexOf("win") >= 0){
+			root = "C:/Users/aurora/git/searchUI/";
+			in_path = root + "raw_txt/questions/qa_text/";
+			out_path = root + "q_generation/persist/questions/qa_json/";
+		}else{
+			root = "/home/auroral/q_generation/";
+			in_path = root + "raw_txt/questions/qa_text/";
+			out_path = root + "q_generation/persist/questions/qa_json/";
+		}
+		
+		extractTermbyPathName(in_path, inputType);
 	}
 
 	/**
