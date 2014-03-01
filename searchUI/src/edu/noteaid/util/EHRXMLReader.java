@@ -28,11 +28,15 @@ class EHRXMLReader extends DefaultHandler {
 //			System.out.println(fpath);
 			sp.parse(fpath, this); 
 //			System.out.println(this.note);
+			
 			Path p = Paths.get(fpath);
-			String newFilename = "raw_text/notes/" + p.getFileName().toString().replace(".xml", "");
+			String newFilename = "raw_txt/notes/" + p.getFileName().toString().replace(".xml", "");
 			PrintWriter out = new PrintWriter(newFilename);
 			out.print(note);
 			out.close();
+			
+			DocPreprocessor dp = new DocPreprocessor();
+			dp.extractTextFromDoc(newFilename);
 		} catch (Exception e) { 
 			e.printStackTrace(); 
 		} 
@@ -53,7 +57,7 @@ class EHRXMLReader extends DefaultHandler {
 	}
 
 	public static void main(String[] args) {
-		String testfile = "t_records/report4244.xml";
+		String testfile = "t_records/report4422.xml";
 		EHRXMLReader reader = new EHRXMLReader();
 		reader.initParsing(testfile);
 	}

@@ -36,6 +36,7 @@ public class EHRMetaMapExtractor {
 	String out_path;
 	String out_extend_path;
 	String out_cui_path;
+	String complete_path;
 
 	StringBuilder tmpDefinitions;
 	StringBuilder tmpCUIContext;
@@ -110,6 +111,7 @@ public class EHRMetaMapExtractor {
 			StringBuilder extendedDoc = new StringBuilder();
 			StringBuilder CUIInsertedDoc = new StringBuilder();
 
+			boolean somethingWrong = false;
 			try (BufferedReader br = new BufferedReader(new FileReader(pf))) {
 
 				String line = "";
@@ -118,29 +120,44 @@ public class EHRMetaMapExtractor {
 					 * tmpAppendix and tmpCUIContext are a class variable. It
 					 * gathers the definitions of terms in printSemanticTypes().
 					 */
-					if(line.equals(""))
+					if (line.trim().equals(""))
 						continue;
-					
+
 					tmpDefinitions = new StringBuilder();
 					tmpCUIContext = new StringBuilder();
-					printSemanticTypes(line);
-					extendedDoc.append(line);
-					extendedDoc.append(tmpDefinitions);
-					CUIInsertedDoc.append(tmpCUIContext);
+					try {
+						printSemanticTypes(line);
+						extendedDoc.append(line);
+						extendedDoc.append(tmpDefinitions);
+						CUIInsertedDoc.append(tmpCUIContext);
+					} catch (Exception e) {
+						somethingWrong = true;
+						break;
+					}
+
 				}
 
 			} catch (Exception e) {
+				somethingWrong = true;
 				e.printStackTrace();
 			}
 
-			TermTypeHashFile ttmap = new TermTypeHashFile(type2term, term2type);
 			Path pn = Paths.get(path);
-			ObjSerializer<Object, Object> serializer = new ObjSerializer<Object, Object>();
-			serializer.serialize(ttmap, out_path + pn.getFileName());
-			saveExtendedDoc2File(extendedDoc.toString(), "def", pn
-					.getFileName().toString());
-			saveExtendedDoc2File(CUIInsertedDoc.toString(), "cui", pn
-					.getFileName().toString());
+
+			if (somethingWrong == true) {
+				
+			} else {
+				// pf.renameTo(new File(complete_path
+				// + pn.getFileName().toString()));
+				TermTypeHashFile ttmap = new TermTypeHashFile(type2term,
+						term2type);
+				ObjSerializer<Object, Object> serializer = new ObjSerializer<Object, Object>();
+				serializer.serialize(ttmap, out_path + pn.getFileName());
+				saveExtendedDoc2File(extendedDoc.toString(), "def", pn
+						.getFileName().toString());
+				saveExtendedDoc2File(CUIInsertedDoc.toString(), "cui", pn
+						.getFileName().toString());
+			}
 		}
 	}
 
@@ -195,28 +212,30 @@ public class EHRMetaMapExtractor {
 	public void printSemanticTypes(String text) throws Exception {
 
 		String phraseText = "";
+		System.out.println("sentence: " + text + "<<");
 		List<Result> resultList = api.processCitationsFromString(text);
 		Result result = resultList.get(0);
 		// System.out.println("****\nResult:\t");
 		for (Utterance utterance : result.getUtteranceList()) {
 			// System.out.println("Utterance:");
 			// System.out.println("  Id: " + utterance.getId());
-			// System.out.println("  Utterance text: " + utterance.getString());
+			// System.out.println("  Utterance text: " +
+			// utterance.getString());
 			// System.out.println("  Position: " + utterance.getPosition());
 			List<PCM> pcms = utterance.getPCMList();
 			for (PCM pcm : pcms) {
 				phraseText = pcm.getPhrase().getPhraseText();
 				String tmpPhraseText = "";
 				// System.out.println("    Phrase: " + phraseText);
+				// List<String> cuis = new ArrayList<String>();
+				String cui = "";
 				List<Mapping> mappings = pcm.getMappingList();
 				for (Mapping mapping : mappings) {
 					// System.out.println("      Mapping Score: " +
 					// mapping.getScore());
-					
-					List<String> cuis = new ArrayList<String>();
 					List<Ev> evs = mapping.getEvList();
 					for (Ev ev : evs) {
-						String cui = ev.getConceptId();
+						cui = ev.getConceptId();
 						System.out.println("        CUID: " + cui);
 
 						// System.out.println("        Name: " +
@@ -239,18 +258,21 @@ public class EHRMetaMapExtractor {
 						// + word);
 						// }
 
-						cuis.add(cui);
-					//	phraseText = "<cui value=" + cui + ">" + phraseText
-					//			+ "</cui>";
+						// cuis.add(cui);
+						// phraseText = "<cui value=" + cui + ">" +
+						// phraseText
+						// + "</cui>";
 					}
-					for(String cui : cuis)
-						tmpPhraseText = tmpPhraseText + "<cui value=" + cui + ">" + phraseText
-								+ "</cui>";
+					// for (String cui : cuis)
+					
 				}
+				tmpPhraseText = tmpPhraseText + "<cui value=" + cui + ">"
+						+ phraseText + "</cui>";
 				tmpCUIContext = tmpCUIContext.append(" " + tmpPhraseText);
 			}
 		}
 		// System.out.println("The Final Text is : " + finalText);
+
 	}
 
 	public void checkMapSize() {
@@ -284,16 +306,17 @@ public class EHRMetaMapExtractor {
 		/***
 		 * In Windows, the source files are with eclipse project
 		 * For notes:
-		 * C:/Users/aurora/git/searchUI////raw_txt/notes/
-		 * C:/Users/aurora/git/searchUI////persist/notes/
-		 * C:/Users/aurora/git/searchUI////raw_extend/notes/
-		 * C:/Users/aurora/git/searchUI////raw_cui/notes/
+		 * C:/Users/aurora/git/searchUI/searchUI////raw_txt/notes/
+		 * C:/Users/aurora/git/searchUI/searchUI////persist/notes/
+		 * C:/Users/aurora/git/searchUI/searchUI////raw_extend/notes/
+		 * C:/Users/aurora/git/searchUI/searchUI////raw_cui/notes/
 		 * 
 		 * For questions:
-		 * C:/Users/aurora/git/searchUI////raw_txt/questions/qa_text/
-		 * C:/Users/aurora/git/searchUI////persist/questions/qa_json/
-		 * C:/Users/aurora/git/searchUI////raw_extend/questions/qa_text/
-		 * C:/Users/aurora/git/searchUI////raw_cui/questions/qa_text/
+		 * C:/Users/aurora/git/searchUI/searchUI////raw_txt/questions/qa_text/
+		 * C:/Users/aurora/git/searchUI/searchUI////persist/questions/qa_json/
+		 * C:/Users/aurora/git/searchUI/searchUI////raw_extend/questions/qa_text
+		 * /
+		 * C:/Users/aurora/git/searchUI/searchUI////raw_cui/questions/qa_text/
 		 * 
 		 * In Linux, the sourse files are in other directory
 		 * 
@@ -309,17 +332,18 @@ public class EHRMetaMapExtractor {
 		 * /home/auroral/q_generation////raw_extend/questions/qa_text/
 		 * /home/auroral/q_generation////raw_cui/questions/qa_text/
 		 ***/
-		String inputType = "questions";
+		String inputType = "notes";
 
 		if (System.getProperty("os.name").toLowerCase().indexOf("win") >= 0)
-			root = "C:/Users/aurora/git/searchUI/";
+			root = "C:/Users/aurora/git/searchUI/searchUI/";
 		else
 			root = "/home/auroral/q_generation/";
 
-		in_path = root + "raw_txt/questions/qa_text/";
-		out_path = root + "persist/questions/qa_json/";
-		out_extend_path = root + "raw_extend/questions/qa_text/";
-		out_cui_path = root + "raw_cui/questions/qa_text/";
+		in_path = root + "raw_txt/notes/";
+		out_path = root + "persist/notes/";
+		out_extend_path = root + "raw_extend/notes/";
+		out_cui_path = root + "raw_cui/notes/";
+		complete_path = root + "raw_txt/notes/complete/";
 
 		extractTermbyPathName(in_path, inputType);
 	}
