@@ -118,6 +118,9 @@ public class EHRMetaMapExtractor {
 					 * tmpAppendix and tmpCUIContext are a class variable. It
 					 * gathers the definitions of terms in printSemanticTypes().
 					 */
+					if(line.equals(""))
+						continue;
+					
 					tmpDefinitions = new StringBuilder();
 					tmpCUIContext = new StringBuilder();
 					printSemanticTypes(line);
