@@ -203,24 +203,18 @@ public class EHRMetaMapExtractor {
 			List<PCM> pcms = utterance.getPCMList();
 			for (PCM pcm : pcms) {
 				phraseText = pcm.getPhrase().getPhraseText();
+				String tmpPhraseText = "";
 				// System.out.println("    Phrase: " + phraseText);
 				List<Mapping> mappings = pcm.getMappingList();
 				for (Mapping mapping : mappings) {
 					// System.out.println("      Mapping Score: " +
 					// mapping.getScore());
+					
+					List<String> cuis = new ArrayList<String>();
 					List<Ev> evs = mapping.getEvList();
 					for (Ev ev : evs) {
 						String cui = ev.getConceptId();
 						System.out.println("        CUID: " + cui);
-
-						/*
-						 * Get the definition by CUI
-						 */
-						tmpDefinitions.append(umlsExtractor.getDefinition(
-								"2011AB", cui) + " ");
-						/*
-						 * 
-						 */
 
 						// System.out.println("        Name: " +
 						// ev.getConceptName());
@@ -242,12 +236,15 @@ public class EHRMetaMapExtractor {
 						// + word);
 						// }
 
-						phraseText = "<cui value=" + cui + ">" + phraseText
-								+ "</cui>";
+						cuis.add(cui);
+					//	phraseText = "<cui value=" + cui + ">" + phraseText
+					//			+ "</cui>";
 					}
-
+					for(String cui : cuis)
+						tmpPhraseText = tmpPhraseText + "<cui value=" + cui + ">" + phraseText
+								+ "</cui>";
 				}
-				tmpCUIContext = tmpCUIContext.append(" " + phraseText);
+				tmpCUIContext = tmpCUIContext.append(" " + tmpPhraseText);
 			}
 		}
 		// System.out.println("The Final Text is : " + finalText);
