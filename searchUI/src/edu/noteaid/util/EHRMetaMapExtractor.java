@@ -26,6 +26,7 @@ public class EHRMetaMapExtractor {
 
 	private final String host = "10.1.1.3";
 	private MetaMapApi api = new MetaMapApiImpl(host);
+	private EHRUMLSExtractor umlsExtractor = new EHRUMLSExtractor();
 	private HashMap<String, ArrayList<String>> type2term = new HashMap<String, ArrayList<String>>();
 	private HashMap<String, ArrayList<String>> term2type = new HashMap<String, ArrayList<String>>();
 	private static final Logger LOGGER = Logger
@@ -33,7 +34,12 @@ public class EHRMetaMapExtractor {
 
 	String in_path;
 	String out_path;
-	
+	String out_extend_path;
+	String out_cui_path;
+
+	StringBuilder tmpDefinitions;
+	StringBuilder tmpCUIContext;
+
 	public void close() {
 
 	}
@@ -42,7 +48,7 @@ public class EHRMetaMapExtractor {
 		List<String> theOptions = new ArrayList<String>();
 		theOptions.add("-y"); // turn on Word Sense Disambiguation
 		if (theOptions.size() > 0) {
-//			api.setOptions(theOptions);
+			api.setOptions(theOptions);
 		}
 	}
 
@@ -66,21 +72,21 @@ public class EHRMetaMapExtractor {
 		 */
 
 	}
-	
-	public String extractTermbyText(String noteTxt){
+
+	public String extractTermbyText(String noteTxt) {
 		try {
-			
-			String tmpPath = "raw_text/temp/" +
-					String.valueOf(System.currentTimeMillis());
+
+			String tmpPath = "raw_text/temp/"
+					+ String.valueOf(System.currentTimeMillis());
 			PrintWriter pw = new PrintWriter(tmpPath);
 			pw.print(noteTxt);
 			pw.close();
-			
+
 			extractTermbyPathName(tmpPath, "notes");
-			
+
 			return tmpPath;
 		} catch (FileNotFoundException e) {
-			
+
 			return null;
 		}
 	}
@@ -101,12 +107,23 @@ public class EHRMetaMapExtractor {
 		} else {
 			type2term = new HashMap<String, ArrayList<String>>();
 			term2type = new HashMap<String, ArrayList<String>>();
+			StringBuilder extendedDoc = new StringBuilder();
+			StringBuilder CUIInsertedDoc = new StringBuilder();
 
 			try (BufferedReader br = new BufferedReader(new FileReader(pf))) {
 
 				String line = "";
 				while ((line = br.readLine()) != null) {
-				//	printSemanticTypes(line);
+					/*
+					 * tmpAppendix and tmpCUIContext are a class variable. It
+					 * gathers the definitions of terms in printSemanticTypes().
+					 */
+					tmpDefinitions = new StringBuilder();
+					tmpCUIContext = new StringBuilder();
+					printSemanticTypes(line);
+					extendedDoc.append(line);
+					extendedDoc.append(tmpDefinitions);
+					CUIInsertedDoc.append(tmpCUIContext);
 				}
 
 			} catch (Exception e) {
@@ -116,13 +133,16 @@ public class EHRMetaMapExtractor {
 			TermTypeHashFile ttmap = new TermTypeHashFile(type2term, term2type);
 			Path pn = Paths.get(path);
 			ObjSerializer<Object, Object> serializer = new ObjSerializer<Object, Object>();
-			serializer.serialize(ttmap,
-					"persist/" + docType + "/" + pn.getFileName());
+			serializer.serialize(ttmap, out_path + pn.getFileName());
+			saveExtendedDoc2File(extendedDoc.toString(), "def", pn
+					.getFileName().toString());
+			saveExtendedDoc2File(CUIInsertedDoc.toString(), "cui", pn
+					.getFileName().toString());
 		}
 	}
 
 	public void extractTermbyPathName(String path) {
-		extractTermbyPathName(path, "question");
+		extractTermbyPathName(path, "notes");
 	}
 
 	public void removeTmpFile(String tmp_filename) {
@@ -147,6 +167,22 @@ public class EHRMetaMapExtractor {
 
 	}
 
+	public void saveExtendedDoc2File(String text, String type, String filename) {
+		String save_dir;
+		if (type.equals("def"))
+			save_dir = out_extend_path;
+		else
+			save_dir = out_cui_path;
+
+		try (PrintWriter out = new PrintWriter(save_dir + filename)) {
+			out.write(text);
+			out.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+
+	}
+
 	/**
 	 * For test purpose ONLY. for development please use getSemanticTypes.
 	 * 
@@ -154,7 +190,7 @@ public class EHRMetaMapExtractor {
 	 * @throws Exception
 	 */
 	public void printSemanticTypes(String text) throws Exception {
-		String finalText = "";
+
 		String phraseText = "";
 		List<Result> resultList = api.processCitationsFromString(text);
 		Result result = resultList.get(0);
@@ -176,6 +212,16 @@ public class EHRMetaMapExtractor {
 					for (Ev ev : evs) {
 						String cui = ev.getConceptId();
 						System.out.println("        CUID: " + cui);
+
+						/*
+						 * Get the definition by CUI
+						 */
+						tmpDefinitions.append(umlsExtractor.getDefinition(
+								"2011AB", cui) + " ");
+						/*
+						 * 
+						 */
+
 						// System.out.println("        Name: " +
 						// ev.getConceptName());
 						System.out.println("        Preferred Name: "
@@ -189,17 +235,19 @@ public class EHRMetaMapExtractor {
 							persistMap(type2term, semanticType,
 									ev.getPreferredName());
 						}
+
 						// List<String> words = ev.getMatchedWords();
-						// for(String word : words) {
-						// System.out.println("          Matched Word : " +
-						// word);
+						// for (String word : words) {
+						// System.out.println("          Matched Word : "
+						// + word);
 						// }
-						// phraseText = "<" + cui + ">" + phraseText + "</" +
-						// cui + ">";
+
+						phraseText = "<cui value=" + cui + ">" + phraseText
+								+ "</cui>";
 					}
 
 				}
-				// finalText = finalText + " " +phraseText;
+				tmpCUIContext = tmpCUIContext.append(" " + phraseText);
 			}
 		}
 		// System.out.println("The Final Text is : " + finalText);
@@ -232,42 +280,47 @@ public class EHRMetaMapExtractor {
 
 	void test_ExtractMetaMapS4Docs() {
 		String root;
-		
-		/*
+
+		/***
 		 * In Windows, the source files are with eclipse project
 		 * For notes:
-		 * 		Input: C:/Users/aurora/git/searchUI/raw_txt/notes/
-		 * 		Output: C:/Users/aurora/git/searchUI/persist/notes/
-		 * 		Output: C:/Users/aurora/git/searchUI/raw_extend/notes/
+		 * C:/Users/aurora/git/searchUI////raw_txt/notes/
+		 * C:/Users/aurora/git/searchUI////persist/notes/
+		 * C:/Users/aurora/git/searchUI////raw_extend/notes/
+		 * C:/Users/aurora/git/searchUI////raw_cui/notes/
 		 * 
 		 * For questions:
-		 * 		Input: C:/Users/aurora/git/searchUI/raw_txt/questions/qa_text/
-		 * 		Output: C:/Users/aurora/git/searchUI/persist/questions/qa_json/
-		 * 		Output: C:/Users/aurora/git/searchUI/raw_extend/questions/qa_text/
+		 * C:/Users/aurora/git/searchUI////raw_txt/questions/qa_text/
+		 * C:/Users/aurora/git/searchUI////persist/questions/qa_json/
+		 * C:/Users/aurora/git/searchUI////raw_extend/questions/qa_text/
+		 * C:/Users/aurora/git/searchUI////raw_cui/questions/qa_text/
 		 * 
 		 * In Linux, the sourse files are in other directory
+		 * 
 		 * For notes:
-		 * 		Input: /home/auroral/q_generation/raw_txt/notes/
-		 * 		Output: /home/auroral/q_generation/persist/notes/
-		 * 		Output: /home/auroral/q_generation/raw_extend/notes/
+		 * /home/auroral/q_generation////raw_txt/notes/
+		 * /home/auroral/q_generation////persist/notes/
+		 * /home/auroral/q_generation////raw_extend/notes/
+		 * /home/auroral/q_generation////raw_cui/notes/
 		 * 
 		 * For questions:
-		 * 		Input: /home/auroral/q_generation/raw_txt/questions/qa_text/
-		 * 		Output: /home/auroral/q_generation/persist/questions/qa_json/
-		 * 		Output: /home/auroral/q_generation/raw_extend/questions/qa_text/
-		 */
+		 * /home/auroral/q_generation////raw_txt/questions/qa_text/
+		 * /home/auroral/q_generation////persist/questions/qa_json/
+		 * /home/auroral/q_generation////raw_extend/questions/qa_text/
+		 * /home/auroral/q_generation////raw_cui/questions/qa_text/
+		 ***/
 		String inputType = "questions";
-		
-		if(System.getProperty("os.name").toLowerCase().indexOf("win") >= 0){
+
+		if (System.getProperty("os.name").toLowerCase().indexOf("win") >= 0)
 			root = "C:/Users/aurora/git/searchUI/";
-			in_path = root + "raw_txt/questions/qa_text/";
-			out_path = root + "q_generation/persist/questions/qa_json/";
-		}else{
+		else
 			root = "/home/auroral/q_generation/";
-			in_path = root + "raw_txt/questions/qa_text/";
-			out_path = root + "q_generation/persist/questions/qa_json/";
-		}
-		
+
+		in_path = root + "raw_txt/questions/qa_text/";
+		out_path = root + "persist/questions/qa_json/";
+		out_extend_path = root + "raw_extend/questions/qa_text/";
+		out_cui_path = root + "raw_cui/questions/qa_text/";
+
 		extractTermbyPathName(in_path, inputType);
 	}
 
