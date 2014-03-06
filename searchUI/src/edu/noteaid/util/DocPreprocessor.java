@@ -20,8 +20,8 @@ public class DocPreprocessor {
 
 	void extractTextFromDoc(String path) {
 		File fp = new File(path);
-		try (BufferedReader br = new BufferedReader(new FileReader(fp))) {
-
+		try {
+			BufferedReader br = new BufferedReader(new FileReader(fp));
 			StringBuilder sb = new StringBuilder();
 			String line = "";
 			while ((line = br.readLine()) != null) {

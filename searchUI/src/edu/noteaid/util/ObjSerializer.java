@@ -36,13 +36,14 @@ public class ObjSerializer<V, K> {
 			out.print(json);
 			out.close();
 		} catch (FileNotFoundException e) {
-
+			e.printStackTrace();
 		}
-		System.out.println(json.toString());
+//		System.out.println(json.toString());
 	}
 
 	public Object deserialize(String filename, Class objClass) {
-		try (BufferedReader br = new BufferedReader(new FileReader(filename))) {
+		try {
+			BufferedReader br = new BufferedReader(new FileReader(filename));
 			StringBuilder sb = new StringBuilder();
 
 			String line = "";

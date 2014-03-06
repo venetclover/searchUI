@@ -12,9 +12,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.PrintWriter;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 
+import org.apache.commons.io.FilenameUtils;
 import org.apache.log4j.Logger;
 
 /**
@@ -112,8 +111,8 @@ public class EHRMetaMapExtractor {
 			StringBuilder CUIInsertedDoc = new StringBuilder();
 
 			boolean somethingWrong = false;
-			try (BufferedReader br = new BufferedReader(new FileReader(pf))) {
-
+			try {
+				BufferedReader br = new BufferedReader(new FileReader(pf));
 				String line = "";
 				while ((line = br.readLine()) != null) {
 					/*
@@ -142,21 +141,20 @@ public class EHRMetaMapExtractor {
 				e.printStackTrace();
 			}
 
-			Path pn = Paths.get(path);
-
 			if (somethingWrong == true) {
-				
+
 			} else {
 				// pf.renameTo(new File(complete_path
 				// + pn.getFileName().toString()));
 				TermTypeHashFile ttmap = new TermTypeHashFile(type2term,
 						term2type);
 				ObjSerializer<Object, Object> serializer = new ObjSerializer<Object, Object>();
-				serializer.serialize(ttmap, out_path + pn.getFileName());
-				saveExtendedDoc2File(extendedDoc.toString(), "def", pn
-						.getFileName().toString());
-				saveExtendedDoc2File(CUIInsertedDoc.toString(), "cui", pn
-						.getFileName().toString());
+				serializer.serialize(ttmap,
+						out_path + FilenameUtils.getBaseName(path));
+				saveExtendedDoc2File(extendedDoc.toString(), "def",
+						FilenameUtils.getBaseName(path));
+				saveExtendedDoc2File(CUIInsertedDoc.toString(), "cui",
+						FilenameUtils.getBaseName(path));
 			}
 		}
 	}
@@ -194,7 +192,8 @@ public class EHRMetaMapExtractor {
 		else
 			save_dir = out_cui_path;
 
-		try (PrintWriter out = new PrintWriter(save_dir + filename)) {
+		try {
+			PrintWriter out = new PrintWriter(save_dir + filename);
 			out.write(text);
 			out.close();
 		} catch (FileNotFoundException e) {
@@ -264,7 +263,7 @@ public class EHRMetaMapExtractor {
 						// + "</cui>";
 					}
 					// for (String cui : cuis)
-					
+
 				}
 				tmpPhraseText = tmpPhraseText + "<cui value=" + cui + ">"
 						+ phraseText + "</cui>";

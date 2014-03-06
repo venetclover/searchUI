@@ -12,11 +12,11 @@ import org.apache.commons.math3.linear.RealVector;
 
 public class SimilarityCalculator {
 
-	private final Set<String> terms = new HashSet<>();
+	private final Set<String> terms = new HashSet<String>();
 	
 	Map<String, Integer> getTermFrequencies(HashMap<String, Integer> doc) throws IOException {
         
-        Map<String, Integer> frequencies = new HashMap<>();
+        Map<String, Integer> frequencies = new HashMap<String, Integer>();
         for (Map.Entry<String, Integer> pair: doc.entrySet()) {
             String term = pair.getKey();
             int freq = pair.getValue();

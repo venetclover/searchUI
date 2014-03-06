@@ -37,20 +37,19 @@ public class UTSRegisterer {
             myPsf.getIncludedTermTypes().add("OS");
             myPsf.getIncludedTermTypes().add("PR");
             myPsf.getIncludedTermTypes().add("DI");
-*/            myAtoms = utsContentService.getConceptAtoms(singleUseTicket1, "2012AB", "C0085096", myPsf);
+*/          myAtoms = utsContentService.getConceptAtoms(singleUseTicket1, "2012AB", "C0085096", myPsf);
 
-            for (int i = 0; i < myAtoms.size(); i++) {
+			for (int i = 0; i < myAtoms.size(); i++) {
 
+				AtomDTO myAtomDTO = myAtoms.get(i);
 
-            AtomDTO myAtomDTO = myAtoms.get(i);
+				String aui = myAtomDTO.getUi();
+				String source = myAtomDTO.getRootSource();
+				String name = myAtomDTO.getTermString().getName();
+				String TermType = myAtomDTO.getTermType();
 
-            String aui = myAtomDTO.getUi();
-            String source = myAtomDTO.getRootSource();
-            String name = myAtomDTO.getTermString().getName();
-            String TermType = myAtomDTO.getTermType();
-
-            System.out.println(aui + "... " + name + "... " + TermType);
-            }
+				System.out.println(aui + "... " + name + "... " + TermType);
+			}
             
             
 		} catch (UtsFault_Exception e) {

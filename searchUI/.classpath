@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
-		<attributes>
-			<attribute name="owner.project.facets" value="java"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="C:/Users/aurora/Documents/CodeLib/javax.servlet-api-3.0.1.jar"/>
@@ -27,5 +22,13 @@
 	<classpathentry kind="lib" path="C:/Users/aurora/Documents/CodeLib/commons-beanutils-1.9.1/commons-beanutils-1.9.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/aurora/Documents/CodeLib/commons-math3-3.2/commons-math3-3.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/aurora/Documents/CodeLib/MetaMapApi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aurora/Documents/CodeLib/stanford-postagger-2014-01-04/stanford-postagger-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/aurora/Documents/CodeLib/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/aurora/Documents/CodeLib/commons-io-2.4/commons-io-2.4.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

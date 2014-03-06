@@ -23,8 +23,6 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 
 import org.apache.log4j.Logger;
 import org.jsoup.Jsoup;
@@ -153,8 +151,10 @@ public class EHRUMLSExtractor {
 
 			Path pn = Paths.get(path);
 			String new_fn = out_extend_path + pn.getFileName().toString();
-			try (PrintWriter out = new PrintWriter(new_fn)) {
+			try {
+				PrintWriter out = new PrintWriter(new_fn);
 				out.write(getDefinitionAppended(path));
+				out.close();
 			} catch (FileNotFoundException e) {
 				e.printStackTrace();
 			}

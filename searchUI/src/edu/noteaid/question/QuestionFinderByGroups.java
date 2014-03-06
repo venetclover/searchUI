@@ -1,9 +1,9 @@
 package edu.noteaid.question;
 
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.HashMap;
 import java.util.Map;
+
+import org.apache.commons.io.FilenameUtils;
 
 import edu.noteaid.util.EHRMetaMapExtractor;
 import edu.noteaid.util.ObjSerializer;
@@ -29,8 +29,9 @@ public class QuestionFinderByGroups {
 	}
 
 	public void startFindingbyNotePath(String notePath) {
-		Path p = Paths.get(notePath);
-		String JSONFilename = "persist/notes/" + p.getFileName().toString();
+
+		String JSONFilename = "persist/notes/"
+				+ FilenameUtils.getBaseName(notePath);
 		TermTypeHashFile doc = (TermTypeHashFile) serializer.deserialize(
 				JSONFilename, TermTypeHashFile.class);
 		TermHashDoc ttDoc = new TermHashDoc();
@@ -39,7 +40,7 @@ public class QuestionFinderByGroups {
 			ttDoc.processTermSem(doc.term2type);
 			termSems = (HashMap<String, Integer>) ttDoc.getTermSemMap();
 		}
-		
+
 		SimilarityCalculator calculator = new SimilarityCalculator();
 		calculator.toRealVector(termSems);
 		// Order
